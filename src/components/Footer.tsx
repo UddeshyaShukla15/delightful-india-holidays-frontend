@@ -173,7 +173,7 @@ export default function Footer() {
                 </div>
                 <a
                   href={`tel:${companyInfo.phone}`}
-                  className="font-bold text-gray-900 hover:text-[#E78031] transition-colors text-[16px] sm:text-[17px]"
+                  className="font-normal text-gray-800 hover:text-[#E78031] transition-colors text-[16px] sm:text-[17px]"
                 >
                   {companyInfo.phoneFormatted}
                 </a>
@@ -196,7 +196,7 @@ export default function Footer() {
 
           {/* Column 2: Customer Support */}
           <div>
-            <h3 className="text-[21px] sm:text-[22px] font-bold text-black mb-4 font-sans">
+            <h3 className="text-[21px] sm:text-[22px] font-normal text-black mb-4 font-sans">
               Customer Support
             </h3>
             <ul className="space-y-1.5 sm:space-y-2 text-[15.5px] sm:text-[16px] text-gray-700">
@@ -253,7 +253,7 @@ export default function Footer() {
 
           {/* Column 3: Popular Tour Packages */}
           <div>
-            <h3 className="text-[21px] sm:text-[22px] font-bold text-black mb-4 font-sans">
+            <h3 className="text-[21px] sm:text-[22px] font-normal text-black mb-4 font-sans">
               Popular Tour Packages
             </h3>
             <ul className="space-y-1.5 sm:space-y-2 text-[15.5px] sm:text-[16px] text-gray-700">
@@ -292,7 +292,7 @@ export default function Footer() {
 
           {/* Column 4: Tours Services */}
           <div>
-            <h3 className="text-[21px] sm:text-[22px] font-bold text-black mb-4 font-sans">
+            <h3 className="text-[21px] sm:text-[22px] font-normal text-black mb-4 font-sans">
               Tours Services
             </h3>
             <ul className="space-y-1.5 sm:space-y-2 text-[15.5px] sm:text-[16px] text-gray-700">
@@ -342,7 +342,7 @@ export default function Footer() {
         <div className="border-t border-gray-200 pt-8 pb-10 grid grid-cols-1 md:grid-cols-2 gap-8 items-start">
           {/* Left: Payment Methods */}
           <div className="space-y-3">
-            <h4 className="text-[21px] sm:text-[22px] font-bold text-black font-sans">Payment Methods</h4>
+            <h4 className="text-[21px] sm:text-[22px] font-normal text-black font-sans">Payment Methods</h4>
             <div className="relative h-16 sm:h-20 w-full max-w-lg">
               <Image
                 src="/assets/images/Payment-Option.webp"
@@ -356,7 +356,7 @@ export default function Footer() {
 
           {/* Right: Authorized India Tour Operator */}
           <div className="space-y-3">
-            <h4 className="text-[21px] sm:text-[22px] font-bold text-black font-sans">Authorized India Tour Operator</h4>
+            <h4 className="text-[21px] sm:text-[22px] font-normal text-black font-sans">Authorized India Tour Operator</h4>
             <div className="flex items-center gap-4">
               <div className="relative h-16 w-24 border border-gray-200 rounded p-1 bg-white shadow-sm">
                 <Image

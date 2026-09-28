@@ -67,28 +67,22 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
               </Link>
               <div className="absolute top-full left-0 w-52 bg-white shadow-xl rounded-b-xl border border-gray-100 py-1.5 hidden group-hover:block transition-all animate-in fade-in slide-in-from-top-1 z-50">
                 <Link
-                  href="/"
-                  className="block px-4 py-2.5 text-sm font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
-                >
-                  Home Page
-                </Link>
-                <Link
                   href="/about"
-                  className="block px-4 py-2.5 text-sm font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
+                  className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
                   About Us
                 </Link>
                 <Link
                   href="/contact"
-                  className="block px-4 py-2.5 text-sm font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
+                  className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
                   How We Work
                 </Link>
                 <Link
                   href="/#blog"
-                  className="block px-4 py-2.5 text-sm font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
+                  className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
-                  Blogs
+                  Blog
                 </Link>
               </div>
             </div>
@@ -109,37 +103,37 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
               <div className="absolute top-full left-0 w-56 bg-white shadow-xl rounded-b-xl border border-gray-100 py-1.5 hidden group-hover:block transition-all animate-in fade-in slide-in-from-top-1 z-50">
                 <Link
                   href="/tours/delhi-sightseeing-tour"
-                  className="block px-4 py-2.5 text-sm font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
+                  className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
                   Delhi Tours
                 </Link>
                 <Link
                   href="/tours/pink-city-jaipur-tuktuk-tour"
-                  className="block px-4 py-2.5 text-sm font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
+                  className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
                   Jaipur Tours
                 </Link>
                 <Link
                   href="/tours/private-full-day-tour-of-golden-city-jaisalmer-with-guide"
-                  className="block px-4 py-2.5 text-sm font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
+                  className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
                   Jaisalmer Tours
                 </Link>
                 <Link
                   href="/tours/agra-sightseeing-tour"
-                  className="block px-4 py-2.5 text-sm font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
+                  className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
                   Agra Tours
                 </Link>
                 <Link
                   href="/tours/colourful-rajasthan-tour"
-                  className="block px-4 py-2.5 text-sm font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
+                  className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
                   Jodhpur Tours
                 </Link>
                 <Link
                   href="/tours/3-days-udaipur-tour"
-                  className="block px-4 py-2.5 text-sm font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
+                  className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
                   Udaipur Tours
                 </Link>
@@ -164,19 +158,19 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
               <div className="absolute top-full left-0 w-60 bg-white shadow-xl rounded-b-xl border border-gray-100 py-1.5 hidden group-hover:block transition-all animate-in fade-in slide-in-from-top-1 z-50">
                 <Link
                   href="/tours?category=Golden+Triangle+Tours"
-                  className="block px-4 py-2.5 text-sm font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
+                  className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
                   Golden Triangle Tours
                 </Link>
                 <Link
                   href="/tours?category=Rajasthan+Tour+Packages"
-                  className="block px-4 py-2.5 text-sm font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
+                  className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
                   Rajasthan Tours
                 </Link>
                 <Link
                   href="/tours"
-                  className="block px-4 py-2.5 text-sm font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
+                  className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
                   India Tours
                 </Link>
