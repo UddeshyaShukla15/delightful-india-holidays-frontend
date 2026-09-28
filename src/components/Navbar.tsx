@@ -16,36 +16,40 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
   const [activeDropdown, setActiveDropdown] = useState<string | null>(null);
   const pathname = usePathname();
 
-  const handleDropdownToggle = (menu: string) => {
-    setActiveDropdown(activeDropdown === menu ? null : menu);
-  };
-
   const closeMobileMenu = () => {
     setMobileMenuOpen(false);
     setActiveDropdown(null);
   };
 
   return (
-    <header className="sticky top-0 z-40 w-full bg-white shadow-md border-b border-gray-100 transition-all">
+    <header className="sticky top-0 z-40 w-full bg-white shadow-sm border-b border-gray-100 transition-all font-sans">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-20">
           {/* Brand Logo */}
           <Link href="/" className="flex items-center gap-3 flex-shrink-0" onClick={closeMobileMenu}>
-            <div className="relative h-14 w-44 sm:w-52">
+            <div className="relative h-14 w-44 sm:w-56">
               <Image
                 src="/assets/images/DIH-1.webp"
                 alt="Delightful India Holidays Logo"
                 fill
                 priority
                 className="object-contain object-left"
-                sizes="(max-width: 640px) 180px, 220px"
+                sizes="(max-width: 640px) 180px, 240px"
               />
             </div>
           </Link>
 
-          {/* Desktop Navigation */}
-          <nav className="hidden lg:flex items-center gap-7">
-            {/* Home Dropdown */}
+          {/* Desktop Navigation - EXACT 7 MENU ITEMS FROM LIVE SITE:
+              1. Home
+              2. Day Tours
+              3. Tours
+              4. Luxury India
+              5. Custom Tours
+              6. Car & Driver Hire
+              7. Get In Touch
+          */}
+          <nav className="hidden lg:flex items-center gap-6 xl:gap-8">
+            {/* 1. Home Dropdown */}
             <div
               className="relative group"
               onMouseEnter={() => setActiveDropdown("home")}
@@ -53,42 +57,42 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
             >
               <Link
                 href="/"
-                className={`flex items-center gap-1 text-sm font-semibold uppercase tracking-wider py-2 transition-colors ${
-                  pathname === "/" ? "text-[#c9a766]" : "text-[#192a3d] hover:text-[#c9a766]"
+                className={`flex items-center gap-1 text-[13px] font-bold uppercase tracking-wider py-2 transition-colors ${
+                  pathname === "/" ? "text-[#E78031]" : "text-black hover:text-[#E78031]"
                 }`}
               >
                 <span>Home</span>
-                <ChevronDown className="h-3.5 w-3.5 transition-transform duration-200 group-hover:rotate-180" />
+                <ChevronDown className="h-3.5 w-3.5 transition-transform duration-200 group-hover:rotate-180 text-gray-500 group-hover:text-[#E78031]" />
               </Link>
-              <div className="absolute top-full left-0 w-48 bg-white shadow-xl rounded-b-xl border border-gray-100 py-2 hidden group-hover:block transition-all animate-in fade-in slide-in-from-top-1">
+              <div className="absolute top-full left-0 w-48 bg-white shadow-xl rounded-b-xl border border-gray-100 py-1 hidden group-hover:block transition-all animate-in fade-in slide-in-from-top-1 z-50">
                 <Link
                   href="/"
-                  className="block px-4 py-2 text-xs font-medium text-gray-700 hover:bg-[#faf7f2] hover:text-[#c9a766] transition-colors"
+                  className="block px-4 py-2.5 text-xs font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
                   Home Page
                 </Link>
                 <Link
                   href="/about"
-                  className="block px-4 py-2 text-xs font-medium text-gray-700 hover:bg-[#faf7f2] hover:text-[#c9a766] transition-colors"
+                  className="block px-4 py-2.5 text-xs font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
                   About Us
                 </Link>
                 <Link
-                  href="/tours"
-                  className="block px-4 py-2 text-xs font-medium text-gray-700 hover:bg-[#faf7f2] hover:text-[#c9a766] transition-colors"
-                >
-                  All Tours Catalog
-                </Link>
-                <Link
                   href="/contact"
-                  className="block px-4 py-2 text-xs font-medium text-gray-700 hover:bg-[#faf7f2] hover:text-[#c9a766] transition-colors"
+                  className="block px-4 py-2.5 text-xs font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
                   How We Work
+                </Link>
+                <Link
+                  href="/#blog"
+                  className="block px-4 py-2.5 text-xs font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
+                >
+                  Blogs
                 </Link>
               </div>
             </div>
 
-            {/* Day Tours Dropdown */}
+            {/* 2. Day Tours Dropdown */}
             <div
               className="relative group"
               onMouseEnter={() => setActiveDropdown("day-tours")}
@@ -96,52 +100,52 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
             >
               <Link
                 href="/tours?category=Same+Day+Tours"
-                className="flex items-center gap-1 text-sm font-semibold uppercase tracking-wider py-2 text-[#192a3d] hover:text-[#c9a766] transition-colors"
+                className="flex items-center gap-1 text-[13px] font-bold uppercase tracking-wider py-2 text-black hover:text-[#E78031] transition-colors"
               >
                 <span>Day Tours</span>
-                <ChevronDown className="h-3.5 w-3.5 transition-transform duration-200 group-hover:rotate-180" />
+                <ChevronDown className="h-3.5 w-3.5 transition-transform duration-200 group-hover:rotate-180 text-gray-500 group-hover:text-[#E78031]" />
               </Link>
-              <div className="absolute top-full left-0 w-52 bg-white shadow-xl rounded-b-xl border border-gray-100 py-2 hidden group-hover:block transition-all animate-in fade-in slide-in-from-top-1">
+              <div className="absolute top-full left-0 w-52 bg-white shadow-xl rounded-b-xl border border-gray-100 py-1 hidden group-hover:block transition-all animate-in fade-in slide-in-from-top-1 z-50">
                 <Link
                   href="/tours/delhi-sightseeing-tour"
-                  className="block px-4 py-2 text-xs font-medium text-gray-700 hover:bg-[#faf7f2] hover:text-[#c9a766] transition-colors"
+                  className="block px-4 py-2.5 text-xs font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
-                  Delhi Day Tours
+                  Delhi Tours
                 </Link>
                 <Link
                   href="/tours/pink-city-jaipur-tuktuk-tour"
-                  className="block px-4 py-2 text-xs font-medium text-gray-700 hover:bg-[#faf7f2] hover:text-[#c9a766] transition-colors"
+                  className="block px-4 py-2.5 text-xs font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
-                  Jaipur TukTuk Tours
-                </Link>
-                <Link
-                  href="/tours/agra-sightseeing-tour"
-                  className="block px-4 py-2 text-xs font-medium text-gray-700 hover:bg-[#faf7f2] hover:text-[#c9a766] transition-colors"
-                >
-                  Agra Sightseeing Tours
+                  Jaipur Tours
                 </Link>
                 <Link
                   href="/tours/private-full-day-tour-of-golden-city-jaisalmer-with-guide"
-                  className="block px-4 py-2 text-xs font-medium text-gray-700 hover:bg-[#faf7f2] hover:text-[#c9a766] transition-colors"
+                  className="block px-4 py-2.5 text-xs font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
-                  Jaisalmer Golden City Tours
+                  Jaisalmer Tours
                 </Link>
                 <Link
-                  href="/tours/jhalana-leopard-safari-tour"
-                  className="block px-4 py-2 text-xs font-medium text-gray-700 hover:bg-[#faf7f2] hover:text-[#c9a766] transition-colors"
+                  href="/tours/agra-sightseeing-tour"
+                  className="block px-4 py-2.5 text-xs font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
-                  Jhalana Leopard Safari
+                  Agra Tours
                 </Link>
                 <Link
-                  href="/tours/same-day-pushkar-tour-from-jaipur"
-                  className="block px-4 py-2 text-xs font-medium text-gray-700 hover:bg-[#faf7f2] hover:text-[#c9a766] transition-colors"
+                  href="/tours/colourful-rajasthan-tour"
+                  className="block px-4 py-2.5 text-xs font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
-                  Pushkar Day Excursion
+                  Jodhpur Tours
+                </Link>
+                <Link
+                  href="/tours/3-days-udaipur-tour"
+                  className="block px-4 py-2.5 text-xs font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
+                >
+                  Udaipur Tours
                 </Link>
               </div>
             </div>
 
-            {/* Tours Dropdown */}
+            {/* 3. Tours Dropdown */}
             <div
               className="relative group"
               onMouseEnter={() => setActiveDropdown("tours")}
@@ -149,75 +153,75 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
             >
               <Link
                 href="/tours"
-                className={`flex items-center gap-1 text-sm font-semibold uppercase tracking-wider py-2 transition-colors ${
-                  pathname.startsWith("/tours") ? "text-[#c9a766]" : "text-[#192a3d] hover:text-[#c9a766]"
+                className={`flex items-center gap-1 text-[13px] font-bold uppercase tracking-wider py-2 transition-colors ${
+                  pathname.startsWith("/tours") ? "text-[#E78031]" : "text-black hover:text-[#E78031]"
                 }`}
               >
                 <span>Tours</span>
-                <ChevronDown className="h-3.5 w-3.5 transition-transform duration-200 group-hover:rotate-180" />
+                <ChevronDown className="h-3.5 w-3.5 transition-transform duration-200 group-hover:rotate-180 text-gray-500 group-hover:text-[#E78031]" />
               </Link>
-              <div className="absolute top-full left-0 w-56 bg-white shadow-xl rounded-b-xl border border-gray-100 py-2 hidden group-hover:block transition-all animate-in fade-in slide-in-from-top-1">
+              <div className="absolute top-full left-0 w-56 bg-white shadow-xl rounded-b-xl border border-gray-100 py-1 hidden group-hover:block transition-all animate-in fade-in slide-in-from-top-1 z-50">
                 <Link
                   href="/tours?category=Golden+Triangle+Tours"
-                  className="block px-4 py-2 text-xs font-medium text-gray-700 hover:bg-[#faf7f2] hover:text-[#c9a766] transition-colors"
+                  className="block px-4 py-2.5 text-xs font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
                   Golden Triangle Tours
                 </Link>
                 <Link
                   href="/tours?category=Rajasthan+Tour+Packages"
-                  className="block px-4 py-2 text-xs font-medium text-gray-700 hover:bg-[#faf7f2] hover:text-[#c9a766] transition-colors"
+                  className="block px-4 py-2.5 text-xs font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
-                  Rajasthan Tour Packages
+                  Rajasthan Tours
                 </Link>
                 <Link
-                  href="/tours?category=Honeymoon+Tour+Packages"
-                  className="block px-4 py-2 text-xs font-medium text-gray-700 hover:bg-[#faf7f2] hover:text-[#c9a766] transition-colors"
+                  href="/tours"
+                  className="block px-4 py-2.5 text-xs font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
-                  Honeymoon Tour Packages
-                </Link>
-                <Link
-                  href="/tours?category=Group+Tour+Packages"
-                  className="block px-4 py-2 text-xs font-medium text-gray-700 hover:bg-[#faf7f2] hover:text-[#c9a766] transition-colors"
-                >
-                  Group Tour Packages
+                  India Tours
                 </Link>
                 <Link
                   href="/tours?category=Wildlife+Tours"
-                  className="block px-4 py-2 text-xs font-medium text-gray-700 hover:bg-[#faf7f2] hover:text-[#c9a766] transition-colors"
+                  className="block px-4 py-2.5 text-xs font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
                   Wildlife Tours
                 </Link>
                 <Link
-                  href="/tours?category=Jaisalmer+Tour+Packages"
-                  className="block px-4 py-2 text-xs font-medium text-gray-700 hover:bg-[#faf7f2] hover:text-[#c9a766] transition-colors"
+                  href="/tours?category=Group+Tour+Packages"
+                  className="block px-4 py-2.5 text-xs font-semibold text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
-                  Jaisalmer Desert Tours
+                  Group Tours
                 </Link>
               </div>
             </div>
 
-            {/* About */}
+            {/* 4. Luxury India */}
             <Link
-              href="/about"
-              className={`text-sm font-semibold uppercase tracking-wider transition-colors ${
-                pathname === "/about" ? "text-[#c9a766]" : "text-[#192a3d] hover:text-[#c9a766]"
-              }`}
+              href="/tours?category=Rajasthan+Tour+Packages"
+              className="text-[13px] font-bold uppercase tracking-wider text-black hover:text-[#E78031] transition-colors whitespace-nowrap"
             >
-              About Us
+              Luxury India
             </Link>
 
-            {/* Car & Driver Hire */}
+            {/* 5. Custom Tours */}
+            <button
+              onClick={onOpenEnquiry}
+              className="text-[13px] font-bold uppercase tracking-wider text-black hover:text-[#E78031] transition-colors whitespace-nowrap cursor-pointer text-left"
+            >
+              Custom Tours
+            </button>
+
+            {/* 6. Car & Driver Hire */}
             <Link
               href="/contact?service=car-hire"
-              className="text-sm font-semibold uppercase tracking-wider text-[#192a3d] hover:text-[#c9a766] transition-colors"
+              className="text-[13px] font-bold uppercase tracking-wider text-black hover:text-[#E78031] transition-colors whitespace-nowrap"
             >
-              Car & Driver Hire
+              Car &amp; Driver Hire
             </Link>
 
-            {/* Get In Touch CTA */}
+            {/* 7. Get In Touch Button */}
             <Link
               href="/contact"
-              className="inline-flex items-center rounded-xl bg-[#c9a766] px-5 py-2.5 text-xs font-bold uppercase tracking-wider text-white shadow hover:bg-[#b8924f] hover:shadow-md transition-all cursor-pointer"
+              className="inline-flex items-center rounded-xl bg-[#E78031] hover:bg-[#d06b20] px-5 py-2.5 text-xs font-bold uppercase tracking-wider text-white shadow hover:shadow-md transition-all cursor-pointer whitespace-nowrap"
             >
               Get In Touch
             </Link>
@@ -227,13 +231,13 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
           <div className="flex items-center gap-3 lg:hidden">
             <button
               onClick={onOpenEnquiry}
-              className="rounded-lg bg-[#c9a766] px-3 py-1.5 text-xs font-bold uppercase tracking-wider text-white"
+              className="rounded-lg bg-[#E78031] px-3 py-1.5 text-xs font-bold uppercase tracking-wider text-white"
             >
               Plan Tour
             </button>
             <button
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-              className="rounded-lg p-2 text-[#192a3d] hover:bg-gray-100"
+              className="rounded-lg p-2 text-black hover:bg-gray-100"
               aria-label="Toggle navigation menu"
             >
               {mobileMenuOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
@@ -244,79 +248,72 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
 
       {/* Mobile Drawer Menu */}
       {mobileMenuOpen && (
-        <div className="lg:hidden border-t border-gray-200 bg-white px-4 pt-3 pb-6 space-y-3 animate-in fade-in slide-in-from-top-2">
-          <div className="space-y-1">
-            <Link
-              href="/"
-              onClick={closeMobileMenu}
-              className="block rounded-lg px-3 py-2 text-sm font-semibold text-gray-900 hover:bg-gray-50"
-            >
-              Home
-            </Link>
-            <Link
-              href="/about"
-              onClick={closeMobileMenu}
-              className="block rounded-lg px-3 py-2 text-sm font-semibold text-gray-900 hover:bg-gray-50"
-            >
-              About Us
-            </Link>
-            <Link
-              href="/tours"
-              onClick={closeMobileMenu}
-              className="block rounded-lg px-3 py-2 text-sm font-semibold text-gray-900 hover:bg-gray-50"
-            >
-              All Tours & Packages
-            </Link>
-            <Link
-              href="/tours?category=Same+Day+Tours"
-              onClick={closeMobileMenu}
-              className="block rounded-lg px-3 py-2 text-sm font-semibold text-gray-900 hover:bg-gray-50"
-            >
-              Same Day Tours
-            </Link>
-            <Link
-              href="/tours?category=Golden+Triangle+Tours"
-              onClick={closeMobileMenu}
-              className="block rounded-lg px-3 py-2 text-sm font-semibold text-gray-900 hover:bg-gray-50"
-            >
-              Golden Triangle Tours
-            </Link>
-            <Link
-              href="/tours?category=Rajasthan+Tour+Packages"
-              onClick={closeMobileMenu}
-              className="block rounded-lg px-3 py-2 text-sm font-semibold text-gray-900 hover:bg-gray-50"
-            >
-              Rajasthan Tours
-            </Link>
-            <Link
-              href="/tours?category=Jaisalmer+Tour+Packages"
-              onClick={closeMobileMenu}
-              className="block rounded-lg px-3 py-2 text-sm font-semibold text-gray-900 hover:bg-gray-50"
-            >
-              Jaisalmer Desert Tours
-            </Link>
-            <Link
-              href="/contact"
-              onClick={closeMobileMenu}
-              className="block rounded-lg px-3 py-2 text-sm font-semibold text-gray-900 hover:bg-gray-50"
-            >
-              Contact Us & Enquiries
-            </Link>
-          </div>
+        <div className="lg:hidden border-t border-gray-200 bg-white px-4 pt-3 pb-6 space-y-2 animate-in fade-in slide-in-from-top-2">
+          <Link
+            href="/"
+            onClick={closeMobileMenu}
+            className="block rounded-lg px-3 py-2 text-sm font-bold text-gray-900 hover:bg-gray-50"
+          >
+            Home
+          </Link>
+          <Link
+            href="/tours?category=Same+Day+Tours"
+            onClick={closeMobileMenu}
+            className="block rounded-lg px-3 py-2 text-sm font-bold text-gray-900 hover:bg-gray-50"
+          >
+            Day Tours
+          </Link>
+          <Link
+            href="/tours"
+            onClick={closeMobileMenu}
+            className="block rounded-lg px-3 py-2 text-sm font-bold text-gray-900 hover:bg-gray-50"
+          >
+            Tours
+          </Link>
+          <Link
+            href="/tours?category=Rajasthan+Tour+Packages"
+            onClick={closeMobileMenu}
+            className="block rounded-lg px-3 py-2 text-sm font-bold text-gray-900 hover:bg-gray-50"
+          >
+            Luxury India
+          </Link>
+          <button
+            onClick={() => {
+              closeMobileMenu();
+              onOpenEnquiry && onOpenEnquiry();
+            }}
+            className="block w-full text-left rounded-lg px-3 py-2 text-sm font-bold text-gray-900 hover:bg-gray-50"
+          >
+            Custom Tours
+          </button>
+          <Link
+            href="/contact?service=car-hire"
+            onClick={closeMobileMenu}
+            className="block rounded-lg px-3 py-2 text-sm font-bold text-gray-900 hover:bg-gray-50"
+          >
+            Car &amp; Driver Hire
+          </Link>
+          <Link
+            href="/contact"
+            onClick={closeMobileMenu}
+            className="block rounded-lg px-3 py-2 text-sm font-bold text-[#E78031] hover:bg-gray-50"
+          >
+            Get In Touch
+          </Link>
 
           <div className="pt-3 border-t border-gray-100 flex flex-col gap-2">
             <a
               href={`tel:${companyInfo.phone}`}
               className="flex items-center gap-2 text-xs text-gray-700 font-medium"
             >
-              <Phone className="h-4 w-4 text-[#c9a766]" />
+              <Phone className="h-4 w-4 text-[#E78031]" />
               <span>{companyInfo.phoneFormatted}</span>
             </a>
             <a
               href={`mailto:${companyInfo.email}`}
               className="flex items-center gap-2 text-xs text-gray-700"
             >
-              <Mail className="h-4 w-4 text-[#c9a766]" />
+              <Mail className="h-4 w-4 text-[#E78031]" />
               <span>{companyInfo.email}</span>
             </a>
           </div>
