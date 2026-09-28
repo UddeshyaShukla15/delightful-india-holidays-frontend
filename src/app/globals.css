@@ -1,26 +1,86 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --primary-navy: #192a3d;
+  --primary-navy-dark: #0f1c2b;
+  --accent-gold: #c9a766;
+  --accent-gold-hover: #b8924f;
+  --accent-gold-light: #f4ede1;
+  --text-dark: #222222;
+  --text-muted: #666666;
+  --bg-cream: #faf7f2;
+  --whatsapp-green: #25D366;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  color: var(--text-dark);
+  background-color: #ffffff;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  overflow-x: hidden;
+}
+
+/* Glass panel effects matching live site hero */
+.glass-panel {
+  background-color: rgba(15, 28, 43, 0.45);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 16px;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.35);
+}
+
+.glass-button {
+  background-color: rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  color: #ffffff;
+  transition: all 0.3s ease;
+}
+
+.glass-button:hover {
+  background-color: #c9a766;
+  border-color: #c9a766;
+  color: #ffffff;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(201, 167, 102, 0.35);
+}
+
+.btn-gold {
+  background-color: #c9a766;
+  color: #ffffff;
+  transition: all 0.25s ease;
+}
+
+.btn-gold:hover {
+  background-color: #b8924f;
+  transform: translateY(-1px);
+  box-shadow: 0 6px 16px rgba(201, 167, 102, 0.3);
+}
+
+.btn-outline-gold {
+  border: 1px solid #c9a766;
+  color: #c9a766;
+  transition: all 0.25s ease;
+}
+
+.btn-outline-gold:hover {
+  background-color: #c9a766;
+  color: #ffffff;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+  background: #c9a766;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #b8924f;
 }
