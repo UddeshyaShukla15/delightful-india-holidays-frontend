@@ -207,13 +207,13 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/contact" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                <Link href="/contact-us" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
                   <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Contact Us</span>
                 </Link>
               </li>
               <li>
-                <Link href="/contact" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                <Link href="/contact-us" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
                   <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Help &amp; FAQs</span>
                 </Link>
@@ -225,25 +225,25 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/contact?service=car-hire" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                <Link href="/car-driver-hire" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
                   <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Car &amp; Driver Hire</span>
                 </Link>
               </li>
               <li>
-                <Link href="/contact" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                <Link href="/contact-us" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
                   <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Career</span>
                 </Link>
               </li>
               <li>
-                <Link href="/contact" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                <Link href="/contact-us" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
                   <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Payment Options</span>
                 </Link>
               </li>
               <li>
-                <Link href="/contact" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                <Link href="/contact-us" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
                   <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Support</span>
                 </Link>
@@ -258,31 +258,31 @@ export default function Footer() {
             </h3>
             <ul className="space-y-1.5 sm:space-y-2 text-[15.5px] sm:text-[16px] text-gray-700">
               <li>
-                <Link href="/tours/agra-sightseeing-tour" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                <Link href="/agra-tour-packages" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
                   <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Agra Tour Packages</span>
                 </Link>
               </li>
               <li>
-                <Link href="/tours/delhi-sightseeing-tour" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                <Link href="/delhi-tour-packages" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
                   <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Delhi Tour Packages</span>
                 </Link>
               </li>
               <li>
-                <Link href="/tours/2-days-jaipur-agra-tour" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                <Link href="/jaipur-tour-packages" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
                   <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Jaipur Tour Packages</span>
                 </Link>
               </li>
               <li>
-                <Link href="/tours/3-days-udaipur-tour" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                <Link href="/udaipur-tour-packages" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
                   <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Udaipur Tour Packages</span>
                 </Link>
               </li>
               <li>
-                <Link href="/tours/blissful-jaisalmer-honeymoon-tour" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                <Link href="/jaisalmer-tour-packages" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
                   <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Jaisalmer Tour Packages</span>
                 </Link>
@@ -297,13 +297,13 @@ export default function Footer() {
             </h3>
             <ul className="space-y-1.5 sm:space-y-2 text-[15.5px] sm:text-[16px] text-gray-700">
               <li>
-                <Link href="/tours?category=Golden+Triangle+Tours" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                <Link href="/golden-triangle-tours" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
                   <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Golden Triangle Tours</span>
                 </Link>
               </li>
               <li>
-                <Link href="/tours?category=Rajasthan+Tour+Packages" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                <Link href="/rajasthan-tours" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
                   <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Rajasthan Tour Packages</span>
                 </Link>
@@ -321,7 +321,7 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/tours?category=Rajasthan+Tour+Packages" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                <Link href="/luxury-tour-packages" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
                   <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Luxury Tour Packages</span>
                 </Link>

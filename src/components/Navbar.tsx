@@ -94,45 +94,49 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
               onMouseLeave={() => setActiveDropdown(null)}
             >
               <Link
-                href="/tours?category=Same+Day+Tours"
-                className="flex items-center gap-1.5 text-base font-bold py-2 text-gray-900 hover:text-[#E78031] transition-colors"
+                href="/india-day-tours"
+                className={`flex items-center gap-1.5 text-base font-bold py-2 transition-colors ${
+                  pathname.includes("day-tours") || pathname.includes("-tour-packages")
+                    ? "text-[#E78031]"
+                    : "text-gray-900 hover:text-[#E78031]"
+                }`}
               >
                 <span>Day Tours</span>
                 <ChevronDown className="h-4 w-4 transition-transform duration-200 group-hover:rotate-180 text-gray-500 group-hover:text-[#E78031]" />
               </Link>
               <div className="absolute top-full left-0 w-56 bg-white shadow-xl rounded-b-xl border border-gray-100 py-1.5 hidden group-hover:block transition-all animate-in fade-in slide-in-from-top-1 z-50">
                 <Link
-                  href="/tours/delhi-sightseeing-tour"
+                  href="/delhi-tour-packages"
                   className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
                   Delhi Tours
                 </Link>
                 <Link
-                  href="/tours/pink-city-jaipur-tuktuk-tour"
+                  href="/jaipur-tour-packages"
                   className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
                   Jaipur Tours
                 </Link>
                 <Link
-                  href="/tours/private-full-day-tour-of-golden-city-jaisalmer-with-guide"
+                  href="/jaisalmer-tour-packages"
                   className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
                   Jaisalmer Tours
                 </Link>
                 <Link
-                  href="/tours/agra-sightseeing-tour"
+                  href="/agra-tour-packages"
                   className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
                   Agra Tours
                 </Link>
                 <Link
-                  href="/tours/colourful-rajasthan-tour"
+                  href="/jodhpur-tour-packages"
                   className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
                   Jodhpur Tours
                 </Link>
                 <Link
-                  href="/tours/3-days-udaipur-tour"
+                  href="/udaipur-tour-packages"
                   className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
                   Udaipur Tours
@@ -140,7 +144,7 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
               </div>
             </div>
 
-            {/* 3. Tours (Wildlife & Group tours removed as requested) */}
+            {/* 3. Tours */}
             <div
               className="relative group"
               onMouseEnter={() => setActiveDropdown("tours")}
@@ -149,7 +153,12 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
               <Link
                 href="/tours"
                 className={`flex items-center gap-1.5 text-base font-bold py-2 transition-colors ${
-                  pathname.startsWith("/tours") ? "text-[#E78031]" : "text-gray-900 hover:text-[#E78031]"
+                  pathname === "/tours" ||
+                  pathname === "/golden-triangle-tours" ||
+                  pathname === "/rajasthan-tours" ||
+                  pathname === "/india-tour-packages"
+                    ? "text-[#E78031]"
+                    : "text-gray-900 hover:text-[#E78031]"
                 }`}
               >
                 <span>Tours</span>
@@ -157,19 +166,19 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
               </Link>
               <div className="absolute top-full left-0 w-60 bg-white shadow-xl rounded-b-xl border border-gray-100 py-1.5 hidden group-hover:block transition-all animate-in fade-in slide-in-from-top-1 z-50">
                 <Link
-                  href="/tours?category=Golden+Triangle+Tours"
+                  href="/golden-triangle-tours"
                   className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
                   Golden Triangle Tours
                 </Link>
                 <Link
-                  href="/tours?category=Rajasthan+Tour+Packages"
+                  href="/rajasthan-tours"
                   className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
                   Rajasthan Tours
                 </Link>
                 <Link
-                  href="/tours"
+                  href="/india-tour-packages"
                   className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
                 >
                   India Tours
@@ -179,31 +188,37 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
 
             {/* 4. Luxury India */}
             <Link
-              href="/tours?category=Rajasthan+Tour+Packages"
-              className="text-base font-bold text-gray-900 hover:text-[#E78031] transition-colors whitespace-nowrap"
+              href="/luxury-tour-packages"
+              className={`text-base font-bold transition-colors whitespace-nowrap ${
+                pathname.includes("luxury") ? "text-[#E78031]" : "text-gray-900 hover:text-[#E78031]"
+              }`}
             >
               Luxury India
             </Link>
 
             {/* 5. Custom Tours */}
-            <button
-              onClick={onOpenEnquiry}
-              className="text-base font-bold text-gray-900 hover:text-[#E78031] transition-colors whitespace-nowrap cursor-pointer text-left"
+            <Link
+              href="/custum-tours"
+              className={`text-base font-bold transition-colors whitespace-nowrap cursor-pointer text-left ${
+                pathname.includes("cust") ? "text-[#E78031]" : "text-gray-900 hover:text-[#E78031]"
+              }`}
             >
               Custom Tours
-            </button>
+            </Link>
 
             {/* 6. Car & Driver Hire */}
             <Link
-              href="/contact?service=car-hire"
-              className="text-base font-bold text-gray-900 hover:text-[#E78031] transition-colors whitespace-nowrap"
+              href="/car-driver-hire"
+              className={`text-base font-bold transition-colors whitespace-nowrap ${
+                pathname.includes("car-driver-hire") ? "text-[#E78031]" : "text-gray-900 hover:text-[#E78031]"
+              }`}
             >
               Car &amp; Driver Hire
             </Link>
 
             {/* 7. Get In Touch */}
             <Link
-              href="/contact"
+              href="/contact-us"
               className="inline-flex items-center rounded-xl bg-[#E78031] hover:bg-[#d06b20] px-5 py-2.5 text-sm font-bold text-white shadow hover:shadow-md transition-all cursor-pointer whitespace-nowrap"
             >
               Get In Touch
@@ -240,12 +255,56 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
             Home
           </Link>
           <Link
-            href="/tours?category=Same+Day+Tours"
+            href="/india-day-tours"
             onClick={closeMobileMenu}
             className="block rounded-lg px-3 py-2 text-base font-bold text-gray-900 hover:bg-gray-50"
           >
             Day Tours
           </Link>
+          <div className="pl-4 space-y-1">
+            <Link
+              href="/delhi-tour-packages"
+              onClick={closeMobileMenu}
+              className="block rounded-lg px-3 py-1.5 text-sm font-medium text-gray-600 hover:bg-gray-50 hover:text-[#E78031]"
+            >
+              Delhi Tours
+            </Link>
+            <Link
+              href="/jaipur-tour-packages"
+              onClick={closeMobileMenu}
+              className="block rounded-lg px-3 py-1.5 text-sm font-medium text-gray-600 hover:bg-gray-50 hover:text-[#E78031]"
+            >
+              Jaipur Tours
+            </Link>
+            <Link
+              href="/jaisalmer-tour-packages"
+              onClick={closeMobileMenu}
+              className="block rounded-lg px-3 py-1.5 text-sm font-medium text-gray-600 hover:bg-gray-50 hover:text-[#E78031]"
+            >
+              Jaisalmer Tours
+            </Link>
+            <Link
+              href="/agra-tour-packages"
+              onClick={closeMobileMenu}
+              className="block rounded-lg px-3 py-1.5 text-sm font-medium text-gray-600 hover:bg-gray-50 hover:text-[#E78031]"
+            >
+              Agra Tours
+            </Link>
+            <Link
+              href="/jodhpur-tour-packages"
+              onClick={closeMobileMenu}
+              className="block rounded-lg px-3 py-1.5 text-sm font-medium text-gray-600 hover:bg-gray-50 hover:text-[#E78031]"
+            >
+              Jodhpur Tours
+            </Link>
+            <Link
+              href="/udaipur-tour-packages"
+              onClick={closeMobileMenu}
+              className="block rounded-lg px-3 py-1.5 text-sm font-medium text-gray-600 hover:bg-gray-50 hover:text-[#E78031]"
+            >
+              Udaipur Tours
+            </Link>
+          </div>
           <Link
             href="/tours"
             onClick={closeMobileMenu}
@@ -253,31 +312,52 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
           >
             Tours
           </Link>
+          <div className="pl-4 space-y-1">
+            <Link
+              href="/golden-triangle-tours"
+              onClick={closeMobileMenu}
+              className="block rounded-lg px-3 py-1.5 text-sm font-medium text-gray-600 hover:bg-gray-50 hover:text-[#E78031]"
+            >
+              Golden Triangle Tours
+            </Link>
+            <Link
+              href="/rajasthan-tours"
+              onClick={closeMobileMenu}
+              className="block rounded-lg px-3 py-1.5 text-sm font-medium text-gray-600 hover:bg-gray-50 hover:text-[#E78031]"
+            >
+              Rajasthan Tours
+            </Link>
+            <Link
+              href="/india-tour-packages"
+              onClick={closeMobileMenu}
+              className="block rounded-lg px-3 py-1.5 text-sm font-medium text-gray-600 hover:bg-gray-50 hover:text-[#E78031]"
+            >
+              India Tours
+            </Link>
+          </div>
           <Link
-            href="/tours?category=Rajasthan+Tour+Packages"
+            href="/luxury-tour-packages"
             onClick={closeMobileMenu}
             className="block rounded-lg px-3 py-2 text-base font-bold text-gray-900 hover:bg-gray-50"
           >
             Luxury India
           </Link>
-          <button
-            onClick={() => {
-              closeMobileMenu();
-              onOpenEnquiry && onOpenEnquiry();
-            }}
-            className="block w-full text-left rounded-lg px-3 py-2 text-base font-bold text-gray-900 hover:bg-gray-50"
+          <Link
+            href="/custum-tours"
+            onClick={closeMobileMenu}
+            className="block rounded-lg px-3 py-2 text-base font-bold text-gray-900 hover:bg-gray-50"
           >
             Custom Tours
-          </button>
+          </Link>
           <Link
-            href="/contact?service=car-hire"
+            href="/car-driver-hire"
             onClick={closeMobileMenu}
             className="block rounded-lg px-3 py-2 text-base font-bold text-gray-900 hover:bg-gray-50"
           >
             Car &amp; Driver Hire
           </Link>
           <Link
-            href="/contact"
+            href="/contact-us"
             onClick={closeMobileMenu}
             className="block rounded-lg px-3 py-2 text-base font-bold text-[#E78031] hover:bg-gray-50"
           >
