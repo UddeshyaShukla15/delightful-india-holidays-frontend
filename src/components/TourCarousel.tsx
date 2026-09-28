@@ -132,7 +132,7 @@ export default function TourCarousel({ tours, onEnquire }: TourCarouselProps) {
 
       {/* Pagination Bullets */}
       {totalDots > 1 && (
-        <div className="flex justify-center items-center gap-2 mt-6">
+        <div className="flex justify-center items-center gap-2 mt-4">
           {Array.from({ length: totalDots }).map((_, idx) => (
             <button
               key={idx}

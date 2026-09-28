@@ -6,8 +6,8 @@ import Navbar from "@/components/Navbar";
 import HeroSection from "@/components/HeroSection";
 import TourCarousel from "@/components/TourCarousel";
 import TourGrid3 from "@/components/TourGrid3";
+import SectionCtaButton from "@/components/SectionCtaButton";
 import TravelToIndiaSection from "@/components/TravelToIndiaSection";
-import IndiaRegionsSection from "@/components/IndiaRegionsSection";
 import Testimonials from "@/components/Testimonials";
 import BlogSection from "@/components/BlogSection";
 import Footer from "@/components/Footer";
@@ -75,8 +75,8 @@ export default function HomePage() {
         <HeroSection onOpenEnquiry={() => handleOpenEnquiry()} />
 
         {/* Section 3: Golden Triangle Tours India - Best Selling Packages Carousel */}
-        <section className="py-14 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto w-full">
-          <h2 className="section-heading mb-8">
+        <section className="py-6 sm:py-8 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto w-full">
+          <h2 className="section-heading mb-4 sm:mb-5">
             Golden Triangle Tours India -{" "}
             <span style={{ color: "#FFAF19" }}>Best Selling Packages</span>
           </h2>
@@ -84,73 +84,103 @@ export default function HomePage() {
             tours={goldenTriangleTours}
             onEnquire={handleOpenEnquiry}
           />
+          {/* 1. Below Golden Triangle Tours carousel: View All Tours button */}
+          <SectionCtaButton
+            label="View All Tours"
+            href="/tours?category=Golden+Triangle+Tours"
+          />
         </section>
 
         {/* Section 4: Rajasthan Tour Packages Carousel */}
-        <section className="py-14 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto w-full border-t border-gray-100">
-          <h2 className="section-heading mb-8">
+        <section className="py-6 sm:py-8 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto w-full border-t border-gray-100">
+          <h2 className="section-heading mb-4 sm:mb-5">
             <span style={{ color: "#FFAF19" }}>Rajastha Tour Packages</span>
           </h2>
           <TourCarousel
             tours={rajasthanTours}
             onEnquire={handleOpenEnquiry}
           />
+          {/* 2. Below Rajasthan Tours carousel: More Rajasthan Tours button */}
+          <SectionCtaButton
+            label="More Rajasthan Tours"
+            href="/tours?category=Rajasthan+Tour+Packages"
+          />
         </section>
 
         {/* Section 5: Best Travel Agency in Jaisalmer + Same Day Tours Carousel */}
-        <section className="py-14 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto w-full border-t border-gray-100">
-          <div className="mb-12">
-            <h2 className="section-heading mb-6">Best Travel Agency in Jaisalmer</h2>
+        <section className="py-6 sm:py-8 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto w-full border-t border-gray-100">
+          <div className="mb-6 sm:mb-8">
+            <h2 className="section-heading mb-3 sm:mb-4">Best Travel Agency in Jaisalmer</h2>
             <p className="font-roboto text-[15px] sm:text-[16px] text-gray-700 max-w-5xl mx-auto text-center leading-relaxed">
               Jaisalmer, the “Golden City,” is a treasure trove of history, culture, and unparalleled desert beauty. To explore this magnificent destination in luxury and comfort, a Luxury Travel Agency in Jaisalmer is essential. Whether you’re seeking the best experiences through a Jaisalmer Tuktuk Tour, a Jaisalmer Walking Tour, or a customized Jaisalmer tour package, partnering with the best travel agency in Jaisalmer ensures an unforgettable adventure. With the help of the best travel agent in Jaisalmer or a reliable travel company in Jaisalmer, you can dive deep into the wonders of this golden city. For those who appreciate expert guidance, a travel consultant in Jaisalmer or professional tour operators in Jaisalmer can provide tailored itineraries to suit your needs. Opting for a trusted tour company in Jaisalmer or a convenient car travel agency in Jaisalmer will make your journey through this desert paradise truly seamless and memorable.
             </p>
           </div>
 
-          <h2 className="section-heading mb-8">
+          <h2 className="section-heading mb-4 sm:mb-5">
             <span style={{ color: "#FFAF19" }}>Same </span> Day Tours
           </h2>
           <TourCarousel
             tours={sameDayTours}
             onEnquire={handleOpenEnquiry}
           />
+          {/* 3. Below Same Day Tours carousel: More Same Day Tours button */}
+          <SectionCtaButton
+            label="More Same Day Tours"
+            href="/tours?category=Same+Day+Tours"
+          />
         </section>
 
         {/* Section 6: Honeymoon Tour Packages (3-card grid) */}
-        <section className="py-14 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto w-full border-t border-gray-100">
-          <h2 className="section-heading mb-8">
+        <section className="py-6 sm:py-8 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto w-full border-t border-gray-100">
+          <h2 className="section-heading mb-4 sm:mb-5">
             <span style={{ color: "#FFAF19" }}>Honeymoon </span> Tour Packages
           </h2>
           <TourGrid3
             tours={honeymoonTours}
             onEnquire={handleOpenEnquiry}
           />
+          {/* 4. Below Honeymoon Tours: More Honeymoon Tours button */}
+          <SectionCtaButton
+            label="More Honeymoon Tours"
+            href="/tours?category=Honeymoon+Tour+Packages"
+          />
         </section>
 
         {/* Section 7: Group Tour Packages (3-card grid) */}
-        <section className="py-14 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto w-full border-t border-gray-100">
-          <h2 className="section-heading mb-8">
+        <section className="py-6 sm:py-8 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto w-full border-t border-gray-100">
+          <h2 className="section-heading mb-4 sm:mb-5">
             <span style={{ color: "#FFAF19" }}>Group </span> Tour Packages
           </h2>
           <TourGrid3
             tours={groupTours}
             onEnquire={handleOpenEnquiry}
           />
+          {/* 5. Below Group Tours: More Tours button */}
+          <SectionCtaButton
+            label="More Tours"
+            href="/tours?category=Group+Tour+Packages"
+          />
         </section>
 
         {/* Section 8: Wildlife Tours (3-card grid) */}
-        <section className="py-14 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto w-full border-t border-gray-100">
-          <h2 className="section-heading mb-8">
+        <section className="py-6 sm:py-8 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto w-full border-t border-gray-100">
+          <h2 className="section-heading mb-4 sm:mb-5">
             <span style={{ color: "#FFAF19" }}>Wildlife </span> Tours
           </h2>
           <TourGrid3
             tours={wildlifeTours}
             onEnquire={handleOpenEnquiry}
           />
+          {/* 6. Below Wildlife Tours: More Wildlife Tours button */}
+          <SectionCtaButton
+            label="More Wildlife Tours"
+            href="/tours?category=Wildlife+Tours"
+          />
         </section>
 
         {/* Section 9: Jaisalmer Tour Packages (3-card grid) */}
-        <section className="py-14 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto w-full border-t border-gray-100">
-          <h2 className="section-heading mb-8">
+        <section className="py-6 sm:py-8 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto w-full border-t border-gray-100">
+          <h2 className="section-heading mb-4 sm:mb-5">
             <span style={{ color: "#FFAF19" }}>Jaisalmer</span> Tour Packages
           </h2>
           <TourGrid3
@@ -159,13 +189,12 @@ export default function HomePage() {
           />
         </section>
 
-        {/* Section 10: Travel to India + Why Delightful India Holidays? */}
-        <TravelToIndiaSection onOpenEnquiry={() => handleOpenEnquiry()} />
+        {/* Section 10: Travel to India + Why Delightful India Holidays? (4 blocks side by side) */}
+        <TravelToIndiaSection />
 
-        {/* Section 11: India Tour Packages (4 Regions: North, West, South, East) */}
-        <IndiaRegionsSection />
+        {/* Note: Section 11 (IndiaRegionsSection) removed as per user instruction 10 */}
 
-        {/* Section 12: Customer Reviews Carousel (Trustindex Google 5.0) */}
+        {/* Section 12: Customer Reviews (Dual Slider matching attached screenshot) */}
         <Testimonials />
 
         {/* Section 13: News & Blog */}

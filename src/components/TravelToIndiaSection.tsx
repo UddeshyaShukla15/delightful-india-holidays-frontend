@@ -4,28 +4,21 @@ import React, { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 
-interface TravelToIndiaSectionProps {
-  onOpenEnquiry?: () => void;
-}
-
-export default function TravelToIndiaSection({ onOpenEnquiry }: TravelToIndiaSectionProps) {
+export default function TravelToIndiaSection() {
   const [slideIndex, setSlideIndex] = useState(0);
 
   const guideSlides = [
     {
       title: "Spiritual Travel in India",
       image: "/assets/images/varanasi-image-1024x545.jpg",
-      link: "/blog",
     },
     {
       title: "How to travel India by Regions",
       image: "/assets/images/rishikesh-image-2-2-1024x545.jpg",
-      link: "/blog",
     },
     {
       title: "Best Time to Travel to India",
       image: "/assets/images/jaipur-2-768x409.jpg",
-      link: "/blog",
     },
   ];
 
@@ -37,11 +30,15 @@ export default function TravelToIndiaSection({ onOpenEnquiry }: TravelToIndiaSec
     setSlideIndex((prev) => (prev < guideSlides.length - 1 ? prev + 1 : 0));
   };
 
+  const handleScrollToTop = () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
   const whyChoosePoints = [
     {
       title: "1. Tailor-Made Holiday Experiences",
       description:
-        "Every traveler is unique. We craft custom itineraries that match your interests, budget, and travel style, whether it’s a cultural exploration, wildlife safari, or luxury getaway.",
+        "Every traveler is unique. We create personalized itineraries based on your interests, travel style, budget, and schedule for a truly unforgettable Indian holiday.",
     },
     {
       title: "2. Local Experts & Trusted Guides",
@@ -61,16 +58,16 @@ export default function TravelToIndiaSection({ onOpenEnquiry }: TravelToIndiaSec
   ];
 
   return (
-    <section className="py-16 px-4 sm:px-6 lg:px-8 bg-white">
-      <div className="max-w-7xl mx-auto space-y-16">
+    <section className="py-8 sm:py-10 px-4 sm:px-6 lg:px-8 bg-white border-t border-gray-100">
+      <div className="max-w-7xl mx-auto space-y-10 sm:space-y-12">
         {/* Part A: Travel to India */}
         <div>
-          <h2 className="section-heading mb-10">Travel to India</h2>
+          <h2 className="section-heading mb-6 sm:mb-8">Travel to India</h2>
 
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
-            {/* Left: Create Your Personalized Tour banner */}
+            {/* Left: Create Your Personalized Tour banner - redirects in same tab to /plan-my-tour */}
             <div className="flex flex-col bg-white rounded-[10px] overflow-hidden group shadow-sm border border-gray-100">
-              <div className="relative aspect-[16/10] w-full overflow-hidden rounded-[10px]">
+              <Link href="/plan-my-tour" className="relative aspect-[16/10] w-full overflow-hidden rounded-[10px] block">
                 <Image
                   src="/assets/images/create-your-personalized-tour-1024x683.png"
                   alt="Create Your Personalized Tour"
@@ -78,16 +75,15 @@ export default function TravelToIndiaSection({ onOpenEnquiry }: TravelToIndiaSec
                   className="object-cover transition-transform duration-500 group-hover:scale-105"
                   sizes="(max-width: 1024px) 100vw, 50vw"
                 />
-              </div>
+              </Link>
               <div className="p-4 text-center">
-                <button
-                  type="button"
-                  onClick={onOpenEnquiry}
-                  className="font-times text-[22px] sm:text-[26px] font-semibold text-black hover:text-[#FFAF19] transition-colors cursor-pointer"
+                <Link
+                  href="/plan-my-tour"
+                  className="font-times text-[22px] sm:text-[26px] font-semibold text-black hover:text-[#FFAF19] transition-colors inline-block"
                 >
                   Create Your <br />
                   Personalized Tour
-                </button>
+                </Link>
               </div>
             </div>
 
@@ -142,11 +138,12 @@ export default function TravelToIndiaSection({ onOpenEnquiry }: TravelToIndiaSec
                 </h4>
               </div>
 
-              {/* Read More button */}
+              {/* Read More button - scrolls to home page top */}
               <div className="mt-4">
-                <Link
-                  href="/blog"
-                  className="inline-flex items-center gap-1.5 bg-[#228B48] hover:bg-[#1a7038] text-white text-[14px] font-medium px-6 py-2.5 rounded-[20px] transition-all shadow-sm"
+                <button
+                  type="button"
+                  onClick={handleScrollToTop}
+                  className="inline-flex items-center gap-1.5 bg-[#228B48] hover:bg-[#1a7038] text-white text-[14px] font-medium px-6 py-2.5 rounded-[20px] transition-all shadow-sm cursor-pointer"
                 >
                   <span>Read More</span>
                   <svg
@@ -156,27 +153,31 @@ export default function TravelToIndiaSection({ onOpenEnquiry }: TravelToIndiaSec
                   >
                     <path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z" />
                   </svg>
-                </Link>
+                </button>
               </div>
             </div>
           </div>
         </div>
 
-        {/* Part B: Why Delightful India Holidays? */}
+        {/* Part B: Why Delightful India Holidays? - All 4 blocks side by side */}
         <div className="pt-8">
           <h2 className="section-heading mb-6">Why Delightful India Holidays?</h2>
 
-          <p className="font-roboto text-[15px] sm:text-[16px] text-gray-700 max-w-4xl mx-auto text-center leading-relaxed mb-10">
+          <p className="font-roboto text-[15px] sm:text-[16px] text-gray-700 max-w-4xl mx-auto text-center leading-relaxed mb-12">
             At Delightful India Holidays, we believe every journey should be memorable, comfortable, and truly authentic. Our experienced local travel experts design personalized holidays that showcase India’s rich culture, heritage, wildlife, and breathtaking landscapes. From your first inquiry to the end of your trip, we ensure a seamless travel experience with trusted services, transparent pricing, and dedicated support.
           </p>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl mx-auto">
+          {/* 4 Blocks Side-by-Side in 1 Row on Desktop */}
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 max-w-7xl mx-auto">
             {whyChoosePoints.map((point, index) => (
-              <div key={index} className="flex flex-col bg-[#faf7f2] p-6 rounded-[10px] border border-[#e8dcc8]/60">
-                <h4 className="font-roboto text-[17px] sm:text-[18px] font-semibold text-black mb-2">
+              <div
+                key={index}
+                className="flex flex-col bg-[#faf7f2] p-6 rounded-[10px] border border-[#e8dcc8]/70 hover:shadow-md transition-shadow"
+              >
+                <h4 className="font-roboto text-[16px] sm:text-[17px] font-semibold text-black mb-3 leading-snug">
                   {point.title}
                 </h4>
-                <p className="font-roboto text-[14px] sm:text-[15px] text-gray-600 leading-relaxed">
+                <p className="font-roboto text-[13px] sm:text-[14px] text-gray-600 leading-relaxed">
                   {point.description}
                 </p>
               </div>

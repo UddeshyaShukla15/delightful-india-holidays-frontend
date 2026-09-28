@@ -2,6 +2,7 @@
 
 import React from "react";
 import Image from "next/image";
+import Link from "next/link";
 import { companyInfo } from "@/data/mockData";
 
 interface HeroSectionProps {
@@ -43,13 +44,12 @@ export default function HeroSection({ onOpenEnquiry }: HeroSectionProps) {
 
             {/* Glass Toolbar with Buttons */}
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-              <button
-                type="button"
-                onClick={onOpenEnquiry}
-                className="w-full sm:w-auto px-8 py-3 rounded-[8px] text-sm font-semibold tracking-wide text-white bg-white/15 hover:bg-[#FFAF19] border border-white/30 hover:border-[#FFAF19] transition-all cursor-pointer shadow-md"
+              <Link
+                href="/plan-my-tour"
+                className="w-full sm:w-auto px-8 py-3 rounded-[8px] text-sm font-semibold tracking-wide text-white bg-white/15 hover:bg-[#FFAF19] border border-white/30 hover:border-[#FFAF19] transition-all cursor-pointer shadow-md text-center inline-block"
               >
                 Start Planning
-              </button>
+              </Link>
               <a
                 href={companyInfo.whatsappUrl}
                 target="_blank"
@@ -64,7 +64,7 @@ export default function HeroSection({ onOpenEnquiry }: HeroSectionProps) {
       </section>
 
       {/* Feature Badges Banner (Section 2) with Gradient */}
-      <section className="relative z-20 max-w-6xl mx-auto px-4 sm:px-6 -mt-10 sm:-mt-12 mb-8">
+      <section className="relative z-20 max-w-6xl mx-auto px-4 sm:px-6 -mt-10 sm:-mt-12 mb-3 sm:mb-4">
         <div className="rounded-[4px] shadow-xl bg-gradient-to-r from-[#228B48] via-[#85863D] to-[#E78031] p-6 sm:p-8">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 sm:gap-8 items-center divide-y md:divide-y-0 md:divide-x divide-white/20">
             {/* Feature 1 */}
