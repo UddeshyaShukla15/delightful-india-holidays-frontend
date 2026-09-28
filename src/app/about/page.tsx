@@ -6,7 +6,6 @@ import Link from "next/link";
 import TopBar from "@/components/TopBar";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-import CredibilitySection from "@/components/CredibilitySection";
 import Testimonials from "@/components/Testimonials";
 import EnquiryModal from "@/components/EnquiryModal";
 import WhatsAppFloatingButton from "@/components/WhatsAppFloatingButton";
@@ -209,8 +208,7 @@ export default function AboutPage() {
           </div>
         </section>
 
-        {/* Credibility and Testimonials */}
-        <CredibilitySection />
+        {/* Testimonials */}
         <Testimonials />
       </main>
 

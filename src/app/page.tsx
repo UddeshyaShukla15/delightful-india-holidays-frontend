@@ -6,7 +6,6 @@ import Navbar from "@/components/Navbar";
 import HeroSection from "@/components/HeroSection";
 import TourCard from "@/components/TourCard";
 import CategoryFilter from "@/components/CategoryFilter";
-import CredibilitySection from "@/components/CredibilitySection";
 import Testimonials from "@/components/Testimonials";
 import WhyChooseUs from "@/components/WhyChooseUs";
 import PersonalizedTripBanner from "@/components/PersonalizedTripBanner";
@@ -243,9 +242,6 @@ export default function HomePage() {
 
         {/* Travel To India - Personalized Banner */}
         <PersonalizedTripBanner onOpenEnquiry={() => handleOpenEnquiry()} />
-
-        {/* Credibility Stats & Review Badges */}
-        <CredibilitySection />
 
         {/* Testimonials */}
         <Testimonials />

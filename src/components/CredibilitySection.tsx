@@ -2,15 +2,10 @@
 
 import React from "react";
 import { companyInfo } from "@/data/mockData";
-import LanguageDropdown from "./LanguageDropdown";
 
 export default function CredibilitySection() {
   return (
     <section className="relative bg-white py-16 px-4 sm:px-6 lg:px-8">
-      {/* Floating Language Dropdown in Top-Right as shown in User's Screenshot */}
-      <div className="absolute top-6 right-6 hidden md:block z-30">
-        <LanguageDropdown />
-      </div>
 
       <div className="max-w-6xl mx-auto">
         {/* Header */}

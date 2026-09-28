@@ -8,29 +8,160 @@ import { MapPin, Phone, Mail } from "lucide-react";
 
 export default function Footer() {
   return (
-    <footer className="bg-white text-gray-800 text-xs sm:text-sm border-t border-gray-200">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-14 pb-8">
-        {/* 4 Main Columns Matching Shared Screenshot */}
+    <footer className="bg-white text-gray-800 border-t border-gray-200 font-sans">
+      {/* ------------------------------------------------------------- */}
+      {/* Part 1: "TRUSTED BY TRAVELLERS / Our Credibility" Section       */}
+      {/* (Directly integrated into Footer as shown in User's Screenshot) */}
+      {/* ------------------------------------------------------------- */}
+      <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 pb-12">
+        {/* Header */}
+        <div className="text-center mb-10">
+          <div className="text-xs sm:text-sm font-semibold tracking-[2px] text-[#c9a766] uppercase mb-2">
+            TRUSTED BY TRAVELLERS
+          </div>
+          <h2 className="text-4xl sm:text-5xl lg:text-6xl font-light text-[#2a2a2a] mb-4 font-serif">
+            Our <span className="italic text-[#c9a766] font-normal">Credibility</span>
+          </h2>
+          <p className="text-sm sm:text-base text-[#8b8b8b] max-w-2xl mx-auto leading-relaxed">
+            Years of desert hospitality, thousands of happy guests, and top ratings across every major travel platform.
+          </p>
+        </div>
+
+        {/* 5 Statistics (Clean, matching screenshot) */}
+        <div className="grid grid-cols-2 md:grid-cols-5 gap-6 sm:gap-8 mb-14 text-center">
+          <div>
+            <div className="text-3xl sm:text-5xl font-semibold text-[#2a2a2a] mb-2 font-serif">
+              15+
+            </div>
+            <div className="text-xs sm:text-sm uppercase tracking-wider text-[#8b8b8b] font-medium">
+              YEARS IN BUSINESS
+            </div>
+          </div>
+
+          <div>
+            <div className="text-3xl sm:text-5xl font-semibold text-[#2a2a2a] mb-2 font-serif">
+              51000+
+            </div>
+            <div className="text-xs sm:text-sm uppercase tracking-wider text-[#8b8b8b] font-medium">
+              HAPPY GUESTS
+            </div>
+          </div>
+
+          <div>
+            <div className="text-3xl sm:text-5xl font-semibold text-[#2a2a2a] mb-2 font-serif">
+              5.0
+            </div>
+            <div className="text-xs sm:text-sm uppercase tracking-wider text-[#8b8b8b] font-medium">
+              AVG. RATING
+            </div>
+          </div>
+
+          <div>
+            <div className="text-3xl sm:text-5xl font-semibold text-[#2a2a2a] mb-2 font-serif">
+              350+
+            </div>
+            <div className="text-xs sm:text-sm uppercase tracking-wider text-[#8b8b8b] font-medium">
+              TOUR PACKAGES
+            </div>
+          </div>
+
+          <div className="col-span-2 md:col-span-1">
+            <div className="text-3xl sm:text-5xl font-semibold text-[#2a2a2a] mb-2 font-serif">
+              100%
+            </div>
+            <div className="text-xs sm:text-sm uppercase tracking-wider text-[#8b8b8b] font-medium">
+              RECOMMENDED
+            </div>
+          </div>
+        </div>
+
+        {/* LISTED & REVIEWED ON */}
+        <div className="text-center">
+          <div className="text-xs sm:text-sm font-semibold uppercase tracking-[2px] text-[#8b8b8b] mb-6">
+            LISTED &amp; REVIEWED ON
+          </div>
+
+          {/* 3 Review Badges Matching Screenshot */}
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-5 max-w-4xl mx-auto">
+            {/* 1. Tripadvisor (Green circle with white T) */}
+            <a
+              href={companyInfo.socialLinks.tripadvisor}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center justify-center gap-3.5 py-3.5 px-6 rounded-full border-2 border-[#e8dcc8] bg-white hover:border-[#c9a766] transition-all shadow-sm group"
+            >
+              <span className="flex h-8 w-8 items-center justify-center rounded-full bg-[#00aa6c] text-white font-black text-sm">
+                T
+              </span>
+              <div className="text-left">
+                <div className="text-sm font-bold text-gray-900 group-hover:text-[#c9a766] transition-colors">
+                  Tripadvisor
+                </div>
+                <div className="text-xs text-[#8b8b8b] font-medium">5.0 - Excellent</div>
+              </div>
+            </a>
+
+            {/* 2. Facebook (Yellow circle with white f) */}
+            <a
+              href={companyInfo.socialLinks.facebook}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center justify-center gap-3.5 py-3.5 px-6 rounded-full border-2 border-[#e8dcc8] bg-white hover:border-[#c9a766] transition-all shadow-sm group"
+            >
+              <span className="flex h-8 w-8 items-center justify-center rounded-full bg-[#eab308] text-white font-black text-sm">
+                f
+              </span>
+              <div className="text-left">
+                <div className="text-sm font-bold text-gray-900 group-hover:text-[#c9a766] transition-colors">
+                  Facebook
+                </div>
+                <div className="text-xs text-[#8b8b8b] font-medium">5.0 - Wonderful</div>
+              </div>
+            </a>
+
+            {/* 3. Google Reviews (Red circle with white G) */}
+            <div className="flex items-center justify-center gap-3.5 py-3.5 px-6 rounded-full border-2 border-[#e8dcc8] bg-white hover:border-[#c9a766] transition-all shadow-sm group">
+              <span className="flex h-8 w-8 items-center justify-center rounded-full bg-[#ea4335] text-white font-black text-sm">
+                G
+              </span>
+              <div className="text-left">
+                <div className="text-sm font-bold text-gray-900 group-hover:text-[#c9a766] transition-colors">
+                  Google Reviews
+                </div>
+                <div className="text-xs text-[#8b8b8b] font-medium">5.0 - Outstanding</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* Thin Divider Line Matching Screenshot */}
+      <hr className="border-gray-200" />
+
+      {/* ------------------------------------------------------------- */}
+      {/* Part 2: 4 Main Columns (Increased font size like main website) */}
+      {/* ------------------------------------------------------------- */}
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-8">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-10 pb-12">
           {/* Column 1: Brand & Contact Info */}
           <div className="space-y-4">
-            <Link href="/" className="inline-block relative h-16 w-52 mb-2">
+            <Link href="/" className="inline-block relative h-16 w-56 mb-2">
               <Image
                 src="/assets/images/DIH-1.webp"
                 alt="Delightful India Holidays"
                 fill
                 className="object-contain object-left"
-                sizes="220px"
+                sizes="240px"
               />
             </Link>
 
-            <div className="space-y-3 pt-1 text-xs text-gray-700">
+            <div className="space-y-4 pt-1 text-base text-gray-800">
               {/* Address */}
               <div className="flex items-start gap-3">
-                <div className="mt-0.5 flex-shrink-0 text-[#E78031]">
-                  <MapPin className="h-4 w-4" />
+                <div className="mt-1 flex-shrink-0 text-[#E78031]">
+                  <MapPin className="h-5 w-5" />
                 </div>
-                <span className="leading-snug text-gray-800 font-medium">
+                <span className="leading-snug text-gray-800 font-normal text-[15.5px] sm:text-[16px]">
                   {companyInfo.address}
                 </span>
               </div>
@@ -38,11 +169,11 @@ export default function Footer() {
               {/* Phone */}
               <div className="flex items-center gap-3">
                 <div className="flex-shrink-0 text-[#E78031]">
-                  <Phone className="h-4 w-4" />
+                  <Phone className="h-5 w-5" />
                 </div>
                 <a
                   href={`tel:${companyInfo.phone}`}
-                  className="font-bold text-gray-800 hover:text-[#E78031] transition-colors"
+                  className="font-bold text-gray-900 hover:text-[#E78031] transition-colors text-[16px] sm:text-[17px]"
                 >
                   {companyInfo.phoneFormatted}
                 </a>
@@ -51,11 +182,11 @@ export default function Footer() {
               {/* Email */}
               <div className="flex items-center gap-3">
                 <div className="flex-shrink-0 text-[#E78031]">
-                  <Mail className="h-4 w-4" />
+                  <Mail className="h-5 w-5" />
                 </div>
                 <a
                   href={`mailto:${companyInfo.email}`}
-                  className="text-gray-800 hover:text-[#E78031] transition-colors"
+                  className="text-gray-800 hover:text-[#E78031] transition-colors text-[15.5px] sm:text-[16px] font-normal"
                 >
                   {companyInfo.email}
                 </a>
@@ -65,55 +196,55 @@ export default function Footer() {
 
           {/* Column 2: Customer Support */}
           <div>
-            <h3 className="text-base font-bold text-gray-950 mb-4">
+            <h3 className="text-[21px] sm:text-[22px] font-bold text-black mb-4 font-sans">
               Customer Support
             </h3>
-            <ul className="space-y-2 text-xs text-gray-700">
+            <ul className="space-y-1.5 sm:space-y-2 text-[15.5px] sm:text-[16px] text-gray-700">
               <li>
-                <Link href="/about" className="hover:text-[#E78031] transition-colors flex items-center gap-1.5">
-                  <span className="text-[#E78031] font-bold">&raquo;</span>
+                <Link href="/about" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                  <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>About Us</span>
                 </Link>
               </li>
               <li>
-                <Link href="/contact" className="hover:text-[#E78031] transition-colors flex items-center gap-1.5">
-                  <span className="text-[#E78031] font-bold">&raquo;</span>
+                <Link href="/contact" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                  <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Contact Us</span>
                 </Link>
               </li>
               <li>
-                <Link href="/contact" className="hover:text-[#E78031] transition-colors flex items-center gap-1.5">
-                  <span className="text-[#E78031] font-bold">&raquo;</span>
+                <Link href="/contact" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                  <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Help &amp; FAQs</span>
                 </Link>
               </li>
               <li>
-                <Link href="/#testimonials" className="hover:text-[#E78031] transition-colors flex items-center gap-1.5">
-                  <span className="text-[#E78031] font-bold">&raquo;</span>
+                <Link href="/#testimonials" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                  <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Testimonials</span>
                 </Link>
               </li>
               <li>
-                <Link href="/contact?service=car-hire" className="hover:text-[#E78031] transition-colors flex items-center gap-1.5">
-                  <span className="text-[#E78031] font-bold">&raquo;</span>
+                <Link href="/contact?service=car-hire" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                  <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Car &amp; Driver Hire</span>
                 </Link>
               </li>
               <li>
-                <Link href="/contact" className="hover:text-[#E78031] transition-colors flex items-center gap-1.5">
-                  <span className="text-[#E78031] font-bold">&raquo;</span>
+                <Link href="/contact" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                  <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Career</span>
                 </Link>
               </li>
               <li>
-                <Link href="/contact" className="hover:text-[#E78031] transition-colors flex items-center gap-1.5">
-                  <span className="text-[#E78031] font-bold">&raquo;</span>
+                <Link href="/contact" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                  <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Payment Options</span>
                 </Link>
               </li>
               <li>
-                <Link href="/contact" className="hover:text-[#E78031] transition-colors flex items-center gap-1.5">
-                  <span className="text-[#E78031] font-bold">&raquo;</span>
+                <Link href="/contact" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                  <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Support</span>
                 </Link>
               </li>
@@ -122,37 +253,37 @@ export default function Footer() {
 
           {/* Column 3: Popular Tour Packages */}
           <div>
-            <h3 className="text-base font-bold text-gray-950 mb-4">
+            <h3 className="text-[21px] sm:text-[22px] font-bold text-black mb-4 font-sans">
               Popular Tour Packages
             </h3>
-            <ul className="space-y-2 text-xs text-gray-700">
+            <ul className="space-y-1.5 sm:space-y-2 text-[15.5px] sm:text-[16px] text-gray-700">
               <li>
-                <Link href="/tours/agra-sightseeing-tour" className="hover:text-[#E78031] transition-colors flex items-center gap-1.5">
-                  <span className="text-[#E78031] font-bold">&raquo;</span>
+                <Link href="/tours/agra-sightseeing-tour" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                  <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Agra Tour Packages</span>
                 </Link>
               </li>
               <li>
-                <Link href="/tours/delhi-sightseeing-tour" className="hover:text-[#E78031] transition-colors flex items-center gap-1.5">
-                  <span className="text-[#E78031] font-bold">&raquo;</span>
+                <Link href="/tours/delhi-sightseeing-tour" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                  <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Delhi Tour Packages</span>
                 </Link>
               </li>
               <li>
-                <Link href="/tours/2-days-jaipur-agra-tour" className="hover:text-[#E78031] transition-colors flex items-center gap-1.5">
-                  <span className="text-[#E78031] font-bold">&raquo;</span>
+                <Link href="/tours/2-days-jaipur-agra-tour" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                  <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Jaipur Tour Packages</span>
                 </Link>
               </li>
               <li>
-                <Link href="/tours/3-days-udaipur-tour" className="hover:text-[#E78031] transition-colors flex items-center gap-1.5">
-                  <span className="text-[#E78031] font-bold">&raquo;</span>
+                <Link href="/tours/3-days-udaipur-tour" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                  <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Udaipur Tour Packages</span>
                 </Link>
               </li>
               <li>
-                <Link href="/tours/blissful-jaisalmer-honeymoon-tour" className="hover:text-[#E78031] transition-colors flex items-center gap-1.5">
-                  <span className="text-[#E78031] font-bold">&raquo;</span>
+                <Link href="/tours/blissful-jaisalmer-honeymoon-tour" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                  <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Jaisalmer Tour Packages</span>
                 </Link>
               </li>
@@ -161,43 +292,43 @@ export default function Footer() {
 
           {/* Column 4: Tours Services */}
           <div>
-            <h3 className="text-base font-bold text-gray-950 mb-4">
+            <h3 className="text-[21px] sm:text-[22px] font-bold text-black mb-4 font-sans">
               Tours Services
             </h3>
-            <ul className="space-y-2 text-xs text-gray-700">
+            <ul className="space-y-1.5 sm:space-y-2 text-[15.5px] sm:text-[16px] text-gray-700">
               <li>
-                <Link href="/tours?category=Golden+Triangle+Tours" className="hover:text-[#E78031] transition-colors flex items-center gap-1.5">
-                  <span className="text-[#E78031] font-bold">&raquo;</span>
+                <Link href="/tours?category=Golden+Triangle+Tours" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                  <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Golden Triangle Tours</span>
                 </Link>
               </li>
               <li>
-                <Link href="/tours?category=Rajasthan+Tour+Packages" className="hover:text-[#E78031] transition-colors flex items-center gap-1.5">
-                  <span className="text-[#E78031] font-bold">&raquo;</span>
+                <Link href="/tours?category=Rajasthan+Tour+Packages" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                  <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Rajasthan Tour Packages</span>
                 </Link>
               </li>
               <li>
-                <Link href="/tours?category=Honeymoon+Tour+Packages" className="hover:text-[#E78031] transition-colors flex items-center gap-1.5">
-                  <span className="text-[#E78031] font-bold">&raquo;</span>
+                <Link href="/tours?category=Honeymoon+Tour+Packages" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                  <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Honeymoon Tours</span>
                 </Link>
               </li>
               <li>
-                <Link href="/tours?category=Group+Tour+Packages" className="hover:text-[#E78031] transition-colors flex items-center gap-1.5">
-                  <span className="text-[#E78031] font-bold">&raquo;</span>
+                <Link href="/tours?category=Group+Tour+Packages" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                  <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Group Tours</span>
                 </Link>
               </li>
               <li>
-                <Link href="/tours?category=Rajasthan+Tour+Packages" className="hover:text-[#E78031] transition-colors flex items-center gap-1.5">
-                  <span className="text-[#E78031] font-bold">&raquo;</span>
+                <Link href="/tours?category=Rajasthan+Tour+Packages" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                  <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Luxury Tour Packages</span>
                 </Link>
               </li>
               <li>
-                <Link href="/tours?category=Wildlife+Tours" className="hover:text-[#E78031] transition-colors flex items-center gap-1.5">
-                  <span className="text-[#E78031] font-bold">&raquo;</span>
+                <Link href="/tours?category=Wildlife+Tours" className="hover:text-[#E78031] transition-colors flex items-center gap-2 font-normal py-0.5">
+                  <span className="text-[#E78031] font-bold text-lg leading-none">&raquo;</span>
                   <span>Wild Life Tours</span>
                 </Link>
               </li>
@@ -205,74 +336,61 @@ export default function Footer() {
           </div>
         </div>
 
-        {/* Middle Section: Payment Methods & Authorized India Tour Operator */}
+        {/* ------------------------------------------------------------- */}
+        {/* Part 3: Payment Methods & Authorized India Tour Operator       */}
+        {/* ------------------------------------------------------------- */}
         <div className="border-t border-gray-200 pt-8 pb-10 grid grid-cols-1 md:grid-cols-2 gap-8 items-start">
           {/* Left: Payment Methods */}
           <div className="space-y-3">
-            <h4 className="text-base font-bold text-gray-950">Payment Methods</h4>
-            <div className="relative h-12 w-full max-w-md">
+            <h4 className="text-[21px] sm:text-[22px] font-bold text-black font-sans">Payment Methods</h4>
+            <div className="relative h-16 sm:h-20 w-full max-w-lg">
               <Image
                 src="/assets/images/Payment-Option.webp"
                 alt="Payment Methods: VISA, RuPay, Paytm, MasterCard, PayPal, PhonePe, Payoneer"
                 fill
                 className="object-contain object-left"
-                sizes="(max-width: 768px) 100vw, 400px"
+                sizes="(max-width: 768px) 100vw, 550px"
               />
             </div>
           </div>
 
           {/* Right: Authorized India Tour Operator */}
           <div className="space-y-3">
-            <h4 className="text-base font-bold text-gray-950">Authorized India Tour Operator</h4>
+            <h4 className="text-[21px] sm:text-[22px] font-bold text-black font-sans">Authorized India Tour Operator</h4>
             <div className="flex items-center gap-4">
-              <div className="relative h-14 w-20 border border-gray-200 rounded p-1 bg-white">
+              <div className="relative h-16 w-24 border border-gray-200 rounded p-1 bg-white shadow-sm">
                 <Image
                   src="/assets/images/rajasthan.webp"
                   alt="Rajasthan Tourism Authorized Operator"
                   fill
                   className="object-contain"
-                  sizes="80px"
+                  sizes="100px"
                 />
               </div>
-              <div className="relative h-14 w-20 border border-gray-200 rounded p-1 bg-white">
+              <div className="relative h-16 w-24 border border-gray-200 rounded p-1 bg-white shadow-sm">
                 <Image
                   src="/assets/images/tripadvisor.webp"
                   alt="TripAdvisor Recommended Operator"
                   fill
                   className="object-contain"
-                  sizes="80px"
+                  sizes="100px"
                 />
               </div>
             </div>
           </div>
         </div>
 
-        {/* Bottom Bar: Copyright, 7 Square Social Buttons & Legal Links */}
-        <div className="border-t border-gray-200 pt-6 flex flex-col lg:flex-row items-center justify-between gap-5 text-xs text-gray-600">
-          {/* Copyright & Powered By */}
-          <div className="flex flex-wrap items-center gap-2">
+        {/* ------------------------------------------------------------- */}
+        {/* Part 4: Bottom Bar: Copyright, 7 Square Social Buttons & Links  */}
+        {/* ------------------------------------------------------------- */}
+        <div className="border-t border-gray-200 pt-6 flex flex-col lg:flex-row items-center justify-between gap-5 text-[14px] sm:text-[15px] text-gray-600">
+          {/* Copyright */}
+          <div className="text-gray-600 font-medium">
             <span>&copy;2026. DelightFul India Holidays, All Rights Reserved.</span>
-            <a
-              href="https://yugtechnology.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-1.5 hover:opacity-80 transition-opacity ml-1"
-              title="Powered By YUG Technology"
-            >
-              <span className="text-[10px] text-gray-400 font-semibold">Powered By</span>
-              <div className="relative h-5 w-16">
-                <Image
-                  src="/assets/images/yug-1.webp"
-                  alt="YUG Technology"
-                  fill
-                  className="object-contain"
-                />
-              </div>
-            </a>
           </div>
 
-          {/* 7 Square Social Buttons exactly matching live site & screenshot */}
-          <div className="flex items-center gap-1.5">
+          {/* 7 Square Social Buttons matching screenshot */}
+          <div className="flex items-center gap-2">
             {/* 1. TripAdvisor (green #589442) */}
             <a
               href={companyInfo.socialLinks.tripadvisor}
@@ -364,13 +482,15 @@ export default function Footer() {
           </div>
 
           {/* Legal Links */}
-          <div className="flex items-center gap-4 text-xs">
+          <div className="flex items-center gap-4 text-[14px] sm:text-[15px] font-medium">
             <Link href="/contact" className="hover:text-[#E78031] transition-colors">
               Terms &amp; Conditions
             </Link>
+            <span>&bull;</span>
             <Link href="/contact" className="hover:text-[#E78031] transition-colors">
               Privacy Policy
             </Link>
+            <span>&bull;</span>
             <Link href="/contact" className="hover:text-[#E78031] transition-colors">
               Refund Policy
             </Link>
