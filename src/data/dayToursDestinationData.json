@@ -1,0 +1,2347 @@
+{
+  "delhi": {
+    "cityName": "Delhi",
+    "slug": "delhi-tour-packages",
+    "title": "Delhi Tour Packages",
+    "tagline": "Experience the Timeless Grandeur of Old & New Delhi with Expert Local Sightseeing",
+    "heroImage": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Rajpath-delhi-shutterstock_1195751923.jpg_7647e1aad2-1.jpg",
+    "defaultRoute": "Delhi Sightseeing",
+    "overview": [
+      "Discover the vibrant charm of India’s capital with our specially curated Delhi Tour Packages, designed for travelers who want to experience the perfect blend of rich Mughal heritage, colonial architecture, and bustling modern city life.",
+      "Our range of Delhi Sightseeing Tours and Delhi Travel Packages includes everything from a quick Same Day Delhi City Tour to detailed multi-day itineraries covering iconic monuments like the Red Fort, Qutub Minar, Humayun’s Tomb, India Gate, and Chandni Chowk.",
+      "We also provide seamless travel services such as Private Car & Driver Hire in Delhi, Luxury Airport Transfers, and customized Golden Triangle extensions to Agra and Jaipur with 24/7 dedicated support."
+    ],
+    "placesToVisit": [
+      {
+        "name": "Red Fort (Lal Qila)",
+        "desc": "A magnificent 17th-century Mughal fortress of red sandstone, built by Emperor Shah Jahan, and a UNESCO World Heritage Site.",
+        "highlights": [
+          "Lahori Gate",
+          "Diwan-i-Aam",
+          "Diwan-i-Khas"
+        ]
+      },
+      {
+        "name": "India Gate",
+        "desc": "The iconic 42-meter-tall triumphal arch war memorial located along Kartavya Path, honoring 84,000 Indian soldiers.",
+        "highlights": [
+          "Amar Jawan Jyoti",
+          "Kartavya Path",
+          "Canopy"
+        ]
+      },
+      {
+        "name": "Qutub Minar",
+        "desc": "A soaring 73-meter minaret built in 1193, surrounded by ancient Mughal and Rajput ruins including the rust-resistant Iron Pillar.",
+        "highlights": [
+          "73m Minaret",
+          "Iron Pillar",
+          "Alai Darwaza"
+        ]
+      },
+      {
+        "name": "Humayun’s Tomb",
+        "desc": "The grand garden tomb built in 1570, which inspired the architecture of the Taj Mahal, surrounded by pristine Charbagh gardens.",
+        "highlights": [
+          "Charbagh Gardens",
+          "Double Dome",
+          "Persian Architecture"
+        ]
+      },
+      {
+        "name": "Lotus Temple",
+        "desc": "The famous Bahá’í House of Worship shaped like a blossoming white lotus, open to people of all faiths for meditation.",
+        "highlights": [
+          "27 Marble Petals",
+          "Peaceful Ponds",
+          "Silent Meditation"
+        ]
+      },
+      {
+        "name": "Jama Masjid",
+        "desc": "One of the largest mosques in India, built by Shah Jahan, capable of holding 25,000 devotees in its vast courtyard.",
+        "highlights": [
+          "Minarets View",
+          "Red Sandstone & Marble",
+          "Chandni Chowk Vista"
+        ]
+      },
+      {
+        "name": "Raj Ghat",
+        "desc": "The serene and sacred black marble memorial marking the spot of Mahatma Gandhi’s cremation on the banks of Yamuna River.",
+        "highlights": [
+          "Eternal Flame",
+          "Lush Gardens",
+          "Tribute to Mahatma Gandhi"
+        ]
+      },
+      {
+        "name": "Swaminarayan Akshardham",
+        "desc": "A massive spiritual-cultural campus showcasing thousands of years of Indian culture, spirituality, and ornate stone architecture.",
+        "highlights": [
+          "Musical Fountain",
+          "Boat Ride",
+          "Intricate Carvings"
+        ]
+      },
+      {
+        "name": "Chandni Chowk Market",
+        "desc": "One of the oldest and busiest heritage markets in India, famous for historic havelis, authentic street food, and vibrant bazaars.",
+        "highlights": [
+          "Paranthe Wali Gali",
+          "Khari Baoli Spice Market",
+          "Rickshaw Ride"
+        ]
+      },
+      {
+        "name": "Connaught Place",
+        "desc": "The colonial heart of New Delhi, featuring circular Georgian-style colonnades, premier shopping stores, cafes, and restaurants.",
+        "highlights": [
+          "Georgian Architecture",
+          "Central Park",
+          "Shopping & Dining"
+        ]
+      }
+    ],
+    "attractions": [
+      {
+        "title": "Old Delhi Tour Highlights",
+        "desc": "Explore narrow bustling lanes, historic spice markets, and Mughal architecture with our Old Delhi Heritage Tour. Ride a cycle rickshaw through Chandni Chowk, visit Khari Baoli (Asia’s largest spice market), and savor authentic street food delicacies."
+      },
+      {
+        "title": "New Delhi City Tour Highlights",
+        "desc": "Experience the grandeur of modern Delhi with wide tree-lined boulevards, colonial landmarks, and government palaces. Key stops include India Gate, Rashtrapati Bhavan, Parliament House, Connaught Place, and the serene Lodhi Gardens."
+      },
+      {
+        "title": "Cultural & Heritage Experiences",
+        "desc": "Gain deep insights into the capital’s multifaceted traditions, handicrafts, festivals, and culinary heritage. Visit Dilli Haat for regional crafts and food, attend evening Aarti ceremonies, and explore vibrant street bazaars."
+      }
+    ],
+    "whyChoose": [
+      "Best Delhi Tour Package options for all budgets",
+      "Fully customizable Private Delhi Tour experiences",
+      "Comfortable transport with private taxi hire in Delhi and private cab hire in Delhi",
+      "Expert local guides for authentic experiences",
+      "Flexible itineraries including Delhi Weekend Tour and Delhi Holiday Package",
+      "Easy connectivity for India Tour Packages from Delhi"
+    ],
+    "travelServices": [
+      "Tour Consultant in Delhi",
+      "Travel Company in Delhi",
+      "Cab Service in Delhi",
+      "Car Hire in Delhi",
+      "One Way Taxi from Delhi",
+      "One Way Cab Service in Delhi",
+      "Tailor Made Delhi Tour"
+    ],
+    "faqs": [
+      {
+        "q": "What is the best time to take a Delhi Tour?",
+        "a": "The best time to visit Delhi is from October to March when the weather is cool, pleasant, and ideal for outdoor sightseeing."
+      },
+      {
+        "q": "Are private guides included in the Delhi Tour Packages?",
+        "a": "Yes, our private sightseeing packages include experienced, licensed local tour guides who bring Delhi’s rich history and stories to life."
+      },
+      {
+        "q": "Can we customize our Delhi Day Tour itinerary?",
+        "a": "Absolutely! All our tours are 100% customizable based on your arrival time, interests, pace, and monument preferences."
+      }
+    ],
+    "tours": [
+      {
+        "id": "delhi-sightseeing-tour",
+        "title": "DELHI SIGHTSEEING TOUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/Delhi-Sightseeing-Tour-img-1024x684.jpg",
+        "route": "Goa",
+        "link": "/tours/delhi-sightseeing-tour",
+        "localImage": "/assets/images/day-tours/tours/delhi_Delhi-Sightseeing-Tour-im_67ede198dd.jpg"
+      },
+      {
+        "id": "2-days-delhi-agra-tour",
+        "title": "2 DAYS DELHI AGRA TOUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Delhi26.jpg",
+        "route": "KASHMIR",
+        "link": "/tours/2-days-delhi-agra-tour",
+        "localImage": "/assets/images/day-tours/tours/delhi_Delhi26_73abd6dc0c.jpg"
+      },
+      {
+        "id": "3-days-delhi-agra-tour",
+        "title": "3 DAYS DELHI AGRA TOUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/5-day-tour-of-delhi-agra-gwalior-ochhaa-and-khajuraho-2828911-1024x683.webp",
+        "route": "Udaipur",
+        "link": "/tours/3-days-delhi-agra-tour",
+        "localImage": "/assets/images/day-tours/tours/delhi_5-day-tour-of-delhi-agra-_846b312997.webp"
+      },
+      {
+        "id": "2-days-delhi-sightseeing-tour",
+        "title": "2 DAYS DELHI SIGHTSEEING TOUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/143a7bdc-da59-4562-96bc-c06ceba854fb_overnight-jaipur-tour-from-delhi-by-car-xlarge-1024x684.jpg",
+        "route": "MUNNAR",
+        "link": "/tours/2-days-delhi-sightseeing-tour",
+        "localImage": "/assets/images/day-tours/tours/delhi_143a7bdc-da59-4562-96bc-c_03ce0f0102.jpg"
+      },
+      {
+        "id": "overnight-agra-trip-from-delhi",
+        "title": "OVERNIGHT AGRA TRIP FROM DELHI",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/luchtmening-van-new-delhi-india-71518662.webp",
+        "route": "HIMACHAL",
+        "link": "/tours/overnight-agra-trip-from-delhi",
+        "localImage": "/assets/images/day-tours/tours/delhi_luchtmening-van-new-delhi_87842f0a8a.webp"
+      },
+      {
+        "id": "overnight-jaipur-trip-from-delhi",
+        "title": "OVERNIGHT JAIPUR TRIP FROM DELHI",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/650e2-delhi-1.webp",
+        "route": "UTTARAKHAND",
+        "link": "/tours/overnight-jaipur-trip-from-delhi",
+        "localImage": "/assets/images/day-tours/tours/delhi_650e2-delhi-1_309ab95c41.webp"
+      },
+      {
+        "id": "2-days-amritsar-tour-from-delhi",
+        "title": "2 DAYS AMRITSAR TOUR FROM DELHI",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/07/New-Delhi-India-War-Memorial-arch-Sir-1024x682.webp",
+        "route": "KULLU, MANALI",
+        "link": "/tours/2-days-amritsar-tour-from-delhi",
+        "localImage": "/assets/images/day-tours/tours/delhi_New-Delhi-India-War-Memor_7facc7b8c3.webp"
+      },
+      {
+        "id": "same-day-sariska-tour-from-delhi",
+        "title": "SAME DAY SARISKA TOUR FROM DELHI",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/06/Rajpath-delhi-shutterstock_1195751923.jpg_7647e1aad2-1024x636.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/same-day-sariska-tour-from-delhi",
+        "localImage": "/assets/images/day-tours/tours/delhi_Rajpath-delhi-shutterstoc_92edaa3c34.jpg"
+      },
+      {
+        "id": "same-day-neemrana-tour-from-delhi",
+        "title": "SAME DAY NEEMRANA TOUR FROM DELHI",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Facade_Premises__Neemrana_Fort_Palace__palace_hotel_in_Rajasthan_14_4_d55b91-1024x576.avif",
+        "route": "JAIPUR",
+        "link": "/tours/same-day-neemrana-tour-from-delhi",
+        "localImage": "/assets/images/day-tours/tours/delhi_Facade_Premises__Neemrana_df4924127b.avif"
+      },
+      {
+        "id": "same-day-jaipur-tour-from-delhi-by-car",
+        "title": "SAME DAY JAIPUR TOUR FROM DELHI BY CAR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/Agra-Jaipur-Tour-img-1024x684.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/same-day-jaipur-tour-from-delhi-by-car",
+        "localImage": "/assets/images/day-tours/tours/delhi_Agra-Jaipur-Tour-img-1024_9778f06af8.jpg"
+      },
+      {
+        "id": "private-one-way-agra-transfer-from-delhi",
+        "title": "PRIVATE ONE WAY AGRA TRANSFER FROM DELHI",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/taj-mahal-agra-tourism-entry-fee-timings-holidays-reviews-header-1024x512.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/private-one-way-agra-transfer-from-delhi",
+        "localImage": "/assets/images/day-tours/tours/delhi_taj-mahal-agra-tourism-en_201b8e595b.jpg"
+      },
+      {
+        "id": "private-one-way-jaipur-transfer-from-delhi",
+        "title": "PRIVATE ONE WAY JAIPUR TRANSFER FROM DELHI",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/First-Time-Visitors-Guide-to-Jaipur-1-1024x538.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/private-one-way-jaipur-transfer-from-delhi",
+        "localImage": "/assets/images/day-tours/tours/delhi_First-Time-Visitors-Guide_01b12b1f78.jpg"
+      },
+      {
+        "id": "same-day-agra-trip-by-express-way-from-delhi",
+        "title": "SAME DAY AGRA TRIP BY EXPRESS WAY FROM DELHI",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Agra_03-2016_10_Agra_Fort.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/same-day-agra-trip-by-express-way-from-delhi",
+        "localImage": "/assets/images/day-tours/tours/delhi_Agra_03-2016_10_Agra_Fort_5caf9a0dac.jpg"
+      },
+      {
+        "id": "same-day-jaipur-tour-by-express-train-from-delhi",
+        "title": "SAME DAY JAIPUR TOUR BY EXPRESS TRAIN FROM DELHI",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/5-day-tour-of-delhi-agra-gwalior-ochhaa-and-khajuraho-2828911-1024x683.webp",
+        "route": "JAIPUR",
+        "link": "/tours/same-day-jaipur-tour-by-express-train-from-delhi",
+        "localImage": "/assets/images/day-tours/tours/delhi_5-day-tour-of-delhi-agra-_846b312997.webp"
+      },
+      {
+        "id": "same-day-taj-mahal-fatehpur-sikri-tour-from-delhi",
+        "title": "SAME DAY TAJ MAHAL & FATEHPUR SIKRI TOUR FROM DELHI",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/800px-Taj_Mahal_Agra_India_edit3.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/same-day-taj-mahal-fatehpur-sikri-tour-from-delhi",
+        "localImage": "/assets/images/day-tours/tours/delhi_800px-Taj_Mahal_Agra_Indi_7a1cf139ef.jpg"
+      },
+      {
+        "id": "same-day-mathura-vrindavan-with-taj-tour-from-delhi",
+        "title": "SAME DAY MATHURA & VRINDAVAN WITH TAJ TOUR FROM DELHI",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/10-Places-to-Visit-in-Mathura-To-Add-to-Your-Bucket-List-1024x642.avif",
+        "route": "JAIPUR",
+        "link": "/tours/same-day-mathura-vrindavan-with-taj-tour-from-delhi",
+        "localImage": "/assets/images/day-tours/tours/delhi_10-Places-to-Visit-in-Mat_87e1949aba.avif"
+      },
+      {
+        "id": "mathura-vrindavan-s-spiritual-temple-tour-from-delhi",
+        "title": "MATHURA & VRINDAVAN’S SPIRITUAL & TEMPLE TOUR FROM DELHI",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/Spritual-Ganges-Tour-img-1024x684.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/mathura-vrindavan-s-spiritual-temple-tour-from-delhi",
+        "localImage": "/assets/images/day-tours/tours/delhi_Spritual-Ganges-Tour-img-_e4dbe97308.jpg"
+      },
+      {
+        "id": "private-same-day-jaipur-transfer-via-taj-mahal-from-delhi",
+        "title": "PRIVATE SAME DAY JAIPUR TRANSFER VIA TAJ MAHAL FROM DELHI",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/India-for-Beginners-Taj-Mahal-1024x768.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/private-same-day-jaipur-transfer-via-taj-mahal-from-delhi",
+        "localImage": "/assets/images/day-tours/tours/delhi_India-for-Beginners-Taj-M_a7db4bbf23.jpg"
+      },
+      {
+        "id": "same-day-taj-mahal-sunrise-tour-with-agra-fort-from-delhi",
+        "title": "SAME DAY TAJ MAHAL SUNRISE TOUR WITH AGRA FORT FROM DELHI",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/agra-22-1024x545.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/same-day-taj-mahal-sunrise-tour-with-agra-fort-from-delhi",
+        "localImage": "/assets/images/day-tours/tours/delhi_agra-22-1024x545_84808188c6.jpg"
+      },
+      {
+        "id": "same-day-taj-mahal-agra-fort-tour-by-express-train-from-delhi",
+        "title": "SAME DAY TAJ MAHAL & AGRA FORT TOUR BY EXPRESS TRAIN FROM DELHI",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/agra-15-1024x545.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/same-day-taj-mahal-agra-fort-tour-by-express-train-from-delhi",
+        "localImage": "/assets/images/day-tours/tours/delhi_agra-15-1024x545_90782b0edb.jpg"
+      },
+      {
+        "id": "same-day-taj-mahal-sunrise-sunset-tour-with-agra-fort-from-delhi",
+        "title": "SAME DAY TAJ MAHAL SUNRISE & SUNSET TOUR WITH AGRA FORT FROM DELHI",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/delhi-23-1024x545.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/same-day-taj-mahal-sunrise-sunset-tour-with-agra-fort-from-delhi",
+        "localImage": "/assets/images/day-tours/tours/delhi_delhi-23-1024x545_6bdc6aba3c.jpg"
+      }
+    ],
+    "tourCount": 21,
+    "localHeroImage": "/assets/images/day-tours/delhi-hero.jpg",
+    "id": "delhi",
+    "pageTitle": "Delhi Tour Packages",
+    "breadcrumb": "Delhi Tours",
+    "popularExtensions": [
+      "Same Day Agra Tour from Delhi",
+      "Agra Group Tour from Delhi",
+      "2 Days Agra Tour from Delhi with Fatehpur Sikri",
+      "Overnight Agra Tour from Delhi",
+      "Kashmir Tour Packages from Delhi",
+      "Leh Tour from Delhi",
+      "Shimla & Manali Tour from Delhi",
+      "Rishikesh & Haridwar Tour from Delhi"
+    ]
+  },
+  "jaipur": {
+    "cityName": "Jaipur",
+    "slug": "jaipur-tour-packages",
+    "title": "Jaipur Tour Packages",
+    "tagline": "Explore the Royal Heritage, Majestic Hill Forts, and Vibrant Bazaars of the Pink City",
+    "heroImage": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/elephant-safari-in-jaipur.webp",
+    "defaultRoute": "Jaipur",
+    "overview": [
+      "Jaipur, popularly known as the Pink City of Rajasthan, is one of India’s most fascinating travel destinations. Renowned for its magnificent hill forts, royal palaces, vibrant culture, and world-famous handicrafts, it forms an essential anchor of the Golden Triangle.",
+      "At Delightful India Holidays, we offer a wide range of Jaipur Tour Packages and Jaipur Holiday Packages tailored to suit every traveler. From private tuk-tuk heritage rides and elephant sanctuary visits to full-day guided tours and luxury palace stays, we ensure an unforgettable Rajasthani experience.",
+      "Beyond the city, we also offer popular day excursions including Pushkar, Ajmer, Ranthambore Tiger Safari, Bhangarh, Chand Baori Abhaneri Stepwell, and Sambhar Salt Lake."
+    ],
+    "placesToVisit": [
+      {
+        "name": "Amber Fort",
+        "desc": "The iconic UNESCO World Heritage hill fort known for its artistic Hindu-Rajput elements, sprawling courtyards, and the glittering Sheesh Mahal (Mirror Palace).",
+        "highlights": [
+          "Sheesh Mahal",
+          "Elephant / Jeep Ride",
+          "Maota Lake View"
+        ]
+      },
+      {
+        "name": "City Palace",
+        "desc": "A breathtaking complex in the heart of the Pink City combining Rajput and Mughal architecture, housing Chandra Mahal and Mubarak Mahal museums.",
+        "highlights": [
+          "Peacock Gate",
+          "Museum Galleries",
+          "Royal Courtyard"
+        ]
+      },
+      {
+        "name": "Hawa Mahal",
+        "desc": "The legendary Palace of Winds with 953 honeycombed jharokhas built in 1799 for royal women to observe street festivals without being seen.",
+        "highlights": [
+          "953 Windows",
+          "Pink Sandstone Facade",
+          "Panoramic City View"
+        ]
+      },
+      {
+        "name": "Jantar Mantar",
+        "desc": "A UNESCO World Heritage astronomical observatory built by Maharaja Sawai Jai Singh II, featuring the world’s largest stone sundial.",
+        "highlights": [
+          "Vrihat Samrat Yantra",
+          "19 Instruments",
+          "Astronomical Marvel"
+        ]
+      },
+      {
+        "name": "Nahargarh Fort",
+        "desc": "Perched atop the rugged Aravalli Hills, Nahargarh offers the most stunning sunset panoramas over the entire illuminated Pink City.",
+        "highlights": [
+          "Sunset Point",
+          "Madhavendra Bhawan",
+          "Padao Open Cafe"
+        ]
+      },
+      {
+        "name": "Jaigarh Fort",
+        "desc": "Known as the Fort of Victory, it houses the Jaivana cannon—the world’s largest cannon on wheels—and offers military architecture views.",
+        "highlights": [
+          "Jaivana Cannon",
+          "Underground Water Tanks",
+          "Armory Museum"
+        ]
+      },
+      {
+        "name": "Jal Mahal",
+        "desc": "The romantic Water Palace appearing to float in the middle of Man Sagar Lake, surrounded by the dramatic Aravalli mountain range.",
+        "highlights": [
+          "Lake Reflection",
+          "Aravalli Backdrop",
+          "Evening Illumination"
+        ]
+      },
+      {
+        "name": "Albert Hall Museum",
+        "desc": "The oldest museum in Rajasthan, showcasing an exquisite collection of miniature paintings, carpets, metal sculptures, and weaponry.",
+        "highlights": [
+          "Indo-Saracenic Design",
+          "Egyptian Mummy",
+          "Night Illumination"
+        ]
+      }
+    ],
+    "attractions": [
+      {
+        "title": "Shopping in Jaipur Bazaars",
+        "desc": "Discover traditional textiles, block prints, blue pottery, and handcrafted leather mojris in Bapu Bazaar, or shop for authentic gemstones and silver jewelry in world-famous Johari Bazaar."
+      },
+      {
+        "title": "Patrika Gate & Cultural Spots",
+        "desc": "Walk through the breathtakingly hand-painted archways of Patrika Gate at Jawahar Circle, explore the sacred natural springs of Galtaji (Monkey Temple), and relax in Sisodia Rani Garden."
+      },
+      {
+        "title": "Unique Jaipur Experiences",
+        "desc": "Enjoy an ethical elephant sanctuary visit with feeding and washing, experience thrilling leopard safaris in Jhalana Forest, or take a sunrise Hot Air Balloon flight over royal palaces."
+      }
+    ],
+    "whyChoose": [
+      "Comprehensive range of Pink City day tours, heritage walks, and tuk-tuk tours",
+      "Comfortable private air-conditioned cars with courteous, English-speaking drivers",
+      "Verified, licensed local tour guides passionate about Jaipur’s royal history",
+      "Customizable itineraries including shopping, photography, and wildlife safaris",
+      "Hassle-free online booking and prompt 24/7 guest assistance"
+    ],
+    "travelServices": [
+      "Jaipur Sightseeing Taxi & Cab Hire with Professional Driver",
+      "Jaipur Airport (JAI) & Railway Station Pick & Drop Services",
+      "Same Day Tours to Pushkar, Ajmer, Ranthambore, and Bhangarh",
+      "One-Way Intercity Transfers to Agra, Delhi, Jodhpur, and Udaipur"
+    ],
+    "faqs": [
+      {
+        "q": "How many days are needed to explore Jaipur?",
+        "a": "A 2-day tour is ideal to cover major attractions like Amber Fort, City Palace, Hawa Mahal, Jantar Mantar, and local bazaars. 3-4 days allow for excursions to Pushkar or Ranthambore."
+      },
+      {
+        "q": "What is the best time to visit Jaipur?",
+        "a": "October to March offers cool and pleasant weather, making it the perfect time for exploring forts and open-air bazaars."
+      },
+      {
+        "q": "Can we arrange an Elephant Sanctuary visit in Jaipur?",
+        "a": "Yes, we arrange ethical, cruelty-free elephant activities including feeding, painting with natural colors, and walking alongside elephants."
+      }
+    ],
+    "tours": [
+      {
+        "id": "pink-city-jaipur-tuktuk-tour",
+        "title": "PINK CITY JAIPUR TUKTUK TOUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jaipur-18-1024x545.jpg",
+        "route": "Pink City Jaipur Tuktuk Tour",
+        "link": "/tours/pink-city-jaipur-tuktuk-tour",
+        "localImage": "/assets/images/day-tours/tours/jaipur_jaipur-18-1024x545_1295d11f7a.jpg"
+      },
+      {
+        "id": "pink-city-jaipur-shopping-tour",
+        "title": "PINK CITY JAIPUR SHOPPING TOUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/05/jaipur-shop.jpg",
+        "route": "Pink City Jaipur Shopping Tour",
+        "link": "/tours/pink-city-jaipur-shopping-tour",
+        "localImage": "/assets/images/day-tours/tours/jaipur_jaipur-shop_6c4b754db3.jpg"
+      },
+      {
+        "id": "jhalana-leopard-safari-tour",
+        "title": "JHALANA LEOPARD SAFARI TOUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/Jhalana-Leopard-img-1024x684.jpg",
+        "route": "Udaipur",
+        "link": "/tours/jhalana-leopard-safari-tour",
+        "localImage": "/assets/images/day-tours/tours/jaipur_Jhalana-Leopard-img-1024x_9c51ec4cc0.jpg"
+      },
+      {
+        "id": "same-day-agra-trip-from-jaipur",
+        "title": "SAME DAY AGRA TRIP FROM JAIPUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/agra-8-1024x545.jpg",
+        "route": "Same Day Agra Trip From Jaipur",
+        "link": "/tours/same-day-agra-trip-from-jaipur",
+        "localImage": "/assets/images/day-tours/tours/jaipur_agra-8-1024x545_601df0cf7f.jpg"
+      },
+      {
+        "id": "same-day-bundi-tour-from-jaipur",
+        "title": "SAME DAY BUNDI TOUR FROM JAIPUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jaipur-10-1024x545.jpg",
+        "route": "Same Day Bundi Tour From Jaipur",
+        "link": "/tours/same-day-bundi-tour-from-jaipur",
+        "localImage": "/assets/images/day-tours/tours/jaipur_jaipur-10-1024x545_ef5419a91c.jpg"
+      },
+      {
+        "id": "overnight-agra-trip-from-jaipur",
+        "title": "OVERNIGHT AGRA TRIP FROM JAIPUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/agra-17-1024x545.jpg",
+        "route": "UTTARAKHAND",
+        "link": "/tours/overnight-agra-trip-from-jaipur",
+        "localImage": "/assets/images/day-tours/tours/jaipur_agra-17-1024x545_f005b72435.jpg"
+      },
+      {
+        "id": "2-days-jaipur-ranthmbhore-tour",
+        "title": "2 DAYS JAIPUR RANTHMBHORE TOUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Tiger_Ranthambore_-1024x601.jpg",
+        "route": "KULLU, MANALI",
+        "link": "/tours/2-days-jaipur-ranthmbhore-tour",
+        "localImage": "/assets/images/day-tours/tours/jaipur_Tiger_Ranthambore_-1024x6_572f8b7904.jpg"
+      },
+      {
+        "id": "2-days-jaipur-sightseeing-tour",
+        "title": "2 DAYS JAIPUR SIGHTSEEING TOUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jaipur-17-1024x545.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/2-days-jaipur-sightseeing-tour",
+        "localImage": "/assets/images/day-tours/tours/jaipur_jaipur-17-1024x545_dd09566c32.jpg"
+      },
+      {
+        "id": "same-day-pushkar-tour-from-jaipur",
+        "title": "SAME DAY PUSHKAR TOUR FROM JAIPUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/Pushkar-Tour-img-1024x684.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/same-day-pushkar-tour-from-jaipur",
+        "localImage": "/assets/images/day-tours/tours/jaipur_Pushkar-Tour-img-1024x684_baffa7c822.jpg"
+      },
+      {
+        "id": "same-day-sambhar-tour-from-jaipur",
+        "title": "SAME DAY SAMBHAR TOUR FROM JAIPUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/sambhar-1024x545.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/same-day-sambhar-tour-from-jaipur",
+        "localImage": "/assets/images/day-tours/tours/jaipur_sambhar-1024x545_ec0201cf56.jpg"
+      },
+      {
+        "id": "same-day-samode-tour-from-jaipur",
+        "title": "SAME DAY SAMODE TOUR FROM JAIPUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/hanuman-prasad-goenka-haveli.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/same-day-samode-tour-from-jaipur",
+        "localImage": "/assets/images/day-tours/tours/jaipur_hanuman-prasad-goenka-hav_fd2cd410bb.jpg"
+      },
+      {
+        "id": "same-day-sariska-tour-from-jaipur",
+        "title": "SAME DAY SARISKA TOUR FROM JAIPUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Sariska-Tiger-Reserve-7-1024x545.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/same-day-sariska-tour-from-jaipur",
+        "localImage": "/assets/images/day-tours/tours/jaipur_Sariska-Tiger-Reserve-7-1_7a2c35edb8.jpg"
+      },
+      {
+        "id": "2-days-jaipur-agra-tour-from-jaipur",
+        "title": "2 DAYS JAIPUR AGRA TOUR FROM JAIPUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/agra-22-1024x545.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/2-days-jaipur-agra-tour-from-jaipur",
+        "localImage": "/assets/images/day-tours/tours/jaipur_agra-22-1024x545_84808188c6.jpg"
+      },
+      {
+        "id": "same-day-abhaneri-tour-from-jaipur",
+        "title": "SAME DAY ABHANERI TOUR FROM JAIPUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jaipur-12-1024x545.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/same-day-abhaneri-tour-from-jaipur",
+        "localImage": "/assets/images/day-tours/tours/jaipur_jaipur-12-1024x545_ecd8bff7af.jpg"
+      },
+      {
+        "id": "same-day-shakhawati-tour-from-jaipur",
+        "title": "SAME DAY SHAKHAWATI TOUR FROM JAIPUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Rampuria-haveli-Bikaner-1.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/same-day-shakhawati-tour-from-jaipur",
+        "localImage": "/assets/images/day-tours/tours/jaipur_Rampuria-haveli-Bikaner-1_4b07513243.jpg"
+      },
+      {
+        "id": "3-days-ranthambhore-tour-from-jaipur",
+        "title": "3 DAYS RANTHAMBHORE TOUR FROM JAIPUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/ranthambore-2-1024x545.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/3-days-ranthambhore-tour-from-jaipur",
+        "localImage": "/assets/images/day-tours/tours/jaipur_ranthambore-2-1024x545_77092aa981.jpg"
+      },
+      {
+        "id": "private-full-day-jaipur-sightseeing-tour",
+        "title": "PRIVATE FULL DAY JAIPUR SIGHTSEEING TOUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jaipur-7-1024x545.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/private-full-day-jaipur-sightseeing-tour",
+        "localImage": "/assets/images/day-tours/tours/jaipur_jaipur-7-1024x545_f14cf5ca9f.jpg"
+      },
+      {
+        "id": "same-day-ranthmbhore-tour-from-jaipur",
+        "title": "SAME DAY RANTHMBHORE TOUR FROM JAIPUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/147-Ranthambore-wildlife-1024x643.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/same-day-ranthmbhore-tour-from-jaipur",
+        "localImage": "/assets/images/day-tours/tours/jaipur_147-Ranthambore-wildlife-_ed5e9fdac5.jpg"
+      },
+      {
+        "id": "same-day-bhangarh-abhaneri-tour-from-jaipur",
+        "title": "SAME DAY BHANGARH & ABHANERI TOUR FROM JAIPUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jaipur-19-1024x545.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/same-day-bhangarh-abhaneri-tour-from-jaipur",
+        "localImage": "/assets/images/day-tours/tours/jaipur_jaipur-19-1024x545_37008d2a1e.jpg"
+      },
+      {
+        "id": "private-half-day-tour-of-pink-city-jaipur-with-guide",
+        "title": "PRIVATE HALF DAY TOUR OF PINK CITY JAIPUR WITH GUIDE",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/Pink-City-img-1024x684.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/private-half-day-tour-of-pink-city-jaipur-with-guide",
+        "localImage": "/assets/images/day-tours/tours/jaipur_Pink-City-img-1024x684_a4914059aa.jpg"
+      },
+      {
+        "id": "jaipur-elephant-sanctuary-visit-with-activities-tour",
+        "title": "JAIPUR ELEPHANT SANCTUARY VISIT WITH ACTIVITIES TOUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2025/09/elephant-safari.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/jaipur-elephant-sanctuary-visit-with-activities-tour",
+        "localImage": "/assets/images/day-tours/tours/jaipur_elephant-safari_11c0705ce9.jpg"
+      },
+      {
+        "id": "private-same-day-delhi-transfer-via-taj-mahal-from-jaipur",
+        "title": "PRIVATE SAME DAY DELHI TRANSFER VIA TAJ MAHAL FROM JAIPUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/delhi-22-1024x545.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/private-same-day-delhi-transfer-via-taj-mahal-from-jaipur",
+        "localImage": "/assets/images/day-tours/tours/jaipur_delhi-22-1024x545_5a26488486.jpg"
+      },
+      {
+        "id": "agra-transfer-from-jaipur-with-abhaneri-fatehpur-sikri",
+        "title": "AGRA TRANSFER FROM JAIPUR WITH ABHANERI & FATEHPUR SIKRI",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jaipur-1-1024x545.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/agra-transfer-from-jaipur-with-abhaneri-fatehpur-sikri",
+        "localImage": "/assets/images/day-tours/tours/jaipur_jaipur-1-1024x545_cce262e8a4.jpg"
+      },
+      {
+        "id": "blissful-private-full-day-tour-of-pink-city-jaipur-with-guide",
+        "title": "BLISSFUL PRIVATE FULL DAY TOUR OF PINK CITY JAIPUR WITH GUIDE",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jaipur-18-1024x545.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/blissful-private-full-day-tour-of-pink-city-jaipur-with-guide",
+        "localImage": "/assets/images/day-tours/tours/jaipur_jaipur-18-1024x545_1295d11f7a.jpg"
+      },
+      {
+        "id": "fascinating-private-full-day-tour-of-incredible-pink-city-jaipur",
+        "title": "FASCINATING PRIVATE FULL DAY TOUR OF INCREDIBLE PINK CITY JAIPUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jaipur-12-1024x545.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/fascinating-private-full-day-tour-of-incredible-pink-city-jaipur",
+        "localImage": "/assets/images/day-tours/tours/jaipur_jaipur-12-1024x545_ecd8bff7af.jpg"
+      },
+      {
+        "id": "instagram-reels-the-best-photography-spots-tour-of-jaipur",
+        "title": "INSTAGRAM REELS & THE BEST PHOTOGRAPHY SPOTS TOUR OF JAIPUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/Agra-Jaipur-Tour-img-1024x684.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/instagram-reels-the-best-photography-spots-tour-of-jaipur",
+        "localImage": "/assets/images/day-tours/tours/jaipur_Agra-Jaipur-Tour-img-1024_9778f06af8.jpg"
+      }
+    ],
+    "tourCount": 26,
+    "localHeroImage": "/assets/images/day-tours/jaipur-hero.webp",
+    "id": "jaipur",
+    "pageTitle": "Jaipur Tour Packages",
+    "breadcrumb": "Jaipur Tours"
+  },
+  "jaisalmer": {
+    "cityName": "Jaisalmer",
+    "slug": "jaisalmer-tour-packages",
+    "title": "Jaisalmer Tour Packages",
+    "tagline": "Discover the Golden City, Living Sandstone Forts, and Magical Thar Desert Camping",
+    "heroImage": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jaisalmer-fort.jpg",
+    "defaultRoute": "Jaisalmer",
+    "overview": [
+      "Experience the magic of Rajasthan with our carefully designed Jaisalmer Tour Packages, offering an unforgettable journey through the heart of the Thar Desert. Known as the Golden City, Jaisalmer rises like a golden mirage with its yellow sandstone architecture and living medieval fortress.",
+      "Our Jaisalmer Travel Packages include visits to iconic forts, ancient havelis, colorful desert markets, Swiss tent desert camps, and thrilling camel & jeep safaris on Sam Sand Dunes. From luxury desert retreats to cultural folk dance nights around campfires, we craft memories of a lifetime.",
+      "As a premier Jaisalmer tour operator, we offer complete travel solutions including private transportation, heritage hotel stays, desert safari bookings, and customized excursions to Kuldhara Ghost Village, Longewala Border Post, and Tanot Mata Temple."
+    ],
+    "placesToVisit": [
+      {
+        "name": "Jaisalmer Fort (Sonar Qila)",
+        "desc": "A UNESCO World Heritage Site and one of the world’s very few living forts, housing thousands of residents, ancient Jain temples, shops, and royal palaces.",
+        "highlights": [
+          "Living Medieval Fort",
+          "Raj Mahal Palace",
+          "7 Jain Temples"
+        ]
+      },
+      {
+        "name": "Patwon Ki Haveli",
+        "desc": "The largest and most ornate haveli in Jaisalmer, a five-story complex featuring intricate jharokhas, stone filigree, and exquisite wall paintings.",
+        "highlights": [
+          "Stone Filigree Work",
+          "Museum Galleries",
+          "5 Haveli Cluster"
+        ]
+      },
+      {
+        "name": "Salim Singh Ki Haveli",
+        "desc": "An architectural wonder built in 1815 with a distinctive peacock-shaped roof and 38 exquisitely carved balconies supported by stone brackets.",
+        "highlights": [
+          "Peacock-Shaped Roof",
+          "38 Balconies",
+          "Historic Architecture"
+        ]
+      },
+      {
+        "name": "Nathmal Ki Haveli",
+        "desc": "Built by two Muslim architect brothers carving simultaneously from opposite sides, resulting in a fascinating harmony of Rajput and Islamic art.",
+        "highlights": [
+          "Stone Elephants",
+          "Harmonious Symmetry",
+          "Royal Interiors"
+        ]
+      },
+      {
+        "name": "Gadisar Lake",
+        "desc": "A serene 14th-century artificial lake surrounded by artistic yellow sandstone chhatris, shrines, and temples, perfect for evening boating.",
+        "highlights": [
+          "Tilon Ki Pol Gate",
+          "Migratory Birds",
+          "Chhatris Sunset"
+        ]
+      },
+      {
+        "name": "Sam Sand Dunes",
+        "desc": "The iconic undulating Thar desert dunes located 40 km from the city, world-famous for breathtaking sunsets, camel rides, and desert camping.",
+        "highlights": [
+          "Golden Sand Dunes",
+          "Camel & Jeep Safari",
+          "Desert Camping & Folk Dance"
+        ]
+      },
+      {
+        "name": "Kuldhara Abandoned Village",
+        "desc": "A mysterious 13th-century Paliwal Brahmin settlement abandoned overnight 200 years ago, preserved as a ghost village frozen in time.",
+        "highlights": [
+          "Ghost Village Mystery",
+          "Stone Ruins",
+          "Historical Legend"
+        ]
+      },
+      {
+        "name": "Tanot Mata Temple & Longewala",
+        "desc": "The miraculous border temple that survived heavy Pakistani shelling during the 1965 and 1971 wars, and the historic Longewala battlefield site.",
+        "highlights": [
+          "Miracle Bombs Exhibit",
+          "Battlefield Memorial",
+          "Thar Border Drive"
+        ]
+      }
+    ],
+    "attractions": [
+      {
+        "title": "Thar Desert Camel & Jeep Safaris",
+        "desc": "Traverse golden dunes on traditional camel rides during sunset, or experience adrenaline-pumping dune bashing in 4x4 open Jeeps across the Thar."
+      },
+      {
+        "title": "Luxury Desert Camping & Cultural Shows",
+        "desc": "Stay in luxury Swiss tents under starry desert skies, savor authentic Rajasthani dinner around campfires, and enjoy live Kalbelia dance and Manganiyar musical performances."
+      },
+      {
+        "title": "Jaisalmer Heritage & Shopping Walks",
+        "desc": "Wander through the golden stone alleys of Sonar Qila, visit ancient Jain temples, and shop for camel leather goods, mirror-work textiles, and fossil stone crafts."
+      }
+    ],
+    "whyChoose": [
+      "Handpicked desert camps at Sam Sand Dunes with premium Swiss tents and clean amenities",
+      "Authentic camel and 4x4 jeep safaris guided by local desert experts",
+      "Full coverage of Jaisalmer heritage, havelis, and desert border excursions",
+      "Customizable packages for couples, families, photographers, and solo adventurers",
+      "Best price guarantee with zero hidden fees and on-ground local team support"
+    ],
+    "travelServices": [
+      "Sam Sand Dunes Desert Camp Booking & Safari Packages",
+      "Private Taxi & Cab Hire for Local Sightseeing and Desert Transfers",
+      "Jaisalmer Railway Station & Airport Transfers",
+      "Intercity Car Rental to Jodhpur, Bikaner, and Jaipur"
+    ],
+    "faqs": [
+      {
+        "q": "What is included in Jaisalmer Desert Camping Packages?",
+        "a": "Our packages typically include luxury Swiss tent accommodation, camel safari at sunset, evening tea with snacks, live Kalbelia dance and cultural performance, traditional buffet dinner, and breakfast."
+      },
+      {
+        "q": "What is the best time to visit Jaisalmer?",
+        "a": "October to March is the ideal season. Desert days are pleasantly warm and nights are crisp and cool, perfect for bonfires and star-gazing."
+      },
+      {
+        "q": "How far are Sam Sand Dunes from Jaisalmer city?",
+        "a": "Sam Sand Dunes are approximately 40 km (45-50 minutes drive) from Jaisalmer city center, with smooth paved highways."
+      }
+    ],
+    "tours": [
+      {
+        "id": "blissful-jaisalmer-shopping-tour",
+        "title": "Blissful Jaisalmer Shopping Tour",
+        "duration": "Day Tour",
+        "category": "JaisalmerSightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/05/jaipur-shop.jpg",
+        "route": "Jaisalmer – 4 Hour",
+        "link": "/tours/blissful-jaisalmer-shopping-tour",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_jaipur-shop_6c4b754db3.jpg"
+      },
+      {
+        "id": "fascinating-day-tour-of-golden-city-jaisalmer",
+        "title": "Fascinating Day Tour of Golden City Jaisalmer",
+        "duration": "Day Tour",
+        "category": "JaisalmerSightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jaisalmer-fort-1024x576.jpg",
+        "route": "Jaisalmer – 6 Hour",
+        "link": "/tours/fascinating-day-tour-of-golden-city-jaisalmer",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_jaisalmer-fort-1024x576_7ee11988cb.jpg"
+      },
+      {
+        "id": "half-day-incredible-jaisalmer-city-tour",
+        "title": "Half Day Incredible Jaisalmer City Tour",
+        "duration": "Half Day",
+        "category": "JaisalmerSightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/places-to-visit-in-Jaisalmer-1024x576.webp",
+        "route": "Jaisalmer – 3 Hour",
+        "link": "/tours/half-day-incredible-jaisalmer-city-tour",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_places-to-visit-in-Jaisal_fcd18aee27.webp"
+      },
+      {
+        "id": "fantastic-jaisalmer-trip-with-overnight-desert-experience",
+        "title": "Fantastic Jaisalmer Trip with Overnight Desert Experience",
+        "duration": "Day Tour",
+        "category": "JaisalmerSightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/overnight-camel-safari-in-jaisalmer.jpg",
+        "route": "Jaisalmer – 2 Night 3 Days",
+        "link": "/tours/fantastic-jaisalmer-trip-with-overnight-desert-experience",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_overnight-camel-safari-in_70396cb73d.jpg"
+      },
+      {
+        "id": "instagram-reels-photography-tour-of-jaisalmer-with-desert-camping-trip",
+        "title": "Instagram Reels & Photography Tour of Jaisalmer with Desert Camping Trip",
+        "duration": "Day Tour",
+        "category": "JaisalmerSightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jaisalmer-tours.jpeg",
+        "route": "Jaisalmer – 2 Night 3 Days",
+        "link": "/tours/instagram-reels-photography-tour-of-jaisalmer-with-desert-camping-trip",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_jaisalmer-tours_a5f0150a2e.jpeg"
+      },
+      {
+        "id": "pre-wedding-location-shoot-in-jaisalmer-with-thar-desert",
+        "title": "Pre-Wedding Location Shoot in Jaisalmer with Thar Desert",
+        "duration": "Day Tour",
+        "category": "JaisalmerSightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/jaisalmer-desert-camp-booking-1024x494.jpg",
+        "route": "Jaisalmer – 3 Night 4 Days",
+        "link": "/tours/pre-wedding-location-shoot-in-jaisalmer-with-thar-desert",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_jaisalmer-desert-camp-boo_f16d78a510.jpg"
+      },
+      {
+        "id": "full-day-private-tour-of-golden-city-jaisalmer-with-guide",
+        "title": "Full-Day Private Tour of Golden City ( Jaisalmer ) with Guide",
+        "duration": "Day Tour",
+        "category": "JaisalmerSightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/camel-safari-golden-routes-1024x576.jpg",
+        "route": "Jaisalmer – 6 Hour",
+        "link": "/tours/full-day-private-tour-of-golden-city-jaisalmer-with-guide",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-golden-route_c8cf21d63e.jpg"
+      },
+      {
+        "id": "instagram-reels-photography-tour-with-the-best-photography-spots-of-jaisalmer",
+        "title": "Instagram Reels & Photography Tour with The Best Photography Spots of Jaisalmer",
+        "duration": "Day Tour",
+        "category": "JaisalmerSightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/ca.jpg",
+        "route": "Jaisalmer – 1 Full Day",
+        "link": "/tours/instagram-reels-photography-tour-with-the-best-photography-spots-of-jaisalmer",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_ca_6be844ffc0.jpg"
+      },
+      {
+        "id": "jaisalmer-with-blissful-camel-safari-with-wild-life-of-thar-desert-camping",
+        "title": "Jaisalmer with Blissful Camel Safari with Wild Life of Thar Desert & Camping",
+        "duration": "Day Tour",
+        "category": "JaisalmerSightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/04/jeep-safari-delightful-india-holidays-1.jpg",
+        "route": "Jaisalmer – 3 Nights 4 Days",
+        "link": "/tours/jaisalmer-with-blissful-camel-safari-with-wild-life-of-thar-desert-camping",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_jeep-safari-delightful-in_e716078b51.jpg"
+      },
+      {
+        "id": "purely-private-full-day-tuk-tuk-tour-of-golden-city-jaisalmer",
+        "title": "Purely Private Full Day Tuk-Tuk Tour of Golden City Jaisalmer",
+        "duration": "Day Tour",
+        "category": "JaisalmerSightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/Jaipur-TukTuk-Tour-img-1024x684.jpg",
+        "route": "Jaisalmer – 6 Hour",
+        "link": "/tours/purely-private-full-day-tuk-tuk-tour-of-golden-city-jaisalmer",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_Jaipur-TukTuk-Tour-img-10_958b1d0736.jpg"
+      },
+      {
+        "id": "travelastic-heritage-walking-tour-of-jaisalmer-with-local-street-food-experience",
+        "title": "Travelastic Heritage Walking Tour of Jaisalmer with Local Street Food Experience",
+        "duration": "Day Tour",
+        "category": "JaisalmerSightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/3e9732f7-c5cf-40a3-b892-d61f00fc4d85_cultural-heritage-trails-of-jaisalmer-2-hours-guided-walking-tour-xlarge-1024x683.jpg",
+        "route": "Jaisalmer – Between 2 to 3 Hour",
+        "link": "/tours/travelastic-heritage-walking-tour-of-jaisalmer-with-local-street-food-experience",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_3e9732f7-c5cf-40a3-b892-d_a0de9bdd13.jpg"
+      },
+      {
+        "id": "marvin-multi-day-camel-safari",
+        "title": "Marvin Multi Day Camel Safari",
+        "duration": "Day Tour",
+        "category": "Camel Safari",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Camel-safari-jaialmer-1024x576.jpg",
+        "route": "Jaisalmer – 15 to 45 Minutes",
+        "link": "/tours/marvin-multi-day-camel-safari",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_Camel-safari-jaialmer-102_a7c0e41851.jpg"
+      },
+      {
+        "id": "blissful-camel-safari-with-enchanting-beauty-of-thar-desert",
+        "title": "Blissful Camel Safari with Enchanting Beauty of Thar Desert",
+        "duration": "Day Tour",
+        "category": "Camel Safari",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/04/camel-safari-delightful-india-holidays-9.jpg",
+        "route": "Jaisalmer – 1 Day",
+        "link": "/tours/blissful-camel-safari-with-enchanting-beauty-of-thar-desert",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-delightful-i_41272a92ac.jpg"
+      },
+      {
+        "id": "dazzling-half-day-camel-safari-tour-with-sunset",
+        "title": "Dazzling Half Day Camel Safari Tour With Sunset",
+        "duration": "Half Day",
+        "category": "Camel Safari",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/04/camel-safari-delightful-india-holidays-16.jpg",
+        "route": "Jaisalmer – Half Day",
+        "link": "/tours/dazzling-half-day-camel-safari-tour-with-sunset",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-delightful-i_c14583ca2b.jpg"
+      },
+      {
+        "id": "delightful-2-nights-camel-safari-in-the-great-thar-desert",
+        "title": "Delightful 2 Nights Camel Safari in The Great Thar Desert",
+        "duration": "2 Nights",
+        "category": "Camel Safari",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/04/camel-safari-delightful-india-holidays-6.jpg",
+        "route": "Jaisalmer – 2 Nights 3 Days",
+        "link": "/tours/delightful-2-nights-camel-safari-in-the-great-thar-desert",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-delightful-i_9042131273.jpg"
+      },
+      {
+        "id": "exploriana-2-nights-camel-safari-with-overnight-desert-camping",
+        "title": "Exploriana 2 Nights Camel Safari with Overnight Desert Camping",
+        "duration": "2 Nights",
+        "category": "Camel Safari",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2025/08/image-16.png",
+        "route": "Jaisalmer – 2 Nights / 3 Days",
+        "link": "/tours/exploriana-2-nights-camel-safari-with-overnight-desert-camping",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_image-16_75288e02e3.png"
+      },
+      {
+        "id": "fernweh-half-day-camel-safari-tour-with-sunrise",
+        "title": "Fernweh Half Day Camel Safari Tour with Sunrise",
+        "duration": "Half Day",
+        "category": "Camel Safari",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jaisalmer-camel-safari.jpeg",
+        "route": "Jaisalmer – Hald Days",
+        "link": "/tours/fernweh-half-day-camel-safari-tour-with-sunrise",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_jaisalmer-camel-safari_e2e5cb14c9.jpeg"
+      },
+      {
+        "id": "mesmerizing-camel-safari-with-bliss-of-thar-desert",
+        "title": "Mesmerizing Camel Safari with Bliss of Thar Desert",
+        "duration": "Day Tour",
+        "category": "Camel Safari",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/camel-safari.png",
+        "route": "Jaisalmer – 1 Night / 2 Days",
+        "link": "/tours/mesmerizing-camel-safari-with-bliss-of-thar-desert",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari_f0051a66bc.png"
+      },
+      {
+        "id": "nomadic-non-touristic-overnight-camel-safari-tour-with-beauty-of-thar-desert",
+        "title": "Nomadic Non Touristic Overnight Camel Safari Tour with Beauty of Thar Desert",
+        "duration": "Day Tour",
+        "category": "Camel Safari",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/evening-camel-safari.png",
+        "route": "Jaisalmer – 1 Night / 2 Days",
+        "link": "/tours/nomadic-non-touristic-overnight-camel-safari-tour-with-beauty-of-thar-desert",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_evening-camel-safari_35c8e1dbdf.png"
+      },
+      {
+        "id": "peep-s-billions-of-stars-moon-experience-with-off-beaten-track-camel-safari",
+        "title": "Peep's Billions of Stars & Moon Experience with Off Beaten Track Camel Safari",
+        "duration": "Day Tour",
+        "category": "Camel Safari",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/about-camel-safari.jpg",
+        "route": "Jaisalmer – 1 Nights / 2 Days",
+        "link": "/tours/peep-s-billions-of-stars-moon-experience-with-off-beaten-track-camel-safari",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_about-camel-safari_88915e73b3.jpg"
+      },
+      {
+        "id": "rumi-camel-safari-with-enchanting-beauty-of-thar-desert",
+        "title": "Rumi Camel Safari with Enchanting Beauty of Thar Desert",
+        "duration": "Day Tour",
+        "category": "Camel Safari",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/camel-safari-jaisalmer-rj.webp",
+        "route": "Jaisalmer – 1 Nights / 2 Days",
+        "link": "/tours/rumi-camel-safari-with-enchanting-beauty-of-thar-desert",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-jaisalmer-rj_8ef1187c99.webp"
+      },
+      {
+        "id": "wanderlust-camel-safari-with-rumi-caravan-of-thar-desert",
+        "title": "Wanderlust Camel Safari with Rumi Caravan of Thar Desert",
+        "duration": "Day Tour",
+        "category": "Camel Safari",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/camel-safari-in-jaisalmer-1024x635.jpg",
+        "route": "Jaisalmer – 1 Nights / 2 Days",
+        "link": "/tours/wanderlust-camel-safari-with-rumi-caravan-of-thar-desert",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-in-jaisalmer_0ab5989e74.jpg"
+      },
+      {
+        "id": "buoyant-luxurious-camping-in-the-thar-desert",
+        "title": "Buoyant Luxurious Camping In The Thar Desert",
+        "duration": "Day Tour",
+        "category": "Desert Camping",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/jaisalmer-2-day-thar-desert-experience-1268861-1024x683.webp",
+        "route": "Jaisalmer – 1 Night / 2 Days",
+        "link": "/tours/buoyant-luxurious-camping-in-the-thar-desert",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_jaisalmer-2-day-thar-dese_225b01202c.webp"
+      },
+      {
+        "id": "enchanting-desert-camping-tour-with-thriller-adventure",
+        "title": "Enchanting Desert Camping Tour with Thriller Adventure",
+        "duration": "Day Tour",
+        "category": "Desert Camping",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/jaisalmer-desert-camp-booking-1024x494.jpg",
+        "route": "Jaisalmer – 1 Night / 2 Days",
+        "link": "/tours/enchanting-desert-camping-tour-with-thriller-adventure",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_jaisalmer-desert-camp-boo_f16d78a510.jpg"
+      },
+      {
+        "id": "frenzy-paradise-desert-camping-tour-in-the-great-thar-desert",
+        "title": "Frenzy Paradise Desert Camping Tour in The Great Thar Desert",
+        "duration": "Day Tour",
+        "category": "Desert Camping",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Toyota-Fortuner-Safari-at-Thar-Desert-1024x819.png",
+        "route": "Jaisalmer – 1 Night / 2 Days",
+        "link": "/tours/frenzy-paradise-desert-camping-tour-in-the-great-thar-desert",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_Toyota-Fortuner-Safari-at_7f72a09506.png"
+      },
+      {
+        "id": "joyful-2-night-desert-camping-cultural-show",
+        "title": "Joyful 2 Night Desert Camping & Cultural Show",
+        "duration": "2 Night",
+        "category": "Desert Camping",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/camel-safari-golden-routes-1024x576.jpg",
+        "route": "Jaisalmer – 2 Nights / 3 Days",
+        "link": "/tours/joyful-2-night-desert-camping-cultural-show",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-golden-route_c8cf21d63e.jpg"
+      },
+      {
+        "id": "mystical-desert-camping-cultural-show-in-the-great-thar-desert",
+        "title": "Mystical Desert Camping & Cultural Show in The Great Thar Desert",
+        "duration": "Day Tour",
+        "category": "Desert Camping",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/north-india-img-1024x684.png",
+        "route": "Jaisalmer – 2 Nights / 3 Days",
+        "link": "/tours/mystical-desert-camping-cultural-show-in-the-great-thar-desert",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_north-india-img-1024x684_eb8d4a6028.png"
+      },
+      {
+        "id": "serene-trip-of-mesmerizing-sunset-with-evening-cultural-show-dinner",
+        "title": "Serene Trip of Mesmerizing Sunset with Evening Cultural Show & Dinner",
+        "duration": "Day Tour",
+        "category": "Desert Camping",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2025/08/image-15-1024x576.png",
+        "route": "Jaisalmer – 1 Days",
+        "link": "/tours/serene-trip-of-mesmerizing-sunset-with-evening-cultural-show-dinner",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_image-15-1024x576_a5f8ada54e.png"
+      },
+      {
+        "id": "haunted-trail-tour-of-jaisalmer",
+        "title": "Haunted Trail Tour of Jaisalmer",
+        "duration": "Day Tour",
+        "category": "Exotic & Rural",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/09/ChatGPT-Image-Jun-3-2026-08_07_19-PM-1024x682.png",
+        "route": "Jaisalmer – 1 Day",
+        "link": "/tours/haunted-trail-tour-of-jaisalmer",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_ChatGPT-Image-Jun-3-2026-_5f9d331c34.png"
+      },
+      {
+        "id": "temple-trail-tour-of-jaisalmer",
+        "title": "Temple Trail Tour of jaisalmer",
+        "duration": "Day Tour",
+        "category": "Exotic & Rural",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/09/Jain-Temple-Jaisalmer-1024x683.jpeg",
+        "route": "Jaisalmer – 1 Day",
+        "link": "/tours/temple-trail-tour-of-jaisalmer",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_Jain-Temple-Jaisalmer-102_fe9fe6bf42.jpeg"
+      },
+      {
+        "id": "jaisalmer-rural-village-eco-farm-tour",
+        "title": "Jaisalmer Rural Village & Eco Farm Tour",
+        "duration": "Day Tour",
+        "category": "Exotic & Rural",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/09/farm-with-foreign-european-tourists-in-india.jpg",
+        "route": "Jaisalmer – 1 Day",
+        "link": "/tours/jaisalmer-rural-village-eco-farm-tour",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_farm-with-foreign-europea_63c7ed6ac0.jpg"
+      },
+      {
+        "id": "jaisalmer-rural-village-ngo-school-tour",
+        "title": "Jaisalmer Rural Village & NGO School Tour",
+        "duration": "Day Tour",
+        "category": "Exotic & Rural",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/09/rural-village-tour-1024x768.jpeg",
+        "route": "Jaisalmer – 1 Day",
+        "link": "/tours/jaisalmer-rural-village-ngo-school-tour",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_rural-village-tour-1024x7_2469455522.jpeg"
+      },
+      {
+        "id": "adventure-gypsy-tour-of-desert-national-park-with-wild-life",
+        "title": "Adventure Gypsy Tour of Desert National Park with Wild Life",
+        "duration": "Day Tour",
+        "category": "Exotic & Rural",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/10/145-35.jpg",
+        "route": "Jaisalmer – Between 1 to 2 Hour",
+        "link": "/tours/adventure-gypsy-tour-of-desert-national-park-with-wild-life",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_145-35_88625e6578.jpg"
+      },
+      {
+        "id": "diwali-in-the-thar-desert",
+        "title": "Diwali in the Thar Desert",
+        "duration": "Day Tour",
+        "category": "Festival & Event",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Diwali-in-the-Thar-Desert-1024x683.png",
+        "route": "Jaisalmer – 1 Night / 2 Days",
+        "link": "/tours/diwali-in-the-thar-desert",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_Diwali-in-the-Thar-Desert_fcce7302a3.png"
+      },
+      {
+        "id": "diwali-in-jaisalmer",
+        "title": "Diwali in Jaisalmer",
+        "duration": "Day Tour",
+        "category": "Festival & Event",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/new-year-party-in-jaisalmer.jpg",
+        "route": "Jaisalmer – 1 Night / 2 Days",
+        "link": "/tours/diwali-in-jaisalmer",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_new-year-party-in-jaisalm_63eae24593.jpg"
+      },
+      {
+        "id": "new-year-at-dunes",
+        "title": "New Year at Dunes",
+        "duration": "Day Tour",
+        "category": "Festival & Event",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/dance-Jaisalmer-1024x473.jpg",
+        "route": "Jaisalmer – 1 Night / 2 Days",
+        "link": "/tours/new-year-at-dunes",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_dance-Jaisalmer-1024x473_df67dda87d.jpg"
+      },
+      {
+        "id": "christmas-at-thar-desert",
+        "title": "Christmas at Thar Desert",
+        "duration": "Day Tour",
+        "category": "Festival & Event",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/vknmouizurpccof1sid2.avif",
+        "route": "Jaisalmer – 1 Night / 2 Days",
+        "link": "/tours/christmas-at-thar-desert",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_vknmouizurpccof1sid2_8e331cbbbb.avif"
+      },
+      {
+        "id": "breakfast-at-dunes-with-beautiful-sunrise",
+        "title": "Breakfast at Dunes with Beautiful Sunrise",
+        "duration": "Day Tour",
+        "category": "RomanticJaisalmer",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/camel-safari-in-jaisalmer-1024x635.jpg",
+        "route": "Jaisalmer – 3 Hour",
+        "link": "/tours/breakfast-at-dunes-with-beautiful-sunrise",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-in-jaisalmer_0ab5989e74.jpg"
+      },
+      {
+        "id": "hi-tea-on-the-dunes-with-beautiful-sunset",
+        "title": "Hi-Tea on The Dunes with Beautiful Sunset",
+        "duration": "Day Tour",
+        "category": "RomanticJaisalmer",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/146.jpg",
+        "route": "Jaisalmer – 1 Hour",
+        "link": "/tours/hi-tea-on-the-dunes-with-beautiful-sunset",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_146_90268abc26.jpg"
+      },
+      {
+        "id": "honeymoon-at-thar-desert",
+        "title": "Honeymoon at Thar Desert",
+        "duration": "Day Tour",
+        "category": "RomanticJaisalmer",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Romantic-Jaisalmer4-1024x683.jpeg",
+        "route": "Jaisalmer – 1 Night / 2 Days",
+        "link": "/tours/honeymoon-at-thar-desert",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_Romantic-Jaisalmer4-1024x_d1100b4896.jpeg"
+      },
+      {
+        "id": "marvin-romantic-jaisalmer-tour",
+        "title": "Marvin Romantic Jaisalmer Tour",
+        "duration": "Day Tour",
+        "category": "RomanticJaisalmer",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Romantic-Jaisalmer1-1024x683.jpeg",
+        "route": "Jaisalmer – 2 Night 3 Days",
+        "link": "/tours/marvin-romantic-jaisalmer-tour",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_Romantic-Jaisalmer1-1024x_b60f66f1bf.jpeg"
+      },
+      {
+        "id": "romantic-candle-light-dinner-at-dunes",
+        "title": "Romantic Candle Light Dinner at Dunes",
+        "duration": "Day Tour",
+        "category": "RomanticJaisalmer",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Romantic-Jaisalmer-1024x683.jpeg",
+        "route": "Jaisalmer – 2 Hour",
+        "link": "/tours/romantic-candle-light-dinner-at-dunes",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_Romantic-Jaisalmer-1024x6_c9b3d31a5a.jpeg"
+      },
+      {
+        "id": "jeep-safari-at-thar-desert",
+        "title": "Jeep Safari at Thar Desert",
+        "duration": "Day Tour",
+        "category": "Adventure & Thriller",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/04/jeep-safari-delightful-india-holidays-1.jpg",
+        "route": "Jaisalmer – 15 to 45 Minutes",
+        "link": "/tours/jeep-safari-at-thar-desert",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_jeep-safari-delightful-in_e716078b51.jpg"
+      },
+      {
+        "id": "paramotoring-at-thar-desert",
+        "title": "Paramotoring at Thar Desert",
+        "duration": "Day Tour",
+        "category": "Adventure & Thriller",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Paramotoring-1024x766.png",
+        "route": "Jaisalmer – 10 to 30 Minutes",
+        "link": "/tours/paramotoring-at-thar-desert",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_Paramotoring-1024x766_a3a183576b.png"
+      },
+      {
+        "id": "parasailing-at-thar-desert",
+        "title": "Parasailing at Thar Desert",
+        "duration": "Day Tour",
+        "category": "Adventure & Thriller",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Parasailing.jpg",
+        "route": "Jaisalmer – 10 to 20 Minutes",
+        "link": "/tours/parasailing-at-thar-desert",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_Parasailing_4db43cfcaa.jpg"
+      },
+      {
+        "id": "quad-biking-at-thar-desert",
+        "title": "Quad Biking at Thar Desert",
+        "duration": "Day Tour",
+        "category": "Adventure & Thriller",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Quad-Biking-at-Thar-Desert-1024x819.png",
+        "route": "Jaisalmer – 10 to 20 Minutes",
+        "link": "/tours/quad-biking-at-thar-desert",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_Quad-Biking-at-Thar-Deser_0e1fb1d5c0.png"
+      },
+      {
+        "id": "toyota-fortuner-safari-at-thar-desert",
+        "title": "Toyota Fortuner Safari at Thar Desert",
+        "duration": "Day Tour",
+        "category": "Adventure & Thriller",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Toyota-Fortuner-Safari-at-Thar-Desert-1024x819.png",
+        "route": "Jaisalmer",
+        "link": "/tours/toyota-fortuner-safari-at-thar-desert",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_Toyota-Fortuner-Safari-at_7f72a09506.png"
+      },
+      {
+        "id": "kuldhara-village",
+        "title": "Kuldhara Village",
+        "duration": "Enquire Now",
+        "category": "Adventure & Thriller",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/05/jaipur-shop.jpg",
+        "route": "Home – / Jaisalmer Tour Packages – Jaisalmer – 4 Hour – Jaisalmer – 6 Hour – Jaisalmer – 3 Hour – Jaisalmer – 2 Night 3 Days – Jaisalmer – 2 Night 3 Days – Jaisalmer – 3 Night 4 Days – Jaisalmer – 6 Hour – Jaisalmer – 1 Full Day – Jaisalmer – 3 Nights 4 Days – Jaisalmer – 6 Hour – Jaisalmer – Between 2 to 3 Hour – Jaisalmer – 15 to 45 Minutes – Jaisalmer – 1 Day – Jaisalmer – Half Day – Jaisalmer – 2 Nights 3 Days – Jaisalmer – 2 Nights / 3 Days – Jaisalmer – Hald Days – Jaisalmer – 1 Night / 2 Days – Jaisalmer – 1 Night / 2 Days – Jaisalmer – 1 Nights / 2 Days – Jaisalmer – 1 Nights / 2 Days – Jaisalmer – 1 Nights / 2 Days – Jaisalmer – 1 Night / 2 Days – Jaisalmer – 1 Night / 2 Days – Jaisalmer – 1 Night / 2 Days – Jaisalmer – 2 Nights / 3 Days – Jaisalmer – 2 Nights / 3 Days – Jaisalmer – 1 Days – Jaisalmer – 1 Day – Jaisalmer – 1 Day – Jaisalmer – 1 Day – Jaisalmer – 1 Day – Jaisalmer – Between 1 to 2 Hour – Jaisalmer – 1 Night / 2 Days – Jaisalmer – 1 Night / 2 Days – Jaisalmer – 1 Night / 2 Days – Jaisalmer – 1 Night / 2 Days – Jaisalmer – 3 Hour – Jaisalmer – 1 Hour – Jaisalmer – 1 Night / 2 Days – Jaisalmer – 2 Night 3 Days – Jaisalmer – 2 Hour – Jaisalmer – 15 to 45 Minutes – Jaisalmer – 10 to 30 Minutes – Jaisalmer – 10 to 20 Minutes – Jaisalmer – 10 to 20 Minutes – Jaisalmer – Take a Jaisalmer Sightseeing Tour – Visit heritage havelis and museums – Try authentic Rajasthani cuisine – Jaisalmer Fort – Patwon Ki Haveli – Salim Singh Ki Haveli – Nathmal Ki Haveli – Gadisar Lake – Sam Sand Dunes – Khuri Sand Dunes – Kuldhara Village – Desert National Park – Bada Bagh – Jain Temples – Tanot Mata Temple – Longewala War Memorial – Amar Sagar Lake – Vyas Chhatri – Best season for tourism – Pleasant weather for sightseeing – Hot temperatures – Occasional rainfall – Desert landscapes appear refreshed – Less crowded tourist attractions",
+        "link": "/tours/kuldhara-village",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_jaipur-shop_6c4b754db3.jpg"
+      }
+    ],
+    "tourCount": 48,
+    "localHeroImage": "/assets/images/day-tours/jaisalmer-hero.jpg",
+    "id": "jaisalmer",
+    "pageTitle": "Jaisalmer Tour Packages",
+    "breadcrumb": "Jaisalmer Tours"
+  },
+  "agra": {
+    "cityName": "Agra",
+    "slug": "agra-tour-packages",
+    "title": "Agra Tour Packages",
+    "tagline": "Witness the Timeless Beauty of the Taj Mahal and Mughal Architectural Marvels",
+    "heroImage": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/delhi-to-agra.jpg",
+    "defaultRoute": "Agra",
+    "overview": [
+      "Agra Tour Packages are among the most popular India Day Tours, offering a perfect blend of history, architecture, and world-renowned cultural heritage. Located in Uttar Pradesh along the sacred Yamuna River, Agra was once the magnificent capital of the Mughal Empire.",
+      "Our curated Agra Tour Packages and Same Day Agra Tours from Delhi are designed for utmost comfort and flexibility, featuring private air-conditioned vehicle transfers, skip-the-line monument entries, and expert government-approved historians.",
+      "The highlight of every journey is the breathtaking Taj Mahal, one of the Seven Wonders of the World, alongside the red sandstone Agra Fort, picturesque Mehtab Bagh, and the deserted Mughal ghost capital of Fatehpur Sikri."
+    ],
+    "placesToVisit": [
+      {
+        "name": "Taj Mahal",
+        "desc": "The world-famous white marble mausoleum built by Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal. A UNESCO World Heritage Site and eternal symbol of love.",
+        "highlights": [
+          "Pietra Dura Inlay",
+          "Charbagh Gardens",
+          "Sunrise / Sunset Views"
+        ]
+      },
+      {
+        "name": "Agra Fort",
+        "desc": "A colossal 16th-century red sandstone fortress serving as the main residence of Mughal emperors until 1638, featuring Jahangiri Mahal, Khas Mahal, and Sheesh Mahal.",
+        "highlights": [
+          "Jahangiri Mahal",
+          "Diwan-i-Khas",
+          "Taj Mahal View from Balcony"
+        ]
+      },
+      {
+        "name": "Mehtab Bagh",
+        "desc": "The Moonlit Garden situated directly across the Yamuna River, perfectly aligned with the Taj Mahal, providing the ultimate sunset photography viewpoint.",
+        "highlights": [
+          "Yamuna River Vista",
+          "Uncrowded Sunset",
+          "Taj Mahal Reflection"
+        ]
+      },
+      {
+        "name": "Fatehpur Sikri",
+        "desc": "The magnificent ghost city founded in 1571 by Emperor Akbar, boasting the towering Buland Darwaza, Salim Chishti Dargah, and Panch Mahal.",
+        "highlights": [
+          "Buland Darwaza",
+          "Salim Chishti Tomb",
+          "Panch Mahal"
+        ]
+      },
+      {
+        "name": "Tomb of I’timād-ud-Daulah (Baby Taj)",
+        "desc": "Often described as a jewel box or draft of the Taj Mahal, this delicate marble tomb features exquisite pietra dura inlay and tranquil riverfront gardens.",
+        "highlights": [
+          "Jewel Box Architecture",
+          "Lattice Marble Screens",
+          "Riverfront Garden"
+        ]
+      },
+      {
+        "name": "Akbar’s Tomb, Sikandra",
+        "desc": "The resting place of Emperor Akbar, combining Islamic, Hindu, Buddhist, and Christian architectural styles within peaceful forested grounds.",
+        "highlights": [
+          "Tiered Structure",
+          "Four Minarets Gate",
+          "Deer in Gardens"
+        ]
+      }
+    ],
+    "attractions": [
+      {
+        "title": "Sunrise & Sunset Taj Mahal Tours",
+        "desc": "Experience the ethereal transformation of the Taj Mahal’s white marble as dawn breaks or as dusk turns the sky into gold, avoiding peak crowds and heat."
+      },
+      {
+        "title": "Heritage Walks & Street Food in Old Agra",
+        "desc": "Stroll through the bustling Kinari Bazaar, sample Agra’s legendary sweet Petha in diverse flavors, and discover traditional marble inlay artisanal workshops."
+      },
+      {
+        "title": "Spiritual Mathura & Vrindavan Excursion",
+        "desc": "Combine your Agra holiday with a day trip to the birthplace of Lord Krishna at Mathura and the sacred temple town of Vrindavan with Prem Mandir and Banke Bihari Temple."
+      }
+    ],
+    "whyChoose": [
+      "Private door-to-door transfers from Delhi via the fast Yamuna Expressway",
+      "Knowledgeable government-licensed tour guides with deep historical insights",
+      "Pre-booked monument entry assistance to save valuable sightseeing time",
+      "Comfortable, clean, sanitized vehicles with experienced highway drivers",
+      "Customizable itineraries matching flight schedules and train connections"
+    ],
+    "travelServices": [
+      "Same Day Agra Tour from Delhi by Private Car / Gatimaan Express",
+      "Private One-Way Delhi to Agra / Agra to Jaipur Transfers",
+      "Agra Sightseeing Taxi & Local Cab Hire with Driver",
+      "Fatehpur Sikri, Mathura & Vrindavan Day Trip Extensions"
+    ],
+    "faqs": [
+      {
+        "q": "Is the Taj Mahal closed on any day?",
+        "a": "Yes, the Taj Mahal is closed every Friday for general visitors. It is open on all other days from sunrise to sunset."
+      },
+      {
+        "q": "How long does it take to travel from Delhi to Agra?",
+        "a": "Via the Yamuna Expressway, driving takes approximately 3 to 3.5 hours. By the Gatimaan Express train, it takes only 1 hour and 40 minutes."
+      },
+      {
+        "q": "What is the best time for Taj Mahal photography?",
+        "a": "Sunrise is widely considered the best time for photography due to soft golden lighting, tranquil atmosphere, and minimal crowds."
+      }
+    ],
+    "tours": [
+      {
+        "id": "agra-sightseeing-tour",
+        "title": "Agra Sightseeing Tour",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/Jaipur-Agra-img-1024x684.jpg",
+        "route": "Agra",
+        "link": "/tours/agra-sightseeing-tour",
+        "localImage": "/assets/images/day-tours/tours/agra_Jaipur-Agra-img-1024x684_afd4e4459e.jpg"
+      },
+      {
+        "id": "half-day-agra-sightseeing-tour",
+        "title": "Half day Agra Sightseeing Tour",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Agra_03-2016_10_Agra_Fort.jpg",
+        "route": "Agra",
+        "link": "/tours/half-day-agra-sightseeing-tour",
+        "localImage": "/assets/images/day-tours/tours/agra_Agra_03-2016_10_Agra_Fort_5caf9a0dac.jpg"
+      },
+      {
+        "id": "private-one-way-delhi-transfer-from-agra",
+        "title": "Private One Way Delhi Transfer from Agra",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/06/AgraFort_1534158959.avif",
+        "route": "Agra",
+        "link": "/tours/private-one-way-delhi-transfer-from-agra",
+        "localImage": "/assets/images/day-tours/tours/agra_AgraFort_1534158959_0b427a051d.avif"
+      },
+      {
+        "id": "taj-mahal-sunrise-sundet-tour-from-agra",
+        "title": "Taj Mahal Sunrise & Sundet Tour From Agra",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/fatehpur-sikri-agra-tourism-entry-fee-timings-holidays-reviews-header-1024x512.jpg",
+        "route": "Agra",
+        "link": "/tours/taj-mahal-sunrise-sundet-tour-from-agra",
+        "localImage": "/assets/images/day-tours/tours/agra_fatehpur-sikri-agra-touri_52e8ced94d.jpg"
+      },
+      {
+        "id": "full-day-agra-sightseeing-with-fatehpur-sikri",
+        "title": "Full day Agra Sightseeing With Fatehpur Sikri",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/5-day-tour-of-delhi-agra-gwalior-ochhaa-and-khajuraho-2828911-1024x683.webp",
+        "route": "Agra",
+        "link": "/tours/full-day-agra-sightseeing-with-fatehpur-sikri",
+        "localImage": "/assets/images/day-tours/tours/agra_5-day-tour-of-delhi-agra-_846b312997.webp"
+      },
+      {
+        "id": "mathura-vridavan-spiritual-temple-tour-from-agra",
+        "title": "Mathura & Vridavan Spiritual & Temple Tour From Agra",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/10-Places-to-Visit-in-Mathura-To-Add-to-Your-Bucket-List-1024x642.avif",
+        "route": "Agra",
+        "link": "/tours/mathura-vridavan-spiritual-temple-tour-from-agra",
+        "localImage": "/assets/images/day-tours/tours/agra_10-Places-to-Visit-in-Mat_87e1949aba.avif"
+      },
+      {
+        "id": "instagram-reels-with-the-best-photography-spots-tour-of-agra",
+        "title": "Instagram Reels With The Best Photography Spots Tour of Agra",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/agra-22-1024x545.jpg",
+        "route": "Agra",
+        "link": "/tours/instagram-reels-with-the-best-photography-spots-tour-of-agra",
+        "localImage": "/assets/images/day-tours/tours/agra_agra-22-1024x545_84808188c6.jpg"
+      },
+      {
+        "id": "jaipur-transfer-from-agra-with-fatehpur-sikri-abhaneri",
+        "title": "Jaipur Transfer From Agra With Fatehpur Sikri & Abhaneri",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/taj-mahal-agra-tourism-entry-fee-timings-holidays-reviews-header-1024x512.jpg",
+        "route": "Agra - Jaipur",
+        "link": "/tours/jaipur-transfer-from-agra-with-fatehpur-sikri-abhaneri",
+        "localImage": "/assets/images/day-tours/tours/agra_taj-mahal-agra-tourism-en_201b8e595b.jpg"
+      }
+    ],
+    "tourCount": 8,
+    "localHeroImage": "/assets/images/day-tours/agra-hero.jpg",
+    "id": "agra",
+    "pageTitle": "Agra Tour Packages",
+    "breadcrumb": "Agra Tours"
+  },
+  "jodhpur": {
+    "cityName": "Jodhpur",
+    "slug": "jodhpur-tour-packages",
+    "title": "Jodhpur Tour Packages",
+    "tagline": "Immerse Yourself in the Blue City, Imposing Mehrangarh Fort, and Desert Excursions",
+    "heroImage": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-2.jpg",
+    "defaultRoute": "Jodhpur",
+    "overview": [
+      "Discover the royal charm of Rajasthan with our carefully crafted Jodhpur Tour Packages. Known as the Blue City, Jodhpur is world-famous for its magnificent hill fort, royal marble cenotaphs, vibrant cobalt-blue lanes, and rich Marwar culture.",
+      "Our Jodhpur Travel Packages cover the city’s iconic attractions, guided heritage walks through old blue neighborhoods, village safaris, Bishnoi community tours, and comfortable private transport across Rajasthan.",
+      "Whether you seek a quick 2-Day Jodhpur Sightseeing Tour, a romantic holiday, or an adventurous excursion to the sand dunes and temples of Osian, Delightful India Holidays guarantees a seamless travel experience."
+    ],
+    "placesToVisit": [
+      {
+        "name": "Mehrangarh Fort",
+        "desc": "Perched 400 feet above the city on a cliff, this massive fort built in 1459 houses royal palaces, museum courtyards, and cannon viewpoints overlooking the blue houses.",
+        "highlights": [
+          "Sheesh Mahal",
+          "Phool Mahal",
+          "Cannon Viewpoints",
+          "Museum Collections"
+        ]
+      },
+      {
+        "name": "Jaswant Thada",
+        "desc": "An elegant white marble memorial built in 1899 for Maharaja Jaswant Singh II, featuring intricately carved sheets of marble that glow warmly in the sunlight.",
+        "highlights": [
+          "White Marble Carvings",
+          "Lakeside Garden",
+          "Royal Cenotaphs"
+        ]
+      },
+      {
+        "name": "Umaid Bhawan Palace",
+        "desc": "One of the world’s largest private royal residences, designed by Henry Lanchester in Art Deco style, housing a luxury heritage hotel and museum.",
+        "highlights": [
+          "Art Deco Architecture",
+          "Vintage Car Collection",
+          "Royal Museum"
+        ]
+      },
+      {
+        "name": "Mandore Gardens",
+        "desc": "The historic former capital of Marwar featuring high-rock terraces, ornate cenotaphs of Jodhpur rulers, ancient temples, and playful langur monkeys.",
+        "highlights": [
+          "Ornate Cenotaphs",
+          "Hall of Heroes",
+          "Lush Botanical Gardens"
+        ]
+      },
+      {
+        "name": "Clock Tower & Sardar Market",
+        "desc": "The bustling heart of the old city surrounded by lively bazaars offering spices, Mathania chilies, handcrafted textiles, antiques, and famous Makhania lassi.",
+        "highlights": [
+          "Ghanta Ghar",
+          "Spices & Handicrafts",
+          "Famous Lassi Stalls"
+        ]
+      },
+      {
+        "name": "Toorji Ka Jhalra",
+        "desc": "An exquisite 18th-century stepwell carved with intricate dancing figures, lions, and water spouts, surrounded by modern artisan cafes.",
+        "highlights": [
+          "Stepwell Architecture",
+          "Historic Stone Carvings",
+          "Cafe Culture"
+        ]
+      },
+      {
+        "name": "Rao Jodha Desert Rock Park",
+        "desc": "A 70-hectare ecological park adjacent to Mehrangarh Fort, restoring native desert rock ecology and offering walking trails with fort vistas.",
+        "highlights": [
+          "Native Desert Flora",
+          "Ecological Walking Trails",
+          "Dramatic Fort Views"
+        ]
+      },
+      {
+        "name": "Osian Sand Dunes & Temples",
+        "desc": "An ancient desert oasis 65 km from Jodhpur, famous for 8th-century Sachiya Mata and Jain temples, and thrilling camel/jeep desert safaris.",
+        "highlights": [
+          "Sachiya Mata Temple",
+          "Desert Camel Safari",
+          "Sunset Sand Dunes"
+        ]
+      }
+    ],
+    "attractions": [
+      {
+        "title": "Blue City Heritage & Walking Tours",
+        "desc": "Navigate narrow cobalt-painted lanes with an expert local guide, discover hidden stepwells, meet friendly local families, and capture iconic rooftop photos."
+      },
+      {
+        "title": "Authentic Jodhpur Food Trail",
+        "desc": "Treat your palate to authentic Jodhpuri culinary treasures: crispy Mirchi Bada, Pyaaz Kachori at Janta Sweet Home, creamy Makhaniya Lassi, and royal Dal Baati Churma."
+      },
+      {
+        "title": "Mehrangarh Flying Fox Zip-Lining",
+        "desc": "Glide across six thrilling zip-lines over walls, bastions, and lakes of Mehrangarh Fort with aerial vistas of the Blue City below."
+      }
+    ],
+    "whyChoose": [
+      "Comprehensive coverage of forts, palaces, old city walks, and desert extensions",
+      "Experienced local guides with deep knowledge of Marwar history and traditions",
+      "Private air-conditioned vehicles with trusted, professional drivers",
+      "Customizable itineraries including village safaris and Osian camping",
+      "Transparent pricing with prompt customer support before and during your tour"
+    ],
+    "travelServices": [
+      "Jodhpur Local Sightseeing Taxi & Cab Hire",
+      "Jodhpur Airport (JDH) & Railway Station Pick & Drop",
+      "Day Trips to Osian, Khimsar, Kumbhalgarh, and Ranakpur",
+      "Intercity Transfers to Jaisalmer, Udaipur, and Jaipur"
+    ],
+    "faqs": [
+      {
+        "q": "Why is Jodhpur called the Blue City?",
+        "a": "The old city’s houses were traditionally painted with indigo/copper-sulfate blue wash to keep interiors cool under the scorching sun and to repel termites."
+      },
+      {
+        "q": "How many days are needed in Jodhpur?",
+        "a": "A 2-day tour is sufficient to cover Mehrangarh Fort, Jaswant Thada, Umaid Bhawan Palace, and old city walks. A 3rd day allows for Osian desert safaris or Bishnoi village tours."
+      },
+      {
+        "q": "Can we take a day trip from Jodhpur to Osian?",
+        "a": "Yes, Osian is just a 1.5-hour drive (65 km) away, making it an easy and rewarding day trip for temple visits, camel safaris, and sunset sand dunes."
+      }
+    ],
+    "tours": [
+      {
+        "id": "jodhpur-sightseeing-tour",
+        "title": "JODHPUR SIGHTSEEING TOUR",
+        "duration": "Day Tour",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Jodhpur Sightseeing Tour",
+        "link": "/tours/jodhpur-sightseeing-tour",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "3-days-jodhpur-tour-with-osian",
+        "title": "3 DAYS JODHPUR TOUR WITH OSIAN",
+        "duration": "3 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-4-1024x545.jpg",
+        "route": "3 Days Jodhpur Tour With Osian",
+        "link": "/tours/3-days-jodhpur-tour-with-osian",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-4-1024x545_e48978c2f8.jpg"
+      },
+      {
+        "id": "5-days-jodhpur-jaisalmer-tour",
+        "title": "5 DAYS JODHPUR & JAISALMER TOUR",
+        "duration": "5 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1-1024x545.jpg",
+        "route": "5 Days Jodhpur & Jaisalmer Tour",
+        "link": "/tours/5-days-jodhpur-jaisalmer-tour",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1-1024x545_18a11c2aeb.jpg"
+      },
+      {
+        "id": "same-day-osian-tour-from-jodhpur",
+        "title": "SAME DAY OSIAN TOUR FROM JODHPUR",
+        "duration": "Same Day",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/jodhpur-hindistan-gun-batimi-1024x576.jpg",
+        "route": "Same Day Osian Tour From Jodhpur",
+        "link": "/tours/same-day-osian-tour-from-jodhpur",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-hindistan-gun-bat_624c089cd4.jpg"
+      },
+      {
+        "id": "2-days-jaisalmer-trip-from-jodhpur",
+        "title": "2 DAYS JAISALMER TRIP FROM JODHPUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/best-things-to-do-in-Jodhpur-cover-2-1024x767.jpg",
+        "route": "2 Days Jaisalmer Trip From Jodhpur",
+        "link": "/tours/2-days-jaisalmer-trip-from-jodhpur",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_best-things-to-do-in-Jodh_f6e356fdf1.jpg"
+      },
+      {
+        "id": "3-days-jaisalmer-trip-from-jodhpur",
+        "title": "3 DAYS JAISALMER TRIP FROM JODHPUR",
+        "duration": "3 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Jodhpur-beautiful-places-in-Rajasthan.webp",
+        "route": "3 Days Jaisalmer Trip From Jodhpur",
+        "link": "/tours/3-days-jaisalmer-trip-from-jodhpur",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_Jodhpur-beautiful-places-_9c28f5790b.webp"
+      },
+      {
+        "id": "3-days-udaipur-tour-from-jodhpur",
+        "title": "3 DAYS UDAIPUR TOUR  FROM JODHPUR",
+        "duration": "3 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Megharan-fortress-Jodhpur-India-Architecture-Old-Travel-Ancient-1-870x555-1.webp",
+        "route": "3 Days Udaipur Tour  From Jodhpur",
+        "link": "/tours/3-days-udaipur-tour-from-jodhpur",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_Megharan-fortress-Jodhpur_c6017d6608.webp"
+      },
+      {
+        "id": "4-days-jaisalmer-trip-from-jodhpur",
+        "title": "4 DAYS JAISALMER TRIP FROM JODHPUR",
+        "duration": "4 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jaisalmer-fort-1024x576.jpg",
+        "route": "JAIPUR",
+        "link": "/tours/4-days-jaisalmer-trip-from-jodhpur",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jaisalmer-fort-1024x576_7ee11988cb.jpg"
+      },
+      {
+        "id": "6-days-magnificent-rajasthan-tour",
+        "title": "6 DAYS MAGNIFICENT RAJASTHAN TOUR",
+        "duration": "6 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Pichola-Lake-Udaipur-Rajasthan.jpeg",
+        "route": "6 Days Magnificent Rajasthan Tour",
+        "link": "/tours/6-days-magnificent-rajasthan-tour",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_Pichola-Lake-Udaipur-Raja_bf2dede5af.jpeg"
+      },
+      {
+        "id": "same-day-bishnoi-village-tour-from-jodhpur",
+        "title": "SAME DAY BISHNOI VILLAGE TOUR FROM JODHPUR",
+        "duration": "Same Day",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/jodhpur-camel-safari-overnight-stay-in-desert-2557483-1024x683.webp",
+        "route": "Same Day Bishnoi Village Tour From Jodhpur",
+        "link": "/tours/same-day-bishnoi-village-tour-from-jodhpur",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-camel-safari-over_e65634ff77.webp"
+      },
+      {
+        "id": "mehrangarh-fort",
+        "title": "Mehrangarh Fort",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/mehrangarh-fort",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "jaswant-thada",
+        "title": "Jaswant Thada",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/jaswant-thada",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "umaid-bhawan-palace",
+        "title": "Umaid Bhawan Palace",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/umaid-bhawan-palace",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "clock-tower-sardar-market",
+        "title": "Clock Tower & Sardar Market",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/clock-tower-sardar-market",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "mandore-gardens",
+        "title": "Mandore Gardens",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/mandore-gardens",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "toorji-ka-jhalra",
+        "title": "Toorji Ka Jhalra",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/toorji-ka-jhalra",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "rao-jodha-desert-rock-park",
+        "title": "Rao Jodha Desert Rock Park",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/rao-jodha-desert-rock-park",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "bishnoi-village",
+        "title": "Bishnoi Village",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/bishnoi-village",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "osian",
+        "title": "Osian",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/osian",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "october-to-march-peak-season",
+        "title": "October to March (Peak Season)",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/october-to-march-peak-season",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "july-to-september-monsoon-season",
+        "title": "July to September (Monsoon Season)",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/july-to-september-monsoon-season",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "april-to-june-summer-season",
+        "title": "April to June (Summer Season)",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/april-to-june-summer-season",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "jodhpur-heritage-walk",
+        "title": "Jodhpur Heritage Walk",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/jodhpur-heritage-walk",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "walking-tour-in-jodhpur",
+        "title": "Walking Tour in Jodhpur",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/walking-tour-in-jodhpur",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "food-tour-in-jodhpur",
+        "title": "Food Tour in Jodhpur",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/food-tour-in-jodhpur",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "jodhpur-sightseeing-tour-by-tuktuk",
+        "title": "Jodhpur Sightseeing Tour by TukTuk",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/jodhpur-sightseeing-tour-by-tuktuk",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "village-safari-experience",
+        "title": "Village Safari Experience",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/village-safari-experience",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "photography-tour",
+        "title": "Photography Tour",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/photography-tour",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "shopping-in-local-markets",
+        "title": "Shopping in Local Markets",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/shopping-in-local-markets",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "jodhpur-tour-package-2-days",
+        "title": "Jodhpur Tour Package 2 Days",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/jodhpur-tour-package-2-days",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "jodhpur-family-tour-package",
+        "title": "Jodhpur Family Tour Package",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/jodhpur-family-tour-package",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "jodhpur-holiday-package",
+        "title": "Jodhpur Holiday Package",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/jodhpur-holiday-package",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "jodhpur-private-tour",
+        "title": "Jodhpur Private Tour",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/jodhpur-private-tour",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "jodhpur-heritage-tour",
+        "title": "Jodhpur Heritage Tour",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/jodhpur-heritage-tour",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "jodhpur-luxury-tour",
+        "title": "Jodhpur Luxury Tour",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/jodhpur-luxury-tour",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      },
+      {
+        "id": "excursions-and-transfers-from-jodhpur",
+        "title": "Excursions and Transfers from Jodhpur",
+        "duration": "Enquire Now",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
+        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
+        "link": "/tours/excursions-and-transfers-from-jodhpur",
+        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
+      }
+    ],
+    "tourCount": 36,
+    "localHeroImage": "/assets/images/day-tours/jodhpur-hero.jpg",
+    "id": "jodhpur",
+    "pageTitle": "Jodhpur Tour Packages",
+    "breadcrumb": "Jodhpur Tours"
+  },
+  "udaipur": {
+    "cityName": "Udaipur",
+    "slug": "udaipur-tour-packages",
+    "title": "Udaipur Tour Packages",
+    "tagline": "Experience the Romance of the City of Lakes, Grand Palaces, and Serene Pichola Sunsets",
+    "heroImage": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/udaipur-10-1024x545.jpg",
+    "defaultRoute": "Udaipur",
+    "overview": [
+      "Known as the “City of Lakes” and the “Venice of the East,” Udaipur is one of the most romantic and visually stunning destinations in Rajasthan. Nestled around tranquil blue lakes and encircled by the lush green Aravalli Hills, it offers royal elegance and peaceful retreats.",
+      "From relaxing boat cruises on Lake Pichola to marveling at the colossal City Palace, Jag Mandir, and Sajjangarh Monsoon Palace, our Udaipur Tour Packages cater to couples, families, and luxury seekers alike.",
+      "Delightful India Holidays provides complete travel services including private car hire, airport transfers, lakeside heritage hotel bookings, and day excursions to Kumbhalgarh Fort, Ranakpur Jain Temples, Chittorgarh Fort, and Nathdwara."
+    ],
+    "placesToVisit": [
+      {
+        "name": "City Palace",
+        "desc": "The largest palace complex in Rajasthan, built over 400 years on the banks of Lake Pichola, featuring marble balconies, courtyards, and royal museum galleries.",
+        "highlights": [
+          "Mor Chowk Peacock Courtyard",
+          "Sheesh Mahal",
+          "Lake Pichola Balcony Views"
+        ]
+      },
+      {
+        "name": "Lake Pichola",
+        "desc": "The romantic heart of Udaipur, an artificial freshwater lake famous for scenic boat rides, sunset reflections, and iconic island palaces.",
+        "highlights": [
+          "Sunset Boat Cruise",
+          "Lake Palace View",
+          "Jag Mandir Stop"
+        ]
+      },
+      {
+        "name": "Jag Mandir",
+        "desc": "An exquisite 17th-century island palace in Lake Pichola, featuring marble pavilions, courtyards, and stone elephant sentinels.",
+        "highlights": [
+          "Island Palace",
+          "Marble Elephants",
+          "Garden Courtyards"
+        ]
+      },
+      {
+        "name": "Fateh Sagar Lake",
+        "desc": "A picturesque lake connected to Lake Pichola, featuring three islands including Nehru Park, speedboating, and scenic promenade walkways.",
+        "highlights": [
+          "Nehru Park Island",
+          "Speedboat Rides",
+          "Marine Drive Promenade"
+        ]
+      },
+      {
+        "name": "Saheliyon Ki Bari",
+        "desc": "The historic Courtyard of the Maids, built for royal princesses with marble elephants, lotus pools, and gravity-fed rain fountains.",
+        "highlights": [
+          "Rain Fountains",
+          "Lotus Pools",
+          "Marble Pavilions"
+        ]
+      },
+      {
+        "name": "Sajjangarh Monsoon Palace",
+        "desc": "Perched atop Bansdara peak in the Aravallis, built to watch monsoon clouds, offering 360-degree panoramic sunset vistas of Udaipur.",
+        "highlights": [
+          "Monsoon Vistas",
+          "Panoramic Sunset",
+          "Aravalli Hill Scenery"
+        ]
+      },
+      {
+        "name": "Bagore Ki Haveli",
+        "desc": "An 18th-century waterfront mansion at Gangaur Ghat with over 100 rooms, hosting the renowned evening Dharohar Rajasthani folk dance show.",
+        "highlights": [
+          "Dharohar Dance Show",
+          "Puppet Gallery",
+          "Gangaur Ghat Steps"
+        ]
+      },
+      {
+        "name": "Jagdish Temple",
+        "desc": "A magnificent 1651 Hindu temple dedicated to Lord Vishnu, featuring Indo-Aryan architecture, three storeys of hand-carved stone, and brass Garuda.",
+        "highlights": [
+          "Stone Pillar Carvings",
+          "Lord Vishnu Shrine",
+          "Old City Hub"
+        ]
+      }
+    ],
+    "attractions": [
+      {
+        "title": "Lake Pichola Sunset Boat Cruises",
+        "desc": "Board a royal boat from Rameshwar Ghat and cruise around the Taj Lake Palace and Jag Mandir as the setting sun casts a golden glow on the City Palace."
+      },
+      {
+        "title": "Heritage Walks & Lakeside Dining",
+        "desc": "Explore winding cobblestone lanes around Gangaur Ghat and Lal Ghat, shop for miniature Mewar paintings, and dine at romantic lakeside rooftop restaurants overlooking Lake Pichola."
+      },
+      {
+        "title": "Kumbhalgarh & Ranakpur Excursions",
+        "desc": "Take a memorable day trip to Kumbhalgarh Fort—home to the world’s second-longest continuous wall—and the 1,444 uniquely carved marble pillars of Ranakpur Jain Temple."
+      }
+    ],
+    "whyChoose": [
+      "Customized itineraries for honeymoon couples, families, and cultural explorers",
+      "Pre-arranged boat ride tickets and premier access to top palace attractions",
+      "Well-maintained private air-conditioned vehicles and reliable chauffeurs",
+      "Knowledgeable, licensed local guides fluent in multiple languages",
+      "24/7 dedicated guest support and complete travel safety guarantee"
+    ],
+    "travelServices": [
+      "Udaipur City Sightseeing Taxi & Cab Hire with Driver",
+      "Maharana Pratap Airport (UDR) & Railway Station Transfers",
+      "Day Trips to Chittorgarh, Kumbhalgarh, Ranakpur, and Mount Abu",
+      "One-Way Intercity Taxis to Jodhpur, Jaipur, and Ahmedabad"
+    ],
+    "faqs": [
+      {
+        "q": "What are the best Udaipur Tour Packages available?",
+        "a": "Our top packages include the 2-Day Udaipur Express Sightseeing, 3-Day Udaipur Romantic & Cultural Tour, and 5-Day Udaipur & Mount Abu combined tour."
+      },
+      {
+        "q": "How many days are recommended for Udaipur?",
+        "a": "2 to 3 days are ideal for exploring Udaipur’s palaces, lakes, and cultural shows. Add 1-2 days for excursions to Kumbhalgarh, Ranakpur, or Chittorgarh."
+      },
+      {
+        "q": "Is Udaipur suitable for a honeymoon vacation?",
+        "a": "Udaipur is renowned as one of India’s most romantic honeymoon destinations, thanks to its fairy-tale palaces, tranquil lake cruises, and luxury heritage hotels."
+      }
+    ],
+    "tours": [
+      {
+        "id": "3-days-udaipur-tour",
+        "title": "3 Days Udaipur Tour",
+        "duration": "2 Nights / 3 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/udaipur-10-1024x545.jpg",
+        "route": "Udaipur",
+        "link": "/tours/3-days-udaipur-tour",
+        "localImage": "/assets/images/day-tours/tours/udaipur_udaipur-10-1024x545_75685a7e78.jpg"
+      },
+      {
+        "id": "udaipur-sightseeing-tour",
+        "title": "Udaipur Sightseeing Tour",
+        "duration": "8 Hour Approx",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/udaipur-9-1024x545.jpg",
+        "route": "Udaipur",
+        "link": "/tours/udaipur-sightseeing-tour",
+        "localImage": "/assets/images/day-tours/tours/udaipur_udaipur-9-1024x545_2b61f16b38.jpg"
+      },
+      {
+        "id": "5-days-udaipur-mount-abu-tour",
+        "title": "5 DAYS UDAIPUR & MOUNT ABU TOUR",
+        "duration": "4 Nights / 5 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/udaipur-8-1024x545.jpg",
+        "route": "Udaipur – Mount Abu – Udaipur",
+        "link": "/tours/5-days-udaipur-mount-abu-tour",
+        "localImage": "/assets/images/day-tours/tours/udaipur_udaipur-8-1024x545_0d280714bb.jpg"
+      },
+      {
+        "id": "2-days-eklingji-nathdwara-tour",
+        "title": "2 DAYS EKLINGJI & NATHDWARA TOUR",
+        "duration": "1 Nights / 2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/udaipur-7-1024x545.jpg",
+        "route": "2 Days Eklingji & Nathdwara Tour",
+        "link": "/tours/2-days-eklingji-nathdwara-tour",
+        "localImage": "/assets/images/day-tours/tours/udaipur_udaipur-7-1024x545_ae82f84d41.jpg"
+      },
+      {
+        "id": "3-days-jodhpur-tour-from-udaipur",
+        "title": "3 DAYS JODHPUR TOUR FROM UDAIPUR",
+        "duration": "2 Nights / 3 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/udaipur-6-1024x545.jpg",
+        "route": "3 Days Jodhpur Tour From Udaipur",
+        "link": "/tours/3-days-jodhpur-tour-from-udaipur",
+        "localImage": "/assets/images/day-tours/tours/udaipur_udaipur-6-1024x545_4142be429c.jpg"
+      },
+      {
+        "id": "2-days-chittorgarh-tour-from-udaipur",
+        "title": "2 DAYS CHITTORGARH TOUR FROM UDAIPUR",
+        "duration": "1 Nights / 2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/udaipur-5-1024x545.jpg",
+        "route": "Udaipur – Chittorgarh – Udaipur",
+        "link": "/tours/2-days-chittorgarh-tour-from-udaipur",
+        "localImage": "/assets/images/day-tours/tours/udaipur_udaipur-5-1024x545_839c91ea40.jpg"
+      },
+      {
+        "id": "4-days-udapur-jodhpur-jaisalmer-tour",
+        "title": "4 DAYS UDAPUR JODHPUR & JAISALMER TOUR",
+        "duration": "2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/udaipur-3-1024x545.jpg",
+        "route": "Udaipur, Jodhpur & Jaisalmer",
+        "link": "/tours/4-days-udapur-jodhpur-jaisalmer-tour",
+        "localImage": "/assets/images/day-tours/tours/udaipur_udaipur-3-1024x545_1d9f26193c.jpg"
+      },
+      {
+        "id": "same-day-chittorgarh-tour-from-udaipur",
+        "title": "SAME DAY CHITTORGARH TOUR FROM UDAIPUR",
+        "duration": "Full Day",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/udaipur-4-1024x545.jpg",
+        "route": "Udaipur - Chittorgarh",
+        "link": "/tours/same-day-chittorgarh-tour-from-udaipur",
+        "localImage": "/assets/images/day-tours/tours/udaipur_udaipur-4-1024x545_4363570a9d.jpg"
+      },
+      {
+        "id": "same-day-eklingji-nagda-tour-from-udaipur",
+        "title": "SAME DAY EKLINGJI & NAGDA TOUR FROM UDAIPUR",
+        "duration": "Full Day",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/udaipur-2-1024x545.jpg",
+        "route": "Udaipur",
+        "link": "/tours/same-day-eklingji-nagda-tour-from-udaipur",
+        "localImage": "/assets/images/day-tours/tours/udaipur_udaipur-2-1024x545_144696ffa7.jpg"
+      },
+      {
+        "id": "2-days-kumbhalgarh-ranakpur-tour-from-udaipur",
+        "title": "2 DAYS KUMBHALGARH & RANAKPUR TOUR FROM UDAIPUR",
+        "duration": "1 Nights / 2 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/udaipur-1-1024x545.jpg",
+        "route": "2 Days Kumbhalgarh & Ranakpur Tour From Udaipur",
+        "link": "/tours/2-days-kumbhalgarh-ranakpur-tour-from-udaipur",
+        "localImage": "/assets/images/day-tours/tours/udaipur_udaipur-1-1024x545_3090fb8e63.jpg"
+      },
+      {
+        "id": "4-days-udaipur-with-ranakpur-kumbhalgarh-tour",
+        "title": "4 DAYS UDAIPUR WITH RANAKPUR & KUMBHALGARH TOUR",
+        "duration": "3 Nights / 4 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/udaipur-dih-1024x545.jpg",
+        "route": "4 Days Udaipur With Ranakpur & Kumbhalgarh Tour",
+        "link": "/tours/4-days-udaipur-with-ranakpur-kumbhalgarh-tour",
+        "localImage": "/assets/images/day-tours/tours/udaipur_udaipur-dih-1024x545_6e6d5b34c7.jpg"
+      },
+      {
+        "id": "same-day-ranakpur-kumbhalgarh-tour-from-udaipur",
+        "title": "SAME DAY RANAKPUR & KUMBHALGARH TOUR FROM UDAIPUR",
+        "duration": "Full Day",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/udaipur-1024x545.jpg",
+        "route": "Same Day Ranakpur & Kumbhalgarh Tour From Udaipur",
+        "link": "/tours/same-day-ranakpur-kumbhalgarh-tour-from-udaipur",
+        "localImage": "/assets/images/day-tours/tours/udaipur_udaipur-1024x545_ff546c917f.jpg"
+      },
+      {
+        "id": "5-days-udapur-jodhpur-jaisalmer-tour",
+        "title": "5 DAYS UDAPUR JODHPUR & JAISALMER TOUR",
+        "duration": "4 Nights / 5 Days",
+        "category": "Sightseeing",
+        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/udaipur-iamge-1024x545.jpg",
+        "route": "5 Days Udapur Jodhpur & Jaisalmer Tour",
+        "link": "/tours/5-days-udapur-jodhpur-jaisalmer-tour",
+        "localImage": "/assets/images/day-tours/tours/udaipur_udaipur-iamge-1024x545_f26ec9c6b7.jpg"
+      }
+    ],
+    "tourCount": 13,
+    "localHeroImage": "/assets/images/day-tours/udaipur-hero.jpg",
+    "id": "udaipur",
+    "pageTitle": "Udaipur Tour Packages",
+    "breadcrumb": "Udaipur Tours"
+  }
+}
