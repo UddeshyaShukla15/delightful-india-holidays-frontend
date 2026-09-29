@@ -1,0 +1,331 @@
+{
+  "hero": {
+    "title": "Rajasthan Tour Packages",
+    "heroImage": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Kumbhalgarh_055.jpg",
+    "localHeroImage": "/assets/images/rajasthan-hero.jpg"
+  },
+  "tours": [
+    {
+      "id": "rajputana-retreat",
+      "title": "RAJPUTANA RETREAT",
+      "duration": "9 Nights / 10 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/amer-fort-jaipur-1.jpg",
+      "localImage": "/assets/images/rajasthan/raj-1-rajputana-retreat.jpg",
+      "route": "Delhi – Agra – Jaipur – Jodhpur – Udaipur – Pushkar - Delhi",
+      "link": "/tours/rajputana-retreat"
+    },
+    {
+      "id": "7-days-mewar-tour",
+      "title": "7 DAYS MEWAR TOUR",
+      "duration": "7 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Mewar-Festival-Lake-Pichola.jpg",
+      "localImage": "/assets/images/rajasthan/raj-2-7-days-mewar-tour.jpg",
+      "route": "Jaipur – Chittorgarh – Udaipur – Mount Abu - Udaipur",
+      "link": "/tours/7-days-mewar-tour"
+    },
+    {
+      "id": "3-days-udaipur-tour",
+      "title": "3 DAYS UDAIPUR TOUR",
+      "duration": "3 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Pichola-Lake-Udaipur-Rajasthan.jpeg",
+      "localImage": "/assets/images/rajasthan/raj-3-3-days-udaipur-tour.jpeg",
+      "route": "Udaipur",
+      "link": "/tours/3-days-udaipur-tour"
+    },
+    {
+      "id": "forts-palaces-tour",
+      "title": "FORTS & PALACES TOUR",
+      "duration": "13 Nights / 14 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/07/Evening_view_City_Palace_Udaipur-1-1024x683.jpg",
+      "localImage": "/assets/images/rajasthan/raj-4-forts-palaces-tour.jpg",
+      "route": "Delhi – Mandawa – Bikaner – Jaisalmer – Sam Sand Dunes - Jodhpur – Ranakpur – Udaipur – Pushkar – Jaipur – Abhaneri – Fatehpur Sikri – Agra - Delhi",
+      "link": "/tours/forts-palaces-tour"
+    },
+    {
+      "id": "rajasthan-royal-tour",
+      "title": "Rajasthan Royal Tour",
+      "duration": "16 Nights / 17 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/ghanerao-royal-castle-hotel-ranakpur-pic-29-1024x606.jpeg",
+      "localImage": "/assets/images/rajasthan/raj-5-rajasthan-royal-tour.jpeg",
+      "route": "Delhi – Mandawa – Bikaner – Jaisalmer – Sam Sand Dunes - Jodhpur – Udaipur – Bundi – Pushkar – Jaipur – Ranthambhore – Agra - Delhi",
+      "link": "/tours/rajasthan-royal-tour"
+    },
+    {
+      "id": "7-days-rajasthan-tour",
+      "title": "7 Days Rajasthan Tour",
+      "duration": "7 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/Royal-Palaces-of-Rajasthan-img-1024x684.jpg",
+      "localImage": "/assets/images/rajasthan/raj-6-7-days-rajasthan-tour.jpg",
+      "route": "Jaipur – Pushkar – Jodhpur – Mount Abu - Udaipur",
+      "link": "/tours/7-days-rajasthan-tour"
+    },
+    {
+      "id": "royal-journey-of-india",
+      "title": "ROYAL JOURNEY OF INDIA",
+      "duration": "20 Nights / 21 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/chittorgarh-fort-india-1024x640.jpg",
+      "localImage": "/assets/images/rajasthan/raj-7-royal-journey-of-india.jpg",
+      "route": "Delhi – Agra – Jaipur – Pushkar – Ranthambhore – Kota – Bundi – Chittorgarh – Udaipur – Kumbhalgarh – Jodhpur – Jaisalmer – Bikaner – Mandawa - Delhi",
+      "link": "/tours/royal-journey-of-india"
+    },
+    {
+      "id": "rajasthan-tribal-tour",
+      "title": "RAJASTHAN TRIBAL TOUR",
+      "duration": "20 Nights / 21 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/junagarh-fort-bikaner-rajasthan.webp",
+      "localImage": "/assets/images/rajasthan/raj-8-rajasthan-tribal-tour.webp",
+      "route": "Delhi – Samode – Nawalgarh – Khimsar – Jaisalmer – Pokhran – Jodhpur – Rohet – Ranakpur – Devigarh – Udaipur – Dungarpur – Bijapur – Kota – Bundi – Jaipur – Bhanarej – Karauli – Bharatpur - Delhi",
+      "link": "/tours/rajasthan-tribal-tour"
+    },
+    {
+      "id": "rajasthan-desert-tour",
+      "title": "RAJASTHAN DESERT TOUR",
+      "duration": "12 Nights / 13 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/jaisalmer-2-day-thar-desert-experience-1268861-1024x683.webp",
+      "localImage": "/assets/images/rajasthan/raj-9-rajasthan-desert-tour.webp",
+      "route": "Delhi – Mandawa – Bikaner – Jaisalmer – Bada Bagh – Baishakhi – Roopsi – Ludrawa – Jaisalmer – Amar Sagar – Moolsagar – Kuldhara – Sam Sand Dunes – Kanoi – Jaisalmer – Osian – Jodhpur – Jaipur – Delhi",
+      "link": "/tours/rajasthan-desert-tour"
+    },
+    {
+      "id": "maharaja-retreat-tour",
+      "title": "MAHARAJA RETREAT TOUR",
+      "duration": "9 Nights / 10 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Hawa_Mahal.jpg",
+      "localImage": "/assets/images/rajasthan/raj-10-maharaja-retreat-tour.jpg",
+      "route": "Delhi – Agra – Jaipur – Samode – Mandawa - Delhi",
+      "link": "/tours/maharaja-retreat-tour"
+    },
+    {
+      "id": "exotic-rajasthan-tour",
+      "title": "EXOTIC RAJASTHAN TOUR",
+      "duration": "16 Nights / 17 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/Exotic-Rajasthan-Tour-img-1024x684.jpg",
+      "localImage": "/assets/images/rajasthan/raj-11-exotic-rajasthan-tour.jpg",
+      "route": "Delhi – Agra – Jaipur – Pushkar – Deogarh – Udaipur – Mount Abu – Jodhpur – Jaisalmer – Sam Sand Dunes - Bikaner – Mandawa - Delhi",
+      "link": "/tours/exotic-rajasthan-tour"
+    },
+    {
+      "id": "rajasthan-wildlife-tour",
+      "title": "RAJASTHAN WILDLIFE TOUR",
+      "duration": "9 Nights / 10 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/Rajasthan-Wildlife-Tour-img-1024x684.jpg",
+      "localImage": "/assets/images/rajasthan/raj-12-rajasthan-wildlife-tour.jpg",
+      "route": "Delhi – Sariska – Jaipur – Ranthambhore – Bharatpur - Agra - Delhi",
+      "link": "/tours/rajasthan-wildlife-tour"
+    },
+    {
+      "id": "rajasthan-heritage-tour",
+      "title": "RAJASTHAN HERITAGE TOUR",
+      "duration": "17 Nights / 18 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/3e9732f7-c5cf-40a3-b892-d61f00fc4d85_cultural-heritage-trails-of-jaisalmer-2-hours-guided-walking-tour-xlarge-1024x683.jpg",
+      "localImage": "/assets/images/rajasthan/raj-13-rajasthan-heritage-tour.jpg",
+      "route": "Delhi – Samode – Mandawa – Bikaner – Jaisalmer – Sam Sand Dunes - Rohet – Jodhpur – Kumbhalgarh – Udaipur – Bassi – Pachewar – Jaipur – Agra - Delhi",
+      "link": "/tours/rajasthan-heritage-tour"
+    },
+    {
+      "id": "offbeat-rajasthan-tour",
+      "title": "OFFBEAT RAJASTHAN TOUR",
+      "duration": "17 Nights / 18 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/07/road-trips-in-Rajasthan-1-1024x683.jpg",
+      "localImage": "/assets/images/rajasthan/raj-14-offbeat-rajasthan-tour.jpg",
+      "route": "Delhi – Neemrana – Mandawa – Bikaner – Deshnok – Khimsar – Jaisalmer – Sam Sand Dunes - Jodhpur – Ranakpur – Udaipur – Dungarpur – Chittorgarh – Bijapur – Roopangarh – Jaipur – Abhaneri – Fatehpur Sikri – Agra – Delhi",
+      "link": "/tours/offbeat-rajasthan-tour"
+    },
+    {
+      "id": "jewels-of-rajasthan-tour",
+      "title": "JEWELS OF RAJASTHAN TOUR",
+      "duration": "5 Nights / 6 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Jodhpur-beautiful-places-in-Rajasthan.webp",
+      "localImage": "/assets/images/rajasthan/raj-15-jewels-of-rajasthan-tour.webp",
+      "route": "Jaipur – Jodhpur - Udaipur",
+      "link": "/tours/jewels-of-rajasthan-tour"
+    },
+    {
+      "id": "colourful-rajasthan-tour",
+      "title": "COLOURFUL RAJASTHAN TOUR",
+      "duration": "9 Nights / 10 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Pichola-Lake-Udaipur-Rajasthan.jpeg",
+      "localImage": "/assets/images/rajasthan/raj-16-colourful-rajasthan-tour.jpeg",
+      "route": "Delhi – Agra – Fatehpur Sikri – Jaipur – Jodhpur – Ranakpur – Udaipur – Pushkar - Delhi",
+      "link": "/tours/colourful-rajasthan-tour"
+    },
+    {
+      "id": "castle-tour-of-rajasthan",
+      "title": "CASTLE TOUR OF RAJASTHAN",
+      "duration": "17 Nights / 18 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/06/rajasthan-guide-1.jpg",
+      "localImage": "/assets/images/rajasthan/raj-17-castle-tour-of-rajasthan.jpg",
+      "route": "Delhi – Samode – Mandawa – Bikaner – Jaisalmer – Sam Sand Dunes - Rohet – Jodhpur – Kumbhalgarh – Udaipur – Bijapur – Pushkar – Jaipur – Agra - Delhi",
+      "link": "/tours/castle-tour-of-rajasthan"
+    },
+    {
+      "id": "rajasthan-with-beach-tour",
+      "title": "RAJASTHAN WITH BEACH TOUR",
+      "duration": "16 Nights / 17 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/204-rajasthan-india-1024x576.jpg",
+      "localImage": "/assets/images/rajasthan/raj-18-rajasthan-with-beach-tour.jpg",
+      "route": "Delhi – Agra – Jaipur – Ranthambhore – Udaipur – Goa - Mumbai",
+      "link": "/tours/rajasthan-with-beach-tour"
+    },
+    {
+      "id": "sejour-de-grand-luxe-tour",
+      "title": "SEJOUR DE GRAND LUXE TOUR",
+      "duration": "10 Nights / 11 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/07/21_04_2023-rajsthan_23391753-1024x576-1.webp",
+      "localImage": "/assets/images/rajasthan/raj-19-sejour-de-grand-luxe-tour.webp",
+      "route": "Delhi – Agra – Ranthambhore – Jaipur – Udaipur - Mumbai",
+      "link": "/tours/sejour-de-grand-luxe-tour"
+    },
+    {
+      "id": "royal-palaces-of-rajasthan",
+      "title": "ROYAL PALACES OF RAJASTHAN",
+      "duration": "14 Nights / 15 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/Colourful-Rajasthan-Tour-img-1024x684.jpg",
+      "localImage": "/assets/images/rajasthan/raj-20-royal-palaces-of-rajasthan.jpg",
+      "route": "Jaipur – Agra - Delhi – Delhi – Agra – Jaipur – Samode – Mandawa – Khimsar – Jaisalmer – Jodhpur – Udaipur – Pushkar - Delhi",
+      "link": "/tours/royal-palaces-of-rajasthan"
+    },
+    {
+      "id": "14-days-rajasthan-offbeat-tour",
+      "title": "14 DAYS RAJASTHAN OFFBEAT TOUR",
+      "duration": "14 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/06/rajs-1024x398.jpg",
+      "localImage": "/assets/images/rajasthan/raj-21-14-days-rajasthan-offbeat-tour.jpg",
+      "route": "Delhi – Mandawa – Khimsar – Nimaj – Ranakpur – Dungarpur – Chittorgarg – Bundi – Ranthambhore – Tehla - Delhi",
+      "link": "/tours/14-days-rajasthan-offbeat-tour"
+    },
+    {
+      "id": "17-days-offbeat-rajasthan-tour",
+      "title": "17 DAYS OFFBEAT RAJASTHAN TOUR",
+      "duration": "17 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/06/D6XD6R-de4f549.jpg",
+      "localImage": "/assets/images/rajasthan/raj-22-17-days-offbeat-rajasthan-tour.jpg",
+      "route": "Delhi – Pushkar – Jojawar – Udaipur – Jodhpur – Osian – Jaisalmer – Sam Sand Dunes – Bikaner – Mandawa – Jaipur - Delhi",
+      "link": "/tours/17-days-offbeat-rajasthan-tour"
+    },
+    {
+      "id": "rajput-rajasthan-heritage-tour",
+      "title": "RAJPUT RAJASTHAN HERITAGE TOUR",
+      "duration": "16 Nights / 17 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/3e9732f7-c5cf-40a3-b892-d61f00fc4d85_cultural-heritage-trails-of-jaisalmer-2-hours-guided-walking-tour-xlarge-1024x683.jpg",
+      "localImage": "/assets/images/rajasthan/raj-23-rajput-rajasthan-heritage-tour.jpg",
+      "route": "Delhi – Samode – Mandawa – Bikaner – Jaisalmer – Jodhpur – Ganerao – Ranakpur – Udaipur – Deogarh – Jaipur – Kanota – Agra - Delhi",
+      "link": "/tours/rajput-rajasthan-heritage-tour"
+    },
+    {
+      "id": "6-days-magnificent-rajasthan-tour",
+      "title": "6 DAYS MAGNIFICENT RAJASTHAN TOUR",
+      "duration": "6 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2025/09/image-62.png",
+      "localImage": "/assets/images/rajasthan/raj-24-6-days-magnificent-rajasthan-tour.png",
+      "route": "Jodhpur – Jaisalmer – Bikaner - Jaipur",
+      "link": "/tours/6-days-magnificent-rajasthan-tour"
+    },
+    {
+      "id": "rajasthan-heritage-culture-tour",
+      "title": "RAJASTHAN HERITAGE & CULTURE TOUR",
+      "duration": "14 Nights / 15 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/07/Rajasthan-1.webp",
+      "localImage": "/assets/images/rajasthan/raj-25-rajasthan-heritage-culture-tour.webp",
+      "route": "Delhi – Mandawa – Bikaner – Jaisalmer – Sam Sand Dunes - Jodhpur – Udaipur – Pushkar – Jaipur – Agra - Delhi",
+      "link": "/tours/rajasthan-heritage-culture-tour"
+    },
+    {
+      "id": "archaeological-tour-of-rajasthan",
+      "title": "ARCHAEOLOGICAL TOUR OF RAJASTHAN",
+      "duration": "23 Nights / 24 Days",
+      "category": "Rajasthan Tour Packages",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Jaipur-Travel-Shopping-Restaurants-1024x576.webp",
+      "localImage": "/assets/images/rajasthan/raj-26-archaeological-tour-of-rajasthan.webp",
+      "route": "Delhi – Jaipur – Samode – Nawalgarh – Bikaner – Gajner – Jaisalmer – Sam Sand Dunes - Osian – Khimsar – Manwar – Rohet – Jodhpur – Mount Abu – Udaipur – Dungarpur – Deogarh – Ajmer – Pushkar – Pachewar – Ranthambhore – Agra - Delhi",
+      "link": "/tours/archaeological-tour-of-rajasthan"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Which is the best Rajasthan Tour Package?",
+      "a": "The best package depends on your interests. Popular choices include 7 Days Rajasthan Tour, Rajasthan Heritage Tour, Rajasthan Luxury Tour Package, and Golden Triangle Tour with Rajasthan."
+    },
+    {
+      "q": "How many days are enough for Rajasthan?",
+      "a": "A 7 to 10-day itinerary is ideal for exploring major destinations, while 15 days allow a complete Rajasthan Tour experience."
+    },
+    {
+      "q": "What is the best time to visit Rajasthan?",
+      "a": "October to March is considered the best time for Rajasthan tourism and sightseeing."
+    },
+    {
+      "q": "Are Rajasthan Tour Packages suitable for families?",
+      "a": "Yes, Rajasthan Family Tour Packages offer comfortable accommodations, cultural experiences, and family-friendly attractions."
+    },
+    {
+      "q": "How much does a Rajasthan Tour Package cost?",
+      "a": "The Rajasthan Tour Cost varies depending on travel duration, accommodation category, transportation, and inclusions."
+    },
+    {
+      "q": "Which cities are included in Rajasthan Tour Packages?",
+      "a": "Popular destinations include Jaipur, Udaipur, Jodhpur, Jaisalmer, Bikaner, Pushkar, Ranthambore, Mount Abu, and Chittorgarh."
+    },
+    {
+      "q": "Is Rajasthan good for honeymoon couples?",
+      "a": "Yes, Rajasthan Honeymoon Tour Packages are highly popular because of romantic lakes, luxury palaces, and desert experiences."
+    },
+    {
+      "q": "Can I customize my Rajasthan itinerary?",
+      "a": "Absolutely. We offer fully customized Rajasthan Travel Itineraries based on your preferences."
+    },
+    {
+      "q": "Do you provide Rajasthan Tour Packages from Delhi?",
+      "a": "Yes, we offer Rajasthan Tour Packages from Delhi with private transportation and customized itineraries."
+    },
+    {
+      "q": "Why book with Delightful India Holidays?",
+      "a": "We provide personalized service, expert local knowledge, competitive pricing, reliable travel arrangements, and memorable travel experiences throughout Rajasthan."
+    },
+    {
+      "q": "How do I choose the best travel agency in Rajasthan?",
+      "a": "When selecting the best travel agency in Rajasthan, look for experience, customer reviews, transparent pricing, customizable itineraries, local expertise, and reliable support throughout your journey. A reputable agency can help you explore Rajasthan's forts, palaces, deserts, and cultural attractions comfortably and efficiently."
+    },
+    {
+      "q": "What should I consider when comparing Rajasthan tour operators?",
+      "a": "A proper Rajasthan Tour Operators Comparison should include factors such as tour inclusions, accommodation quality, transportation, guide services, customer feedback, and value for money. Comparing these aspects helps travelers choose the most suitable tour operator for their needs and budget."
+    },
+    {
+      "q": "Why should I book with the Best Rajasthan Travel Agency?",
+      "a": "The Best Rajasthan Travel Agency provides expertly planned itineraries, experienced local guides, quality accommodations, and personalized services. They can help travelers discover Rajasthan's heritage, culture, wildlife, and luxury experiences while ensuring a hassle-free vacation."
+    },
+    {
+      "q": "What services does a tour operator in Rajasthan provide?",
+      "a": "A professional Tour operator in Rajasthan typically offers complete travel solutions, including hotel bookings, transportation, sightseeing tours, tour guides, airport transfers, and customized holiday packages covering major destinations such as Jaipur, Jodhpur, Udaipur, Jaisalmer, and Ranthambore."
+    },
+    {
+      "q": "Why should I book through a Travel Agency in Rajasthan instead of planning independently?",
+      "a": "A trusted Travel Agency in Rajasthan can save time and effort by handling all travel arrangements, offering local insights, securing better rates, and providing support during your trip. This allows travelers to enjoy a smoother and more enjoyable Rajasthan experience."
+    }
+  ]
+}
