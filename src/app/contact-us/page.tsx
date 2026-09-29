@@ -7,51 +7,127 @@ import TopBar from "@/components/TopBar";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import WhatsAppFloatingButton from "@/components/WhatsAppFloatingButton";
-import CredibilitySection from "@/components/CredibilitySection";
-import { companyInfo } from "@/data/mockData";
-import {
-  MapPin,
-  Phone,
-  Mail,
-  Clock,
-  Send,
-  CheckCircle,
-  Copy,
-  Users,
-  Briefcase,
-  Share2,
-  Handshake,
-  MessageSquare,
-} from "lucide-react";
+import { Phone, Mail, MapPin, CheckCircle, Copy, Send } from "lucide-react";
 
 export default function ContactUsPage() {
-  const [submitted, setSubmitted] = useState(false);
-  const [copied, setCopied] = useState(false);
   const [formData, setFormData] = useState({
-    name: "",
+    fullName: "",
     email: "",
-    occupation: "Traveler",
+    occupation: "",
     countryCode: "+91",
     phone: "",
-    tripDate: "",
-    travelers: "2",
-    vehicleType: "Toyota Innova Crysta",
-    hotelCategory: "Five Star Heritage",
     message: "",
   });
 
+  const [formErrors, setFormErrors] = useState<{ [key: string]: string }>({});
+  const [showModal, setShowModal] = useState(false);
+  const [copied, setCopied] = useState(false);
+
+  const countryCodes = [
+    { code: "+91", label: "🇮🇳 +91 (India)" },
+    { code: "+1", label: "🇺🇸 +1 (USA)" },
+    { code: "+44", label: "🇬🇧 +44 (UK)" },
+    { code: "+61", label: "🇦🇺 +61 (Australia)" },
+    { code: "+971", label: "🇦🇪 +971 (UAE)" },
+    { code: "+65", label: "🇸🇬 +65 (Singapore)" },
+    { code: "+60", label: "🇲🇾 +60 (Malaysia)" },
+    { code: "+49", label: "🇩🇪 +49 (Germany)" },
+    { code: "+33", label: "🇫🇷 +33 (France)" },
+    { code: "+81", label: "🇯🇵 +81 (Japan)" },
+    { code: "+86", label: "🇨🇳 +86 (China)" },
+    { code: "+7", label: "🇷🇺 +7 (Russia)" },
+    { code: "+55", label: "🇧🇷 +55 (Brazil)" },
+    { code: "+27", label: "🇿🇦 +27 (South Africa)" },
+    { code: "+234", label: "🇳🇬 +234 (Nigeria)" },
+    { code: "+94", label: "🇱🇰 +94 (Sri Lanka)" },
+    { code: "+977", label: "🇳🇵 +977 (Nepal)" },
+    { code: "+880", label: "🇧🇩 +880 (Bangladesh)" },
+  ];
+
+  const workWithUsItems = [
+    {
+      title: "BLOGGER",
+      icon: "/assets/images/icons8-blogger-100.png",
+      description:
+        "We are a small team that enjoys working closely with our guests to help them plan a personalized trip to India. If you would like to work with us on promoting India to your readers.",
+    },
+    {
+      title: "VENDOR",
+      icon: "/assets/images/icons8-vendor-100.png",
+      description:
+        "We are a small team that enjoys working closely with our guests to help them plan a personalized trip to India. If you are a vendor who can help us make a difference to our guest trips.",
+    },
+    {
+      title: "INTERNSHIP",
+      icon: "/assets/images/icons8-internship-100.png",
+      description:
+        "We are a small team that enjoys working closely with our guests to help them plan a personalized trip to India. If you would like to intern with us and experience how it is to live in India",
+    },
+    {
+      title: "JOIN THE TEAM",
+      icon: "/assets/images/icons8-add-male-user-group-100.png",
+      description:
+        "We are a small team that enjoys working closely with our guests to help them plan a personalized trip to India. If you would like to join our super diverse and super fun team! Get in touch!",
+    },
+  ];
+
+  const validate = () => {
+    const errors: { [key: string]: string } = {};
+    if (!formData.fullName.trim() || formData.fullName.trim().length < 2) {
+      errors.fullName = "Please enter your full name.";
+    }
+    if (
+      !formData.email.trim() ||
+      !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(formData.email.trim())
+    ) {
+      errors.email = "Enter a valid email.";
+    }
+    if (!formData.occupation) {
+      errors.occupation = "Please select an option.";
+    }
+    if (!formData.phone.trim() || formData.phone.trim().length < 6) {
+      errors.phone = "Please enter a valid phone number.";
+    }
+    if (!formData.message.trim() || formData.message.trim().length < 5) {
+      errors.message = "Please share a brief message.";
+    }
+    setFormErrors(errors);
+    return Object.keys(errors).length === 0;
+  };
+
+  const generateWhatsAppMessage = () => {
+    return [
+      "🌏 *New Enquiry – Delightful India Holidays*",
+      "",
+      `👤 *Name:* ${formData.fullName.trim()}`,
+      `📧 *Email:* ${formData.email.trim()}`,
+      `📞 *Contact:* ${formData.countryCode} ${formData.phone.trim()}`,
+      `💼 *Occupation:* ${formData.occupation}`,
+      "",
+      "💬 *Message:*",
+      formData.message.trim(),
+      "",
+      "— Sent via Enquiry Form",
+    ].join("\n");
+  };
+
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    setSubmitted(true);
-    const msg = `*New Contact / Dream Journey Inquiry*%0A*Name:* ${formData.name}%0A*Occupation:* ${formData.occupation}%0A*Phone:* ${formData.countryCode} ${formData.phone}%0A*Email:* ${formData.email}%0A*Trip Date:* ${formData.tripDate}%0A*Travelers:* ${formData.travelers}%0A*Vehicle:* ${formData.vehicleType}%0A*Hotel:* ${formData.hotelCategory}%0A*Message:* ${formData.message}`;
-    window.open(`https://wa.me/919636784713?text=${msg}`, "_blank");
+    if (!validate()) return;
+    setShowModal(true);
+  };
+
+  const handleOpenWhatsApp = () => {
+    const text = generateWhatsAppMessage();
+    const url = `https://wa.me/919636784713?text=${encodeURIComponent(text)}`;
+    window.open(url, "_blank");
   };
 
   const handleCopyDetails = () => {
-    const text = `Name: ${formData.name}\nEmail: ${formData.email}\nPhone: ${formData.countryCode} ${formData.phone}\nOccupation: ${formData.occupation}\nTrip Date: ${formData.tripDate}\nTravelers: ${formData.travelers}\nVehicle: ${formData.vehicleType}\nMessage: ${formData.message}`;
+    const text = generateWhatsAppMessage();
     navigator.clipboard.writeText(text);
     setCopied(true);
-    setTimeout(() => setCopied(false), 3000);
+    setTimeout(() => setCopied(false), 2500);
   };
 
   return (
@@ -59,393 +135,401 @@ export default function ContactUsPage() {
       <TopBar />
       <Navbar />
 
-      {/* Hero Banner */}
-      <section className="relative bg-[#192a3d] text-white py-16 sm:py-24 px-4 overflow-hidden">
-        <div className="absolute inset-0 opacity-15">
-          <div className="h-full w-full bg-[radial-gradient(#c9a766_1px,transparent_1px)] [background-size:16px_16px]" />
+      {/* Hero Banner: ONLY heading 'Get in Touch' with background image from main website */}
+      <section className="relative min-h-[260px] sm:min-h-[350px] flex items-center justify-center overflow-hidden">
+        {/* Background Image from main website */}
+        <div className="absolute inset-0 z-0">
+          <Image
+            src="/assets/images/contact/get-in-touch-hero.png"
+            alt="Get in Touch"
+            fill
+            className="object-cover object-center"
+            priority
+          />
+          {/* Subtle dark gradient overlay to ensure heading contrast */}
+          <div className="absolute inset-0 bg-black/40" />
         </div>
-        <div className="relative z-10 max-w-5xl mx-auto text-center">
-          <div className="flex items-center justify-center gap-2 text-xs sm:text-sm font-semibold tracking-widest text-[#c9a766] uppercase mb-3">
-            <Link href="/" className="hover:underline">Home</Link>
-            <span>/</span>
-            <span>Get in Touch</span>
-          </div>
-          <h1 className="text-4xl sm:text-6xl font-light font-serif mb-4 tracking-tight">
+
+        {/* Heading only */}
+        <div className="relative z-10 max-w-4xl mx-auto text-center px-4 py-16">
+          <h1 className="text-4xl sm:text-6xl lg:text-[65px] font-serif font-normal text-white tracking-normal drop-shadow-md">
             Get in Touch
           </h1>
-          <p className="text-base sm:text-lg text-gray-300 max-w-2xl mx-auto font-light leading-relaxed">
-            We would love to hear from you! Whether you have questions, feedback, or want to craft a tailor-made
-            India journey, our team is ready 24/7.
-          </p>
         </div>
       </section>
 
-      {/* Main Grid: Direct Contact Details & Interactive Form */}
+      {/* Main Content: Left Side Direct Contact & Right Side Form */}
       <section className="py-16 sm:py-20 bg-white px-4 sm:px-6 lg:px-8">
-        <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-12 gap-12">
-          {/* Left Column: Direct Contact Info */}
-          <div className="lg:col-span-5 space-y-8">
+        <div className="max-w-[1250px] mx-auto grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-14 items-start">
+          {/* Left Column: Get in Touch & Contact Details */}
+          <div className="lg:col-span-6 space-y-8">
             <div>
-              <span className="text-xs font-bold uppercase tracking-widest text-[#c9a766]">
-                Direct Communication
-              </span>
-              <h2 className="text-2xl sm:text-4xl font-serif text-[#192a3d] mt-1">
-                Reach Us Anytime
+              <h2 className="text-3xl sm:text-4xl font-serif font-semibold text-[#192a3d] mb-4">
+                Get in Touch
               </h2>
-              <p className="text-sm text-gray-600 mt-2 leading-relaxed">
-                Connect directly with tour coordinator Kamal for instant quotes, personalized advice, and customized itineraries.
+              <p className="text-base text-gray-600 leading-relaxed font-sans max-w-lg">
+                We would love to hear from you! Whether you have questions, feedback, or just want to say hello, please don’t hesitate to reach out.
               </p>
             </div>
 
             <div className="space-y-4">
-              {/* Phone / WhatsApp */}
-              <div className="flex items-start gap-4 p-5 rounded-2xl bg-[#faf8f5] border border-[#ede5d8]">
-                <div className="h-11 w-11 rounded-xl bg-[#192a3d] text-[#c9a766] flex items-center justify-center flex-shrink-0">
-                  <Phone className="h-5 w-5" />
+              {/* Phone */}
+              <div className="flex items-start gap-4 p-5 bg-[#faf8f5] rounded-xl border border-[#ede5d8]">
+                <div className="w-12 h-12 rounded-full bg-[#E78031] text-white flex items-center justify-center flex-shrink-0 shadow-sm">
+                  <Phone className="w-5 h-5" />
                 </div>
                 <div>
-                  <h4 className="text-xs font-bold uppercase tracking-wider text-gray-400">
-                    Phone &amp; WhatsApp
-                  </h4>
+                  <div className="text-xs uppercase font-bold tracking-wider text-gray-500 mb-1">
+                    Reach us by Phone
+                  </div>
                   <a
                     href="tel:+919636784713"
-                    className="text-base sm:text-lg font-bold text-gray-900 hover:text-[#E78031] transition-colors block mt-0.5"
+                    className="text-lg font-bold text-gray-900 hover:text-[#E78031] transition-colors"
                   >
                     +91 96367 84713
                   </a>
-                  <p className="text-xs text-gray-500 mt-1">Available 24 hours a day, 7 days a week</p>
                 </div>
               </div>
 
               {/* Email */}
-              <div className="flex items-start gap-4 p-5 rounded-2xl bg-[#faf8f5] border border-[#ede5d8]">
-                <div className="h-11 w-11 rounded-xl bg-[#192a3d] text-[#c9a766] flex items-center justify-center flex-shrink-0">
-                  <Mail className="h-5 w-5" />
+              <div className="flex items-start gap-4 p-5 bg-[#faf8f5] rounded-xl border border-[#ede5d8]">
+                <div className="w-12 h-12 rounded-full bg-[#E78031] text-white flex items-center justify-center flex-shrink-0 shadow-sm">
+                  <Mail className="w-5 h-5" />
                 </div>
                 <div>
-                  <h4 className="text-xs font-bold uppercase tracking-wider text-gray-400">
-                    Email Inquiries
-                  </h4>
+                  <div className="text-xs uppercase font-bold tracking-wider text-gray-500 mb-1">
+                    Email
+                  </div>
                   <a
                     href="mailto:delightfulindiaholidays@gmail.com"
-                    className="text-base sm:text-lg font-bold text-gray-900 hover:text-[#E78031] transition-colors block mt-0.5 break-all"
+                    className="text-lg font-semibold text-gray-900 hover:text-[#E78031] transition-colors break-all"
                   >
                     delightfulindiaholidays@gmail.com
                   </a>
-                  <p className="text-xs text-gray-500 mt-1">Detailed quotes replied within 2–4 hours</p>
                 </div>
               </div>
 
-              {/* Office Address */}
-              <div className="flex items-start gap-4 p-5 rounded-2xl bg-[#faf8f5] border border-[#ede5d8]">
-                <div className="h-11 w-11 rounded-xl bg-[#192a3d] text-[#c9a766] flex items-center justify-center flex-shrink-0">
-                  <MapPin className="h-5 w-5" />
+              {/* Address */}
+              <div className="flex items-start gap-4 p-5 bg-[#faf8f5] rounded-xl border border-[#ede5d8]">
+                <div className="w-12 h-12 rounded-full bg-[#E78031] text-white flex items-center justify-center flex-shrink-0 shadow-sm">
+                  <MapPin className="w-5 h-5" />
                 </div>
                 <div>
-                  <h4 className="text-xs font-bold uppercase tracking-wider text-gray-400">
-                    Head Office
-                  </h4>
-                  <p className="text-sm font-semibold text-gray-900 mt-0.5 leading-relaxed">
-                    Near Airforce Circle, Dhibba Para, Jaisalmer, Rajasthan 345001, India
+                  <div className="text-xs uppercase font-bold tracking-wider text-gray-500 mb-1">
+                    Address
+                  </div>
+                  <p className="text-base font-medium text-gray-900">
+                    Near Airforce Circle, Dhibba Para, Jaisalmer
                   </p>
-                  <p className="text-xs text-gray-500 mt-1">Operating across North India, Rajasthan &amp; Kerala</p>
                 </div>
               </div>
             </div>
 
-            {/* Quick 1-Click WhatsApp CTA */}
-            <div className="p-6 rounded-2xl bg-[#228B48]/10 border border-[#228B48]/20 flex items-center justify-between gap-4">
-              <div>
-                <h4 className="font-serif font-bold text-gray-900 text-base">Instant Chat with Kamal</h4>
-                <p className="text-xs text-gray-600 mt-0.5">Need immediate advice or a fast quote?</p>
-              </div>
-              <a
-                href="https://wa.me/919636784713?text=Hi%20Kamal%2C%20I%20am%20visiting%20your%20website%20and%20would%20like%20to%20plan%20a%20tour."
-                target="_blank"
-                rel="noopener noreferrer"
-                className="bg-[#228B48] hover:bg-[#1a7038] text-white px-5 py-2.5 rounded-full text-xs font-bold whitespace-nowrap shadow-sm"
-              >
-                Chat on WhatsApp
-              </a>
+            {/* Google Map */}
+            <div className="rounded-2xl overflow-hidden border border-gray-200 shadow-sm h-[260px] w-full">
+              <iframe
+                title="Delightful India Holidays Location"
+                src="https://maps.google.com/maps?q=Delightful%20India%20Holidays&t=m&z=10&output=embed&iwloc=near"
+                className="w-full h-full border-0"
+                loading="lazy"
+                aria-label="Delightful India Holidays"
+              />
             </div>
           </div>
 
-          {/* Right Column: "Plan Your Dream India Journey" Form */}
-          <div className="lg:col-span-7">
-            <div className="bg-[#faf8f5] border border-[#ede5d8] rounded-3xl p-6 sm:p-10 shadow-sm">
-              <div className="mb-6">
-                <span className="text-xs font-bold uppercase tracking-widest text-[#E78031]">
-                  ✦ Tailor-Made Experience
-                </span>
-                <h3 className="text-2xl sm:text-3xl font-serif text-[#192a3d] mt-1">
-                  Plan Your Dream India Journey
-                </h3>
-                <p className="text-xs sm:text-sm text-gray-600 mt-1">
-                  Fill in your details below and we will craft a customized itinerary just for you.
+          {/* Right Column: Form Card matching main website */}
+          <div className="lg:col-span-6">
+            <div className="bg-white rounded-[20px] shadow-[0_8px_48px_rgba(92,61,30,0.13),0_2px_8px_rgba(92,61,30,0.07)] border border-[#ede5d8] overflow-hidden">
+              {/* Form Card Header */}
+              <div className="bg-gradient-to-br from-[#5C3D1E] via-[#482b13] to-[#3A2010] text-white p-7 sm:p-9 relative overflow-hidden">
+                <div className="inline-flex items-center gap-2 bg-white/10 border border-white/20 rounded-full px-3 py-1 mb-3.5">
+                  <span className="w-1.5 h-1.5 rounded-full bg-[#E8741A]" />
+                  <span className="text-[11px] font-semibold tracking-wider uppercase text-[#F5E6CC]">
+                    Delightful India Holidays
+                  </span>
+                </div>
+
+                <h2 className="text-2xl sm:text-3xl font-serif font-bold text-white leading-tight mb-2">
+                  Plan Your <span className="italic text-[#F5C97A]">Dream</span>
+                  <br />
+                  India Journey
+                </h2>
+                <p className="text-sm text-white/80 font-light font-sans max-w-sm">
+                  Fill in your details and we&apos;ll craft a tailor-made experience just for you.
                 </p>
               </div>
 
-              {submitted ? (
-                <div className="bg-white border border-green-200 rounded-2xl p-8 text-center space-y-4">
-                  <CheckCircle className="h-12 w-12 text-[#228B48] mx-auto" />
-                  <h4 className="text-2xl font-serif font-bold text-gray-900">Enquiry Received!</h4>
-                  <p className="text-sm text-gray-600 max-w-md mx-auto">
-                    Your details have been submitted. We&apos;ll review it and get back to you shortly via WhatsApp.
-                  </p>
-                  <div className="flex flex-wrap items-center justify-center gap-3 pt-2">
-                    <a
-                      href="https://wa.me/919636784713"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="inline-flex items-center gap-2 bg-[#228B48] text-white px-5 py-2.5 rounded-full text-xs sm:text-sm font-bold shadow-sm"
-                    >
-                      <MessageSquare className="h-4 w-4" />
-                      <span>Open WhatsApp</span>
-                    </a>
-                    <button
-                      onClick={handleCopyDetails}
-                      className="inline-flex items-center gap-2 bg-gray-100 hover:bg-gray-200 text-gray-800 px-5 py-2.5 rounded-full text-xs sm:text-sm font-bold transition-colors cursor-pointer"
-                    >
-                      <Copy className="h-4 w-4" />
-                      <span>{copied ? "Copied!" : "Copy Details"}</span>
-                    </button>
-                  </div>
+              {/* Sparkle Divider */}
+              <div className="flex items-center gap-3 px-7 sm:px-9 pt-5">
+                <div className="flex-1 h-[1px] bg-[#DFC9A0]" />
+                <span className="text-[#C9921A] text-sm">✦</span>
+                <div className="flex-1 h-[1px] bg-[#DFC9A0]" />
+              </div>
+
+              {/* Form Fields */}
+              <form onSubmit={handleSubmit} className="p-7 sm:p-9 space-y-4 font-sans">
+                {/* Full Name */}
+                <div>
+                  <label className="block text-[11px] font-bold uppercase tracking-wider text-[#5C3D1E] mb-1.5">
+                    Full Name <span className="text-[#E8741A]">*</span>
+                  </label>
+                  <input
+                    type="text"
+                    value={formData.fullName}
+                    onChange={(e) => {
+                      setFormData({ ...formData, fullName: e.target.value });
+                      if (formErrors.fullName) setFormErrors({ ...formErrors, fullName: "" });
+                    }}
+                    placeholder="e.g. Ravi Sharma"
+                    className={`w-full bg-[#FDF6EC] border ${
+                      formErrors.fullName ? "border-[#C0392B] bg-[#FEF2F0]" : "border-[#DFC9A0]"
+                    } rounded-xl px-4 py-2.5 text-sm text-[#1E1410] focus:border-[#E8741A] focus:bg-white focus:ring-2 focus:ring-[#E8741A]/20 outline-none transition-all`}
+                  />
+                  {formErrors.fullName && (
+                    <p className="text-xs text-[#C0392B] mt-1 font-medium">{formErrors.fullName}</p>
+                  )}
                 </div>
-              ) : (
-                <form onSubmit={handleSubmit} className="space-y-5">
-                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
-                    <div>
-                      <label className="block text-xs font-bold uppercase text-gray-700 mb-1.5">
-                        Full Name *
-                      </label>
-                      <input
-                        type="text"
-                        required
-                        value={formData.name}
-                        onChange={(e) => setFormData({ ...formData, name: e.target.value })}
-                        placeholder="Please enter your full name"
-                        className="w-full rounded-xl border border-gray-300 bg-white px-4 py-2.5 text-sm focus:border-[#E78031] outline-none"
-                      />
-                    </div>
-                    <div>
-                      <label className="block text-xs font-bold uppercase text-gray-700 mb-1.5">
-                        Email Address *
-                      </label>
-                      <input
-                        type="email"
-                        required
-                        value={formData.email}
-                        onChange={(e) => setFormData({ ...formData, email: e.target.value })}
-                        placeholder="Enter a valid email"
-                        className="w-full rounded-xl border border-gray-300 bg-white px-4 py-2.5 text-sm focus:border-[#E78031] outline-none"
-                      />
-                    </div>
-                  </div>
 
-                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
-                    <div>
-                      <label className="block text-xs font-bold uppercase text-gray-700 mb-1.5">
-                        Occupation *
-                      </label>
-                      <select
-                        value={formData.occupation}
-                        onChange={(e) => setFormData({ ...formData, occupation: e.target.value })}
-                        className="w-full rounded-xl border border-gray-300 bg-white px-4 py-2.5 text-sm focus:border-[#E78031] outline-none"
-                      >
-                        <option>Traveler / Tourist</option>
-                        <option>Blogger</option>
-                        <option>Vendor</option>
-                        <option>Video Editor</option>
-                        <option>Business</option>
-                        <option>B2B Partner</option>
-                        <option>Other</option>
-                      </select>
-                    </div>
+                {/* Email Address */}
+                <div>
+                  <label className="block text-[11px] font-bold uppercase tracking-wider text-[#5C3D1E] mb-1.5">
+                    Email Address <span className="text-[#E8741A]">*</span>
+                  </label>
+                  <input
+                    type="email"
+                    value={formData.email}
+                    onChange={(e) => {
+                      setFormData({ ...formData, email: e.target.value });
+                      if (formErrors.email) setFormErrors({ ...formErrors, email: "" });
+                    }}
+                    placeholder="you@example.com"
+                    className={`w-full bg-[#FDF6EC] border ${
+                      formErrors.email ? "border-[#C0392B] bg-[#FEF2F0]" : "border-[#DFC9A0]"
+                    } rounded-xl px-4 py-2.5 text-sm text-[#1E1410] focus:border-[#E8741A] focus:bg-white focus:ring-2 focus:ring-[#E8741A]/20 outline-none transition-all`}
+                  />
+                  {formErrors.email && (
+                    <p className="text-xs text-[#C0392B] mt-1 font-medium">{formErrors.email}</p>
+                  )}
+                </div>
 
-                    <div>
-                      <label className="block text-xs font-bold uppercase text-gray-700 mb-1.5">
-                        Contact Number *
-                      </label>
-                      <div className="flex gap-2">
-                        <select
-                          value={formData.countryCode}
-                          onChange={(e) => setFormData({ ...formData, countryCode: e.target.value })}
-                          className="rounded-xl border border-gray-300 bg-white px-2 py-2.5 text-xs font-semibold focus:border-[#E78031] outline-none w-24 flex-shrink-0"
-                        >
-                          <option value="+91">🇮🇳 +91</option>
-                          <option value="+1">🇺🇸 +1</option>
-                          <option value="+44">🇬🇧 +44</option>
-                          <option value="+61">🇦🇺 +61</option>
-                          <option value="+49">🇩🇪 +49</option>
-                          <option value="+33">🇫🇷 +33</option>
-                          <option value="+81">🇯🇵 +81</option>
-                          <option value="+65">🇸🇬 +65</option>
-                          <option value="+971">🇦🇪 +971</option>
-                        </select>
-                        <input
-                          type="tel"
-                          required
-                          value={formData.phone}
-                          onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
-                          placeholder="Phone number"
-                          className="w-full rounded-xl border border-gray-300 bg-white px-4 py-2.5 text-sm focus:border-[#E78031] outline-none"
-                        />
-                      </div>
-                    </div>
-                  </div>
+                {/* Occupation */}
+                <div>
+                  <label className="block text-[11px] font-bold uppercase tracking-wider text-[#5C3D1E] mb-1.5">
+                    Occupation <span className="text-[#E8741A]">*</span>
+                  </label>
+                  <select
+                    value={formData.occupation}
+                    onChange={(e) => {
+                      setFormData({ ...formData, occupation: e.target.value });
+                      if (formErrors.occupation) setFormErrors({ ...formErrors, occupation: "" });
+                    }}
+                    className={`w-full bg-[#FDF6EC] border ${
+                      formErrors.occupation ? "border-[#C0392B] bg-[#FEF2F0]" : "border-[#DFC9A0]"
+                    } rounded-xl px-4 py-2.5 text-sm text-[#1E1410] focus:border-[#E8741A] focus:bg-white focus:ring-2 focus:ring-[#E8741A]/20 outline-none transition-all cursor-pointer`}
+                  >
+                    <option value="">— Select —</option>
+                    <option value="Blogger">Blogger</option>
+                    <option value="Vendor">Vendor</option>
+                    <option value="Video Editor">Video Editor</option>
+                    <option value="Business">Business</option>
+                    <option value="B2B">B2B</option>
+                    <option value="Other">Other</option>
+                  </select>
+                  {formErrors.occupation && (
+                    <p className="text-xs text-[#C0392B] mt-1 font-medium">{formErrors.occupation}</p>
+                  )}
+                </div>
 
-                  <div className="grid grid-cols-1 sm:grid-cols-3 gap-5">
-                    <div>
-                      <label className="block text-xs font-bold uppercase text-gray-700 mb-1.5">
-                        Approx Trip Date
-                      </label>
-                      <input
-                        type="date"
-                        value={formData.tripDate}
-                        onChange={(e) => setFormData({ ...formData, tripDate: e.target.value })}
-                        className="w-full rounded-xl border border-gray-300 bg-white px-4 py-2.5 text-sm focus:border-[#E78031] outline-none"
-                      />
-                    </div>
-                    <div>
-                      <label className="block text-xs font-bold uppercase text-gray-700 mb-1.5">
-                        No. of Travelers
-                      </label>
-                      <input
-                        type="number"
-                        min="1"
-                        max="50"
-                        value={formData.travelers}
-                        onChange={(e) => setFormData({ ...formData, travelers: e.target.value })}
-                        className="w-full rounded-xl border border-gray-300 bg-white px-4 py-2.5 text-sm focus:border-[#E78031] outline-none"
-                      />
-                    </div>
-                    <div>
-                      <label className="block text-xs font-bold uppercase text-gray-700 mb-1.5">
-                        Vehicle Preference
-                      </label>
-                      <select
-                        value={formData.vehicleType}
-                        onChange={(e) => setFormData({ ...formData, vehicleType: e.target.value })}
-                        className="w-full rounded-xl border border-gray-300 bg-white px-4 py-2.5 text-sm focus:border-[#E78031] outline-none"
-                      >
-                        <option>Toyota Innova Crysta</option>
-                        <option>Toyota Etios Sedan</option>
-                        <option>Tempo Traveller</option>
-                        <option>BMW / Mercedes Luxury</option>
-                        <option>Not Required</option>
-                      </select>
-                    </div>
-                  </div>
-
-                  <div>
-                    <label className="block text-xs font-bold uppercase text-gray-700 mb-1.5">
-                      Detailed Requirements &amp; Destinations
-                    </label>
-                    <textarea
-                      rows={3}
-                      value={formData.message}
-                      onChange={(e) => setFormData({ ...formData, message: e.target.value })}
-                      placeholder="Mention the cities you want to visit, days in mind, hotel preferences, or any specific questions."
-                      className="w-full rounded-xl border border-gray-300 bg-white p-4 text-sm focus:border-[#E78031] outline-none"
+                {/* Contact Number */}
+                <div>
+                  <label className="block text-[11px] font-bold uppercase tracking-wider text-[#5C3D1E] mb-1.5">
+                    Contact Number <span className="text-[#E8741A]">*</span>
+                  </label>
+                  <div className="flex gap-2">
+                    <select
+                      value={formData.countryCode}
+                      onChange={(e) => setFormData({ ...formData, countryCode: e.target.value })}
+                      className="w-36 bg-[#FDF6EC] border border-[#DFC9A0] rounded-xl px-2.5 py-2.5 text-xs sm:text-sm text-[#1E1410] focus:border-[#E8741A] focus:bg-white outline-none cursor-pointer flex-shrink-0"
+                    >
+                      {countryCodes.map((c) => (
+                        <option key={c.code} value={c.code}>
+                          {c.label}
+                        </option>
+                      ))}
+                    </select>
+                    <input
+                      type="tel"
+                      value={formData.phone}
+                      onChange={(e) => {
+                        setFormData({ ...formData, phone: e.target.value });
+                        if (formErrors.phone) setFormErrors({ ...formErrors, phone: "" });
+                      }}
+                      placeholder="98765 43210"
+                      className={`flex-1 min-w-0 bg-[#FDF6EC] border ${
+                        formErrors.phone ? "border-[#C0392B] bg-[#FEF2F0]" : "border-[#DFC9A0]"
+                      } rounded-xl px-4 py-2.5 text-sm text-[#1E1410] focus:border-[#E8741A] focus:bg-white focus:ring-2 focus:ring-[#E8741A]/20 outline-none transition-all`}
                     />
                   </div>
+                  {formErrors.phone && (
+                    <p className="text-xs text-[#C0392B] mt-1 font-medium">{formErrors.phone}</p>
+                  )}
+                </div>
 
+                {/* Message */}
+                <div>
+                  <label className="block text-[11px] font-bold uppercase tracking-wider text-[#5C3D1E] mb-1.5">
+                    Your Message <span className="text-[#E8741A]">*</span>
+                  </label>
+                  <textarea
+                    rows={4}
+                    value={formData.message}
+                    onChange={(e) => {
+                      setFormData({ ...formData, message: e.target.value });
+                      if (formErrors.message) setFormErrors({ ...formErrors, message: "" });
+                    }}
+                    placeholder="Tell us about your dream trip — destinations, travel dates, group size, special requests…"
+                    className={`w-full bg-[#FDF6EC] border ${
+                      formErrors.message ? "border-[#C0392B] bg-[#FEF2F0]" : "border-[#DFC9A0]"
+                    } rounded-xl p-4 text-sm text-[#1E1410] focus:border-[#E8741A] focus:bg-white focus:ring-2 focus:ring-[#E8741A]/20 outline-none transition-all resize-y`}
+                  />
+                  {formErrors.message && (
+                    <p className="text-xs text-[#C0392B] mt-1 font-medium">{formErrors.message}</p>
+                  )}
+                </div>
+
+                {/* Submit Button */}
+                <div className="pt-2">
                   <button
                     type="submit"
-                    className="w-full inline-flex items-center justify-center gap-2 bg-[#E78031] hover:bg-[#d06b20] text-white py-3.5 px-6 rounded-full font-bold text-base shadow-md hover:shadow-lg transition-all cursor-pointer"
+                    className="w-full bg-gradient-to-r from-[#E8741A] to-[#C9921A] hover:opacity-95 text-white font-semibold py-3.5 px-6 rounded-xl shadow-[0_4px_16px_rgba(232,116,26,0.25)] hover:shadow-[0_6px_24px_rgba(232,116,26,0.35)] transition-all flex items-center justify-center gap-2 cursor-pointer active:scale-[0.99]"
                   >
-                    <Send className="h-4 w-4" />
-                    <span>Submit &amp; Open WhatsApp</span>
+                    <Send className="w-4 h-4" />
+                    <span>Send Enquiry via WhatsApp</span>
                   </button>
-                </form>
-              )}
+                </div>
+
+                {/* Privacy Policy Disclaimer */}
+                <p className="text-center text-xs text-gray-500 pt-2 leading-relaxed">
+                  🔒 Your details are shared only with our travel team.
+                  <br />
+                  By submitting you agree to our{" "}
+                  <Link href="/" className="text-[#E8741A] hover:underline">
+                    Privacy Policy
+                  </Link>
+                  .
+                </p>
+              </form>
             </div>
           </div>
         </div>
       </section>
 
-      {/* Section 2: Work with Us (From Original Site) */}
-      <section className="py-16 sm:py-20 bg-[#faf8f5] px-4 sm:px-6 lg:px-8 border-y border-[#ede5d8]">
-        <div className="max-w-6xl mx-auto">
+      {/* Success Modal matching main website */}
+      {showModal && (
+        <div
+          className="fixed inset-0 bg-black/60 backdrop-blur-sm z-50 flex items-center justify-center p-4 animate-in fade-in duration-200"
+          onClick={() => setShowModal(false)}
+        >
+          <div
+            className="bg-white rounded-2xl max-w-md w-full p-6 sm:p-8 text-center shadow-2xl relative"
+            onClick={(e) => e.stopPropagation()}
+          >
+            <div className="w-16 h-16 rounded-full bg-green-100 text-[#27AE60] mx-auto flex items-center justify-center text-3xl mb-4">
+              ✅
+            </div>
+
+            <h3 className="font-serif text-2xl font-bold text-[#5C3D1E] mb-2">
+              Enquiry Received!
+            </h3>
+            <p className="text-sm text-gray-600 mb-6">
+              Your details have been submitted. We&apos;ll review it and get back to you shortly via WhatsApp.
+            </p>
+
+            <div className="bg-[#FDF6EC] border border-[#DFC9A0] rounded-xl p-4 text-left text-xs sm:text-sm space-y-2 mb-6 font-sans">
+              <div className="flex justify-between">
+                <span className="text-gray-500 font-medium">Name:</span>
+                <span className="font-semibold text-gray-900">{formData.fullName}</span>
+              </div>
+              <div className="flex justify-between">
+                <span className="text-gray-500 font-medium">Email:</span>
+                <span className="font-semibold text-gray-900">{formData.email}</span>
+              </div>
+              <div className="flex justify-between">
+                <span className="text-gray-500 font-medium">Phone:</span>
+                <span className="font-semibold text-gray-900">
+                  {formData.countryCode} {formData.phone}
+                </span>
+              </div>
+              <div className="flex justify-between">
+                <span className="text-gray-500 font-medium">Occupation:</span>
+                <span className="font-semibold text-gray-900">{formData.occupation}</span>
+              </div>
+            </div>
+
+            <div className="flex flex-col gap-3">
+              <button
+                type="button"
+                onClick={handleOpenWhatsApp}
+                className="w-full bg-[#25D366] hover:bg-[#20ba59] text-white font-semibold py-3 px-6 rounded-xl flex items-center justify-center gap-2 transition-all shadow-md"
+              >
+                <span>Open WhatsApp</span>
+              </button>
+              <button
+                type="button"
+                onClick={handleCopyDetails}
+                className="w-full border border-[#E8741A] text-[#E8741A] hover:bg-[#E8741A]/5 font-semibold py-2.5 px-6 rounded-xl transition-all"
+              >
+                {copied ? "✅ Copied to clipboard!" : "📋 Copy Details"}
+              </button>
+              <button
+                type="button"
+                onClick={() => setShowModal(false)}
+                className="text-xs text-gray-400 hover:text-gray-600 pt-1"
+              >
+                Close Window
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Work with Us Section (4 Items from main website) */}
+      <section className="bg-[#FAF8F5] border-t border-[#ede5d8] py-16 sm:py-20 px-4 sm:px-6 lg:px-8">
+        <div className="max-w-[1250px] mx-auto">
           <div className="text-center mb-12">
-            <span className="text-xs sm:text-sm font-semibold tracking-[2px] text-[#c9a766] uppercase mb-2 block">
-              Collaborations &amp; Partnerships
-            </span>
-            <h2 className="text-3xl sm:text-4xl font-serif text-[#192a3d]">
+            <h2 className="text-3xl sm:text-4xl font-serif font-normal text-[#192a3d] mb-3">
               Work with Us
             </h2>
-            <div className="h-1 w-20 bg-[#E78031] mx-auto mt-4 rounded-full" />
+            <div className="h-0.5 w-16 bg-[#E78031] mx-auto rounded-full" />
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            <div className="bg-white p-8 rounded-3xl border border-[#ede5d8] shadow-sm flex flex-col justify-between">
-              <div>
-                <div className="h-12 w-12 rounded-2xl bg-[#E78031]/10 text-[#E78031] flex items-center justify-center mb-5">
-                  <Share2 className="h-6 w-6" />
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+            {workWithUsItems.map((item, idx) => (
+              <div
+                key={idx}
+                className="bg-white rounded-2xl p-6 sm:p-7 border border-[#ede5d8] shadow-sm hover:shadow-md transition-shadow text-center flex flex-col items-center"
+              >
+                <div className="relative w-[100px] h-[100px] mb-4">
+                  <Image
+                    src={item.icon}
+                    alt={item.title}
+                    fill
+                    className="object-contain"
+                  />
                 </div>
-                <h4 className="font-serif font-bold text-gray-900 text-xl mb-3">BLOGGER / CREATOR</h4>
-                <p className="text-xs sm:text-sm text-gray-600 leading-relaxed">
-                  We are a small, passionate team that enjoys working closely with our guests to help them plan
-                  a personalized trip to India. If you would like to work with us on promoting India to your
-                  readers, followers, or travel community, let us know!
+                <h3 className="text-xl sm:text-2xl font-bold text-[#E78031] uppercase tracking-wide mb-3 font-sans">
+                  {item.title}
+                </h3>
+                <p className="text-sm text-gray-600 leading-relaxed font-sans">
+                  {item.description}
                 </p>
               </div>
-              <div className="pt-6">
-                <a
-                  href="mailto:delightfulindiaholidays@gmail.com?subject=Blogger%20Collaboration"
-                  className="text-xs font-bold text-[#E78031] hover:underline"
-                >
-                  Propose Collaboration &rarr;
-                </a>
-              </div>
-            </div>
-
-            <div className="bg-white p-8 rounded-3xl border border-[#ede5d8] shadow-sm flex flex-col justify-between">
-              <div>
-                <div className="h-12 w-12 rounded-2xl bg-[#228B48]/10 text-[#228B48] flex items-center justify-center mb-5">
-                  <Handshake className="h-6 w-6" />
-                </div>
-                <h4 className="font-serif font-bold text-gray-900 text-xl mb-3">VENDOR / SUPPLIER</h4>
-                <p className="text-xs sm:text-sm text-gray-600 leading-relaxed">
-                  We are always actively partnering with local Rajasthani heritage havelis, luxury desert glamping
-                  outfits, state-certified scholarly guides, and experiential transport providers across India.
-                </p>
-              </div>
-              <div className="pt-6">
-                <a
-                  href="mailto:delightfulindiaholidays@gmail.com?subject=Vendor%20Partnership"
-                  className="text-xs font-bold text-[#228B48] hover:underline"
-                >
-                  Partner With Us &rarr;
-                </a>
-              </div>
-            </div>
-
-            <div className="bg-white p-8 rounded-3xl border border-[#ede5d8] shadow-sm flex flex-col justify-between">
-              <div>
-                <div className="h-12 w-12 rounded-2xl bg-[#c9a766]/10 text-[#c9a766] flex items-center justify-center mb-5">
-                  <Briefcase className="h-6 w-6" />
-                </div>
-                <h4 className="font-serif font-bold text-gray-900 text-xl mb-3">B2B TRAVEL AGENTS</h4>
-                <p className="text-xs sm:text-sm text-gray-600 leading-relaxed">
-                  We provide trusted, white-label inbound ground handling services for international travel agencies,
-                  European &amp; American operators, and corporate event organizers needing reliable India execution.
-                </p>
-              </div>
-              <div className="pt-6">
-                <a
-                  href="mailto:delightfulindiaholidays@gmail.com?subject=B2B%20Agency%20Inquiry"
-                  className="text-xs font-bold text-[#c9a766] hover:underline"
-                >
-                  Request B2B Net Rates &rarr;
-                </a>
-              </div>
-            </div>
+            ))}
           </div>
         </div>
       </section>
 
-      <CredibilitySection />
+      {/* Footer (includes Credibility Section + Complete Footer) */}
       <Footer />
       <WhatsAppFloatingButton />
     </div>
