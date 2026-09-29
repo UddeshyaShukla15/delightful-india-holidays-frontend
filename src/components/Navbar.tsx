@@ -59,7 +59,9 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
               <Link
                 href="/"
                 className={`flex items-center gap-1.5 text-base font-bold py-2 transition-colors ${
-                  pathname === "/" || pathname === "/about" ? "text-[#E78031]" : "text-gray-900 hover:text-[#E78031]"
+                  pathname === "/" || pathname === "/about" || pathname === "/how-we-work"
+                    ? "text-[#E78031]"
+                    : "text-gray-900 hover:text-[#E78031]"
                 }`}
               >
                 <span>Home</span>
@@ -75,8 +77,10 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
                   About Us
                 </Link>
                 <Link
-                  href="/contact"
-                  className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
+                  href="/how-we-work"
+                  className={`block px-4 py-2.5 text-sm font-normal transition-colors ${
+                    pathname === "/how-we-work" ? "bg-[#E78031] text-white" : "text-gray-800 hover:bg-[#E78031] hover:text-white"
+                  }`}
                 >
                   How We Work
                 </Link>
@@ -269,9 +273,11 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
               About Us
             </Link>
             <Link
-              href="/contact"
+              href="/how-we-work"
               onClick={closeMobileMenu}
-              className="block rounded-lg px-3 py-1.5 text-sm font-medium text-gray-600 hover:bg-gray-50 hover:text-[#E78031]"
+              className={`block rounded-lg px-3 py-1.5 text-sm font-medium ${
+                pathname === "/how-we-work" ? "text-[#E78031] font-bold" : "text-gray-600 hover:bg-gray-50 hover:text-[#E78031]"
+              }`}
             >
               How We Work
             </Link>
