@@ -332,6 +332,178 @@ export default function DayTourDestinationView({ data }: DayTourDestinationViewP
             </ul>
           </div>
         </div>
+      ) : data.id === "jaipur" ? (
+        /* ======================== JAIPUR EXACT SECTIONS ======================== */
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12 text-gray-800">
+          {/* Jaipur Tour Packages */}
+          <div>
+            <h2 className="text-3xl sm:text-4xl font-serif text-[#192a3d] font-bold mb-6">
+              Jaipur Tour Packages
+            </h2>
+            <div className="space-y-4 text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+              <p>
+                Jaipur, popularly known as the Pink City of Rajasthan, is one of India’s most fascinating travel destinations. Renowned for its magnificent forts, royal palaces, colorful bazaars, and rich cultural heritage, Jaipur offers an unforgettable experience for every traveler. Whether you are planning a short getaway, a family vacation, a romantic holiday, or a heritage exploration, our carefully designed Jaipur Tour Packages provide the perfect way to discover the city’s timeless charm.
+              </p>
+              <p>
+                At Delightful India Holidays, we offer a wide range of Jaipur Travel Packages and Jaipur Holiday Packages tailored to suit different interests and budgets. From a Jaipur City Tour covering iconic landmarks to a Jaipur Heritage Tour showcasing the city’s royal history, every itinerary is thoughtfully crafted to provide an authentic Rajasthan experience. Visitors can explore grand attractions such as Amber Fort, City Palace, Hawa Mahal, Jantar Mantar, and Nahargarh Fort while enjoying a memorable Jaipur Sightseeing Tour.
+              </p>
+              <p>
+                Our Jaipur Tour Operator team specializes in customized travel experiences, including Jaipur Family Tour Packages, Jaipur Private Tours, Jaipur Group Tours, Jaipur Walking Tours, Jaipur Food Tours, Jaipur Shopping Tours, and Jaipur Photography Tours. Travelers looking for unique experiences can enjoy a Jaipur Tuk Tuk Tour, Jaipur Cycling Tour, Jaipur Heritage Walk, Jaipur Night Tour, or exciting wildlife excursions such as the Jhalana Leopard Safari and Elephant Sanctuary in Jaipur.
+              </p>
+              <p>
+                For travelers arriving from the capital, we also provide Jaipur Tour Package from Delhi options, including Same Day Jaipur Tour from Delhi by Car, Same Day Jaipur Tour from Delhi by Train, Jaipur Day Tour from Delhi, 2 Days Jaipur Tour from Delhi, and 1 Night 2 Days Jaipur Tour from Delhi. Our transportation services include Private Delhi to Jaipur Transfer, Delhi Transfer via Taj Mahal from Jaipur, and comfortable cab and car hire services.
+              </p>
+              <p>
+                Beyond Jaipur, we offer popular excursions such as Same Day Pushkar Tour from Jaipur, Same Day Ajmer Pushkar Tour from Jaipur, Same Day Ranthambore Safari Tour from Jaipur, Same Day Abhaneri Tour from Jaipur, Same Day Sariska Tour from Jaipur, Same Day Bhangarh Tour from Jaipur, and Same Day Agra Tour from Jaipur. Multi-day tours including Jaipur Agra Delhi Tour, Jaipur Jodhpur Udaipur Tour, 4 Days Jaipur Jodhpur Tour with Pushkar, Overnight Agra Tour from Jaipur, and Overnight Ranthambore Tour from Jaipur are ideal for travelers wishing to explore more of North India’s cultural treasures.
+              </p>
+              <p>
+                Whether you are seeking a Jaipur Full Day Tour with Guide, Jaipur Sightseeing Tour by Car, Jaipur Sightseeing Tour by Tuk Tuk, Jaipur Honeymoon Tour, Jaipur Cultural Tour, Jaipur Festival Tour, or a fully Customized Jaipur Tour, Delightful India Holidays is your trusted Travel Agency in Jaipur and Luxury Travel Company in Jaipur. Our expert guides, comfortable transportation, and personalized services ensure a memorable and hassle-free journey through the royal capital of Rajasthan.
+              </p>
+            </div>
+          </div>
+
+          {/* Jaipur Tourist Attractions */}
+          <div>
+            <h2 className="text-2xl sm:text-3xl font-serif text-[#192a3d] font-bold mb-6">
+              Jaipur Tourist Attractions
+            </h2>
+            <div className="space-y-6">
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Amber Fort</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  The most iconic landmark of Jaipur, Amber Fort is a UNESCO World Heritage Site known for its majestic architecture, beautiful courtyards, Sheesh Mahal, and panoramic views of the Aravalli Hills.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">City Palace</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Located in the heart of the Pink City, City Palace showcases a blend of Rajput and Mughal architecture. The palace complex houses museums, courtyards, royal artifacts, and the residence of Jaipur’s royal family.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Hawa Mahal</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Known as the Palace of Winds, Hawa Mahal is Jaipur’s most photographed monument. Its unique five-story facade with 953 windows was designed for royal women to observe city life while remaining unseen.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Jantar Mantar</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  A UNESCO-listed astronomical observatory built by Maharaja Sawai Jai Singh II, Jantar Mantar features fascinating astronomical instruments that continue to amaze visitors.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Nahargarh Fort</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Perched on the Aravalli Hills, Nahargarh Fort offers breathtaking views of Jaipur city, especially during sunset. It is a favorite destination for photographers and history enthusiasts.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Jaigarh Fort</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Famous for housing the world’s largest cannon on wheels, Jaivana Cannon, Jaigarh Fort offers impressive military architecture and stunning views of Amber Fort.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Albert Hall Museum</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  The oldest museum in Rajasthan, Albert Hall Museum showcases an extensive collection of artifacts, paintings, sculptures, and historical exhibits.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Jal Mahal</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Situated in the middle of Man Sagar Lake, Jal Mahal is a stunning water palace that provides one of Jaipur’s most picturesque views.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          {/* Places to Visit in Jaipur */}
+          <div>
+            <h2 className="text-2xl sm:text-3xl font-serif text-[#192a3d] font-bold mb-6">
+              Places to Visit in Jaipur
+            </h2>
+            <div className="space-y-6">
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Bapu Bazaar</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  A paradise for shoppers looking for traditional textiles, handicrafts, jewelry, and souvenirs. It is a must-visit destination during any Jaipur Shopping Tour.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Johari Bazaar</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Famous for gemstones, precious jewelry, and traditional Rajasthani craftsmanship, Johari Bazaar is one of Jaipur’s oldest and busiest markets.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Patrika Gate</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Known for its colorful architecture and intricate artwork, Patrika Gate has become one of Jaipur’s most popular photography spots.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Galtaji Temple (Monkey Temple)</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Nestled amidst the hills, this ancient pilgrimage site is known for its sacred water tanks, temples, and resident monkey population.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Sisodia Rani Garden</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  A beautifully landscaped garden featuring fountains, pavilions, and murals depicting the love story of Radha and Krishna.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Panna Meena Ka Kund</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  An architectural marvel near Amber Fort, this historic stepwell is famous for its symmetrical staircases and stunning geometric design.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Chokhi Dhani</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Experience authentic Rajasthani culture through folk performances, traditional cuisine, camel rides, and village-style hospitality.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Jhalana Leopard Safari</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  One of India’s best urban wildlife experiences, Jhalana Leopard Safari offers excellent opportunities to spot leopards and other wildlife near Jaipur.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Elephant Sanctuary Jaipur</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  A unique attraction where visitors can interact with rescued elephants through ethical and responsible elephant activities.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Hot Air Balloon Ride in Jaipur</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Enjoy spectacular aerial views of Jaipur’s forts, palaces, and countryside with a memorable Hot Air Balloon Ride in Jaipur.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
       ) : (
         /* Other 5 destinations */
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12 text-gray-800">
