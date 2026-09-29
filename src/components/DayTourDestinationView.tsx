@@ -39,6 +39,11 @@ export interface FAQItem {
   a: string;
 }
 
+export interface GroupedTourSection {
+  heading: string;
+  tours: TourItem[];
+}
+
 export interface DestinationData {
   id: string;
   slug: string;
@@ -51,6 +56,7 @@ export interface DestinationData {
   overview: string[];
   tourCount: number;
   tours: TourItem[];
+  groupedSections?: GroupedTourSection[];
   placesToVisit: PlaceToVisit[];
   attractions: AttractionSection[];
   whyChoose: string[];
@@ -65,7 +71,12 @@ interface DayTourDestinationViewProps {
 
 export default function DayTourDestinationView({ data }: DayTourDestinationViewProps) {
   const [isModalOpen, setIsModalOpen] = useState(false);
+  const [openFaqIndex, setOpenFaqIndex] = useState<number | null>(null);
   const heroBg = data.localHeroImage || data.heroImage;
+
+  const toggleFaq = (index: number) => {
+    setOpenFaqIndex(openFaqIndex === index ? null : index);
+  };
 
   const scrollToEnquiry = () => {
     const el = document.getElementById("enquiry-section");
@@ -74,6 +85,71 @@ export default function DayTourDestinationView({ data }: DayTourDestinationViewP
     } else {
       setIsModalOpen(true);
     }
+  };
+
+  const renderTourCard = (tour: TourItem) => {
+    const tourImg = tour.localImage || tour.image;
+    return (
+      <div
+        key={tour.id}
+        className="flex flex-col bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 border border-gray-100 group"
+      >
+        {/* Tour Image with Duration & Rating */}
+        <div className="relative aspect-[16/10] w-full overflow-hidden bg-gray-100">
+          <Link href={`/tours/${tour.id}`} className="block h-full w-full">
+            <Image
+              src={tourImg}
+              alt={tour.title}
+              fill
+              className="object-cover transition-transform duration-700 group-hover:scale-105"
+              sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+            />
+          </Link>
+
+          {/* Duration Badge */}
+          <div className="absolute top-3.5 right-3.5 bg-black/75 backdrop-blur-md text-white text-xs font-semibold px-3 py-1.5 rounded-full flex items-center gap-1.5 shadow-md">
+            <Clock className="w-3.5 h-3.5 text-[#FFAF19]" />
+            <span>{tour.duration}</span>
+          </div>
+
+          {/* Rating Stars Overlay */}
+          <div className="absolute bottom-3 left-3.5 bg-white/95 backdrop-blur-md px-2.5 py-1 rounded-full flex items-center gap-1 shadow-sm">
+            <div className="flex text-[#FFAF19]">
+              {[...Array(5)].map((_, i) => (
+                <Star key={i} className="w-3 h-3 fill-[#FFAF19]" />
+              ))}
+            </div>
+            <span className="text-[11px] font-bold text-gray-800 ml-0.5">5.0</span>
+          </div>
+        </div>
+
+        {/* Card Content */}
+        <div className="flex flex-1 flex-col p-5">
+          <h3 className="font-serif text-xl font-bold text-gray-900 leading-snug line-clamp-2 mb-3 group-hover:text-[#E78031] transition-colors">
+            <Link href={`/tours/${tour.id}`}>{tour.title}</Link>
+          </h3>
+
+          {/* Route with Green Marker */}
+          <div className="flex items-center gap-2 mb-6 text-sm text-gray-700">
+            <span className="flex-shrink-0 text-[#228B48]">
+              <MapPin className="w-4 h-4 fill-[#228B48] text-white" />
+            </span>
+            <span className="font-medium truncate">{tour.route}</span>
+          </div>
+
+          {/* Action Button: ONLY View Details */}
+          <div className="mt-auto pt-3 border-t border-gray-100">
+            <Link
+              href={`/tours/${tour.id}`}
+              className="w-full inline-flex items-center justify-center gap-2 bg-[#E78031] hover:bg-[#d46d20] text-white text-sm sm:text-base font-medium py-2.5 px-4 rounded-[20px] transition-all shadow-sm hover:shadow"
+            >
+              <span>View Details</span>
+              <ArrowRight className="w-4 h-4" />
+            </Link>
+          </div>
+        </div>
+      </div>
+    );
   };
 
   return (
@@ -113,82 +189,37 @@ export default function DayTourDestinationView({ data }: DayTourDestinationViewP
 
       {/* 2. Tour Packages Grid Section */}
       <section className="py-14 sm:py-16 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
-        <div className="text-center mb-10">
-          <h2 className="text-3xl sm:text-4xl font-serif text-[#192a3d] font-normal mb-3">
-            {data.pageTitle}
-          </h2>
-          <div className="h-1 w-20 bg-[#E78031] mx-auto rounded-full" />
-        </div>
-
-        {/* Removed "Showing 24 curated tour packages" and search bar as requested */}
-
-        {/* Show ALL packages without pagination or "View More" button */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-          {data.tours.map((tour) => {
-            const tourImg = tour.localImage || tour.image;
-            return (
-              <div
-                key={tour.id}
-                className="flex flex-col bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 border border-gray-100 group"
-              >
-                {/* Tour Image with Duration & Rating */}
-                <div className="relative aspect-[16/10] w-full overflow-hidden bg-gray-100">
-                  <Link href={`/tours/${tour.id}`} className="block h-full w-full">
-                    <Image
-                      src={tourImg}
-                      alt={tour.title}
-                      fill
-                      className="object-cover transition-transform duration-700 group-hover:scale-105"
-                      sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                    />
-                  </Link>
-
-                  {/* Duration Badge */}
-                  <div className="absolute top-3.5 right-3.5 bg-black/75 backdrop-blur-md text-white text-xs font-semibold px-3 py-1.5 rounded-full flex items-center gap-1.5 shadow-md">
-                    <Clock className="w-3.5 h-3.5 text-[#FFAF19]" />
-                    <span>{tour.duration}</span>
-                  </div>
-
-                  {/* Rating Stars Overlay */}
-                  <div className="absolute bottom-3 left-3.5 bg-white/95 backdrop-blur-md px-2.5 py-1 rounded-full flex items-center gap-1 shadow-sm">
-                    <div className="flex text-[#FFAF19]">
-                      {[...Array(5)].map((_, i) => (
-                        <Star key={i} className="w-3 h-3 fill-[#FFAF19]" />
-                      ))}
-                    </div>
-                    <span className="text-[11px] font-bold text-gray-800 ml-0.5">5.0</span>
-                  </div>
+        {data.id === "jaisalmer" && data.groupedSections && data.groupedSections.length > 0 ? (
+          <div className="space-y-16">
+            {data.groupedSections.map((section, sIdx) => (
+              <div key={sIdx} className="space-y-8">
+                <div className="text-center mb-10">
+                  <h2 className="text-3xl sm:text-4xl font-serif text-[#192a3d] font-normal mb-3">
+                    {section.heading}
+                  </h2>
+                  <div className="h-1 w-20 bg-[#E78031] mx-auto rounded-full" />
                 </div>
 
-                {/* Card Content */}
-                <div className="flex flex-1 flex-col p-5">
-                  <h3 className="font-serif text-xl font-bold text-gray-900 leading-snug line-clamp-2 mb-3 group-hover:text-[#E78031] transition-colors">
-                    <Link href={`/tours/${tour.id}`}>{tour.title}</Link>
-                  </h3>
-
-                  {/* Route with Green Marker (shows Goa, KASHMIR, Udaipur, MUNNAR, HIMACHAL, etc. as specified) */}
-                  <div className="flex items-center gap-2 mb-6 text-sm text-gray-700">
-                    <span className="flex-shrink-0 text-[#228B48]">
-                      <MapPin className="w-4 h-4 fill-[#228B48] text-white" />
-                    </span>
-                    <span className="font-medium truncate">{tour.route}</span>
-                  </div>
-
-                  {/* Action Button: ONLY View Details */}
-                  <div className="mt-auto pt-3 border-t border-gray-100">
-                    <Link
-                      href={`/tours/${tour.id}`}
-                      className="w-full inline-flex items-center justify-center gap-2 bg-[#E78031] hover:bg-[#d46d20] text-white text-sm sm:text-base font-medium py-2.5 px-4 rounded-[20px] transition-all shadow-sm hover:shadow"
-                    >
-                      <span>View Details</span>
-                      <ArrowRight className="w-4 h-4" />
-                    </Link>
-                  </div>
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+                  {section.tours.map((tour) => renderTourCard(tour))}
                 </div>
               </div>
-            );
-          })}
-        </div>
+            ))}
+          </div>
+        ) : (
+          <div>
+            <div className="text-center mb-10">
+              <h2 className="text-3xl sm:text-4xl font-serif text-[#192a3d] font-normal mb-3">
+                {data.pageTitle}
+              </h2>
+              <div className="h-1 w-20 bg-[#E78031] mx-auto rounded-full" />
+            </div>
+
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+              {data.tours.map((tour) => renderTourCard(tour))}
+            </div>
+          </div>
+        )}
       </section>
 
       {/* 3. Editorial Travel Guide Content (Exact text requested by user) */}
@@ -504,8 +535,397 @@ export default function DayTourDestinationView({ data }: DayTourDestinationViewP
             </div>
           </div>
         </div>
+      ) : data.id === "jaisalmer" ? (
+        /* ======================== JAISALMER EXACT SECTIONS ======================== */
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12 text-gray-800">
+          {/* Jaisalmer Tour Packages – Explore the Golden City of Rajasthan */}
+          <div>
+            <h2 className="text-3xl sm:text-4xl font-serif text-[#192a3d] font-bold mb-4">
+              Jaisalmer Tour Packages – Explore the Golden City of Rajasthan
+            </h2>
+            <h3 className="text-2xl sm:text-3xl font-serif text-[#192a3d] font-bold mb-5">
+              Overview
+            </h3>
+            <div className="space-y-4 text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+              <p>
+                Experience the magic of Rajasthan with our carefully designed Jaisalmer Tour Packages, offering an unforgettable journey through the heart of the Thar Desert. Known as the “Golden City of India,” Jaisalmer is famous for its magnificent sandstone architecture, royal heritage, vibrant culture, and mesmerizing desert landscapes. Whether you are looking for a Jaisalmer Holiday Package, a romantic getaway, a family vacation, or an adventurous Jaisalmer Desert Safari, we offer customized tours to suit every traveler.
+              </p>
+              <p>
+                Our Jaisalmer Travel Packages include visits to iconic forts, ancient havelis, colorful markets, desert camps, and thrilling camel safaris. From luxury stays in heritage properties to authentic desert camping experiences, our tours showcase the best of Rajasthan’s desert culture. Whether you choose a Jaisalmer Tour Package 2 Days, Jaisalmer Tour Package 3 Days, or a longer itinerary, you can enjoy the perfect blend of history, culture, and adventure.
+              </p>
+              <p>
+                As a trusted Jaisalmer Tour Operator, we provide complete travel solutions including accommodation, transportation, sightseeing, and desert safari bookings. Book the Best Jaisalmer Tour Package and discover why this golden desert city remains one of India’s most captivating destinations.
+              </p>
+            </div>
+          </div>
+
+          {/* About Jaisalmer */}
+          <div>
+            <h2 className="text-2xl sm:text-3xl font-serif text-[#192a3d] font-bold mb-4">
+              About Jaisalmer
+            </h2>
+            <div className="space-y-4 text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+              <p>
+                Located in western Rajasthan near the India-Pakistan border, Jaisalmer rises like a golden mirage from the vast Thar Desert. Founded in 1156 AD by Rawal Jaisal, the city is renowned for its magnificent Jaisalmer Fort, one of the few living forts in the world where people still reside.
+              </p>
+              <p>
+                The city is famous for its intricate havelis, historic temples, colorful bazaars, and desert adventures. Travelers can enjoy a Jaisalmer Cultural Tour, explore centuries-old heritage sites, experience traditional Rajasthani folk performances, and spend memorable nights at a Desert Camp Jaisalmer under star-filled skies.
+              </p>
+              <p>
+                Whether you’re planning a Jaisalmer Family Tour, a honeymoon getaway, or a luxury desert retreat, Jaisalmer offers experiences that create lifelong memories.
+              </p>
+            </div>
+          </div>
+
+          {/* Best Attractions in Jaisalmer */}
+          <div>
+            <h2 className="text-2xl sm:text-3xl font-serif text-[#192a3d] font-bold mb-6">
+              Best Attractions in Jaisalmer
+            </h2>
+            <div className="space-y-6">
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Jaisalmer Fort
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  A UNESCO World Heritage Site and one of the largest living forts in the world, showcasing royal palaces, temples, and bustling markets.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Patwon Ki Haveli
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  The most famous haveli complex in Jaisalmer, known for its intricate carvings and beautiful architecture.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Salim Singh Ki Haveli
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  An architectural masterpiece featuring unique peacock-shaped balconies and historic interiors.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Nathmal Ki Haveli
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  A stunning haveli blending Rajput and Islamic architectural styles.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Gadisar Lake
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  A scenic man-made lake surrounded by temples and cenotaphs, ideal for boating and photography.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Sam Sand Dunes
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  The highlight of every Sam Sand Dunes Tour, offering spectacular sunset views, camel rides, jeep safaris, and cultural performances.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Kuldhara Village
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  A mysterious abandoned village known for its fascinating legends and history.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Desert National Park
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Home to unique desert wildlife including the Great Indian Bustard.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Bada Bagh
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  A historic garden complex featuring royal cenotaphs and stunning sunset photography opportunities.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          {/* Popular Things to Do in Jaisalmer */}
+          <div>
+            <h2 className="text-2xl sm:text-3xl font-serif text-[#192a3d] font-bold mb-4">
+              Popular Things to Do in Jaisalmer
+            </h2>
+            <ul className="list-disc pl-6 space-y-2.5 text-base sm:text-lg text-gray-800 font-light">
+              <li>Enjoy a thrilling Jaisalmer Desert Safari</li>
+              <li>Experience a traditional Camel Safari in Jaisalmer</li>
+              <li>Stay overnight at a luxury desert camp</li>
+              <li>Book a Sam Sand Dunes Package with cultural performances</li>
+              <li>Take a Jaisalmer Sightseeing Tour</li>
+              <li>Explore the narrow lanes of Jaisalmer Fort</li>
+              <li>Visit heritage havelis and museums</li>
+              <li>Enjoy folk music and Kalbelia dance performances</li>
+              <li>Try authentic Rajasthani cuisine</li>
+              <li>Experience a Jaisalmer Walking Tour</li>
+              <li>Take a Jaisalmer Full Day Tuk-Tuk Tour</li>
+              <li>Enjoy a Jaisalmer Private Full Day Tour</li>
+              <li>Explore local markets for handicrafts and souvenirs</li>
+              <li>Experience a Jaisalmer Sightseeing with Sunset Desert Tour</li>
+              <li>Book a Jaisalmer Sightseeing with Camel Safari</li>
+            </ul>
+          </div>
+
+          {/* Best Places to Visit in Jaisalmer */}
+          <div>
+            <h2 className="text-2xl sm:text-3xl font-serif text-[#192a3d] font-bold mb-4">
+              Best Places to Visit in Jaisalmer
+            </h2>
+            <ul className="list-disc pl-6 space-y-2 text-base sm:text-lg text-gray-800 font-light mb-5">
+              <li>Jaisalmer Fort</li>
+              <li>Patwon Ki Haveli</li>
+              <li>Salim Singh Ki Haveli</li>
+              <li>Nathmal Ki Haveli</li>
+              <li>Gadisar Lake</li>
+              <li>Sam Sand Dunes</li>
+              <li>Khuri Sand Dunes</li>
+              <li>Kuldhara Village</li>
+              <li>Desert National Park</li>
+              <li>Bada Bagh</li>
+              <li>Jain Temples</li>
+              <li>Tanot Mata Temple</li>
+              <li>Longewala War Memorial</li>
+              <li>Amar Sagar Lake</li>
+              <li>Vyas Chhatri</li>
+            </ul>
+            <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+              These are among the most recommended Places to Visit in Jaisalmer and major Jaisalmer Tourist Attractions included in our sightseeing packages.
+            </p>
+          </div>
+
+          {/* Best Time to Visit Jaisalmer */}
+          <div>
+            <h2 className="text-2xl sm:text-3xl font-serif text-[#192a3d] font-bold mb-4">
+              Best Time to Visit Jaisalmer
+            </h2>
+            <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light mb-6">
+              The best time to visit Jaisalmer is from October to March when temperatures remain pleasant and ideal for sightseeing, desert safaris, and camping activities.
+            </p>
+
+            <div className="space-y-6 mb-6">
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Winter (October – March)
+                </h3>
+                <ul className="list-disc pl-6 space-y-1.5 text-base sm:text-lg text-gray-800 font-light">
+                  <li>Best season for tourism</li>
+                  <li>Ideal for desert camping and camel safaris</li>
+                  <li>Pleasant weather for sightseeing</li>
+                  <li>Perfect for family and honeymoon tours</li>
+                </ul>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Summer (April – June)
+                </h3>
+                <ul className="list-disc pl-6 space-y-1.5 text-base sm:text-lg text-gray-800 font-light">
+                  <li>Hot temperatures</li>
+                  <li>Suitable for budget travelers seeking lower hotel rates</li>
+                </ul>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Monsoon (July – September)
+                </h3>
+                <ul className="list-disc pl-6 space-y-1.5 text-base sm:text-lg text-gray-800 font-light">
+                  <li>Occasional rainfall</li>
+                  <li>Desert landscapes appear refreshed</li>
+                  <li>Less crowded tourist attractions</li>
+                </ul>
+              </div>
+            </div>
+
+            <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+              For travelers planning their itinerary, we recommend at least 2–3 days to explore the city and desert attractions comfortably. If you’re wondering how many days required for Jaisalmer, a Jaisalmer 2 day itinerary covers major attractions, while a Jaisalmer 3 day itinerary allows for a complete desert experience.
+            </p>
+          </div>
+
+          {/* Frequently Asked Questions (FAQs) Accordion - Matching screenshot, NO language icon */}
+          <div className="pt-4 border-t border-gray-200">
+            <h2 className="text-2xl sm:text-3xl font-serif text-[#192a3d] font-bold mb-6">
+              Frequently Asked Questions (FAQs)
+            </h2>
+
+            <div className="space-y-2">
+              {data.faqs && data.faqs.map((faq, idx) => {
+                const isOpen = openFaqIndex === idx;
+                return (
+                  <div
+                    key={idx}
+                    className="border border-[#e5e7eb] rounded bg-white overflow-hidden transition-all shadow-none"
+                  >
+                    <button
+                      type="button"
+                      onClick={() => toggleFaq(idx)}
+                      className="w-full px-5 py-3.5 sm:py-4 text-left flex items-center justify-between gap-4 hover:bg-gray-50/70 transition-colors cursor-pointer"
+                      aria-expanded={isOpen}
+                    >
+                      <span className="font-semibold text-gray-900 text-sm sm:text-base leading-snug">
+                        {faq.q}
+                      </span>
+                      <span className="flex-shrink-0 text-xl font-bold text-gray-800 w-5 text-center select-none">
+                        {isOpen ? "−" : "+"}
+                      </span>
+                    </button>
+                    {isOpen && (
+                      <div className="px-5 pb-4 pt-1 text-sm sm:text-base text-gray-700 font-light leading-relaxed border-t border-gray-100 bg-gray-50/30">
+                        {faq.a}
+                      </div>
+                    )}
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        </div>
+      ) : data.id === "agra" ? (
+        /* ======================== AGRA EXACT SECTIONS ======================== */
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12 text-gray-800">
+          {/* Overview – Agra Tour Packages (India Day Tours) */}
+          <div>
+            <h2 className="text-3xl sm:text-4xl font-serif text-[#192a3d] font-bold mb-5">
+              Overview – Agra Tour Packages (India Day Tours)
+            </h2>
+            <div className="space-y-4 text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+              <p>
+                Agra Tour Packages are among the most popular India Day Tours, offering a perfect blend of history, architecture, and cultural heritage. Located in Uttar Pradesh, Agra is world-famous for its Mughal-era monuments and is a key highlight of the Golden Triangle route. These Agra Sightseeing Tour options are ideal for travelers looking for a Taj Mahal Tour, whether it is a Same Day Agra Tour, Agra Overnight Tour, or a well-planned Agra Holiday Package.
+              </p>
+              <p>
+                Our curated Agra Tour Packages from Delhi are designed for comfort and flexibility, including private transfers, guided sightseeing, and customizable itineraries. From a quick Agra City Tour to a detailed Agra Tour Package 2 Days, travelers can explore Agra at their own pace. These packages are perfect for couples, families, and international visitors seeking the Best Agra Tour Package with memorable experiences.
+              </p>
+              <p>
+                The highlight of every trip is the breathtaking Taj Mahal, one of the Seven Wonders of the World, along with other iconic monuments like the Agra Fort and Mehtab Bagh.
+              </p>
+            </div>
+          </div>
+
+          {/* Agra Tourist Attractions */}
+          <div>
+            <h2 className="text-2xl sm:text-3xl font-serif text-[#192a3d] font-bold mb-4">
+              Agra Tourist Attractions
+            </h2>
+            <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light mb-6">
+              Agra is home to some of the most remarkable Mughal architecture in India. The city offers a rich collection of historical monuments, gardens, and cultural sites that make it a must-visit destination.
+            </p>
+
+            <div className="space-y-6">
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-3">
+                  Top experiences included in Agra Sightseeing Packages:
+                </h3>
+                <ul className="list-disc pl-6 space-y-2 text-base sm:text-lg text-gray-800 font-light">
+                  <li>Sunrise view of the Taj Mahal</li>
+                  <li>Guided heritage walks in Old Agra</li>
+                  <li>Yamuna river sunset views</li>
+                  <li>Mughal architecture exploration</li>
+                  <li>Local handicraft shopping (marble inlay work)</li>
+                </ul>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-3">
+                  Popular tour types:
+                </h3>
+                <ul className="list-disc pl-6 space-y-2 text-base sm:text-lg text-gray-800 font-light">
+                  <li>Agra Heritage Tour</li>
+                  <li>Agra Family Tour Package</li>
+                  <li>Agra Private Tour</li>
+                  <li>Agra Group Tour</li>
+                  <li>Agra Travel Package</li>
+                </ul>
+              </div>
+
+              <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light pt-2">
+                For travelers from Delhi, options like Taj Mahal Sunrise Tour by car, Agra Same Day Tour, and Taj Mahal Day Trip by Car are highly preferred for quick yet immersive experiences.
+              </p>
+            </div>
+          </div>
+
+          {/* Places to Visit in Agra */}
+          <div>
+            <h2 className="text-2xl sm:text-3xl font-serif text-[#192a3d] font-bold mb-4">
+              Places to Visit in Agra
+            </h2>
+            <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light mb-6">
+              Agra offers several must-visit attractions that define its historical and cultural identity:
+            </p>
+
+            <div className="space-y-6">
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  1. Taj Mahal
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  The crown jewel of India, the Taj Mahal is the ultimate highlight of every Taj Mahal Tour Package, Agra Tour Package, and Agra Sightseeing Tour. Whether you choose a Taj Mahal Sunrise Tour, Taj Mahal One Day Tour, or a relaxed Agra Overnight Tour, this monument remains the centerpiece of your journey.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  2. Agra Fort
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Agra Fort is another UNESCO World Heritage Site showcasing Mughal grandeur. It is an essential stop in every Agra Heritage Tour and Agra City Tour itinerary.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  3. Mehtab Bagh
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  A perfect sunset viewpoint of the Taj Mahal, ideal for photography lovers and those on a Agra Private Tour or romantic getaway.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  4. Itmad-ud-Daulah (Baby Taj)
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Known for its intricate marble work, this monument is often included in Best Agra Tour Packages and detailed Agra Itinerary plans.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  5. Fatehpur Sikri (Optional Extension)
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  A historic Mughal city often added in extended Agra Tour Package 2 Days or Agra Travel Packages from Delhi.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
       ) : (
-        /* Other 5 destinations */
+        /* Other 2 destinations */
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12 text-gray-800">
           <div>
             <h2 className="text-3xl sm:text-4xl font-serif text-[#192a3d] font-bold mb-6">

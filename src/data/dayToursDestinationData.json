@@ -886,16 +886,44 @@
     ],
     "faqs": [
       {
-        "q": "What is included in Jaisalmer Desert Camping Packages?",
-        "a": "Our packages typically include luxury Swiss tent accommodation, camel safari at sunset, evening tea with snacks, live Kalbelia dance and cultural performance, traditional buffet dinner, and breakfast."
+        "q": "What is included in Jaisalmer Tour Packages?",
+        "a": "Most packages include accommodation, transportation, sightseeing, desert safari, camel rides, cultural programs, and camp stays."
       },
       {
-        "q": "What is the best time to visit Jaisalmer?",
-        "a": "October to March is the ideal season. Desert days are pleasantly warm and nights are crisp and cool, perfect for bonfires and star-gazing."
+        "q": "What is the average Jaisalmer tour cost?",
+        "a": "The Jaisalmer Tour Cost depends on accommodation category, transportation, and activities. Budget packages start affordably, while luxury tours offer premium experiences."
       },
       {
-        "q": "How far are Sam Sand Dunes from Jaisalmer city?",
-        "a": "Sam Sand Dunes are approximately 40 km (45-50 minutes drive) from Jaisalmer city center, with smooth paved highways."
+        "q": "Which is the best desert safari in Jaisalmer?",
+        "a": "Sam Sand Dunes is considered the location for the Best Desert Safari in Jaisalmer, offering camel rides, jeep safaris, cultural performances, and luxury camping."
+      },
+      {
+        "q": "Can I book a Jaisalmer Camel Safari Package?",
+        "a": "Yes. We offer multiple Jaisalmer Camel Safari Packages, ranging from short sunset rides to multi-day desert expeditions."
+      },
+      {
+        "q": "Which are the best desert camps in Jaisalmer?",
+        "a": "We provide stays at carefully selected luxury and budget camps based on guest reviews and preferences."
+      },
+      {
+        "q": "How can I book a Jaisalmer Desert Safari?",
+        "a": "You can easily make a Jaisalmer Desert Safari Booking through our travel experts for customized safari experiences."
+      },
+      {
+        "q": "Is Jaisalmer suitable for family vacations?",
+        "a": "Absolutely. Our Jaisalmer Family Tour Packages are designed with comfortable accommodations, sightseeing, and family-friendly activities."
+      },
+      {
+        "q": "Do you provide Jaisalmer Tour Packages from Jaipur and Jodhpur?",
+        "a": "Yes, we offer Jaisalmer Tour Package from Jaipur, Jaisalmer Tour from Jodhpur, and customized Rajasthan itineraries."
+      },
+      {
+        "q": "What is better: luxury or budget Jaisalmer tour?",
+        "a": "The choice depends on your preferences. Luxury tours offer premium camps and heritage hotels, while budget tours provide excellent value with comfortable stays and sightseeing."
+      },
+      {
+        "q": "Why choose us as your Jaisalmer Tour Operator?",
+        "a": "We are among the trusted travel agencies offering customized itineraries, transparent pricing, experienced local guides, quality accommodations, and reliable customer support for every Jaisalmer tour."
       }
     ],
     "tours": [
@@ -903,488 +931,985 @@
         "id": "blissful-jaisalmer-shopping-tour",
         "title": "Blissful Jaisalmer Shopping Tour",
         "duration": "Day Tour",
-        "category": "JaisalmerSightseeing",
+        "category": "Jaisalmer Sightseeing",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/05/jaipur-shop.jpg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_jaipur-shop_6c4b754db3.jpg",
         "route": "Jaisalmer – 4 Hour",
-        "link": "/tours/blissful-jaisalmer-shopping-tour",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_jaipur-shop_6c4b754db3.jpg"
+        "link": "/tours/blissful-jaisalmer-shopping-tour"
       },
       {
         "id": "fascinating-day-tour-of-golden-city-jaisalmer",
         "title": "Fascinating Day Tour of Golden City Jaisalmer",
         "duration": "Day Tour",
-        "category": "JaisalmerSightseeing",
+        "category": "Jaisalmer Sightseeing",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jaisalmer-fort-1024x576.jpg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_jaisalmer-fort-1024x576_7ee11988cb.jpg",
         "route": "Jaisalmer – 6 Hour",
-        "link": "/tours/fascinating-day-tour-of-golden-city-jaisalmer",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_jaisalmer-fort-1024x576_7ee11988cb.jpg"
+        "link": "/tours/fascinating-day-tour-of-golden-city-jaisalmer"
       },
       {
         "id": "half-day-incredible-jaisalmer-city-tour",
         "title": "Half Day Incredible Jaisalmer City Tour",
         "duration": "Half Day",
-        "category": "JaisalmerSightseeing",
+        "category": "Jaisalmer Sightseeing",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/places-to-visit-in-Jaisalmer-1024x576.webp",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_places-to-visit-in-Jaisal_fcd18aee27.webp",
         "route": "Jaisalmer – 3 Hour",
-        "link": "/tours/half-day-incredible-jaisalmer-city-tour",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_places-to-visit-in-Jaisal_fcd18aee27.webp"
+        "link": "/tours/half-day-incredible-jaisalmer-city-tour"
       },
       {
         "id": "fantastic-jaisalmer-trip-with-overnight-desert-experience",
         "title": "Fantastic Jaisalmer Trip with Overnight Desert Experience",
         "duration": "Day Tour",
-        "category": "JaisalmerSightseeing",
+        "category": "Jaisalmer Sightseeing",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/overnight-camel-safari-in-jaisalmer.jpg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_overnight-camel-safari-in_70396cb73d.jpg",
         "route": "Jaisalmer – 2 Night 3 Days",
-        "link": "/tours/fantastic-jaisalmer-trip-with-overnight-desert-experience",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_overnight-camel-safari-in_70396cb73d.jpg"
+        "link": "/tours/fantastic-jaisalmer-trip-with-overnight-desert-experience"
       },
       {
-        "id": "instagram-reels-photography-tour-of-jaisalmer-with-desert-camping-trip",
+        "id": "instagram-reels-and-photography-tour-of-jaisalmer-with-desert-camping-trip",
         "title": "Instagram Reels & Photography Tour of Jaisalmer with Desert Camping Trip",
         "duration": "Day Tour",
-        "category": "JaisalmerSightseeing",
+        "category": "Jaisalmer Sightseeing",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jaisalmer-tours.jpeg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_jaisalmer-tours_a5f0150a2e.jpeg",
         "route": "Jaisalmer – 2 Night 3 Days",
-        "link": "/tours/instagram-reels-photography-tour-of-jaisalmer-with-desert-camping-trip",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_jaisalmer-tours_a5f0150a2e.jpeg"
+        "link": "/tours/instagram-reels-and-photography-tour-of-jaisalmer-with-desert-camping-trip"
       },
       {
         "id": "pre-wedding-location-shoot-in-jaisalmer-with-thar-desert",
         "title": "Pre-Wedding Location Shoot in Jaisalmer with Thar Desert",
         "duration": "Day Tour",
-        "category": "JaisalmerSightseeing",
+        "category": "Jaisalmer Sightseeing",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/jaisalmer-desert-camp-booking-1024x494.jpg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_jaisalmer-desert-camp-boo_f16d78a510.jpg",
         "route": "Jaisalmer – 3 Night 4 Days",
-        "link": "/tours/pre-wedding-location-shoot-in-jaisalmer-with-thar-desert",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_jaisalmer-desert-camp-boo_f16d78a510.jpg"
+        "link": "/tours/pre-wedding-location-shoot-in-jaisalmer-with-thar-desert"
       },
       {
-        "id": "full-day-private-tour-of-golden-city-jaisalmer-with-guide",
+        "id": "full-day-private-tour-of-golden-city--jaisalmer--with-guide",
         "title": "Full-Day Private Tour of Golden City ( Jaisalmer ) with Guide",
         "duration": "Day Tour",
-        "category": "JaisalmerSightseeing",
+        "category": "Jaisalmer Sightseeing",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/camel-safari-golden-routes-1024x576.jpg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-golden-route_c8cf21d63e.jpg",
         "route": "Jaisalmer – 6 Hour",
-        "link": "/tours/full-day-private-tour-of-golden-city-jaisalmer-with-guide",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-golden-route_c8cf21d63e.jpg"
+        "link": "/tours/full-day-private-tour-of-golden-city--jaisalmer--with-guide"
       },
       {
-        "id": "instagram-reels-photography-tour-with-the-best-photography-spots-of-jaisalmer",
+        "id": "instagram-reels-and-photography-tour-with-the-best-photography-spots-of-jaisalmer",
         "title": "Instagram Reels & Photography Tour with The Best Photography Spots of Jaisalmer",
         "duration": "Day Tour",
-        "category": "JaisalmerSightseeing",
+        "category": "Jaisalmer Sightseeing",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/ca.jpg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_ca_6be844ffc0.jpg",
         "route": "Jaisalmer – 1 Full Day",
-        "link": "/tours/instagram-reels-photography-tour-with-the-best-photography-spots-of-jaisalmer",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_ca_6be844ffc0.jpg"
+        "link": "/tours/instagram-reels-and-photography-tour-with-the-best-photography-spots-of-jaisalmer"
       },
       {
-        "id": "jaisalmer-with-blissful-camel-safari-with-wild-life-of-thar-desert-camping",
+        "id": "jaisalmer-with-blissful-camel-safari-with-wild-life-of-thar-desert-and-camping",
         "title": "Jaisalmer with Blissful Camel Safari with Wild Life of Thar Desert & Camping",
         "duration": "Day Tour",
-        "category": "JaisalmerSightseeing",
+        "category": "Jaisalmer Sightseeing",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/04/jeep-safari-delightful-india-holidays-1.jpg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_jeep-safari-delightful-in_e716078b51.jpg",
         "route": "Jaisalmer – 3 Nights 4 Days",
-        "link": "/tours/jaisalmer-with-blissful-camel-safari-with-wild-life-of-thar-desert-camping",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_jeep-safari-delightful-in_e716078b51.jpg"
+        "link": "/tours/jaisalmer-with-blissful-camel-safari-with-wild-life-of-thar-desert-and-camping"
       },
       {
         "id": "purely-private-full-day-tuk-tuk-tour-of-golden-city-jaisalmer",
         "title": "Purely Private Full Day Tuk-Tuk Tour of Golden City Jaisalmer",
         "duration": "Day Tour",
-        "category": "JaisalmerSightseeing",
+        "category": "Jaisalmer Sightseeing",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/Jaipur-TukTuk-Tour-img-1024x684.jpg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_Jaipur-TukTuk-Tour-img-10_958b1d0736.jpg",
         "route": "Jaisalmer – 6 Hour",
-        "link": "/tours/purely-private-full-day-tuk-tuk-tour-of-golden-city-jaisalmer",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_Jaipur-TukTuk-Tour-img-10_958b1d0736.jpg"
+        "link": "/tours/purely-private-full-day-tuk-tuk-tour-of-golden-city-jaisalmer"
       },
       {
         "id": "travelastic-heritage-walking-tour-of-jaisalmer-with-local-street-food-experience",
         "title": "Travelastic Heritage Walking Tour of Jaisalmer with Local Street Food Experience",
         "duration": "Day Tour",
-        "category": "JaisalmerSightseeing",
+        "category": "Jaisalmer Sightseeing",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/3e9732f7-c5cf-40a3-b892-d61f00fc4d85_cultural-heritage-trails-of-jaisalmer-2-hours-guided-walking-tour-xlarge-1024x683.jpg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_3e9732f7-c5cf-40a3-b892-d_a0de9bdd13.jpg",
         "route": "Jaisalmer – Between 2 to 3 Hour",
-        "link": "/tours/travelastic-heritage-walking-tour-of-jaisalmer-with-local-street-food-experience",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_3e9732f7-c5cf-40a3-b892-d_a0de9bdd13.jpg"
+        "link": "/tours/travelastic-heritage-walking-tour-of-jaisalmer-with-local-street-food-experience"
       },
       {
         "id": "marvin-multi-day-camel-safari",
         "title": "Marvin Multi Day Camel Safari",
         "duration": "Day Tour",
-        "category": "Camel Safari",
+        "category": "Camel Safari Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Camel-safari-jaialmer-1024x576.jpg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_Camel-safari-jaialmer-102_a7c0e41851.jpg",
         "route": "Jaisalmer – 15 to 45 Minutes",
-        "link": "/tours/marvin-multi-day-camel-safari",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_Camel-safari-jaialmer-102_a7c0e41851.jpg"
+        "link": "/tours/marvin-multi-day-camel-safari"
       },
       {
         "id": "blissful-camel-safari-with-enchanting-beauty-of-thar-desert",
         "title": "Blissful Camel Safari with Enchanting Beauty of Thar Desert",
         "duration": "Day Tour",
-        "category": "Camel Safari",
+        "category": "Camel Safari Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/04/camel-safari-delightful-india-holidays-9.jpg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-delightful-i_41272a92ac.jpg",
         "route": "Jaisalmer – 1 Day",
-        "link": "/tours/blissful-camel-safari-with-enchanting-beauty-of-thar-desert",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-delightful-i_41272a92ac.jpg"
+        "link": "/tours/blissful-camel-safari-with-enchanting-beauty-of-thar-desert"
       },
       {
         "id": "dazzling-half-day-camel-safari-tour-with-sunset",
         "title": "Dazzling Half Day Camel Safari Tour With Sunset",
         "duration": "Half Day",
-        "category": "Camel Safari",
+        "category": "Camel Safari Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/04/camel-safari-delightful-india-holidays-16.jpg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-delightful-i_c14583ca2b.jpg",
         "route": "Jaisalmer – Half Day",
-        "link": "/tours/dazzling-half-day-camel-safari-tour-with-sunset",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-delightful-i_c14583ca2b.jpg"
+        "link": "/tours/dazzling-half-day-camel-safari-tour-with-sunset"
       },
       {
         "id": "delightful-2-nights-camel-safari-in-the-great-thar-desert",
         "title": "Delightful 2 Nights Camel Safari in The Great Thar Desert",
         "duration": "2 Nights",
-        "category": "Camel Safari",
+        "category": "Camel Safari Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/04/camel-safari-delightful-india-holidays-6.jpg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-delightful-i_9042131273.jpg",
         "route": "Jaisalmer – 2 Nights 3 Days",
-        "link": "/tours/delightful-2-nights-camel-safari-in-the-great-thar-desert",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-delightful-i_9042131273.jpg"
+        "link": "/tours/delightful-2-nights-camel-safari-in-the-great-thar-desert"
       },
       {
         "id": "exploriana-2-nights-camel-safari-with-overnight-desert-camping",
         "title": "Exploriana 2 Nights Camel Safari with Overnight Desert Camping",
         "duration": "2 Nights",
-        "category": "Camel Safari",
+        "category": "Camel Safari Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2025/08/image-16.png",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_image-16_75288e02e3.png",
         "route": "Jaisalmer – 2 Nights / 3 Days",
-        "link": "/tours/exploriana-2-nights-camel-safari-with-overnight-desert-camping",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_image-16_75288e02e3.png"
+        "link": "/tours/exploriana-2-nights-camel-safari-with-overnight-desert-camping"
       },
       {
         "id": "fernweh-half-day-camel-safari-tour-with-sunrise",
         "title": "Fernweh Half Day Camel Safari Tour with Sunrise",
         "duration": "Half Day",
-        "category": "Camel Safari",
+        "category": "Camel Safari Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jaisalmer-camel-safari.jpeg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_jaisalmer-camel-safari_e2e5cb14c9.jpeg",
         "route": "Jaisalmer – Hald Days",
-        "link": "/tours/fernweh-half-day-camel-safari-tour-with-sunrise",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_jaisalmer-camel-safari_e2e5cb14c9.jpeg"
+        "link": "/tours/fernweh-half-day-camel-safari-tour-with-sunrise"
       },
       {
         "id": "mesmerizing-camel-safari-with-bliss-of-thar-desert",
         "title": "Mesmerizing Camel Safari with Bliss of Thar Desert",
         "duration": "Day Tour",
-        "category": "Camel Safari",
+        "category": "Camel Safari Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/camel-safari.png",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari_f0051a66bc.png",
         "route": "Jaisalmer – 1 Night / 2 Days",
-        "link": "/tours/mesmerizing-camel-safari-with-bliss-of-thar-desert",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari_f0051a66bc.png"
+        "link": "/tours/mesmerizing-camel-safari-with-bliss-of-thar-desert"
       },
       {
         "id": "nomadic-non-touristic-overnight-camel-safari-tour-with-beauty-of-thar-desert",
         "title": "Nomadic Non Touristic Overnight Camel Safari Tour with Beauty of Thar Desert",
         "duration": "Day Tour",
-        "category": "Camel Safari",
+        "category": "Camel Safari Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/evening-camel-safari.png",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_evening-camel-safari_35c8e1dbdf.png",
         "route": "Jaisalmer – 1 Night / 2 Days",
-        "link": "/tours/nomadic-non-touristic-overnight-camel-safari-tour-with-beauty-of-thar-desert",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_evening-camel-safari_35c8e1dbdf.png"
+        "link": "/tours/nomadic-non-touristic-overnight-camel-safari-tour-with-beauty-of-thar-desert"
       },
       {
-        "id": "peep-s-billions-of-stars-moon-experience-with-off-beaten-track-camel-safari",
+        "id": "peeps-billions-of-stars-and-moon-experience-with-off-beaten-track-camel-safari",
         "title": "Peep's Billions of Stars & Moon Experience with Off Beaten Track Camel Safari",
         "duration": "Day Tour",
-        "category": "Camel Safari",
+        "category": "Camel Safari Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/about-camel-safari.jpg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_about-camel-safari_88915e73b3.jpg",
         "route": "Jaisalmer – 1 Nights / 2 Days",
-        "link": "/tours/peep-s-billions-of-stars-moon-experience-with-off-beaten-track-camel-safari",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_about-camel-safari_88915e73b3.jpg"
+        "link": "/tours/peeps-billions-of-stars-and-moon-experience-with-off-beaten-track-camel-safari"
       },
       {
         "id": "rumi-camel-safari-with-enchanting-beauty-of-thar-desert",
         "title": "Rumi Camel Safari with Enchanting Beauty of Thar Desert",
         "duration": "Day Tour",
-        "category": "Camel Safari",
+        "category": "Camel Safari Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/camel-safari-jaisalmer-rj.webp",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-jaisalmer-rj_8ef1187c99.webp",
         "route": "Jaisalmer – 1 Nights / 2 Days",
-        "link": "/tours/rumi-camel-safari-with-enchanting-beauty-of-thar-desert",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-jaisalmer-rj_8ef1187c99.webp"
+        "link": "/tours/rumi-camel-safari-with-enchanting-beauty-of-thar-desert"
       },
       {
         "id": "wanderlust-camel-safari-with-rumi-caravan-of-thar-desert",
         "title": "Wanderlust Camel Safari with Rumi Caravan of Thar Desert",
         "duration": "Day Tour",
-        "category": "Camel Safari",
+        "category": "Camel Safari Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/camel-safari-in-jaisalmer-1024x635.jpg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-in-jaisalmer_0ab5989e74.jpg",
         "route": "Jaisalmer – 1 Nights / 2 Days",
-        "link": "/tours/wanderlust-camel-safari-with-rumi-caravan-of-thar-desert",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-in-jaisalmer_0ab5989e74.jpg"
+        "link": "/tours/wanderlust-camel-safari-with-rumi-caravan-of-thar-desert"
       },
       {
         "id": "buoyant-luxurious-camping-in-the-thar-desert",
         "title": "Buoyant Luxurious Camping In The Thar Desert",
         "duration": "Day Tour",
-        "category": "Desert Camping",
+        "category": "Desert Camping Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/jaisalmer-2-day-thar-desert-experience-1268861-1024x683.webp",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_jaisalmer-2-day-thar-dese_225b01202c.webp",
         "route": "Jaisalmer – 1 Night / 2 Days",
-        "link": "/tours/buoyant-luxurious-camping-in-the-thar-desert",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_jaisalmer-2-day-thar-dese_225b01202c.webp"
+        "link": "/tours/buoyant-luxurious-camping-in-the-thar-desert"
       },
       {
         "id": "enchanting-desert-camping-tour-with-thriller-adventure",
         "title": "Enchanting Desert Camping Tour with Thriller Adventure",
         "duration": "Day Tour",
-        "category": "Desert Camping",
+        "category": "Desert Camping Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/jaisalmer-desert-camp-booking-1024x494.jpg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_jaisalmer-desert-camp-boo_f16d78a510.jpg",
         "route": "Jaisalmer – 1 Night / 2 Days",
-        "link": "/tours/enchanting-desert-camping-tour-with-thriller-adventure",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_jaisalmer-desert-camp-boo_f16d78a510.jpg"
+        "link": "/tours/enchanting-desert-camping-tour-with-thriller-adventure"
       },
       {
         "id": "frenzy-paradise-desert-camping-tour-in-the-great-thar-desert",
         "title": "Frenzy Paradise Desert Camping Tour in The Great Thar Desert",
         "duration": "Day Tour",
-        "category": "Desert Camping",
+        "category": "Desert Camping Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Toyota-Fortuner-Safari-at-Thar-Desert-1024x819.png",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_Toyota-Fortuner-Safari-at_7f72a09506.png",
         "route": "Jaisalmer – 1 Night / 2 Days",
-        "link": "/tours/frenzy-paradise-desert-camping-tour-in-the-great-thar-desert",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_Toyota-Fortuner-Safari-at_7f72a09506.png"
+        "link": "/tours/frenzy-paradise-desert-camping-tour-in-the-great-thar-desert"
       },
       {
-        "id": "joyful-2-night-desert-camping-cultural-show",
+        "id": "joyful-2-night-desert-camping-and-cultural-show",
         "title": "Joyful 2 Night Desert Camping & Cultural Show",
         "duration": "2 Night",
-        "category": "Desert Camping",
+        "category": "Desert Camping Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/camel-safari-golden-routes-1024x576.jpg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-golden-route_c8cf21d63e.jpg",
         "route": "Jaisalmer – 2 Nights / 3 Days",
-        "link": "/tours/joyful-2-night-desert-camping-cultural-show",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-golden-route_c8cf21d63e.jpg"
+        "link": "/tours/joyful-2-night-desert-camping-and-cultural-show"
       },
       {
-        "id": "mystical-desert-camping-cultural-show-in-the-great-thar-desert",
+        "id": "mystical-desert-camping-and-cultural-show-in-the-great-thar-desert",
         "title": "Mystical Desert Camping & Cultural Show in The Great Thar Desert",
         "duration": "Day Tour",
-        "category": "Desert Camping",
+        "category": "Desert Camping Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/north-india-img-1024x684.png",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_north-india-img-1024x684_eb8d4a6028.png",
         "route": "Jaisalmer – 2 Nights / 3 Days",
-        "link": "/tours/mystical-desert-camping-cultural-show-in-the-great-thar-desert",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_north-india-img-1024x684_eb8d4a6028.png"
+        "link": "/tours/mystical-desert-camping-and-cultural-show-in-the-great-thar-desert"
       },
       {
-        "id": "serene-trip-of-mesmerizing-sunset-with-evening-cultural-show-dinner",
+        "id": "serene-trip-of-mesmerizing-sunset-with-evening-cultural-show-and-dinner",
         "title": "Serene Trip of Mesmerizing Sunset with Evening Cultural Show & Dinner",
         "duration": "Day Tour",
-        "category": "Desert Camping",
+        "category": "Desert Camping Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2025/08/image-15-1024x576.png",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_image-15-1024x576_a5f8ada54e.png",
         "route": "Jaisalmer – 1 Days",
-        "link": "/tours/serene-trip-of-mesmerizing-sunset-with-evening-cultural-show-dinner",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_image-15-1024x576_a5f8ada54e.png"
+        "link": "/tours/serene-trip-of-mesmerizing-sunset-with-evening-cultural-show-and-dinner"
       },
       {
         "id": "haunted-trail-tour-of-jaisalmer",
         "title": "Haunted Trail Tour of Jaisalmer",
         "duration": "Day Tour",
-        "category": "Exotic & Rural",
+        "category": "Exotic & Rural Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/09/ChatGPT-Image-Jun-3-2026-08_07_19-PM-1024x682.png",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_ChatGPT-Image-Jun-3-2026-_5f9d331c34.png",
         "route": "Jaisalmer – 1 Day",
-        "link": "/tours/haunted-trail-tour-of-jaisalmer",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_ChatGPT-Image-Jun-3-2026-_5f9d331c34.png"
+        "link": "/tours/haunted-trail-tour-of-jaisalmer"
       },
       {
         "id": "temple-trail-tour-of-jaisalmer",
         "title": "Temple Trail Tour of jaisalmer",
         "duration": "Day Tour",
-        "category": "Exotic & Rural",
+        "category": "Exotic & Rural Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/09/Jain-Temple-Jaisalmer-1024x683.jpeg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_Jain-Temple-Jaisalmer-102_fe9fe6bf42.jpeg",
         "route": "Jaisalmer – 1 Day",
-        "link": "/tours/temple-trail-tour-of-jaisalmer",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_Jain-Temple-Jaisalmer-102_fe9fe6bf42.jpeg"
+        "link": "/tours/temple-trail-tour-of-jaisalmer"
       },
       {
-        "id": "jaisalmer-rural-village-eco-farm-tour",
+        "id": "jaisalmer-rural-village-and-eco-farm-tour",
         "title": "Jaisalmer Rural Village & Eco Farm Tour",
         "duration": "Day Tour",
-        "category": "Exotic & Rural",
+        "category": "Exotic & Rural Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/09/farm-with-foreign-european-tourists-in-india.jpg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_farm-with-foreign-europea_63c7ed6ac0.jpg",
         "route": "Jaisalmer – 1 Day",
-        "link": "/tours/jaisalmer-rural-village-eco-farm-tour",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_farm-with-foreign-europea_63c7ed6ac0.jpg"
+        "link": "/tours/jaisalmer-rural-village-and-eco-farm-tour"
       },
       {
-        "id": "jaisalmer-rural-village-ngo-school-tour",
+        "id": "jaisalmer-rural-village-and-ngo-school-tour",
         "title": "Jaisalmer Rural Village & NGO School Tour",
         "duration": "Day Tour",
-        "category": "Exotic & Rural",
+        "category": "Exotic & Rural Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/09/rural-village-tour-1024x768.jpeg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_rural-village-tour-1024x7_2469455522.jpeg",
         "route": "Jaisalmer – 1 Day",
-        "link": "/tours/jaisalmer-rural-village-ngo-school-tour",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_rural-village-tour-1024x7_2469455522.jpeg"
+        "link": "/tours/jaisalmer-rural-village-and-ngo-school-tour"
       },
       {
         "id": "adventure-gypsy-tour-of-desert-national-park-with-wild-life",
         "title": "Adventure Gypsy Tour of Desert National Park with Wild Life",
         "duration": "Day Tour",
-        "category": "Exotic & Rural",
+        "category": "Exotic & Rural Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/10/145-35.jpg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_145-35_88625e6578.jpg",
         "route": "Jaisalmer – Between 1 to 2 Hour",
-        "link": "/tours/adventure-gypsy-tour-of-desert-national-park-with-wild-life",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_145-35_88625e6578.jpg"
+        "link": "/tours/adventure-gypsy-tour-of-desert-national-park-with-wild-life"
       },
       {
         "id": "diwali-in-the-thar-desert",
         "title": "Diwali in the Thar Desert",
         "duration": "Day Tour",
-        "category": "Festival & Event",
+        "category": "Festival & Event Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Diwali-in-the-Thar-Desert-1024x683.png",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_Diwali-in-the-Thar-Desert_fcce7302a3.png",
         "route": "Jaisalmer – 1 Night / 2 Days",
-        "link": "/tours/diwali-in-the-thar-desert",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_Diwali-in-the-Thar-Desert_fcce7302a3.png"
+        "link": "/tours/diwali-in-the-thar-desert"
       },
       {
         "id": "diwali-in-jaisalmer",
         "title": "Diwali in Jaisalmer",
         "duration": "Day Tour",
-        "category": "Festival & Event",
+        "category": "Festival & Event Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/new-year-party-in-jaisalmer.jpg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_new-year-party-in-jaisalm_63eae24593.jpg",
         "route": "Jaisalmer – 1 Night / 2 Days",
-        "link": "/tours/diwali-in-jaisalmer",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_new-year-party-in-jaisalm_63eae24593.jpg"
+        "link": "/tours/diwali-in-jaisalmer"
       },
       {
         "id": "new-year-at-dunes",
         "title": "New Year at Dunes",
         "duration": "Day Tour",
-        "category": "Festival & Event",
+        "category": "Festival & Event Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/dance-Jaisalmer-1024x473.jpg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_dance-Jaisalmer-1024x473_df67dda87d.jpg",
         "route": "Jaisalmer – 1 Night / 2 Days",
-        "link": "/tours/new-year-at-dunes",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_dance-Jaisalmer-1024x473_df67dda87d.jpg"
+        "link": "/tours/new-year-at-dunes"
       },
       {
         "id": "christmas-at-thar-desert",
         "title": "Christmas at Thar Desert",
         "duration": "Day Tour",
-        "category": "Festival & Event",
+        "category": "Festival & Event Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/vknmouizurpccof1sid2.avif",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_vknmouizurpccof1sid2_8e331cbbbb.avif",
         "route": "Jaisalmer – 1 Night / 2 Days",
-        "link": "/tours/christmas-at-thar-desert",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_vknmouizurpccof1sid2_8e331cbbbb.avif"
+        "link": "/tours/christmas-at-thar-desert"
       },
       {
         "id": "breakfast-at-dunes-with-beautiful-sunrise",
         "title": "Breakfast at Dunes with Beautiful Sunrise",
         "duration": "Day Tour",
-        "category": "RomanticJaisalmer",
+        "category": "Romantic Jaisalmer Tours",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/camel-safari-in-jaisalmer-1024x635.jpg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-in-jaisalmer_0ab5989e74.jpg",
         "route": "Jaisalmer – 3 Hour",
-        "link": "/tours/breakfast-at-dunes-with-beautiful-sunrise",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-in-jaisalmer_0ab5989e74.jpg"
+        "link": "/tours/breakfast-at-dunes-with-beautiful-sunrise"
       },
       {
         "id": "hi-tea-on-the-dunes-with-beautiful-sunset",
         "title": "Hi-Tea on The Dunes with Beautiful Sunset",
         "duration": "Day Tour",
-        "category": "RomanticJaisalmer",
+        "category": "Romantic Jaisalmer Tours",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/146.jpg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_146_90268abc26.jpg",
         "route": "Jaisalmer – 1 Hour",
-        "link": "/tours/hi-tea-on-the-dunes-with-beautiful-sunset",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_146_90268abc26.jpg"
+        "link": "/tours/hi-tea-on-the-dunes-with-beautiful-sunset"
       },
       {
         "id": "honeymoon-at-thar-desert",
         "title": "Honeymoon at Thar Desert",
         "duration": "Day Tour",
-        "category": "RomanticJaisalmer",
+        "category": "Romantic Jaisalmer Tours",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Romantic-Jaisalmer4-1024x683.jpeg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_Romantic-Jaisalmer4-1024x_d1100b4896.jpeg",
         "route": "Jaisalmer – 1 Night / 2 Days",
-        "link": "/tours/honeymoon-at-thar-desert",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_Romantic-Jaisalmer4-1024x_d1100b4896.jpeg"
+        "link": "/tours/honeymoon-at-thar-desert"
       },
       {
         "id": "marvin-romantic-jaisalmer-tour",
         "title": "Marvin Romantic Jaisalmer Tour",
         "duration": "Day Tour",
-        "category": "RomanticJaisalmer",
+        "category": "Romantic Jaisalmer Tours",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Romantic-Jaisalmer1-1024x683.jpeg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_Romantic-Jaisalmer1-1024x_b60f66f1bf.jpeg",
         "route": "Jaisalmer – 2 Night 3 Days",
-        "link": "/tours/marvin-romantic-jaisalmer-tour",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_Romantic-Jaisalmer1-1024x_b60f66f1bf.jpeg"
+        "link": "/tours/marvin-romantic-jaisalmer-tour"
       },
       {
         "id": "romantic-candle-light-dinner-at-dunes",
         "title": "Romantic Candle Light Dinner at Dunes",
         "duration": "Day Tour",
-        "category": "RomanticJaisalmer",
+        "category": "Romantic Jaisalmer Tours",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Romantic-Jaisalmer-1024x683.jpeg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_Romantic-Jaisalmer-1024x6_c9b3d31a5a.jpeg",
         "route": "Jaisalmer – 2 Hour",
-        "link": "/tours/romantic-candle-light-dinner-at-dunes",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_Romantic-Jaisalmer-1024x6_c9b3d31a5a.jpeg"
+        "link": "/tours/romantic-candle-light-dinner-at-dunes"
       },
       {
         "id": "jeep-safari-at-thar-desert",
         "title": "Jeep Safari at Thar Desert",
         "duration": "Day Tour",
-        "category": "Adventure & Thriller",
+        "category": "Adventure & Thriller Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/04/jeep-safari-delightful-india-holidays-1.jpg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_jeep-safari-delightful-in_e716078b51.jpg",
         "route": "Jaisalmer – 15 to 45 Minutes",
-        "link": "/tours/jeep-safari-at-thar-desert",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_jeep-safari-delightful-in_e716078b51.jpg"
+        "link": "/tours/jeep-safari-at-thar-desert"
       },
       {
         "id": "paramotoring-at-thar-desert",
         "title": "Paramotoring at Thar Desert",
         "duration": "Day Tour",
-        "category": "Adventure & Thriller",
+        "category": "Adventure & Thriller Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Paramotoring-1024x766.png",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_Paramotoring-1024x766_a3a183576b.png",
         "route": "Jaisalmer – 10 to 30 Minutes",
-        "link": "/tours/paramotoring-at-thar-desert",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_Paramotoring-1024x766_a3a183576b.png"
+        "link": "/tours/paramotoring-at-thar-desert"
       },
       {
         "id": "parasailing-at-thar-desert",
         "title": "Parasailing at Thar Desert",
         "duration": "Day Tour",
-        "category": "Adventure & Thriller",
+        "category": "Adventure & Thriller Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Parasailing.jpg",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_Parasailing_4db43cfcaa.jpg",
         "route": "Jaisalmer – 10 to 20 Minutes",
-        "link": "/tours/parasailing-at-thar-desert",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_Parasailing_4db43cfcaa.jpg"
+        "link": "/tours/parasailing-at-thar-desert"
       },
       {
         "id": "quad-biking-at-thar-desert",
         "title": "Quad Biking at Thar Desert",
         "duration": "Day Tour",
-        "category": "Adventure & Thriller",
+        "category": "Adventure & Thriller Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Quad-Biking-at-Thar-Desert-1024x819.png",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_Quad-Biking-at-Thar-Deser_0e1fb1d5c0.png",
         "route": "Jaisalmer – 10 to 20 Minutes",
-        "link": "/tours/quad-biking-at-thar-desert",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_Quad-Biking-at-Thar-Deser_0e1fb1d5c0.png"
+        "link": "/tours/quad-biking-at-thar-desert"
       },
       {
         "id": "toyota-fortuner-safari-at-thar-desert",
         "title": "Toyota Fortuner Safari at Thar Desert",
         "duration": "Day Tour",
-        "category": "Adventure & Thriller",
+        "category": "Adventure & Thriller Tour Packages",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Toyota-Fortuner-Safari-at-Thar-Desert-1024x819.png",
+        "localImage": "/assets/images/day-tours/tours/jaisalmer_Toyota-Fortuner-Safari-at_7f72a09506.png",
         "route": "Jaisalmer",
-        "link": "/tours/toyota-fortuner-safari-at-thar-desert",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_Toyota-Fortuner-Safari-at_7f72a09506.png"
-      },
-      {
-        "id": "kuldhara-village",
-        "title": "Kuldhara Village",
-        "duration": "Enquire Now",
-        "category": "Adventure & Thriller",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/05/jaipur-shop.jpg",
-        "route": "Home – / Jaisalmer Tour Packages – Jaisalmer – 4 Hour – Jaisalmer – 6 Hour – Jaisalmer – 3 Hour – Jaisalmer – 2 Night 3 Days – Jaisalmer – 2 Night 3 Days – Jaisalmer – 3 Night 4 Days – Jaisalmer – 6 Hour – Jaisalmer – 1 Full Day – Jaisalmer – 3 Nights 4 Days – Jaisalmer – 6 Hour – Jaisalmer – Between 2 to 3 Hour – Jaisalmer – 15 to 45 Minutes – Jaisalmer – 1 Day – Jaisalmer – Half Day – Jaisalmer – 2 Nights 3 Days – Jaisalmer – 2 Nights / 3 Days – Jaisalmer – Hald Days – Jaisalmer – 1 Night / 2 Days – Jaisalmer – 1 Night / 2 Days – Jaisalmer – 1 Nights / 2 Days – Jaisalmer – 1 Nights / 2 Days – Jaisalmer – 1 Nights / 2 Days – Jaisalmer – 1 Night / 2 Days – Jaisalmer – 1 Night / 2 Days – Jaisalmer – 1 Night / 2 Days – Jaisalmer – 2 Nights / 3 Days – Jaisalmer – 2 Nights / 3 Days – Jaisalmer – 1 Days – Jaisalmer – 1 Day – Jaisalmer – 1 Day – Jaisalmer – 1 Day – Jaisalmer – 1 Day – Jaisalmer – Between 1 to 2 Hour – Jaisalmer – 1 Night / 2 Days – Jaisalmer – 1 Night / 2 Days – Jaisalmer – 1 Night / 2 Days – Jaisalmer – 1 Night / 2 Days – Jaisalmer – 3 Hour – Jaisalmer – 1 Hour – Jaisalmer – 1 Night / 2 Days – Jaisalmer – 2 Night 3 Days – Jaisalmer – 2 Hour – Jaisalmer – 15 to 45 Minutes – Jaisalmer – 10 to 30 Minutes – Jaisalmer – 10 to 20 Minutes – Jaisalmer – 10 to 20 Minutes – Jaisalmer – Take a Jaisalmer Sightseeing Tour – Visit heritage havelis and museums – Try authentic Rajasthani cuisine – Jaisalmer Fort – Patwon Ki Haveli – Salim Singh Ki Haveli – Nathmal Ki Haveli – Gadisar Lake – Sam Sand Dunes – Khuri Sand Dunes – Kuldhara Village – Desert National Park – Bada Bagh – Jain Temples – Tanot Mata Temple – Longewala War Memorial – Amar Sagar Lake – Vyas Chhatri – Best season for tourism – Pleasant weather for sightseeing – Hot temperatures – Occasional rainfall – Desert landscapes appear refreshed – Less crowded tourist attractions",
-        "link": "/tours/kuldhara-village",
-        "localImage": "/assets/images/day-tours/tours/jaisalmer_jaipur-shop_6c4b754db3.jpg"
+        "link": "/tours/toyota-fortuner-safari-at-thar-desert"
       }
     ],
-    "tourCount": 48,
+    "tourCount": 47,
     "localHeroImage": "/assets/images/day-tours/jaisalmer-hero.jpg",
     "id": "jaisalmer",
     "pageTitle": "Jaisalmer Tour Packages",
-    "breadcrumb": "Jaisalmer Tours"
+    "breadcrumb": "Jaisalmer Tours",
+    "groupedSections": [
+      {
+        "heading": "Jaisalmer Sightseeing",
+        "tours": [
+          {
+            "id": "blissful-jaisalmer-shopping-tour",
+            "title": "Blissful Jaisalmer Shopping Tour",
+            "duration": "Day Tour",
+            "category": "Jaisalmer Sightseeing",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/05/jaipur-shop.jpg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_jaipur-shop_6c4b754db3.jpg",
+            "route": "Jaisalmer – 4 Hour",
+            "link": "/tours/blissful-jaisalmer-shopping-tour"
+          },
+          {
+            "id": "fascinating-day-tour-of-golden-city-jaisalmer",
+            "title": "Fascinating Day Tour of Golden City Jaisalmer",
+            "duration": "Day Tour",
+            "category": "Jaisalmer Sightseeing",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jaisalmer-fort-1024x576.jpg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_jaisalmer-fort-1024x576_7ee11988cb.jpg",
+            "route": "Jaisalmer – 6 Hour",
+            "link": "/tours/fascinating-day-tour-of-golden-city-jaisalmer"
+          },
+          {
+            "id": "half-day-incredible-jaisalmer-city-tour",
+            "title": "Half Day Incredible Jaisalmer City Tour",
+            "duration": "Half Day",
+            "category": "Jaisalmer Sightseeing",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/places-to-visit-in-Jaisalmer-1024x576.webp",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_places-to-visit-in-Jaisal_fcd18aee27.webp",
+            "route": "Jaisalmer – 3 Hour",
+            "link": "/tours/half-day-incredible-jaisalmer-city-tour"
+          },
+          {
+            "id": "fantastic-jaisalmer-trip-with-overnight-desert-experience",
+            "title": "Fantastic Jaisalmer Trip with Overnight Desert Experience",
+            "duration": "Day Tour",
+            "category": "Jaisalmer Sightseeing",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/overnight-camel-safari-in-jaisalmer.jpg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_overnight-camel-safari-in_70396cb73d.jpg",
+            "route": "Jaisalmer – 2 Night 3 Days",
+            "link": "/tours/fantastic-jaisalmer-trip-with-overnight-desert-experience"
+          },
+          {
+            "id": "instagram-reels-and-photography-tour-of-jaisalmer-with-desert-camping-trip",
+            "title": "Instagram Reels & Photography Tour of Jaisalmer with Desert Camping Trip",
+            "duration": "Day Tour",
+            "category": "Jaisalmer Sightseeing",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jaisalmer-tours.jpeg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_jaisalmer-tours_a5f0150a2e.jpeg",
+            "route": "Jaisalmer – 2 Night 3 Days",
+            "link": "/tours/instagram-reels-and-photography-tour-of-jaisalmer-with-desert-camping-trip"
+          },
+          {
+            "id": "pre-wedding-location-shoot-in-jaisalmer-with-thar-desert",
+            "title": "Pre-Wedding Location Shoot in Jaisalmer with Thar Desert",
+            "duration": "Day Tour",
+            "category": "Jaisalmer Sightseeing",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/jaisalmer-desert-camp-booking-1024x494.jpg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_jaisalmer-desert-camp-boo_f16d78a510.jpg",
+            "route": "Jaisalmer – 3 Night 4 Days",
+            "link": "/tours/pre-wedding-location-shoot-in-jaisalmer-with-thar-desert"
+          },
+          {
+            "id": "full-day-private-tour-of-golden-city--jaisalmer--with-guide",
+            "title": "Full-Day Private Tour of Golden City ( Jaisalmer ) with Guide",
+            "duration": "Day Tour",
+            "category": "Jaisalmer Sightseeing",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/camel-safari-golden-routes-1024x576.jpg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-golden-route_c8cf21d63e.jpg",
+            "route": "Jaisalmer – 6 Hour",
+            "link": "/tours/full-day-private-tour-of-golden-city--jaisalmer--with-guide"
+          },
+          {
+            "id": "instagram-reels-and-photography-tour-with-the-best-photography-spots-of-jaisalmer",
+            "title": "Instagram Reels & Photography Tour with The Best Photography Spots of Jaisalmer",
+            "duration": "Day Tour",
+            "category": "Jaisalmer Sightseeing",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/ca.jpg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_ca_6be844ffc0.jpg",
+            "route": "Jaisalmer – 1 Full Day",
+            "link": "/tours/instagram-reels-and-photography-tour-with-the-best-photography-spots-of-jaisalmer"
+          },
+          {
+            "id": "jaisalmer-with-blissful-camel-safari-with-wild-life-of-thar-desert-and-camping",
+            "title": "Jaisalmer with Blissful Camel Safari with Wild Life of Thar Desert & Camping",
+            "duration": "Day Tour",
+            "category": "Jaisalmer Sightseeing",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/04/jeep-safari-delightful-india-holidays-1.jpg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_jeep-safari-delightful-in_e716078b51.jpg",
+            "route": "Jaisalmer – 3 Nights 4 Days",
+            "link": "/tours/jaisalmer-with-blissful-camel-safari-with-wild-life-of-thar-desert-and-camping"
+          },
+          {
+            "id": "purely-private-full-day-tuk-tuk-tour-of-golden-city-jaisalmer",
+            "title": "Purely Private Full Day Tuk-Tuk Tour of Golden City Jaisalmer",
+            "duration": "Day Tour",
+            "category": "Jaisalmer Sightseeing",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/Jaipur-TukTuk-Tour-img-1024x684.jpg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_Jaipur-TukTuk-Tour-img-10_958b1d0736.jpg",
+            "route": "Jaisalmer – 6 Hour",
+            "link": "/tours/purely-private-full-day-tuk-tuk-tour-of-golden-city-jaisalmer"
+          },
+          {
+            "id": "travelastic-heritage-walking-tour-of-jaisalmer-with-local-street-food-experience",
+            "title": "Travelastic Heritage Walking Tour of Jaisalmer with Local Street Food Experience",
+            "duration": "Day Tour",
+            "category": "Jaisalmer Sightseeing",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/3e9732f7-c5cf-40a3-b892-d61f00fc4d85_cultural-heritage-trails-of-jaisalmer-2-hours-guided-walking-tour-xlarge-1024x683.jpg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_3e9732f7-c5cf-40a3-b892-d_a0de9bdd13.jpg",
+            "route": "Jaisalmer – Between 2 to 3 Hour",
+            "link": "/tours/travelastic-heritage-walking-tour-of-jaisalmer-with-local-street-food-experience"
+          }
+        ]
+      },
+      {
+        "heading": "Camel Safari Tour Packages",
+        "tours": [
+          {
+            "id": "marvin-multi-day-camel-safari",
+            "title": "Marvin Multi Day Camel Safari",
+            "duration": "Day Tour",
+            "category": "Camel Safari Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Camel-safari-jaialmer-1024x576.jpg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_Camel-safari-jaialmer-102_a7c0e41851.jpg",
+            "route": "Jaisalmer – 15 to 45 Minutes",
+            "link": "/tours/marvin-multi-day-camel-safari"
+          },
+          {
+            "id": "blissful-camel-safari-with-enchanting-beauty-of-thar-desert",
+            "title": "Blissful Camel Safari with Enchanting Beauty of Thar Desert",
+            "duration": "Day Tour",
+            "category": "Camel Safari Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/04/camel-safari-delightful-india-holidays-9.jpg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-delightful-i_41272a92ac.jpg",
+            "route": "Jaisalmer – 1 Day",
+            "link": "/tours/blissful-camel-safari-with-enchanting-beauty-of-thar-desert"
+          },
+          {
+            "id": "dazzling-half-day-camel-safari-tour-with-sunset",
+            "title": "Dazzling Half Day Camel Safari Tour With Sunset",
+            "duration": "Half Day",
+            "category": "Camel Safari Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/04/camel-safari-delightful-india-holidays-16.jpg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-delightful-i_c14583ca2b.jpg",
+            "route": "Jaisalmer – Half Day",
+            "link": "/tours/dazzling-half-day-camel-safari-tour-with-sunset"
+          },
+          {
+            "id": "delightful-2-nights-camel-safari-in-the-great-thar-desert",
+            "title": "Delightful 2 Nights Camel Safari in The Great Thar Desert",
+            "duration": "2 Nights",
+            "category": "Camel Safari Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/04/camel-safari-delightful-india-holidays-6.jpg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-delightful-i_9042131273.jpg",
+            "route": "Jaisalmer – 2 Nights 3 Days",
+            "link": "/tours/delightful-2-nights-camel-safari-in-the-great-thar-desert"
+          },
+          {
+            "id": "exploriana-2-nights-camel-safari-with-overnight-desert-camping",
+            "title": "Exploriana 2 Nights Camel Safari with Overnight Desert Camping",
+            "duration": "2 Nights",
+            "category": "Camel Safari Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2025/08/image-16.png",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_image-16_75288e02e3.png",
+            "route": "Jaisalmer – 2 Nights / 3 Days",
+            "link": "/tours/exploriana-2-nights-camel-safari-with-overnight-desert-camping"
+          },
+          {
+            "id": "fernweh-half-day-camel-safari-tour-with-sunrise",
+            "title": "Fernweh Half Day Camel Safari Tour with Sunrise",
+            "duration": "Half Day",
+            "category": "Camel Safari Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jaisalmer-camel-safari.jpeg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_jaisalmer-camel-safari_e2e5cb14c9.jpeg",
+            "route": "Jaisalmer – Hald Days",
+            "link": "/tours/fernweh-half-day-camel-safari-tour-with-sunrise"
+          },
+          {
+            "id": "mesmerizing-camel-safari-with-bliss-of-thar-desert",
+            "title": "Mesmerizing Camel Safari with Bliss of Thar Desert",
+            "duration": "Day Tour",
+            "category": "Camel Safari Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/camel-safari.png",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari_f0051a66bc.png",
+            "route": "Jaisalmer – 1 Night / 2 Days",
+            "link": "/tours/mesmerizing-camel-safari-with-bliss-of-thar-desert"
+          },
+          {
+            "id": "nomadic-non-touristic-overnight-camel-safari-tour-with-beauty-of-thar-desert",
+            "title": "Nomadic Non Touristic Overnight Camel Safari Tour with Beauty of Thar Desert",
+            "duration": "Day Tour",
+            "category": "Camel Safari Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/evening-camel-safari.png",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_evening-camel-safari_35c8e1dbdf.png",
+            "route": "Jaisalmer – 1 Night / 2 Days",
+            "link": "/tours/nomadic-non-touristic-overnight-camel-safari-tour-with-beauty-of-thar-desert"
+          },
+          {
+            "id": "peeps-billions-of-stars-and-moon-experience-with-off-beaten-track-camel-safari",
+            "title": "Peep's Billions of Stars & Moon Experience with Off Beaten Track Camel Safari",
+            "duration": "Day Tour",
+            "category": "Camel Safari Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/about-camel-safari.jpg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_about-camel-safari_88915e73b3.jpg",
+            "route": "Jaisalmer – 1 Nights / 2 Days",
+            "link": "/tours/peeps-billions-of-stars-and-moon-experience-with-off-beaten-track-camel-safari"
+          },
+          {
+            "id": "rumi-camel-safari-with-enchanting-beauty-of-thar-desert",
+            "title": "Rumi Camel Safari with Enchanting Beauty of Thar Desert",
+            "duration": "Day Tour",
+            "category": "Camel Safari Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/camel-safari-jaisalmer-rj.webp",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-jaisalmer-rj_8ef1187c99.webp",
+            "route": "Jaisalmer – 1 Nights / 2 Days",
+            "link": "/tours/rumi-camel-safari-with-enchanting-beauty-of-thar-desert"
+          },
+          {
+            "id": "wanderlust-camel-safari-with-rumi-caravan-of-thar-desert",
+            "title": "Wanderlust Camel Safari with Rumi Caravan of Thar Desert",
+            "duration": "Day Tour",
+            "category": "Camel Safari Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/camel-safari-in-jaisalmer-1024x635.jpg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-in-jaisalmer_0ab5989e74.jpg",
+            "route": "Jaisalmer – 1 Nights / 2 Days",
+            "link": "/tours/wanderlust-camel-safari-with-rumi-caravan-of-thar-desert"
+          }
+        ]
+      },
+      {
+        "heading": "Desert Camping Tour Packages",
+        "tours": [
+          {
+            "id": "buoyant-luxurious-camping-in-the-thar-desert",
+            "title": "Buoyant Luxurious Camping In The Thar Desert",
+            "duration": "Day Tour",
+            "category": "Desert Camping Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/jaisalmer-2-day-thar-desert-experience-1268861-1024x683.webp",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_jaisalmer-2-day-thar-dese_225b01202c.webp",
+            "route": "Jaisalmer – 1 Night / 2 Days",
+            "link": "/tours/buoyant-luxurious-camping-in-the-thar-desert"
+          },
+          {
+            "id": "enchanting-desert-camping-tour-with-thriller-adventure",
+            "title": "Enchanting Desert Camping Tour with Thriller Adventure",
+            "duration": "Day Tour",
+            "category": "Desert Camping Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/jaisalmer-desert-camp-booking-1024x494.jpg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_jaisalmer-desert-camp-boo_f16d78a510.jpg",
+            "route": "Jaisalmer – 1 Night / 2 Days",
+            "link": "/tours/enchanting-desert-camping-tour-with-thriller-adventure"
+          },
+          {
+            "id": "frenzy-paradise-desert-camping-tour-in-the-great-thar-desert",
+            "title": "Frenzy Paradise Desert Camping Tour in The Great Thar Desert",
+            "duration": "Day Tour",
+            "category": "Desert Camping Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Toyota-Fortuner-Safari-at-Thar-Desert-1024x819.png",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_Toyota-Fortuner-Safari-at_7f72a09506.png",
+            "route": "Jaisalmer – 1 Night / 2 Days",
+            "link": "/tours/frenzy-paradise-desert-camping-tour-in-the-great-thar-desert"
+          },
+          {
+            "id": "joyful-2-night-desert-camping-and-cultural-show",
+            "title": "Joyful 2 Night Desert Camping & Cultural Show",
+            "duration": "2 Night",
+            "category": "Desert Camping Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/camel-safari-golden-routes-1024x576.jpg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-golden-route_c8cf21d63e.jpg",
+            "route": "Jaisalmer – 2 Nights / 3 Days",
+            "link": "/tours/joyful-2-night-desert-camping-and-cultural-show"
+          },
+          {
+            "id": "mystical-desert-camping-and-cultural-show-in-the-great-thar-desert",
+            "title": "Mystical Desert Camping & Cultural Show in The Great Thar Desert",
+            "duration": "Day Tour",
+            "category": "Desert Camping Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/north-india-img-1024x684.png",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_north-india-img-1024x684_eb8d4a6028.png",
+            "route": "Jaisalmer – 2 Nights / 3 Days",
+            "link": "/tours/mystical-desert-camping-and-cultural-show-in-the-great-thar-desert"
+          },
+          {
+            "id": "serene-trip-of-mesmerizing-sunset-with-evening-cultural-show-and-dinner",
+            "title": "Serene Trip of Mesmerizing Sunset with Evening Cultural Show & Dinner",
+            "duration": "Day Tour",
+            "category": "Desert Camping Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2025/08/image-15-1024x576.png",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_image-15-1024x576_a5f8ada54e.png",
+            "route": "Jaisalmer – 1 Days",
+            "link": "/tours/serene-trip-of-mesmerizing-sunset-with-evening-cultural-show-and-dinner"
+          }
+        ]
+      },
+      {
+        "heading": "Exotic & Rural Tour Packages",
+        "tours": [
+          {
+            "id": "haunted-trail-tour-of-jaisalmer",
+            "title": "Haunted Trail Tour of Jaisalmer",
+            "duration": "Day Tour",
+            "category": "Exotic & Rural Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/09/ChatGPT-Image-Jun-3-2026-08_07_19-PM-1024x682.png",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_ChatGPT-Image-Jun-3-2026-_5f9d331c34.png",
+            "route": "Jaisalmer – 1 Day",
+            "link": "/tours/haunted-trail-tour-of-jaisalmer"
+          },
+          {
+            "id": "temple-trail-tour-of-jaisalmer",
+            "title": "Temple Trail Tour of jaisalmer",
+            "duration": "Day Tour",
+            "category": "Exotic & Rural Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/09/Jain-Temple-Jaisalmer-1024x683.jpeg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_Jain-Temple-Jaisalmer-102_fe9fe6bf42.jpeg",
+            "route": "Jaisalmer – 1 Day",
+            "link": "/tours/temple-trail-tour-of-jaisalmer"
+          },
+          {
+            "id": "jaisalmer-rural-village-and-eco-farm-tour",
+            "title": "Jaisalmer Rural Village & Eco Farm Tour",
+            "duration": "Day Tour",
+            "category": "Exotic & Rural Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/09/farm-with-foreign-european-tourists-in-india.jpg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_farm-with-foreign-europea_63c7ed6ac0.jpg",
+            "route": "Jaisalmer – 1 Day",
+            "link": "/tours/jaisalmer-rural-village-and-eco-farm-tour"
+          },
+          {
+            "id": "jaisalmer-rural-village-and-ngo-school-tour",
+            "title": "Jaisalmer Rural Village & NGO School Tour",
+            "duration": "Day Tour",
+            "category": "Exotic & Rural Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/09/rural-village-tour-1024x768.jpeg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_rural-village-tour-1024x7_2469455522.jpeg",
+            "route": "Jaisalmer – 1 Day",
+            "link": "/tours/jaisalmer-rural-village-and-ngo-school-tour"
+          },
+          {
+            "id": "adventure-gypsy-tour-of-desert-national-park-with-wild-life",
+            "title": "Adventure Gypsy Tour of Desert National Park with Wild Life",
+            "duration": "Day Tour",
+            "category": "Exotic & Rural Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/10/145-35.jpg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_145-35_88625e6578.jpg",
+            "route": "Jaisalmer – Between 1 to 2 Hour",
+            "link": "/tours/adventure-gypsy-tour-of-desert-national-park-with-wild-life"
+          }
+        ]
+      },
+      {
+        "heading": "Festival & Event Tour Packages",
+        "tours": [
+          {
+            "id": "diwali-in-the-thar-desert",
+            "title": "Diwali in the Thar Desert",
+            "duration": "Day Tour",
+            "category": "Festival & Event Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Diwali-in-the-Thar-Desert-1024x683.png",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_Diwali-in-the-Thar-Desert_fcce7302a3.png",
+            "route": "Jaisalmer – 1 Night / 2 Days",
+            "link": "/tours/diwali-in-the-thar-desert"
+          },
+          {
+            "id": "diwali-in-jaisalmer",
+            "title": "Diwali in Jaisalmer",
+            "duration": "Day Tour",
+            "category": "Festival & Event Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/new-year-party-in-jaisalmer.jpg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_new-year-party-in-jaisalm_63eae24593.jpg",
+            "route": "Jaisalmer – 1 Night / 2 Days",
+            "link": "/tours/diwali-in-jaisalmer"
+          },
+          {
+            "id": "new-year-at-dunes",
+            "title": "New Year at Dunes",
+            "duration": "Day Tour",
+            "category": "Festival & Event Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/dance-Jaisalmer-1024x473.jpg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_dance-Jaisalmer-1024x473_df67dda87d.jpg",
+            "route": "Jaisalmer – 1 Night / 2 Days",
+            "link": "/tours/new-year-at-dunes"
+          },
+          {
+            "id": "christmas-at-thar-desert",
+            "title": "Christmas at Thar Desert",
+            "duration": "Day Tour",
+            "category": "Festival & Event Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/vknmouizurpccof1sid2.avif",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_vknmouizurpccof1sid2_8e331cbbbb.avif",
+            "route": "Jaisalmer – 1 Night / 2 Days",
+            "link": "/tours/christmas-at-thar-desert"
+          }
+        ]
+      },
+      {
+        "heading": "Romantic Jaisalmer Tours",
+        "tours": [
+          {
+            "id": "breakfast-at-dunes-with-beautiful-sunrise",
+            "title": "Breakfast at Dunes with Beautiful Sunrise",
+            "duration": "Day Tour",
+            "category": "Romantic Jaisalmer Tours",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/camel-safari-in-jaisalmer-1024x635.jpg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_camel-safari-in-jaisalmer_0ab5989e74.jpg",
+            "route": "Jaisalmer – 3 Hour",
+            "link": "/tours/breakfast-at-dunes-with-beautiful-sunrise"
+          },
+          {
+            "id": "hi-tea-on-the-dunes-with-beautiful-sunset",
+            "title": "Hi-Tea on The Dunes with Beautiful Sunset",
+            "duration": "Day Tour",
+            "category": "Romantic Jaisalmer Tours",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/146.jpg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_146_90268abc26.jpg",
+            "route": "Jaisalmer – 1 Hour",
+            "link": "/tours/hi-tea-on-the-dunes-with-beautiful-sunset"
+          },
+          {
+            "id": "honeymoon-at-thar-desert",
+            "title": "Honeymoon at Thar Desert",
+            "duration": "Day Tour",
+            "category": "Romantic Jaisalmer Tours",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Romantic-Jaisalmer4-1024x683.jpeg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_Romantic-Jaisalmer4-1024x_d1100b4896.jpeg",
+            "route": "Jaisalmer – 1 Night / 2 Days",
+            "link": "/tours/honeymoon-at-thar-desert"
+          },
+          {
+            "id": "marvin-romantic-jaisalmer-tour",
+            "title": "Marvin Romantic Jaisalmer Tour",
+            "duration": "Day Tour",
+            "category": "Romantic Jaisalmer Tours",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Romantic-Jaisalmer1-1024x683.jpeg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_Romantic-Jaisalmer1-1024x_b60f66f1bf.jpeg",
+            "route": "Jaisalmer – 2 Night 3 Days",
+            "link": "/tours/marvin-romantic-jaisalmer-tour"
+          },
+          {
+            "id": "romantic-candle-light-dinner-at-dunes",
+            "title": "Romantic Candle Light Dinner at Dunes",
+            "duration": "Day Tour",
+            "category": "Romantic Jaisalmer Tours",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Romantic-Jaisalmer-1024x683.jpeg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_Romantic-Jaisalmer-1024x6_c9b3d31a5a.jpeg",
+            "route": "Jaisalmer – 2 Hour",
+            "link": "/tours/romantic-candle-light-dinner-at-dunes"
+          }
+        ]
+      },
+      {
+        "heading": "Adventure & Thriller Tour Packages",
+        "tours": [
+          {
+            "id": "jeep-safari-at-thar-desert",
+            "title": "Jeep Safari at Thar Desert",
+            "duration": "Day Tour",
+            "category": "Adventure & Thriller Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/04/jeep-safari-delightful-india-holidays-1.jpg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_jeep-safari-delightful-in_e716078b51.jpg",
+            "route": "Jaisalmer – 15 to 45 Minutes",
+            "link": "/tours/jeep-safari-at-thar-desert"
+          },
+          {
+            "id": "paramotoring-at-thar-desert",
+            "title": "Paramotoring at Thar Desert",
+            "duration": "Day Tour",
+            "category": "Adventure & Thriller Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Paramotoring-1024x766.png",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_Paramotoring-1024x766_a3a183576b.png",
+            "route": "Jaisalmer – 10 to 30 Minutes",
+            "link": "/tours/paramotoring-at-thar-desert"
+          },
+          {
+            "id": "parasailing-at-thar-desert",
+            "title": "Parasailing at Thar Desert",
+            "duration": "Day Tour",
+            "category": "Adventure & Thriller Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Parasailing.jpg",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_Parasailing_4db43cfcaa.jpg",
+            "route": "Jaisalmer – 10 to 20 Minutes",
+            "link": "/tours/parasailing-at-thar-desert"
+          },
+          {
+            "id": "quad-biking-at-thar-desert",
+            "title": "Quad Biking at Thar Desert",
+            "duration": "Day Tour",
+            "category": "Adventure & Thriller Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Quad-Biking-at-Thar-Desert-1024x819.png",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_Quad-Biking-at-Thar-Deser_0e1fb1d5c0.png",
+            "route": "Jaisalmer – 10 to 20 Minutes",
+            "link": "/tours/quad-biking-at-thar-desert"
+          },
+          {
+            "id": "toyota-fortuner-safari-at-thar-desert",
+            "title": "Toyota Fortuner Safari at Thar Desert",
+            "duration": "Day Tour",
+            "category": "Adventure & Thriller Tour Packages",
+            "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/Toyota-Fortuner-Safari-at-Thar-Desert-1024x819.png",
+            "localImage": "/assets/images/day-tours/tours/jaisalmer_Toyota-Fortuner-Safari-at_7f72a09506.png",
+            "route": "Jaisalmer",
+            "link": "/tours/toyota-fortuner-safari-at-thar-desert"
+          }
+        ]
+      }
+    ]
   },
   "agra": {
     "cityName": "Agra",
