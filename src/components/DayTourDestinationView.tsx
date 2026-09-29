@@ -924,6 +924,395 @@ export default function DayTourDestinationView({ data }: DayTourDestinationViewP
             </div>
           </div>
         </div>
+      ) : data.id === "jodhpur" ? (
+        /* ======================== JODHPUR EXACT SECTIONS ======================== */
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12 text-gray-800">
+          {/* Explore the Blue City with Our Jodhpur Tour Packages */}
+          <div>
+            <h2 className="text-3xl sm:text-4xl font-serif text-[#192a3d] font-bold mb-5">
+              Explore the Blue City with Our Jodhpur Tour Packages
+            </h2>
+            <div className="space-y-4 text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+              <p>
+                Discover the royal charm of Rajasthan with our carefully crafted Jodhpur Tour Packages. Known as the Blue City, Jodhpur is famous for its magnificent forts, royal palaces, vibrant markets, and rich cultural heritage. Whether you are looking for a Jodhpur Family Tour, Jodhpur Luxury Tour, Jodhpur Private Tour, or a short Jodhpur Weekend Tour, we offer customized itineraries to suit every traveler.
+              </p>
+              <p>
+                Our Jodhpur Travel Packages cover the city’s iconic attractions, heritage walks, local experiences, village tours, and comfortable transportation services. From exploring the majestic Mehrangarh Fort to enjoying authentic Rajasthani cuisine, every moment in Jodhpur promises unforgettable memories.
+              </p>
+            </div>
+          </div>
+
+          {/* Places to Visit in Jodhpur */}
+          <div>
+            <h2 className="text-2xl sm:text-3xl font-serif text-[#192a3d] font-bold mb-6">
+              Places to Visit in Jodhpur
+            </h2>
+            <div className="space-y-6">
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Mehrangarh Fort
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light mb-3">
+                  A visit to Jodhpur is incomplete without a Mehrangarh Fort Tour. Perched on a rocky hill, this massive fort offers panoramic views of the Blue City and houses museums, palaces, and historical artifacts. It is one of the most popular attractions included in every Jodhpur Sightseeing Tour.
+                </p>
+                <div>
+                  <p className="font-semibold text-gray-900 mb-2 text-base sm:text-lg">
+                    Highlights:
+                  </p>
+                  <ul className="list-disc pl-6 space-y-1.5 text-base sm:text-lg text-gray-800 font-light">
+                    <li>Fort Museum</li>
+                    <li>Sheesh Mahal</li>
+                    <li>Phool Mahal</li>
+                    <li>Cannon viewpoints</li>
+                    <li>Zipline Adventure</li>
+                  </ul>
+                </div>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Jaswant Thada
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Known as the “Taj Mahal of Marwar,” Jaswant Thada is a beautiful marble cenotaph built in memory of Maharaja Jaswant Singh II. Its peaceful gardens and architecture make it a must-visit destination.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Umaid Bhawan Palace
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  One of the world’s largest private residences, Umaid Bhawan Palace combines royal history with luxury hospitality. It is a major attraction in many Jodhpur Luxury Tour Packages.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Clock Tower &amp; Sardar Market
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Experience local culture through colorful markets offering handicrafts, spices, textiles, and souvenirs. The area is ideal for shopping and food exploration.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Mandore Gardens
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Mandore Gardens features royal cenotaphs, temples, and lush landscapes, making it an important stop during a Jodhpur Local Sightseeing tour.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Toorji Ka Jhalra
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  A beautifully restored stepwell showcasing traditional Rajput architecture and local heritage.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Rao Jodha Desert Rock Park
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Nature lovers can enjoy walking trails and desert flora while learning about the region’s ecological significance.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Bishnoi Village
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Take a Vishnoi Village Tour from Jodhpur to experience traditional rural life, wildlife conservation, and local handicrafts.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Osian
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Popular for ancient temples and desert safaris, Osian is perfect for a Same Day Osian Tour from Jodhpur.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          {/* Best Time to Visit Jodhpur */}
+          <div>
+            <h2 className="text-2xl sm:text-3xl font-serif text-[#192a3d] font-bold mb-6">
+              Best Time to Visit Jodhpur
+            </h2>
+            <div className="space-y-6">
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  October to March (Peak Season)
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  The winter months offer pleasant weather, making it the ideal time for sightseeing and outdoor activities. This period is perfect for a Blue City Tour Jodhpur, heritage walks, and desert excursions.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  July to September (Monsoon Season)
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Light rainfall adds freshness to the city, and travelers can enjoy fewer crowds and discounted hotel rates.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  April to June (Summer Season)
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Although temperatures are high, luxury travelers can still enjoy palace stays, museums, and indoor attractions at attractive prices.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          {/* Things to Do in Jodhpur */}
+          <div>
+            <h2 className="text-2xl sm:text-3xl font-serif text-[#192a3d] font-bold mb-6">
+              Things to Do in Jodhpur
+            </h2>
+            <div className="space-y-6">
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Jodhpur Heritage Walk
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Join a guided Jodhpur Heritage Walk through the old city’s narrow blue lanes, historic temples, and bustling markets.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Walking Tour in Jodhpur
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Explore hidden gems, local neighborhoods, and centuries-old architecture with an expert local guide.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Food Tour in Jodhpur
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light mb-2">
+                  Taste famous local delicacies such as:
+                </p>
+                <ul className="list-disc pl-6 space-y-1.5 text-base sm:text-lg text-gray-800 font-light mb-3">
+                  <li>Mirchi Bada</li>
+                  <li>Makhaniya Lassi</li>
+                  <li>Pyaaz Kachori</li>
+                  <li>Dal Baati Churma</li>
+                </ul>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  A Food Tour in Jodhpur is one of the best ways to experience the city’s culture.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Jodhpur Sightseeing Tour by TukTuk
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Enjoy a unique and eco-friendly city exploration with a Jodhpur Sightseeing Tour by TukTuk, covering major attractions and local markets.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Village Safari Experience
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Visit Bishnoi villages and witness traditional lifestyles, wildlife, pottery-making, and handicrafts.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Photography Tour
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Capture stunning views of blue-painted houses, majestic forts, and colorful local markets.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Shopping in Local Markets
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light mb-2">
+                  Purchase:
+                </p>
+                <ul className="list-disc pl-6 space-y-1.5 text-base sm:text-lg text-gray-800 font-light">
+                  <li>Handcrafted textiles</li>
+                  <li>Leather goods</li>
+                  <li>Silver jewelry</li>
+                  <li>Traditional Rajasthani handicrafts</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          {/* Popular Jodhpur Tour Packages */}
+          <div>
+            <h2 className="text-2xl sm:text-3xl font-serif text-[#192a3d] font-bold mb-6">
+              Popular Jodhpur Tour Packages
+            </h2>
+            <div className="space-y-6">
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Jodhpur Tour Package 2 Days
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Perfect for travelers looking to explore the major attractions of the city in a short duration.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Jodhpur Family Tour Package
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Designed for families seeking a comfortable and memorable holiday experience.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Jodhpur Holiday Package
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Combines sightseeing, cultural experiences, local cuisine, and comfortable accommodation.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Jodhpur Private Tour
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  A personalized experience with a private guide, vehicle, and flexible itinerary.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Jodhpur Heritage Tour
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Ideal for history enthusiasts wanting to explore forts, palaces, and heritage sites.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">
+                  Jodhpur Luxury Tour
+                </h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Experience royal hospitality with luxury hotels, heritage stays, and premium transportation.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          {/* Excursions and Transfers from Jodhpur */}
+          <div>
+            <h2 className="text-2xl sm:text-3xl font-serif text-[#192a3d] font-bold mb-6">
+              Excursions and Transfers from Jodhpur
+            </h2>
+
+            <div className="space-y-6">
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-3">
+                  We also provide:
+                </h3>
+                <ul className="list-disc pl-6 space-y-2 text-base sm:text-lg text-gray-800 font-light">
+                  <li>Private Udaipur Transfer from Jodhpur</li>
+                  <li>Jodhpur Udaipur Cab Service</li>
+                  <li>Private Jodhpur Transfer from Udaipur</li>
+                  <li>Jodhpur Transfer from Jaipur</li>
+                  <li>Car Hire in Jodhpur</li>
+                  <li>Cab Hire in Jodhpur</li>
+                  <li>Taxi Hire in Jodhpur</li>
+                  <li>Private Car Hire in Jodhpur</li>
+                  <li>One Way Cab Service in Jodhpur</li>
+                  <li>One Way Taxi Service in Jodhpur</li>
+                </ul>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-3">
+                  Popular excursion tours include:
+                </h3>
+                <ul className="list-disc pl-6 space-y-2 text-base sm:text-lg text-gray-800 font-light">
+                  <li>Same Day Pushkar Tour from Jodhpur</li>
+                  <li>Same Day Osian Tour from Jodhpur</li>
+                  <li>Same Day Jaisalmer Tour From Jodhpur</li>
+                  <li>Same Day Jaisalmer Tour From Jodhpur by Car</li>
+                  <li>Same Day Jaisalmer Tour From Jodhpur by Train</li>
+                  <li>2 Days Jaisalmer Tour from Jodhpur</li>
+                  <li>3 Days Jaisalmer Tour from Jodhpur</li>
+                  <li>4 Days Jaisalmer Jodhpur Tour</li>
+                  <li>Jodhpur Jaisalmer Cab Service</li>
+                  <li>Golden Triangle Tour with Jaisalmer &amp; Jodhpur</li>
+                  <li>Golden Triangle Tour with Jodhpur &amp; Udaipur</li>
+                  <li>4 Days Jaipur Jodhpur Tour with Pushkar</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          {/* Frequently Asked Questions (FAQs) Accordion */}
+          {data.faqs && data.faqs.length > 0 && (
+            <div className="pt-4 border-t border-gray-200">
+              <h2 className="text-2xl sm:text-3xl font-serif text-[#192a3d] font-bold mb-6">
+                Frequently Asked Questions (FAQs)
+              </h2>
+
+              <div className="space-y-2">
+                {data.faqs.map((faq, idx) => {
+                  const isOpen = openFaqIndex === idx;
+                  return (
+                    <div
+                      key={idx}
+                      className="border border-[#e5e7eb] rounded bg-white overflow-hidden transition-all shadow-none"
+                    >
+                      <button
+                        type="button"
+                        onClick={() => toggleFaq(idx)}
+                        className="w-full px-5 py-3.5 sm:py-4 text-left flex items-center justify-between gap-4 hover:bg-gray-50/70 transition-colors cursor-pointer"
+                        aria-expanded={isOpen}
+                      >
+                        <span className="font-semibold text-gray-900 text-sm sm:text-base leading-snug">
+                          {faq.q}
+                        </span>
+                        <span className="flex-shrink-0 text-xl font-bold text-gray-800 w-5 text-center select-none">
+                          {isOpen ? "−" : "+"}
+                        </span>
+                      </button>
+                      {isOpen && (
+                        <div className="px-5 pb-4 pt-1 text-sm sm:text-base text-gray-700 font-light leading-relaxed border-t border-gray-100 bg-gray-50/30">
+                          {faq.a}
+                        </div>
+                      )}
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+          )}
+        </div>
       ) : (
         /* Other 2 destinations */
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12 text-gray-800">

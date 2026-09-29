@@ -2116,9 +2116,8 @@
     "heroImage": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-2.jpg",
     "defaultRoute": "Jodhpur",
     "overview": [
-      "Discover the royal charm of Rajasthan with our carefully crafted Jodhpur Tour Packages. Known as the Blue City, Jodhpur is world-famous for its magnificent hill fort, royal marble cenotaphs, vibrant cobalt-blue lanes, and rich Marwar culture.",
-      "Our Jodhpur Travel Packages cover the city’s iconic attractions, guided heritage walks through old blue neighborhoods, village safaris, Bishnoi community tours, and comfortable private transport across Rajasthan.",
-      "Whether you seek a quick 2-Day Jodhpur Sightseeing Tour, a romantic holiday, or an adventurous excursion to the sand dunes and temples of Osian, Delightful India Holidays guarantees a seamless travel experience."
+      "Discover the royal charm of Rajasthan with our carefully crafted Jodhpur Tour Packages. Known as the Blue City, Jodhpur is famous for its magnificent forts, royal palaces, vibrant markets, and rich cultural heritage. Whether you are looking for a Jodhpur Family Tour, Jodhpur Luxury Tour, Jodhpur Private Tour, or a short Jodhpur Weekend Tour, we offer customized itineraries to suit every traveler.",
+      "Our Jodhpur Travel Packages cover the city’s iconic attractions, heritage walks, local experiences, village tours, and comfortable transportation services. From exploring the majestic Mehrangarh Fort to enjoying authentic Rajasthani cuisine, every moment in Jodhpur promises unforgettable memories."
     ],
     "placesToVisit": [
       {
@@ -2224,16 +2223,44 @@
     ],
     "faqs": [
       {
+        "q": "What is included in a Jodhpur Tour Package?",
+        "a": "Most Jodhpur Tour Packages include accommodation, sightseeing, transportation, guide services, and airport or railway station transfers."
+      },
+      {
+        "q": "What is the cost of a Jodhpur Tour?",
+        "a": "The Jodhpur Tour Cost depends on hotel category, travel season, transportation, and package duration. Budget, standard, and luxury options are available."
+      },
+      {
+        "q": "Which is the Best Jodhpur Tour Package?",
+        "a": "The Best Jodhpur Tour Package depends on your travel style. Heritage tours, family holidays, luxury experiences, and combined Rajasthan tours are among the most popular choices."
+      },
+      {
+        "q": "How many days are enough for Jodhpur?",
+        "a": "A Jodhpur Tour Package 2 Days is sufficient to cover major attractions, while 3-4 days allow for village tours and nearby excursions."
+      },
+      {
         "q": "Why is Jodhpur called the Blue City?",
-        "a": "The old city’s houses were traditionally painted with indigo/copper-sulfate blue wash to keep interiors cool under the scorching sun and to repel termites."
+        "a": "The old city is famous for its blue-painted houses, giving rise to the nickname Blue City Tour Jodhpur."
       },
       {
-        "q": "How many days are needed in Jodhpur?",
-        "a": "A 2-day tour is sufficient to cover Mehrangarh Fort, Jaswant Thada, Umaid Bhawan Palace, and old city walks. A 3rd day allows for Osian desert safaris or Bishnoi village tours."
+        "q": "Can I book a private sightseeing tour in Jodhpur?",
+        "a": "Yes, we offer fully customized Jodhpur Private Tours, guided tours, and local sightseeing packages."
       },
       {
-        "q": "Can we take a day trip from Jodhpur to Osian?",
-        "a": "Yes, Osian is just a 1.5-hour drive (65 km) away, making it an easy and rewarding day trip for temple visits, camel safaris, and sunset sand dunes."
+        "q": "Is a Mehrangarh Fort Tour worth it?",
+        "a": "Absolutely. The fort is the city’s most iconic landmark and a highlight of every Jodhpur Sightseeing Package."
+      },
+      {
+        "q": "Which is the best travel agency in Jodhpur?",
+        "a": "A reliable Travel Agency in Jodhpur, Tour Operator in Jodhpur, or Travel Company in Jodhpur can help customize your itinerary, provide transportation, accommodation, and local experiences according to your preferences."
+      },
+      {
+        "q": "Can I book a guided tour in Jodhpur?",
+        "a": "Yes, we offer Guided Tours in Jodhpur, heritage walks, food tours, village tours, and private sightseeing experiences."
+      },
+      {
+        "q": "How can I book a Jodhpur Tour Package?",
+        "a": "You can easily Book Jodhpur Tour Package online or contact our travel experts for a customized itinerary based on your budget and travel requirements."
       }
     ],
     "tours": [
@@ -2243,7 +2270,7 @@
         "duration": "Day Tour",
         "category": "Sightseeing",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Jodhpur Sightseeing Tour",
+        "route": "Goa",
         "link": "/tours/jodhpur-sightseeing-tour",
         "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
       },
@@ -2253,7 +2280,7 @@
         "duration": "3 Days",
         "category": "Sightseeing",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-4-1024x545.jpg",
-        "route": "3 Days Jodhpur Tour With Osian",
+        "route": "Goa",
         "link": "/tours/3-days-jodhpur-tour-with-osian",
         "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-4-1024x545_e48978c2f8.jpg"
       },
@@ -2263,7 +2290,7 @@
         "duration": "5 Days",
         "category": "Sightseeing",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1-1024x545.jpg",
-        "route": "5 Days Jodhpur & Jaisalmer Tour",
+        "route": "Goa",
         "link": "/tours/5-days-jodhpur-jaisalmer-tour",
         "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1-1024x545_18a11c2aeb.jpg"
       },
@@ -2273,7 +2300,7 @@
         "duration": "Same Day",
         "category": "Sightseeing",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/jodhpur-hindistan-gun-batimi-1024x576.jpg",
-        "route": "Same Day Osian Tour From Jodhpur",
+        "route": "Goa",
         "link": "/tours/same-day-osian-tour-from-jodhpur",
         "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-hindistan-gun-bat_624c089cd4.jpg"
       },
@@ -2283,7 +2310,7 @@
         "duration": "2 Days",
         "category": "Sightseeing",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/best-things-to-do-in-Jodhpur-cover-2-1024x767.jpg",
-        "route": "2 Days Jaisalmer Trip From Jodhpur",
+        "route": "Goa",
         "link": "/tours/2-days-jaisalmer-trip-from-jodhpur",
         "localImage": "/assets/images/day-tours/tours/jodhpur_best-things-to-do-in-Jodh_f6e356fdf1.jpg"
       },
@@ -2293,7 +2320,7 @@
         "duration": "3 Days",
         "category": "Sightseeing",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Jodhpur-beautiful-places-in-Rajasthan.webp",
-        "route": "3 Days Jaisalmer Trip From Jodhpur",
+        "route": "Goa",
         "link": "/tours/3-days-jaisalmer-trip-from-jodhpur",
         "localImage": "/assets/images/day-tours/tours/jodhpur_Jodhpur-beautiful-places-_9c28f5790b.webp"
       },
@@ -2303,7 +2330,7 @@
         "duration": "3 Days",
         "category": "Sightseeing",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Megharan-fortress-Jodhpur-India-Architecture-Old-Travel-Ancient-1-870x555-1.webp",
-        "route": "3 Days Udaipur Tour  From Jodhpur",
+        "route": "Goa",
         "link": "/tours/3-days-udaipur-tour-from-jodhpur",
         "localImage": "/assets/images/day-tours/tours/jodhpur_Megharan-fortress-Jodhpur_c6017d6608.webp"
       },
@@ -2323,7 +2350,7 @@
         "duration": "6 Days",
         "category": "Sightseeing",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Pichola-Lake-Udaipur-Rajasthan.jpeg",
-        "route": "6 Days Magnificent Rajasthan Tour",
+        "route": "Goa",
         "link": "/tours/6-days-magnificent-rajasthan-tour",
         "localImage": "/assets/images/day-tours/tours/jodhpur_Pichola-Lake-Udaipur-Raja_bf2dede5af.jpeg"
       },
@@ -2333,272 +2360,12 @@
         "duration": "Same Day",
         "category": "Sightseeing",
         "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/jodhpur-camel-safari-overnight-stay-in-desert-2557483-1024x683.webp",
-        "route": "Same Day Bishnoi Village Tour From Jodhpur",
+        "route": "Goa",
         "link": "/tours/same-day-bishnoi-village-tour-from-jodhpur",
         "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-camel-safari-over_e65634ff77.webp"
-      },
-      {
-        "id": "mehrangarh-fort",
-        "title": "Mehrangarh Fort",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/mehrangarh-fort",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
-      },
-      {
-        "id": "jaswant-thada",
-        "title": "Jaswant Thada",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/jaswant-thada",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
-      },
-      {
-        "id": "umaid-bhawan-palace",
-        "title": "Umaid Bhawan Palace",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/umaid-bhawan-palace",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
-      },
-      {
-        "id": "clock-tower-sardar-market",
-        "title": "Clock Tower & Sardar Market",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/clock-tower-sardar-market",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
-      },
-      {
-        "id": "mandore-gardens",
-        "title": "Mandore Gardens",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/mandore-gardens",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
-      },
-      {
-        "id": "toorji-ka-jhalra",
-        "title": "Toorji Ka Jhalra",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/toorji-ka-jhalra",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
-      },
-      {
-        "id": "rao-jodha-desert-rock-park",
-        "title": "Rao Jodha Desert Rock Park",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/rao-jodha-desert-rock-park",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
-      },
-      {
-        "id": "bishnoi-village",
-        "title": "Bishnoi Village",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/bishnoi-village",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
-      },
-      {
-        "id": "osian",
-        "title": "Osian",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/osian",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
-      },
-      {
-        "id": "october-to-march-peak-season",
-        "title": "October to March (Peak Season)",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/october-to-march-peak-season",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
-      },
-      {
-        "id": "july-to-september-monsoon-season",
-        "title": "July to September (Monsoon Season)",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/july-to-september-monsoon-season",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
-      },
-      {
-        "id": "april-to-june-summer-season",
-        "title": "April to June (Summer Season)",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/april-to-june-summer-season",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
-      },
-      {
-        "id": "jodhpur-heritage-walk",
-        "title": "Jodhpur Heritage Walk",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/jodhpur-heritage-walk",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
-      },
-      {
-        "id": "walking-tour-in-jodhpur",
-        "title": "Walking Tour in Jodhpur",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/walking-tour-in-jodhpur",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
-      },
-      {
-        "id": "food-tour-in-jodhpur",
-        "title": "Food Tour in Jodhpur",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/food-tour-in-jodhpur",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
-      },
-      {
-        "id": "jodhpur-sightseeing-tour-by-tuktuk",
-        "title": "Jodhpur Sightseeing Tour by TukTuk",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/jodhpur-sightseeing-tour-by-tuktuk",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
-      },
-      {
-        "id": "village-safari-experience",
-        "title": "Village Safari Experience",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/village-safari-experience",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
-      },
-      {
-        "id": "photography-tour",
-        "title": "Photography Tour",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/photography-tour",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
-      },
-      {
-        "id": "shopping-in-local-markets",
-        "title": "Shopping in Local Markets",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/shopping-in-local-markets",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
-      },
-      {
-        "id": "jodhpur-tour-package-2-days",
-        "title": "Jodhpur Tour Package 2 Days",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/jodhpur-tour-package-2-days",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
-      },
-      {
-        "id": "jodhpur-family-tour-package",
-        "title": "Jodhpur Family Tour Package",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/jodhpur-family-tour-package",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
-      },
-      {
-        "id": "jodhpur-holiday-package",
-        "title": "Jodhpur Holiday Package",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/jodhpur-holiday-package",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
-      },
-      {
-        "id": "jodhpur-private-tour",
-        "title": "Jodhpur Private Tour",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/jodhpur-private-tour",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
-      },
-      {
-        "id": "jodhpur-heritage-tour",
-        "title": "Jodhpur Heritage Tour",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/jodhpur-heritage-tour",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
-      },
-      {
-        "id": "jodhpur-luxury-tour",
-        "title": "Jodhpur Luxury Tour",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/jodhpur-luxury-tour",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
-      },
-      {
-        "id": "excursions-and-transfers-from-jodhpur",
-        "title": "Excursions and Transfers from Jodhpur",
-        "duration": "Enquire Now",
-        "category": "Sightseeing",
-        "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/06/jodhpur-1024x545.jpg",
-        "route": "Home – / Jodhpur Tour Packages – JAIPUR – Fort Museum – Sheesh Mahal – Phool Mahal – Cannon viewpoints – Zipline Adventure – Mirchi Bada – Makhaniya Lassi – Pyaaz Kachori – Dal Baati Churma – Handcrafted textiles – Leather goods – Silver jewelry – Traditional Rajasthani handicrafts – Jodhpur Udaipur Cab Service – Jodhpur Transfer from Jaipur – Car Hire in Jodhpur – Cab Hire in Jodhpur – Taxi Hire in Jodhpur – Private Car Hire in Jodhpur – One Way Cab Service in Jodhpur – One Way Taxi Service in Jodhpur – Same Day Pushkar Tour from Jodhpur – Same Day Osian Tour from Jodhpur – 2 Days Jaisalmer Tour from Jodhpur – 3 Days Jaisalmer Tour from Jodhpur – 4 Days Jaisalmer Jodhpur Tour – Jodhpur Jaisalmer Cab Service",
-        "link": "/tours/excursions-and-transfers-from-jodhpur",
-        "localImage": "/assets/images/day-tours/tours/jodhpur_jodhpur-1024x545_c1b0d0985d.jpg"
       }
     ],
-    "tourCount": 36,
+    "tourCount": 10,
     "localHeroImage": "/assets/images/day-tours/jodhpur-hero.jpg",
     "id": "jodhpur",
     "pageTitle": "Jodhpur Tour Packages",
