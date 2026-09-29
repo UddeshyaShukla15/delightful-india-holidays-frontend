@@ -1,0 +1,189 @@
+{
+  "hero": {
+    "title": "Same Day Tours",
+    "subtitle": "Explore India\u2019s Most Iconic Cities & Monuments in a Single Day with Private AC Chauffeur",
+    "bgImage": "/assets/images/Delhi-Sightseeing-Tour-img-1024x684.jpg"
+  },
+  "tours": [
+    {
+      "id": "agra-sightseeing-tour",
+      "title": "Agra Sightseeing Tour",
+      "duration": "Full Day (8-10 Hours)",
+      "route": "Taj Mahal \u2013 Agra Fort \u2013 Mehtab Bagh",
+      "category": "Same Day Tours",
+      "image": "/assets/images/Agra-Sightseeing-Tour-img-1024x684.jpg",
+      "link": "/agra-sightseeing-tour"
+    },
+    {
+      "id": "delhi-sightseeing-tour",
+      "title": "Delhi Sightseeing Tour",
+      "duration": "Full Day (8-10 Hours)",
+      "route": "Red Fort \u2013 Qutub Minar \u2013 India Gate \u2013 Humayun Tomb",
+      "category": "Same Day Tours",
+      "image": "/assets/images/Delhi-Sightseeing-Tour-img-1024x684.jpg",
+      "link": "/delhi-sightseeing-tour"
+    },
+    {
+      "id": "jhalana-leopard-safari-tour",
+      "title": "Jhalana Leopard Safari Tour",
+      "duration": "Half Day (3-4 Hours)",
+      "route": "Jhalana Leopard Reserve, Jaipur",
+      "category": "Same Day Tours",
+      "image": "/assets/images/Jhalana-Leopard-img-1024x684.jpg",
+      "link": "/jhalana-leopard-safari-tour"
+    },
+    {
+      "id": "pink-city-jaipur-shopping-tour",
+      "title": "Pink City Jaipur Shopping Tour",
+      "duration": "Full Day (6-8 Hours)",
+      "route": "Johari Bazaar \u2013 Bapu Bazaar \u2013 Tripolia",
+      "category": "Same Day Tours",
+      "image": "/assets/images/Pink-City-img-1024x684.jpg",
+      "link": "/pink-city-jaipur-shopping-tour"
+    },
+    {
+      "id": "pink-city-jaipur-tuktuk-tour",
+      "title": "Pink City Jaipur TukTuk Tour",
+      "duration": "Full Day (7-8 Hours)",
+      "route": "Hawa Mahal \u2013 City Palace \u2013 Amber Fort \u2013 Jal Mahal",
+      "category": "Same Day Tours",
+      "image": "/assets/images/Jaipur-TukTuk-Tour-img-1024x684.jpg",
+      "link": "/pink-city-jaipur-tuktuk-tour"
+    },
+    {
+      "id": "same-day-pushkar-tour-from-jaipur",
+      "title": "Same Day Pushkar Tour From Jaipur",
+      "duration": "Full Day (10-12 Hours)",
+      "route": "Jaipur \u2013 Ajmer Dargah \u2013 Brahma Temple \u2013 Pushkar Lake",
+      "category": "Same Day Tours",
+      "image": "/assets/images/Pushkar-Tour-img-1024x684.jpg",
+      "link": "/same-day-pushkar-tour-from-jaipur"
+    },
+    {
+      "id": "same-day-taj-mahal-by-express-train-from-delhi",
+      "title": "Same Day Taj Mahal by Express Train from Delhi",
+      "duration": "Full Day (12 Hours)",
+      "route": "Delhi (Gatimaan Express) \u2013 Taj Mahal \u2013 Agra Fort \u2013 Delhi",
+      "category": "Same Day Tours",
+      "image": "/assets/images/Jaipur-Agra-img.jpg",
+      "link": "/same-day-taj-mahal-by-express-train-from-delhi"
+    },
+    {
+      "id": "same-day-jaipur-tour-from-delhi-by-car",
+      "title": "Same Day Jaipur Tour from Delhi by Car",
+      "duration": "Full Day (14 Hours)",
+      "route": "Delhi \u2013 Amber Fort \u2013 City Palace \u2013 Hawa Mahal \u2013 Delhi",
+      "category": "Same Day Tours",
+      "image": "/assets/images/Golden-Triangle-Tour-img-1024x684.jpg",
+      "link": "/same-day-jaipur-tour-from-delhi-by-car"
+    },
+    {
+      "id": "same-day-neemrana-tour-from-delhi",
+      "title": "Same Day Neemrana Tour from Delhi",
+      "duration": "Full Day (8 Hours)",
+      "route": "Delhi \u2013 Neemrana Fort Palace \u2013 Stepwell \u2013 Delhi",
+      "category": "Same Day Tours",
+      "image": "/assets/images/Facade_Premises__Neemrana_Fort_Palace__palace_hotel_in_Rajasthan_14_4_d55b91-1024x576.avif",
+      "link": "/same-day-neemrana-tour-from-delhi"
+    },
+    {
+      "id": "same-day-sambhar-tour-from-jaipur",
+      "title": "Same Day Sambhar Tour from Jaipur",
+      "duration": "Full Day (8 Hours)",
+      "route": "Jaipur \u2013 Sambhar Salt Lake \u2013 Shakambhari Mata Temple",
+      "category": "Same Day Tours",
+      "image": "/assets/images/Pushkar-Tour-img-1024x684.jpg",
+      "link": "/same-day-sambhar-tour-from-jaipur"
+    },
+    {
+      "id": "same-day-samode-tour-from-jaipur",
+      "title": "Same Day Samode Tour from Jaipur",
+      "duration": "Full Day (6 Hours)",
+      "route": "Jaipur \u2013 Samode Palace & Haveli \u2013 Samode Village",
+      "category": "Same Day Tours",
+      "image": "/assets/images/royal-palaces-of-rajasthan.jpg",
+      "link": "/same-day-samode-tour-from-jaipur"
+    },
+    {
+      "id": "same-day-sariska-tour-from-jaipur",
+      "title": "Same Day Sariska Tour from Jaipur",
+      "duration": "Full Day (9 Hours)",
+      "route": "Jaipur \u2013 Sariska Tiger Reserve \u2013 Siliserh Lake",
+      "category": "Same Day Tours",
+      "image": "/assets/images/sariska-tiger-reserve-img-1024x684.png",
+      "link": "/same-day-sariska-tour-from-jaipur"
+    },
+    {
+      "id": "same-day-abhaneri-bhangarh-tour-from-jaipur",
+      "title": "Same Day Abhaneri & Bhangarh Tour from Jaipur",
+      "duration": "Full Day (9 Hours)",
+      "route": "Jaipur \u2013 Chand Baori Stepwell \u2013 Bhangarh Haunted Fort",
+      "category": "Same Day Tours",
+      "image": "/assets/images/Jaipur-Travel-Shopping-Restaurants-1024x576.webp",
+      "link": "/same-day-abhaneri-bhangarh-tour-from-jaipur"
+    },
+    {
+      "id": "same-day-bundi-tour-from-jaipur",
+      "title": "Same Day Bundi Tour from Jaipur",
+      "duration": "Full Day (10 Hours)",
+      "route": "Jaipur \u2013 Taragarh Fort \u2013 Bundi Palace \u2013 Stepwells",
+      "category": "Same Day Tours",
+      "image": "/assets/images/Mewar-Tour-img-1024x684.jpg",
+      "link": "/same-day-bundi-tour-from-jaipur"
+    },
+    {
+      "id": "same-day-osian-desert-tour-from-jodhpur",
+      "title": "Same Day Osian Desert Tour from Jodhpur",
+      "duration": "Half Day (5 Hours)",
+      "route": "Jodhpur \u2013 Osian Sun Temple \u2013 Camel Safari at Dunes",
+      "category": "Same Day Tours",
+      "image": "/assets/images/Romantic-Jaisalmer1-1024x683.jpeg",
+      "link": "/same-day-osian-desert-tour-from-jodhpur"
+    },
+    {
+      "id": "same-day-bishnoi-village-safari-from-jodhpur",
+      "title": "Same Day Bishnoi Village Safari from Jodhpur",
+      "duration": "Half Day (4 Hours)",
+      "route": "Jodhpur \u2013 Guda Bishnoi Lake \u2013 Pottery Village \u2013 Wildlife",
+      "category": "Same Day Tours",
+      "image": "/assets/images/Rajasthan-Wildlife-Tour-img-1024x684.jpg",
+      "link": "/same-day-bishnoi-village-safari-from-jodhpur"
+    },
+    {
+      "id": "same-day-ranakpur-kumbhalgarh-tour-from-udaipur",
+      "title": "Same Day Ranakpur & Kumbhalgarh Tour from Udaipur",
+      "duration": "Full Day (9 Hours)",
+      "route": "Udaipur \u2013 Ranakpur Jain Temple \u2013 Kumbhalgarh Fort",
+      "category": "Same Day Tours",
+      "image": "/assets/images/Udaipur-Tour-img-1024x684.jpg",
+      "link": "/same-day-ranakpur-kumbhalgarh-tour-from-udaipur"
+    },
+    {
+      "id": "same-day-chittorgarh-fort-tour-from-udaipur",
+      "title": "Same Day Chittorgarh Fort Tour from Udaipur",
+      "duration": "Full Day (8 Hours)",
+      "route": "Udaipur \u2013 Chittorgarh Fort \u2013 Vijay Stambh \u2013 Padmini Palace",
+      "category": "Same Day Tours",
+      "image": "/assets/images/Mewar-Tour-img-1024x684.jpg",
+      "link": "/same-day-chittorgarh-fort-tour-from-udaipur"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is included in a Same Day Tour package?",
+      "a": "Every Same Day Tour includes a private air-conditioned vehicle with fuel, all toll taxes, interstate permits, parking fees, and a courteous, English-speaking chauffeur with hotel pick-up and drop-off."
+    },
+    {
+      "q": "Can Same Day Tours start from any hotel or airport?",
+      "a": "Yes, our driver will pick you up directly from your hotel, residence, railway station, or airport at your requested departure time."
+    },
+    {
+      "q": "Are entrance monuments tickets and guide included?",
+      "a": "You can choose packages with government-approved monument guides and skip-the-line ticket arrangements upon request."
+    },
+    {
+      "q": "How do I book a private same day sightseeing trip?",
+      "a": "You can book instantly by selecting your tour and clicking Enquire Now or reaching our 24x7 WhatsApp support at +91 96367 84713."
+    }
+  ]
+}

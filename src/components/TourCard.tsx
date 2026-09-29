@@ -16,7 +16,7 @@ export default function TourCard({ tour, onEnquire }: TourCardProps) {
     <div className="group flex flex-col overflow-hidden rounded-2xl bg-white border border-gray-200/80 shadow-md hover:shadow-2xl transition-all duration-300 hover:-translate-y-1">
       {/* Tour Image with Hover Zoom */}
       <div className="relative aspect-[16/10] w-full overflow-hidden bg-gray-100">
-        <Link href={`/tours/${tour.id}`} className="block h-full w-full">
+          <Link href={`/${tour.id}`} className="block h-full w-full">
           <Image
             src={tour.image}
             alt={tour.title}
@@ -53,7 +53,7 @@ export default function TourCard({ tour, onEnquire }: TourCardProps) {
 
         {/* Title */}
         <h3 className="text-lg font-bold text-[#192a3d] group-hover:text-[#c9a766] transition-colors line-clamp-1 mb-2">
-          <Link href={`/tours/${tour.id}`}>{tour.title}</Link>
+          <Link href={`/${tour.id}`}>{tour.title}</Link>
         </h3>
 
         {/* Route / Destination */}
@@ -77,7 +77,7 @@ export default function TourCard({ tour, onEnquire }: TourCardProps) {
           </button>
 
           <Link
-            href={`/tours/${tour.id}`}
+            href={`/${tour.id}`}
             className="flex items-center justify-center gap-1.5 rounded-xl bg-[#192a3d] py-2.5 px-3 text-xs font-bold uppercase tracking-wider text-white hover:bg-[#c9a766] transition-all text-center shadow-sm"
           >
             <span>View Details</span>

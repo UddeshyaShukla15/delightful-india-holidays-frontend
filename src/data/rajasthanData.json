@@ -13,7 +13,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/amer-fort-jaipur-1.jpg",
       "localImage": "/assets/images/rajasthan/raj-1-rajputana-retreat.jpg",
       "route": "Delhi – Agra – Jaipur – Jodhpur – Udaipur – Pushkar - Delhi",
-      "link": "/tours/rajputana-retreat"
+      "link": "/rajputana-retreat"
     },
     {
       "id": "7-days-mewar-tour",
@@ -23,7 +23,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Mewar-Festival-Lake-Pichola.jpg",
       "localImage": "/assets/images/rajasthan/raj-2-7-days-mewar-tour.jpg",
       "route": "Jaipur – Chittorgarh – Udaipur – Mount Abu - Udaipur",
-      "link": "/tours/7-days-mewar-tour"
+      "link": "/7-days-mewar-tour"
     },
     {
       "id": "3-days-udaipur-tour",
@@ -33,7 +33,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Pichola-Lake-Udaipur-Rajasthan.jpeg",
       "localImage": "/assets/images/rajasthan/raj-3-3-days-udaipur-tour.jpeg",
       "route": "Udaipur",
-      "link": "/tours/3-days-udaipur-tour"
+      "link": "/3-days-udaipur-tour"
     },
     {
       "id": "forts-palaces-tour",
@@ -43,7 +43,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/07/Evening_view_City_Palace_Udaipur-1-1024x683.jpg",
       "localImage": "/assets/images/rajasthan/raj-4-forts-palaces-tour.jpg",
       "route": "Delhi – Mandawa – Bikaner – Jaisalmer – Sam Sand Dunes - Jodhpur – Ranakpur – Udaipur – Pushkar – Jaipur – Abhaneri – Fatehpur Sikri – Agra - Delhi",
-      "link": "/tours/forts-palaces-tour"
+      "link": "/forts-palaces-tour"
     },
     {
       "id": "rajasthan-royal-tour",
@@ -53,7 +53,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/ghanerao-royal-castle-hotel-ranakpur-pic-29-1024x606.jpeg",
       "localImage": "/assets/images/rajasthan/raj-5-rajasthan-royal-tour.jpeg",
       "route": "Delhi – Mandawa – Bikaner – Jaisalmer – Sam Sand Dunes - Jodhpur – Udaipur – Bundi – Pushkar – Jaipur – Ranthambhore – Agra - Delhi",
-      "link": "/tours/rajasthan-royal-tour"
+      "link": "/rajasthan-royal-tour"
     },
     {
       "id": "7-days-rajasthan-tour",
@@ -63,7 +63,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/Royal-Palaces-of-Rajasthan-img-1024x684.jpg",
       "localImage": "/assets/images/rajasthan/raj-6-7-days-rajasthan-tour.jpg",
       "route": "Jaipur – Pushkar – Jodhpur – Mount Abu - Udaipur",
-      "link": "/tours/7-days-rajasthan-tour"
+      "link": "/7-days-rajasthan-tour"
     },
     {
       "id": "royal-journey-of-india",
@@ -73,7 +73,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/chittorgarh-fort-india-1024x640.jpg",
       "localImage": "/assets/images/rajasthan/raj-7-royal-journey-of-india.jpg",
       "route": "Delhi – Agra – Jaipur – Pushkar – Ranthambhore – Kota – Bundi – Chittorgarh – Udaipur – Kumbhalgarh – Jodhpur – Jaisalmer – Bikaner – Mandawa - Delhi",
-      "link": "/tours/royal-journey-of-india"
+      "link": "/royal-journey-of-india"
     },
     {
       "id": "rajasthan-tribal-tour",
@@ -83,7 +83,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/junagarh-fort-bikaner-rajasthan.webp",
       "localImage": "/assets/images/rajasthan/raj-8-rajasthan-tribal-tour.webp",
       "route": "Delhi – Samode – Nawalgarh – Khimsar – Jaisalmer – Pokhran – Jodhpur – Rohet – Ranakpur – Devigarh – Udaipur – Dungarpur – Bijapur – Kota – Bundi – Jaipur – Bhanarej – Karauli – Bharatpur - Delhi",
-      "link": "/tours/rajasthan-tribal-tour"
+      "link": "/rajasthan-tribal-tour"
     },
     {
       "id": "rajasthan-desert-tour",
@@ -93,7 +93,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/jaisalmer-2-day-thar-desert-experience-1268861-1024x683.webp",
       "localImage": "/assets/images/rajasthan/raj-9-rajasthan-desert-tour.webp",
       "route": "Delhi – Mandawa – Bikaner – Jaisalmer – Bada Bagh – Baishakhi – Roopsi – Ludrawa – Jaisalmer – Amar Sagar – Moolsagar – Kuldhara – Sam Sand Dunes – Kanoi – Jaisalmer – Osian – Jodhpur – Jaipur – Delhi",
-      "link": "/tours/rajasthan-desert-tour"
+      "link": "/rajasthan-desert-tour"
     },
     {
       "id": "maharaja-retreat-tour",
@@ -103,7 +103,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Hawa_Mahal.jpg",
       "localImage": "/assets/images/rajasthan/raj-10-maharaja-retreat-tour.jpg",
       "route": "Delhi – Agra – Jaipur – Samode – Mandawa - Delhi",
-      "link": "/tours/maharaja-retreat-tour"
+      "link": "/maharaja-retreat-tour"
     },
     {
       "id": "exotic-rajasthan-tour",
@@ -113,7 +113,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/Exotic-Rajasthan-Tour-img-1024x684.jpg",
       "localImage": "/assets/images/rajasthan/raj-11-exotic-rajasthan-tour.jpg",
       "route": "Delhi – Agra – Jaipur – Pushkar – Deogarh – Udaipur – Mount Abu – Jodhpur – Jaisalmer – Sam Sand Dunes - Bikaner – Mandawa - Delhi",
-      "link": "/tours/exotic-rajasthan-tour"
+      "link": "/exotic-rajasthan-tour"
     },
     {
       "id": "rajasthan-wildlife-tour",
@@ -123,7 +123,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/Rajasthan-Wildlife-Tour-img-1024x684.jpg",
       "localImage": "/assets/images/rajasthan/raj-12-rajasthan-wildlife-tour.jpg",
       "route": "Delhi – Sariska – Jaipur – Ranthambhore – Bharatpur - Agra - Delhi",
-      "link": "/tours/rajasthan-wildlife-tour"
+      "link": "/rajasthan-wildlife-tour"
     },
     {
       "id": "rajasthan-heritage-tour",
@@ -133,7 +133,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/3e9732f7-c5cf-40a3-b892-d61f00fc4d85_cultural-heritage-trails-of-jaisalmer-2-hours-guided-walking-tour-xlarge-1024x683.jpg",
       "localImage": "/assets/images/rajasthan/raj-13-rajasthan-heritage-tour.jpg",
       "route": "Delhi – Samode – Mandawa – Bikaner – Jaisalmer – Sam Sand Dunes - Rohet – Jodhpur – Kumbhalgarh – Udaipur – Bassi – Pachewar – Jaipur – Agra - Delhi",
-      "link": "/tours/rajasthan-heritage-tour"
+      "link": "/rajasthan-heritage-tour"
     },
     {
       "id": "offbeat-rajasthan-tour",
@@ -143,7 +143,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/07/road-trips-in-Rajasthan-1-1024x683.jpg",
       "localImage": "/assets/images/rajasthan/raj-14-offbeat-rajasthan-tour.jpg",
       "route": "Delhi – Neemrana – Mandawa – Bikaner – Deshnok – Khimsar – Jaisalmer – Sam Sand Dunes - Jodhpur – Ranakpur – Udaipur – Dungarpur – Chittorgarh – Bijapur – Roopangarh – Jaipur – Abhaneri – Fatehpur Sikri – Agra – Delhi",
-      "link": "/tours/offbeat-rajasthan-tour"
+      "link": "/offbeat-rajasthan-tour"
     },
     {
       "id": "jewels-of-rajasthan-tour",
@@ -153,7 +153,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Jodhpur-beautiful-places-in-Rajasthan.webp",
       "localImage": "/assets/images/rajasthan/raj-15-jewels-of-rajasthan-tour.webp",
       "route": "Jaipur – Jodhpur - Udaipur",
-      "link": "/tours/jewels-of-rajasthan-tour"
+      "link": "/jewels-of-rajasthan-tour"
     },
     {
       "id": "colourful-rajasthan-tour",
@@ -163,7 +163,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Pichola-Lake-Udaipur-Rajasthan.jpeg",
       "localImage": "/assets/images/rajasthan/raj-16-colourful-rajasthan-tour.jpeg",
       "route": "Delhi – Agra – Fatehpur Sikri – Jaipur – Jodhpur – Ranakpur – Udaipur – Pushkar - Delhi",
-      "link": "/tours/colourful-rajasthan-tour"
+      "link": "/colourful-rajasthan-tour"
     },
     {
       "id": "castle-tour-of-rajasthan",
@@ -173,7 +173,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/06/rajasthan-guide-1.jpg",
       "localImage": "/assets/images/rajasthan/raj-17-castle-tour-of-rajasthan.jpg",
       "route": "Delhi – Samode – Mandawa – Bikaner – Jaisalmer – Sam Sand Dunes - Rohet – Jodhpur – Kumbhalgarh – Udaipur – Bijapur – Pushkar – Jaipur – Agra - Delhi",
-      "link": "/tours/castle-tour-of-rajasthan"
+      "link": "/castle-tour-of-rajasthan"
     },
     {
       "id": "rajasthan-with-beach-tour",
@@ -183,7 +183,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/204-rajasthan-india-1024x576.jpg",
       "localImage": "/assets/images/rajasthan/raj-18-rajasthan-with-beach-tour.jpg",
       "route": "Delhi – Agra – Jaipur – Ranthambhore – Udaipur – Goa - Mumbai",
-      "link": "/tours/rajasthan-with-beach-tour"
+      "link": "/rajasthan-with-beach-tour"
     },
     {
       "id": "sejour-de-grand-luxe-tour",
@@ -193,7 +193,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/07/21_04_2023-rajsthan_23391753-1024x576-1.webp",
       "localImage": "/assets/images/rajasthan/raj-19-sejour-de-grand-luxe-tour.webp",
       "route": "Delhi – Agra – Ranthambhore – Jaipur – Udaipur - Mumbai",
-      "link": "/tours/sejour-de-grand-luxe-tour"
+      "link": "/sejour-de-grand-luxe-tour"
     },
     {
       "id": "royal-palaces-of-rajasthan",
@@ -203,7 +203,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/Colourful-Rajasthan-Tour-img-1024x684.jpg",
       "localImage": "/assets/images/rajasthan/raj-20-royal-palaces-of-rajasthan.jpg",
       "route": "Jaipur – Agra - Delhi – Delhi – Agra – Jaipur – Samode – Mandawa – Khimsar – Jaisalmer – Jodhpur – Udaipur – Pushkar - Delhi",
-      "link": "/tours/royal-palaces-of-rajasthan"
+      "link": "/royal-palaces-of-rajasthan"
     },
     {
       "id": "14-days-rajasthan-offbeat-tour",
@@ -213,7 +213,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/06/rajs-1024x398.jpg",
       "localImage": "/assets/images/rajasthan/raj-21-14-days-rajasthan-offbeat-tour.jpg",
       "route": "Delhi – Mandawa – Khimsar – Nimaj – Ranakpur – Dungarpur – Chittorgarg – Bundi – Ranthambhore – Tehla - Delhi",
-      "link": "/tours/14-days-rajasthan-offbeat-tour"
+      "link": "/14-days-rajasthan-offbeat-tour"
     },
     {
       "id": "17-days-offbeat-rajasthan-tour",
@@ -223,7 +223,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/06/D6XD6R-de4f549.jpg",
       "localImage": "/assets/images/rajasthan/raj-22-17-days-offbeat-rajasthan-tour.jpg",
       "route": "Delhi – Pushkar – Jojawar – Udaipur – Jodhpur – Osian – Jaisalmer – Sam Sand Dunes – Bikaner – Mandawa – Jaipur - Delhi",
-      "link": "/tours/17-days-offbeat-rajasthan-tour"
+      "link": "/17-days-offbeat-rajasthan-tour"
     },
     {
       "id": "rajput-rajasthan-heritage-tour",
@@ -233,7 +233,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/3e9732f7-c5cf-40a3-b892-d61f00fc4d85_cultural-heritage-trails-of-jaisalmer-2-hours-guided-walking-tour-xlarge-1024x683.jpg",
       "localImage": "/assets/images/rajasthan/raj-23-rajput-rajasthan-heritage-tour.jpg",
       "route": "Delhi – Samode – Mandawa – Bikaner – Jaisalmer – Jodhpur – Ganerao – Ranakpur – Udaipur – Deogarh – Jaipur – Kanota – Agra - Delhi",
-      "link": "/tours/rajput-rajasthan-heritage-tour"
+      "link": "/rajput-rajasthan-heritage-tour"
     },
     {
       "id": "6-days-magnificent-rajasthan-tour",
@@ -243,7 +243,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2025/09/image-62.png",
       "localImage": "/assets/images/rajasthan/raj-24-6-days-magnificent-rajasthan-tour.png",
       "route": "Jodhpur – Jaisalmer – Bikaner - Jaipur",
-      "link": "/tours/6-days-magnificent-rajasthan-tour"
+      "link": "/6-days-magnificent-rajasthan-tour"
     },
     {
       "id": "rajasthan-heritage-culture-tour",
@@ -253,7 +253,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/07/Rajasthan-1.webp",
       "localImage": "/assets/images/rajasthan/raj-25-rajasthan-heritage-culture-tour.webp",
       "route": "Delhi – Mandawa – Bikaner – Jaisalmer – Sam Sand Dunes - Jodhpur – Udaipur – Pushkar – Jaipur – Agra - Delhi",
-      "link": "/tours/rajasthan-heritage-culture-tour"
+      "link": "/rajasthan-heritage-culture-tour"
     },
     {
       "id": "archaeological-tour-of-rajasthan",
@@ -263,7 +263,7 @@
       "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Jaipur-Travel-Shopping-Restaurants-1024x576.webp",
       "localImage": "/assets/images/rajasthan/raj-26-archaeological-tour-of-rajasthan.webp",
       "route": "Delhi – Jaipur – Samode – Nawalgarh – Bikaner – Gajner – Jaisalmer – Sam Sand Dunes - Osian – Khimsar – Manwar – Rohet – Jodhpur – Mount Abu – Udaipur – Dungarpur – Deogarh – Ajmer – Pushkar – Pachewar – Ranthambhore – Agra - Delhi",
-      "link": "/tours/archaeological-tour-of-rajasthan"
+      "link": "/archaeological-tour-of-rajasthan"
     }
   ],
   "faqs": [

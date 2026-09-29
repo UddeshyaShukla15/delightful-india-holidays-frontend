@@ -1,0 +1,172 @@
+{
+  "hero": {
+    "title": "Wildlife Tours",
+    "subtitle": "Explore India\u2019s Untamed Wilderness, Royal Bengal Tiger Safaris & World-Class National Parks",
+    "bgImage": "/assets/images/sariska-tiger-reserve-img-1024x684.png"
+  },
+  "tours": [
+    {
+      "id": "short-escape-of-corbett",
+      "title": "SHORT ESCAPE OF CORBETT",
+      "duration": "3 Days / 2 Nights",
+      "route": "Delhi \u2013 Jim Corbett National Park \u2013 Delhi",
+      "category": "Wildlife Tours",
+      "image": "/assets/images/nainital-corbett-mussoorie-image.gif",
+      "link": "/short-escape-of-corbett"
+    },
+    {
+      "id": "short-escape-of-periyar",
+      "title": "SHORT ESCAPE OF PERIYAR",
+      "duration": "3 Days / 2 Nights",
+      "route": "Cochin \u2013 Periyar National Park \u2013 Cochin",
+      "category": "Wildlife Tours",
+      "image": "/assets/images/periyar-1024x768.webp",
+      "link": "/short-escape-of-periyar"
+    },
+    {
+      "id": "corbett-wildlife-tour",
+      "title": "CORBETT WILDLIFE TOUR",
+      "duration": "4 Days / 3 Nights",
+      "route": "Jim Corbett Tiger Reserve & Dhikala Safari",
+      "category": "Wildlife Tours",
+      "image": "/assets/images/corbett-wildLife-tour-1024x684.png",
+      "link": "/corbett-wildlife-tour"
+    },
+    {
+      "id": "bird-paradise-with-taj",
+      "title": "BIRD PARADISE WITH TAJ",
+      "duration": "4 Days / 3 Nights",
+      "route": "Delhi \u2013 Agra (Taj Mahal) \u2013 Bharatpur Bird Sanctuary",
+      "category": "Wildlife Tours",
+      "image": "/assets/images/Mosque-Frame-Taj-Mahal-819x1024-1.jpg",
+      "link": "/bird-paradise-with-taj"
+    },
+    {
+      "id": "bird-paradise-tour",
+      "title": "BIRD PARADISE TOUR",
+      "duration": "6 Days / 5 Nights",
+      "route": "Delhi \u2013 Bharatpur (Keoladeo) \u2013 Chambal Sanctuary",
+      "category": "Wildlife Tours",
+      "image": "/assets/images/image-16.png",
+      "link": "/bird-paradise-tour"
+    },
+    {
+      "id": "wildlife-in-gujrat",
+      "title": "WILDLIFE IN GUJRAT",
+      "duration": "6 Days / 5 Nights",
+      "route": "Ahmedabad \u2013 Gir National Park \u2013 Velavadar \u2013 Little Rann of Kutch",
+      "category": "Wildlife Tours",
+      "image": "/assets/images/Wildlife-of-South-India-1024x684.png",
+      "link": "/wildlife-in-gujrat"
+    },
+    {
+      "id": "ranthambore-corbett-wildlife-tour",
+      "title": "Ranthambore & Corbett Wildlife Tour",
+      "duration": "7 Days / 6 Nights",
+      "route": "Delhi \u2013 Ranthambore Tiger Reserve \u2013 Jim Corbett \u2013 Delhi",
+      "category": "Wildlife Tours",
+      "image": "/assets/images/jaipur-ranthambore-weekend-tou1.jpg",
+      "link": "/ranthambore-corbett-wildlife-tour"
+    },
+    {
+      "id": "tiger-tour-with-mumbai",
+      "title": "TIGER TOUR WITH MUMBAI",
+      "duration": "8 Days / 7 Nights",
+      "route": "Mumbai \u2013 Tadoba Andhari Tiger Reserve \u2013 Pench \u2013 Mumbai",
+      "category": "Wildlife Tours",
+      "image": "/assets/images/Sariska-Tiger-Reserve-1280x720-1-1024x576.png",
+      "link": "/tiger-tour-with-mumbai"
+    },
+    {
+      "id": "north-east-india-wildlife-tour",
+      "title": "NORTH EAST INDIA WILDLIFE TOUR",
+      "duration": "8 Days / 7 Nights",
+      "route": "Guwahati \u2013 Kaziranga National Park (Rhino Safari) \u2013 Manas",
+      "category": "Wildlife Tours",
+      "image": "/assets/images/Rajasthan-Wildlife-Tour-img-1024x684.jpg",
+      "link": "/north-east-india-wildlife-tour"
+    },
+    {
+      "id": "rajasthan-wildlife-tour",
+      "title": "RAJASTHAN WILDLIFE TOUR",
+      "duration": "7 Days / 6 Nights",
+      "route": "Jaipur \u2013 Sariska \u2013 Ranthambore Tiger Safari \u2013 Bharatpur",
+      "category": "Wildlife Tours",
+      "image": "/assets/images/sariska-tiger-reserve-img-1024x684.png",
+      "link": "/rajasthan-wildlife-tour"
+    },
+    {
+      "id": "land-of-the-tiger-tour",
+      "title": "LAND OF THE TIGER TOUR",
+      "duration": "9 Days / 8 Nights",
+      "route": "Delhi \u2013 Bandhavgarh \u2013 Kanha National Park \u2013 Jabalpur",
+      "category": "Wildlife Tours",
+      "image": "/assets/images/sariska-tiger-reserve-img-1024x684.png",
+      "link": "/land-of-the-tiger-tour"
+    },
+    {
+      "id": "east-india-wildlife-tour",
+      "title": "EAST INDIA WILDLIFE TOUR",
+      "duration": "7 Days / 6 Nights",
+      "route": "Kolkata \u2013 Sundarbans Mangrove Safari \u2013 Kaziranga",
+      "category": "Wildlife Tours",
+      "image": "/assets/images/image-46-1024x512.png",
+      "link": "/east-india-wildlife-tour"
+    },
+    {
+      "id": "himachal-bird-watching-tour",
+      "title": "HIMACHAL BIRD WATCHING TOUR",
+      "duration": "7 Days / 6 Nights",
+      "route": "Chandigarh \u2013 Great Himalayan National Park \u2013 Tirthan Valley",
+      "category": "Wildlife Tours",
+      "image": "/assets/images/image-17.png",
+      "link": "/himachal-bird-watching-tour"
+    },
+    {
+      "id": "treasures-of-indian-wildlife",
+      "title": "TREASURES OF INDIAN WILDLIFE",
+      "duration": "10 Days / 9 Nights",
+      "route": "Delhi \u2013 Ranthambore \u2013 Bharatpur \u2013 Corbett \u2013 Delhi",
+      "category": "Wildlife Tours",
+      "image": "/assets/images/682340a10a78c-girnationalpark-3-1-1024x538.jpg",
+      "link": "/treasures-of-indian-wildlife"
+    },
+    {
+      "id": "wildlife-of-incredible-india-with-tiger",
+      "title": "Wildlife of Incredible India with Tiger",
+      "duration": "12 Days / 11 Nights",
+      "route": "Delhi \u2013 Khajuraho \u2013 Bandhavgarh \u2013 Kanha \u2013 Pench \u2013 Delhi",
+      "category": "Wildlife Tours",
+      "image": "/assets/images/image-1024x640.png",
+      "link": "/wildlife-of-incredible-india-with-tiger"
+    },
+    {
+      "id": "wildlife-of-south-india",
+      "title": "WILDLIFE OF SOUTH INDIA",
+      "duration": "10 Days / 9 Nights",
+      "route": "Bangalore \u2013 Kabini \u2013 Nagarhole \u2013 Bandipur \u2013 Periyar",
+      "category": "Wildlife Tours",
+      "image": "/assets/images/Wildlife-of-South-India-1024x684.png",
+      "link": "/wildlife-of-south-india"
+    },
+    {
+      "id": "lure-of-the-jungle-tour",
+      "title": "LURE OF THE JUNGLE TOUR",
+      "duration": "8 Days / 7 Nights",
+      "route": "Delhi \u2013 Corbett \u2013 Nainital \u2013 Ranikhet Wildlife Trails",
+      "category": "Wildlife Tours",
+      "image": "/assets/images/Feature-How-to-Plan-a-Trip-to-Corbett-1024x577.jpg",
+      "link": "/lure-of-the-jungle-tour"
+    },
+    {
+      "id": "central-india-wildlife-tour",
+      "title": "CENTRAL INDIA WILDLIFE TOUR",
+      "duration": "9 Days / 8 Nights",
+      "route": "Jabalpur \u2013 Bandhavgarh \u2013 Kanha \u2013 Pench Safari \u2013 Nagpur",
+      "category": "Wildlife Tours",
+      "image": "/assets/images/image-20.png",
+      "link": "/central-india-wildlife-tour"
+    }
+  ],
+  "faqs": []
+}

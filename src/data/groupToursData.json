@@ -1,0 +1,117 @@
+{
+  "hero": {
+    "title": "Group Tour Packages",
+    "subtitle": "Explore India Together With Curated Group Itineraries, Luxury Coaches & Dedicated Tour Managers",
+    "bgImage": "/assets/images/Golden-Triangle-Group-Tour-img-1024x684.png"
+  },
+  "tours": [
+    {
+      "id": "3-days-delhi-agra-group-tour",
+      "title": "3 DAYS DELHI-AGRA GROUP TOUR",
+      "duration": "3 Days",
+      "route": "Delhi & Agra",
+      "category": "Group Tour Packages",
+      "image": "/assets/images/5-day-tour-of-delhi-agra-gwalior-ochhaa-and-khajuraho-2828911-1024x683.webp",
+      "link": "/3-days-delhi-agra-group-tour"
+    },
+    {
+      "id": "golden-triangle-group-tour",
+      "title": "GOLDEN TRIANGLE GROUP TOUR",
+      "duration": "7 Days",
+      "route": "Delhi \u2013 Agra \u2013 Jaipur",
+      "category": "Group Tour Packages",
+      "image": "/assets/images/Agra-Jaipur-Tour-img-1024x684.jpg",
+      "link": "/golden-triangle-group-tour"
+    },
+    {
+      "id": "golden-triangle-with-udaipur-group-tour",
+      "title": "GOLDEN TRIANGLE WITH UDAIPUR GROUP TOUR",
+      "duration": "8 Days",
+      "route": "Delhi \u2013 Agra \u2013 Jaipur \u2013 Udaipur",
+      "category": "Group Tour Packages",
+      "image": "/assets/images/Pichola-Lake-Udaipur-Rajasthan.jpeg",
+      "link": "/golden-triangle-with-udaipur-group-tour"
+    },
+    {
+      "id": "best-of-kerala-group-tour",
+      "title": "BEST OF KERALA GROUP TOUR",
+      "duration": "8 Days",
+      "route": "Cochin \u2013 Munnar \u2013 Thekkady \u2013 Alleppey \u2013 Kovalam",
+      "category": "Group Tour Packages",
+      "image": "/assets/images/kerala-group-tour-img-1024x684.png",
+      "link": "/best-of-kerala-group-tour"
+    },
+    {
+      "id": "jewels-of-rajasthan-group-tour",
+      "title": "JEWELS OF RAJASTHAN GROUP TOUR",
+      "duration": "9 Days",
+      "route": "Jaipur \u2013 Udaipur \u2013 Jodhpur \u2013 Jaisalmer",
+      "category": "Group Tour Packages",
+      "image": "/assets/images/cmzr2zkmd8u5ud2g3i4474wifmcb_1510321235_Jaisalmer-1030x666-1-1024x662.avif",
+      "link": "/jewels-of-rajasthan-group-tour"
+    },
+    {
+      "id": "exotic-kerala-group-tour",
+      "title": "EXOTIC KERALA GROUP TOUR",
+      "duration": "9 Days",
+      "route": "Cochin \u2013 Munnar \u2013 Periyar \u2013 Alleppey \u2013 Kovalam \u2013 Trivandrum",
+      "category": "Group Tour Packages",
+      "image": "/assets/images/kerala-honeymoon-1024x533.jpg",
+      "link": "/exotic-kerala-group-tour"
+    },
+    {
+      "id": "wonders-of-ladakh-group-tour",
+      "title": "WONDERS OF LADAKH GROUP TOUR",
+      "duration": "11 Days",
+      "route": "Srinagar \u2013 Kargil \u2013 Leh \u2013 Nubra Valley \u2013 Pangong Lake \u2013 Manali",
+      "category": "Group Tour Packages",
+      "image": "/assets/images/Leh-Ladakh-Tour-Package-from-Srinagar.webp",
+      "link": "/wonders-of-ladakh-group-tour"
+    },
+    {
+      "id": "best-of-north-india-group-tour",
+      "title": "BEST OF NORTH INDIA GROUP TOUR",
+      "duration": "12 Days",
+      "route": "Delhi \u2013 Shimla \u2013 Manali \u2013 Dharamshala \u2013 Dalhousie \u2013 Amritsar",
+      "category": "Group Tour Packages",
+      "image": "/assets/images/650e2-delhi-1.webp",
+      "link": "/best-of-north-india-group-tour"
+    },
+    {
+      "id": "royal-rajasthan-group-tour",
+      "title": "ROYAL RAJASTHAN GROUP TOUR",
+      "duration": "13 Days",
+      "route": "Delhi \u2013 Mandawa \u2013 Bikaner \u2013 Jaisalmer \u2013 Jodhpur \u2013 Udaipur \u2013 Jaipur \u2013 Agra",
+      "category": "Group Tour Packages",
+      "image": "/assets/images/MANDAWA.jpg",
+      "link": "/royal-rajasthan-group-tour"
+    },
+    {
+      "id": "blissful-south-india-group-tour",
+      "title": "BLISSFUL SOUTH INDIA GROUP TOUR",
+      "duration": "13 Days",
+      "route": "Bangalore \u2013 Mysore \u2013 Coorg \u2013 Chikmaglur \u2013 Hampi \u2013 Goa",
+      "category": "Group Tour Packages",
+      "image": "/assets/images/Goa-Honeymoon-Tour-img-1024x684.jpg",
+      "link": "/blissful-south-india-group-tour"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the group size for Delightful India Holidays group tours?",
+      "a": "Our group tours typically accommodate small to medium groups ranging from 6 to 18 travelers to ensure personalized attention, comfort, and flexibility."
+    },
+    {
+      "q": "Are transportation and AC coach included in group tour packages?",
+      "a": "Yes, all intercity transfers and sightseeing are operated in modern, climate-controlled luxury coaches (Tempo Traveller or Volvo Coach) with experienced drivers and onboard amenities."
+    },
+    {
+      "q": "Are group tours suitable for families and senior citizens?",
+      "a": "Absolutely! Our group itineraries are thoughtfully paced with comfortable hotel stays, accessible sightseeing, and dedicated tour coordinators to assist every member."
+    },
+    {
+      "q": "Can we customize a private group tour for corporate or family groups?",
+      "a": "Yes, we specialize in bespoke private group tours for extended families, corporate retreats, and alumni groups with customized vehicles and itineraries."
+    }
+  ]
+}

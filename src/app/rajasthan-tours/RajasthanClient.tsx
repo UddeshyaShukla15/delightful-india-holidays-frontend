@@ -49,7 +49,7 @@ export default function RajasthanClient() {
       >
         {/* Tour Image with Duration & Rating */}
         <div className="relative aspect-[16/10] w-full overflow-hidden bg-gray-100">
-          <Link href={`/tours/${tour.id}`} className="block h-full w-full">
+          <Link href={`/${tour.id}`} className="block h-full w-full">
             <Image
               src={tourImg}
               alt={tour.title}
@@ -79,7 +79,7 @@ export default function RajasthanClient() {
         {/* Card Content */}
         <div className="flex flex-1 flex-col p-5">
           <h3 className="font-serif text-xl font-bold text-gray-900 leading-snug line-clamp-2 mb-3 group-hover:text-[#E78031] transition-colors">
-            <Link href={`/tours/${tour.id}`}>{tour.title}</Link>
+            <Link href={`/${tour.id}`}>{tour.title}</Link>
           </h3>
 
           {/* Route with Green Marker */}
@@ -93,7 +93,7 @@ export default function RajasthanClient() {
           {/* Action Button: View Details */}
           <div className="mt-auto pt-3 border-t border-gray-100">
             <Link
-              href={`/tours/${tour.id}`}
+              href={`/${tour.id}`}
               className="w-full inline-flex items-center justify-center gap-2 bg-[#E78031] hover:bg-[#d46d20] text-white text-sm sm:text-base font-medium py-2.5 px-4 rounded-[20px] transition-all shadow-sm hover:shadow"
             >
               <span>View Details</span>

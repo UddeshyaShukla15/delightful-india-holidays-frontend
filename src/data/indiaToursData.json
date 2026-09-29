@@ -67,7 +67,7 @@
           "route": "Ujjain",
           "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/06/Maha-Kumbh-Mela-1024x768.jpg",
           "localImage": "/assets/images/india-tours/maha-kumbh-mela-ujjain.jpg",
-          "link": "/tours/maha-kumbh-mela-ujjain"
+          "link": "/maha-kumbh-mela-ujjain"
         },
         {
           "id": "orchha-khajuraho-tour",
@@ -76,7 +76,7 @@
           "route": "Jhansi - Orchha – Khajuraho",
           "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/Taj-Mahal-With-Khajuraho-img-1024x684.jpg",
           "localImage": "/assets/images/india-tours/orchha-khajuraho-tour.jpg",
-          "link": "/tours/orchha-khajuraho-tour"
+          "link": "/orchha-khajuraho-tour"
         },
         {
           "id": "taj-mahal-with-khajuraho",
@@ -85,7 +85,7 @@
           "route": "Delhi – Agra – Khajuraho",
           "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/India-for-Beginners-Taj-Mahal-1024x768.jpg",
           "localImage": "/assets/images/india-tours/taj-mahal-with-khajuraho.jpg",
-          "link": "/tours/taj-mahal-with-khajuraho"
+          "link": "/taj-mahal-with-khajuraho"
         }
       ]
     },
@@ -101,7 +101,7 @@
           "route": "KOLKATA - SUNDARBANS NATIONAL PARK",
           "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/delhi-to-agra-1024x504.jpg",
           "localImage": "/assets/images/india-tours/short-escape-to-sundarbans.jpg",
-          "link": "/tours/short-escape-to-sundarbans"
+          "link": "/short-escape-to-sundarbans"
         },
         {
           "id": "sundarbans-luxury-cruise",
@@ -110,7 +110,7 @@
           "route": "Kolkata – Namkhana – Sundarbans",
           "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/fatehpur-sikri-agra-tourism-entry-fee-timings-holidays-reviews-header-1024x512.jpg",
           "localImage": "/assets/images/india-tours/sundarbans-luxury-cruise.jpg",
-          "link": "/tours/sundarbans-luxury-cruise"
+          "link": "/sundarbans-luxury-cruise"
         },
         {
           "id": "6-days-buddhist-tour-of-india",
@@ -119,7 +119,7 @@
           "route": "Bodhgaya – Rajgir – Nalanda – Patna – Vaishali - Kushinagar",
           "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Ministry-of-Tourism-Govt-of-India-595161_Taj-Mahal-Uttar-Pradesh-Aerial_821631bb23140209ea99c8f810f75634-1024x704.jpg",
           "localImage": "/assets/images/india-tours/6-days-buddhist-tour-of-india.jpg",
-          "link": "/tours/6-days-buddhist-tour-of-india"
+          "link": "/6-days-buddhist-tour-of-india"
         }
       ]
     },
@@ -135,7 +135,7 @@
           "route": "Darjeeling",
           "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/06/1602143272_guwahati3.avif",
           "localImage": "/assets/images/india-tours/exotic-darjeeling-tour.avif",
-          "link": "/tours/exotic-darjeeling-tour"
+          "link": "/exotic-darjeeling-tour"
         },
         {
           "id": "delightful-meghalaya-tour",
@@ -144,7 +144,7 @@
           "route": "Guwahati – Shillong – Cherrapunji",
           "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/06/1602143272_guwahati3.avif",
           "localImage": "/assets/images/india-tours/delightful-meghalaya-tour.avif",
-          "link": "/tours/delightful-meghalaya-tour"
+          "link": "/delightful-meghalaya-tour"
         },
         {
           "id": "guwahati-shillong-tour",
@@ -153,7 +153,7 @@
           "route": "Guwahati – Shillong - Cherrapunji",
           "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Ministry-of-Tourism-Govt-of-India-595161_Taj-Mahal-Uttar-Pradesh-Aerial_821631bb23140209ea99c8f810f75634-1024x704.jpg",
           "localImage": "/assets/images/india-tours/guwahati-shillong-tour.jpg",
-          "link": "/tours/guwahati-shillong-tour"
+          "link": "/guwahati-shillong-tour"
         }
       ]
     },
@@ -169,7 +169,7 @@
           "route": "Allahabad",
           "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/06/Maha-Kumbh-Mela-1024x768.jpg",
           "localImage": "/assets/images/india-tours/allahabad-kumbha-mela-tour.jpg",
-          "link": "/tours/allahabad-kumbha-mela-tour"
+          "link": "/allahabad-kumbha-mela-tour"
         },
         {
           "id": "rafting-on-ganga-river",
@@ -178,7 +178,7 @@
           "route": "Delhi – Rishikesh – Beasghat – Kaudiyala - Rishikesh",
           "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/one-day-delhi-to-haridwar-rishikesh-sightseeing-tour-package-private-cab-header-1024x683.jpg",
           "localImage": "/assets/images/india-tours/rafting-on-ganga-river.jpg",
-          "link": "/tours/rafting-on-ganga-river"
+          "link": "/rafting-on-ganga-river"
         },
         {
           "id": "haridwar-rishikesh-tour",
@@ -187,7 +187,7 @@
           "route": "Delhi – Haridwar – Rishikesh",
           "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/19a896cc2afebf00c83d79ff3f9007d0-rishikesh-1024x717.jpg",
           "localImage": "/assets/images/india-tours/haridwar-rishikesh-tour.jpg",
-          "link": "/tours/haridwar-rishikesh-tour"
+          "link": "/haridwar-rishikesh-tour"
         }
       ]
     },
@@ -203,7 +203,7 @@
           "route": "Trivandrum – Kovalam",
           "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/delhi-to-agra-1024x504.jpg",
           "localImage": "/assets/images/india-tours/kovalam-tour.jpg",
-          "link": "/tours/kovalam-tour"
+          "link": "/kovalam-tour"
         },
         {
           "id": "malabar-dreams",
@@ -212,7 +212,7 @@
           "route": "Cochin",
           "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/fatehpur-sikri-agra-tourism-entry-fee-timings-holidays-reviews-header-1024x512.jpg",
           "localImage": "/assets/images/india-tours/malabar-dreams.jpg",
-          "link": "/tours/malabar-dreams"
+          "link": "/malabar-dreams"
         },
         {
           "id": "mini-escape-to-poovar",
@@ -221,7 +221,7 @@
           "route": "Trivandrum - Poovar - Cochin",
           "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Ministry-of-Tourism-Govt-of-India-595161_Taj-Mahal-Uttar-Pradesh-Aerial_821631bb23140209ea99c8f810f75634-1024x704.jpg",
           "localImage": "/assets/images/india-tours/mini-escape-to-poovar.jpg",
-          "link": "/tours/mini-escape-to-poovar"
+          "link": "/mini-escape-to-poovar"
         }
       ]
     },
@@ -237,7 +237,7 @@
           "route": "Ahmedabad – Lothal – Patan – Modhera",
           "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/delhi-to-agra-1024x504.jpg",
           "localImage": "/assets/images/india-tours/splendors-of-gujrat-tour.jpg",
-          "link": "/tours/splendors-of-gujrat-tour"
+          "link": "/splendors-of-gujrat-tour"
         },
         {
           "id": "maharashtra-jyutirling-tour-with-shirdi",
@@ -246,7 +246,7 @@
           "route": "Mumbai – Bhimashankar – Shirdi – Shani Shingnapur – Aurangabad – Grishneshwar – Nasik – Trimbakeshwar",
           "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Gateway-monument-India-entrance-Mumbai-Harbour-coast-1024x683.webp",
           "localImage": "/assets/images/india-tours/maharashtra-jyutirling-tour-with-shirdi.webp",
-          "link": "/tours/maharashtra-jyutirling-tour-with-shirdi"
+          "link": "/maharashtra-jyutirling-tour-with-shirdi"
         },
         {
           "id": "goa-with-water-sports-tour",
@@ -255,7 +255,7 @@
           "route": "Goa",
           "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/06/Goa-overview-things-to-do-in-goa-1024x683.jpg",
           "localImage": "/assets/images/india-tours/goa-with-water-sports-tour.jpg",
-          "link": "/tours/goa-with-water-sports-tour"
+          "link": "/goa-with-water-sports-tour"
         }
       ]
     }

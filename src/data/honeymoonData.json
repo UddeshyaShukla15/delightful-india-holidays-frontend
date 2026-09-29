@@ -1,0 +1,136 @@
+{
+  "hero": {
+    "title": "Honeymoon Tour Packages",
+    "subtitle": "Romantic Escapes, Private Candlelight Dinners & Heritage Royalty Across India",
+    "bgImage": "/assets/images/Goa-Honeymoon-Tour-img-1024x684.jpg"
+  },
+  "tours": [
+    {
+      "id": "goa-honeymoon-tour",
+      "title": "GOA HONEYMOON TOUR",
+      "duration": "4 Days / 3 Nights",
+      "route": "Goa Beaches & Old Goa Heritage",
+      "category": "Honeymoon Tour Packages",
+      "image": "/assets/images/Goa-Honeymoon-Tour-img-1024x684.jpg",
+      "link": "/goa-honeymoon-tour"
+    },
+    {
+      "id": "kashmir-honeymoon-tour",
+      "title": "Kashmir Honeymoon Tour",
+      "duration": "6 Days / 5 Nights",
+      "route": "Srinagar \u2013 Gulmarg \u2013 Pahalgam",
+      "category": "Honeymoon Tour Packages",
+      "image": "/assets/images/Kashmir-Family-Gulmarg.jpg",
+      "link": "/kashmir-honeymoon-tour"
+    },
+    {
+      "id": "udaipur-honeymoon-tour",
+      "title": "UDAIPUR HONEYMOON TOUR",
+      "duration": "4 Days / 3 Nights",
+      "route": "Udaipur Romantic Lake City",
+      "category": "Honeymoon Tour Packages",
+      "image": "/assets/images/The-Leela-Palace-Udaipur_2019_Boat-Arrival-1024x576.webp",
+      "link": "/udaipur-honeymoon-tour"
+    },
+    {
+      "id": "munnar-honeymoon-tour",
+      "title": "MUNNAR HONEYMOON TOUR",
+      "duration": "4 Days / 3 Nights",
+      "route": "Munnar Tea Hills \u2013 Kochi",
+      "category": "Honeymoon Tour Packages",
+      "image": "/assets/images/kerala-honeymoon-1024x533.jpg",
+      "link": "/munnar-honeymoon-tour"
+    },
+    {
+      "id": "himachal-honeymoon-tour",
+      "title": "HIMACHAL HONEYMOON TOUR",
+      "duration": "6 Days / 5 Nights",
+      "route": "Shimla \u2013 Kullu \u2013 Manali",
+      "category": "Honeymoon Tour Packages",
+      "image": "/assets/images/1699516712_712785-dalhousie-khajjiar-chamba-tour-package-slider-image.webp",
+      "link": "/himachal-honeymoon-tour"
+    },
+    {
+      "id": "uttarakhand-honeymoon-tour",
+      "title": "UTTARAKHAND HONEYMOON TOUR",
+      "duration": "5 Days / 4 Nights",
+      "route": "Nainital \u2013 Mussoorie Hills",
+      "category": "Honeymoon Tour Packages",
+      "image": "/assets/images/Uttarakhand-Honeymoon-Tour-img-1024x684.jpg",
+      "link": "/uttarakhand-honeymoon-tour"
+    },
+    {
+      "id": "kullu-manali-honeymoon-tour",
+      "title": "KULLU MANALI HONEYMOON TOUR",
+      "duration": "5 Days / 4 Nights",
+      "route": "Chandigarh \u2013 Kullu \u2013 Manali \u2013 Rohtang",
+      "category": "Honeymoon Tour Packages",
+      "image": "/assets/images/1699516712_712785-dalhousie-khajjiar-chamba-tour-package-slider-image.webp",
+      "link": "/kullu-manali-honeymoon-tour"
+    },
+    {
+      "id": "exotic-jaipur-honeymoon-tour",
+      "title": "EXOTIC JAIPUR HONEYMOON TOUR",
+      "duration": "3 Days / 2 Nights",
+      "route": "Jaipur Heritage Forts & Palaces",
+      "category": "Honeymoon Tour Packages",
+      "image": "/assets/images/Jaipur-Travel-Shopping-Restaurants-1024x576.webp",
+      "link": "/exotic-jaipur-honeymoon-tour"
+    },
+    {
+      "id": "romantic-kerala-honeymoon-tour",
+      "title": "ROMANTIC KERALA HONEYMOON TOUR",
+      "duration": "7 Days / 6 Nights",
+      "route": "Cochin \u2013 Munnar \u2013 Thekkady \u2013 Alleppey",
+      "category": "Honeymoon Tour Packages",
+      "image": "/assets/images/kerala-group-tour-img-1024x684.png",
+      "link": "/romantic-kerala-honeymoon-tour"
+    },
+    {
+      "id": "north-east-india-honeymoon-tour",
+      "title": "NORTH EAST INDIA HONEYMOON TOUR",
+      "duration": "7 Days / 6 Nights",
+      "route": "Gangtok \u2013 Darjeeling \u2013 Mirik",
+      "category": "Honeymoon Tour Packages",
+      "image": "/assets/images/north-india-img-1024x684.png",
+      "link": "/north-east-india-honeymoon-tour"
+    },
+    {
+      "id": "splendid-kerala-honeymoon-tour",
+      "title": "SPLENDID KERALA HONEYMOON TOUR",
+      "duration": "6 Days / 5 Nights",
+      "route": "Cochin \u2013 Munnar \u2013 Alleppey Houseboat",
+      "category": "Honeymoon Tour Packages",
+      "image": "/assets/images/kerla.jpg",
+      "link": "/splendid-kerala-honeymoon-tour"
+    },
+    {
+      "id": "blissful-jaisalmer-honeymoon-tour",
+      "title": "BLISSFUL JAISALMER HONEYMOON TOUR",
+      "duration": "3 Days / 2 Nights",
+      "route": "Jaisalmer Fort \u2013 Sam Sand Dunes Camping",
+      "category": "Honeymoon Tour Packages",
+      "image": "/assets/images/Romantic-Jaisalmer1-1024x683.jpeg",
+      "link": "/blissful-jaisalmer-honeymoon-tour"
+    },
+    {
+      "id": "mussoorie-rishikesh-honeymoon-tour",
+      "title": "MUSSOORIE RISHIKESH HONEYMOON TOUR",
+      "duration": "5 Days / 4 Nights",
+      "route": "Dehradun \u2013 Mussoorie \u2013 Rishikesh",
+      "category": "Honeymoon Tour Packages",
+      "image": "/assets/images/one-day-delhi-to-haridwar-rishikesh-sightseeing-tour-package-private-cab-header-1024x683.jpg",
+      "link": "/mussoorie-rishikesh-honeymoon-tour"
+    },
+    {
+      "id": "romantic-rajasthan-honeymoon-tour",
+      "title": "ROMANTIC RAJASTHAN HONEYMOON TOUR",
+      "duration": "8 Days / 7 Nights",
+      "route": "Jaipur \u2013 Jodhpur \u2013 Udaipur Palaces",
+      "category": "Honeymoon Tour Packages",
+      "image": "/assets/images/Facade_Premises__Neemrana_Fort_Palace__palace_hotel_in_Rajasthan_14_4_d55b91-1024x576.avif",
+      "link": "/romantic-rajasthan-honeymoon-tour"
+    }
+  ],
+  "faqs": []
+}

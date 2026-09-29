@@ -25,29 +25,29 @@ export default function HomePage() {
   };
 
   // Section 3: Golden Triangle Tours (6 items for carousel)
-  const goldenTriangleTours = tourPackages.filter(
-    (t) => t.category === "Golden Triangle Tours"
-  );
+  const goldenTriangleTours = tourPackages
+    .filter((t) => t.category === "Golden Triangle Tours")
+    .slice(0, 6);
 
   // Section 4: Rajasthan Tour Packages (6 items for carousel)
-  const rajasthanTours = tourPackages.filter(
-    (t) => t.category === "Rajasthan Tour Packages"
-  );
+  const rajasthanTours = tourPackages
+    .filter((t) => t.category === "Rajasthan Tour Packages")
+    .slice(0, 6);
 
   // Section 5: Same Day Tours (6 items for carousel)
-  const sameDayTours = tourPackages.filter(
-    (t) => t.category === "Same Day Tours"
-  );
+  const sameDayTours = tourPackages
+    .filter((t) => t.category === "Same Day Tours")
+    .slice(0, 6);
 
   // Section 6: Honeymoon Tour Packages (3 items grid)
-  const honeymoonTours = tourPackages.filter(
-    (t) => t.category === "Honeymoon Tour Packages"
-  ).slice(0, 3);
+  const honeymoonTours = tourPackages
+    .filter((t) => t.category === "Honeymoon Tour Packages")
+    .slice(0, 3);
 
   // Section 7: Group Tour Packages (3 items grid)
-  const groupTours = tourPackages.filter(
-    (t) => t.category === "Group Tour Packages"
-  ).slice(0, 3);
+  const groupTours = tourPackages
+    .filter((t) => t.category === "Group Tour Packages")
+    .slice(0, 3);
 
   // Section 8: Wildlife Tours (3 items grid: Rajasthan Wildlife, Corbett, South India)
   const wildlifeTours = [
@@ -57,9 +57,9 @@ export default function HomePage() {
   ].filter(Boolean) as typeof tourPackages;
 
   // Section 9: Jaisalmer Tour Packages (3 items grid)
-  const jaisalmerTours = tourPackages.filter(
-    (t) => t.category === "Jaisalmer Tour Packages"
-  ).slice(0, 3);
+  const jaisalmerTours = tourPackages
+    .filter((t) => t.category === "Jaisalmer Tour Packages")
+    .slice(0, 3);
 
   return (
     <div className="min-h-screen flex flex-col bg-white">
@@ -87,7 +87,7 @@ export default function HomePage() {
           {/* 1. Below Golden Triangle Tours carousel: View All Tours button */}
           <SectionCtaButton
             label="View All Tours"
-            href="/tours?category=Golden+Triangle+Tours"
+            href="/golden-triangle-tours"
           />
         </section>
 
@@ -103,7 +103,7 @@ export default function HomePage() {
           {/* 2. Below Rajasthan Tours carousel: More Rajasthan Tours button */}
           <SectionCtaButton
             label="More Rajasthan Tours"
-            href="/tours?category=Rajasthan+Tour+Packages"
+            href="/rajasthan-tours"
           />
         </section>
 
@@ -126,7 +126,7 @@ export default function HomePage() {
           {/* 3. Below Same Day Tours carousel: More Same Day Tours button */}
           <SectionCtaButton
             label="More Same Day Tours"
-            href="/tours?category=Same+Day+Tours"
+            href="/same-day-tours"
           />
         </section>
 
@@ -142,7 +142,7 @@ export default function HomePage() {
           {/* 4. Below Honeymoon Tours: More Honeymoon Tours button */}
           <SectionCtaButton
             label="More Honeymoon Tours"
-            href="/tours?category=Honeymoon+Tour+Packages"
+            href="/honeymoon-tours"
           />
         </section>
 
@@ -157,8 +157,8 @@ export default function HomePage() {
           />
           {/* 5. Below Group Tours: More Tours button */}
           <SectionCtaButton
-            label="More Tours"
-            href="/tours?category=Group+Tour+Packages"
+            label="More Group Tours"
+            href="/group-tour-packages"
           />
         </section>
 
@@ -174,7 +174,7 @@ export default function HomePage() {
           {/* 6. Below Wildlife Tours: More Wildlife Tours button */}
           <SectionCtaButton
             label="More Wildlife Tours"
-            href="/tours?category=Wildlife+Tours"
+            href="/wildlife-tours"
           />
         </section>
 
@@ -186,6 +186,11 @@ export default function HomePage() {
           <TourGrid3
             tours={jaisalmerTours}
             onEnquire={handleOpenEnquiry}
+          />
+          {/* 7. Below Jaisalmer Tours: More Jaisalmer Tours button */}
+          <SectionCtaButton
+            label="More Jaisalmer Tours"
+            href="/jaisalmer-tour-packages"
           />
         </section>
 

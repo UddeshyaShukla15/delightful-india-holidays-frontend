@@ -17,6 +17,15 @@ const nextConfig: NextConfig = {
       },
     ],
   },
+  async redirects() {
+    return [
+      {
+        source: "/tours/:id",
+        destination: "/:id",
+        permanent: true,
+      },
+    ];
+  },
   async rewrites() {
     return [
       {
@@ -34,6 +43,22 @@ const nextConfig: NextConfig = {
       {
         source: "/contact-us",
         destination: "/contact",
+      },
+      {
+        source: "/honeymoon-tour-packages",
+        destination: "/honeymoon-tours",
+      },
+      {
+        source: "/group-tours",
+        destination: "/group-tour-packages",
+      },
+      {
+        source: "/wildlife-tour-packages",
+        destination: "/wildlife-tours",
+      },
+      {
+        source: "/same-day-tour-packages",
+        destination: "/same-day-tours",
       },
     ];
   },

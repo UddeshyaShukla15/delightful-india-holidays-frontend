@@ -15,7 +15,7 @@ export default function LiveTourCard({ tour, onEnquire }: LiveTourCardProps) {
     <div className="flex flex-col bg-white rounded-[10px] overflow-hidden transition-all duration-300 group">
       {/* Tour Image with rounded corners and hover zoom */}
       <div className="relative aspect-[16/10] w-full overflow-hidden rounded-[10px] bg-gray-100">
-        <Link href={`/tours/${tour.id}`} className="block h-full w-full">
+        <Link href={`/${tour.id}`} className="block h-full w-full">
           <Image
             src={tour.image}
             alt={tour.title}
@@ -30,7 +30,7 @@ export default function LiveTourCard({ tour, onEnquire }: LiveTourCardProps) {
       <div className="flex flex-1 flex-col pt-4 pb-2">
         {/* Title */}
         <h3 className="font-times text-[22px] sm:text-[26px] font-semibold text-black text-left leading-snug line-clamp-1 mb-2 hover:text-[#FFAF19] transition-colors">
-          <Link href={`/tours/${tour.id}`}>{tour.title}</Link>
+          <Link href={`/${tour.id}`}>{tour.title}</Link>
         </h3>
 
         {/* Route with Green Map Marker */}
@@ -71,7 +71,7 @@ export default function LiveTourCard({ tour, onEnquire }: LiveTourCardProps) {
 
           {/* View Details Button */}
           <Link
-            href={`/tours/${tour.id}`}
+            href={`/${tour.id}`}
             className="inline-flex items-center justify-center gap-2 bg-[#E78031] hover:bg-[#d46d20] text-white text-[14px] sm:text-[15px] font-medium px-5 py-2.5 rounded-[20px] transition-all shadow-sm hover:shadow"
           >
             <span>View Details</span>

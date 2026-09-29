@@ -212,7 +212,7 @@ export default function AdminToursPage() {
                   </td>
                   <td className="py-3 px-4 text-right whitespace-nowrap space-x-2">
                     <Link
-                      href={`/tours/${t.id}`}
+                      href={`/${t.id}`}
                       target="_blank"
                       className="p-1.5 rounded-lg text-slate-400 hover:text-blue-600 hover:bg-blue-50 inline-block transition-colors"
                       title="View on Public Site"

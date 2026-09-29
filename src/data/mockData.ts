@@ -1135,6 +1135,5750 @@ export const tourPackages: TourPackage[] = [
     inclusions: defaultInclusions,
     exclusions: defaultExclusions,
   },
+
+  // ---------------------------------------------------------------------------
+  // Additional Complete Tour Packages from Main Website Cloned Data
+  // ---------------------------------------------------------------------------
+  {
+    id: "3-days-agra-and-jaipur-tour",
+    title: "3 Days Agra & Jaipur Tour",
+    category: "Golden Triangle Tours",
+    duration: "3 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/5-day-tour-of-delhi-agra-gwalior-ochhaa-and-khajuraho-2828911-1024x683.webp",
+    bannerImage: "/assets/images/5-day-tour-of-delhi-agra-gwalior-ochhaa-and-khajuraho-2828911-1024x683.webp",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 3 Days Agra & Jaipur Tour. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "3-days-delhi-agra-tour",
+    title: "3 Days Delhi Agra Tour",
+    category: "Golden Triangle Tours",
+    duration: "3 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/First-Time-Visitors-Guide-to-Jaipur-1-600x315.jpg",
+    bannerImage: "/assets/images/First-Time-Visitors-Guide-to-Jaipur-1-600x315.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 3 Days Delhi Agra Tour. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "3-days-jaipur-and-agra-tour",
+    title: "3 Days Jaipur & Agra Tour",
+    category: "Golden Triangle Tours",
+    duration: "3 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Travel-Shopping-Restaurants-1024x576.webp",
+    bannerImage: "/assets/images/Jaipur-Travel-Shopping-Restaurants-1024x576.webp",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 3 Days Jaipur & Agra Tour. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "7-days-golden-triangle-tour-8",
+    title: "7 Days Golden Triangle Tour",
+    category: "Golden Triangle Tours",
+    duration: "7 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 7 Days Golden Triangle Tour. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "5-days-golden-triangle-tour",
+    title: "5 Days Golden Triangle Tour",
+    category: "Golden Triangle Tours",
+    duration: "2 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/650e2-delhi-1.webp",
+    bannerImage: "/assets/images/650e2-delhi-1.webp",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 5 Days Golden Triangle Tour. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "6-days-golden-triangle-tour",
+    title: "6 Days Golden Triangle Tour",
+    category: "Golden Triangle Tours",
+    duration: "6 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 6 Days Golden Triangle Tour. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "8-days-spritual-ganges-tour-12",
+    title: "8 DAYS SPRITUAL GANGES TOUR",
+    category: "Golden Triangle Tours",
+    duration: "7 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Ahilya_Ghat_by_the_Ganges_Varanasi.jpg",
+    bannerImage: "/assets/images/Ahilya_Ghat_by_the_Ganges_Varanasi.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 8 DAYS SPRITUAL GANGES TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "11-days-golden-triangle-and-shimla-tour",
+    title: "11 DAYS GOLDEN TRIANGLE & SHIMLA TOUR",
+    category: "Golden Triangle Tours",
+    duration: "11 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Golden-Triangle-Tour-img-1024x684.jpg",
+    bannerImage: "/assets/images/Golden-Triangle-Tour-img-1024x684.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 11 DAYS GOLDEN TRIANGLE & SHIMLA TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "7-days-golden-triangle-tour-with-jodhpur",
+    title: "7 DAYS GOLDEN TRIANGLE TOUR WITH JODHPUR",
+    category: "Golden Triangle Tours",
+    duration: "7 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 7 DAYS GOLDEN TRIANGLE TOUR WITH JODHPUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "7-days-golden-triangle-tour-with-mandawa",
+    title: "7 Days Golden Triangle Tour With Mandawa",
+    category: "Golden Triangle Tours",
+    duration: "7 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/MANDAWA.jpg",
+    bannerImage: "/assets/images/MANDAWA.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 7 Days Golden Triangle Tour With Mandawa. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "7-days-golden-triangle-tour-with-neemrana",
+    title: "7 Days Golden Triangle Tour With Neemrana",
+    category: "Golden Triangle Tours",
+    duration: "7 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Facade_Premises__Neemrana_Fort_Palace__palace_hotel_in_Rajasthan_14_4_d55b91-1024x576.avif",
+    bannerImage: "/assets/images/Facade_Premises__Neemrana_Fort_Palace__palace_hotel_in_Rajasthan_14_4_d55b91-1024x576.avif",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 7 Days Golden Triangle Tour With Neemrana. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "7-days-golden-triangle-tour-with-pushkar",
+    title: "7 Days Golden Triangle Tour With Pushkar",
+    category: "Golden Triangle Tours",
+    duration: "7 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Pushkar-Tour-img-1024x684.jpg",
+    bannerImage: "/assets/images/Pushkar-Tour-img-1024x684.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 7 Days Golden Triangle Tour With Pushkar. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "8-days-golden-triangle-tour-with-amritsar",
+    title: "8 Days Golden Triangle Tour With Amritsar",
+    category: "Golden Triangle Tours",
+    duration: "8 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 8 Days Golden Triangle Tour With Amritsar. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "8-days-golden-triangle-tour-with-jaisalmer",
+    title: "8 Days Golden Triangle Tour With Jaisalmer",
+    category: "Golden Triangle Tours",
+    duration: "8 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 8 Days Golden Triangle Tour With Jaisalmer. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "8-days-golden-triangle-tour-with-varanasi",
+    title: "8 Days Golden Triangle Tour With Varanasi",
+    category: "Golden Triangle Tours",
+    duration: "8 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 8 Days Golden Triangle Tour With Varanasi. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "8-days-golden-triangle-with-ranthambore",
+    title: "8 Days Golden Triangle With Ranthambore",
+    category: "Golden Triangle Tours",
+    duration: "8 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 8 Days Golden Triangle With Ranthambore. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "8-days-golden-triangle-with-udaipur-tour",
+    title: "8 Days Golden Triangle With Udaipur Tour",
+    category: "Golden Triangle Tours",
+    duration: "8 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 8 Days Golden Triangle With Udaipur Tour. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "9-days-golden-triangle-tour-with-leh-and-ladakh",
+    title: "9 Days Golden Triangle Tour With Leh & Ladakh",
+    category: "Golden Triangle Tours",
+    duration: "9 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Leh-Ladakh-Tour-Package-from-Srinagar.webp",
+    bannerImage: "/assets/images/Leh-Ladakh-Tour-Package-from-Srinagar.webp",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 9 Days Golden Triangle Tour With Leh & Ladakh. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "9-days-golden-triangle-tour-with-nimaj-and-udaipur",
+    title: "9 Days Golden Triangle Tour With Nimaj & Udaipur",
+    category: "Golden Triangle Tours",
+    duration: "9 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 9 Days Golden Triangle Tour With Nimaj & Udaipur. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "18-days-golden-triangle-tour-with-central-india",
+    title: "18 Days Golden Triangle Tour With Central India",
+    category: "Golden Triangle Tours",
+    duration: "18 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Golden-Triangle-Group-Tour-img-1024x684.png",
+    bannerImage: "/assets/images/Golden-Triangle-Group-Tour-img-1024x684.png",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 18 Days Golden Triangle Tour With Central India. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "9-days-golden-triangle-tour-with-pushkar-and-udaipur",
+    title: "9 Days Golden Triangle Tour With Pushkar & Udaipur",
+    category: "Golden Triangle Tours",
+    duration: "9 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 9 Days Golden Triangle Tour With Pushkar & Udaipur. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "9-days-golden-triangle-tour-with-jodhpur-and-udaipur",
+    title: "9 Days Golden Triangle Tour With Jodhpur & Udaipur",
+    category: "Golden Triangle Tours",
+    duration: "9 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 9 Days Golden Triangle Tour With Jodhpur & Udaipur. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "14-days-golden-triangle-tour-with-royal-rajasthan",
+    title: "14 Days Golden Triangle Tour With Royal Rajasthan",
+    category: "Golden Triangle Tours",
+    duration: "11 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Exotic-Rajasthan-Tour-img-1024x684.jpg",
+    bannerImage: "/assets/images/Exotic-Rajasthan-Tour-img-1024x684.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 14 Days Golden Triangle Tour With Royal Rajasthan. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "8-days-golden-triangle-tour-with-seriska-and-bharatpur",
+    title: "8 Days Golden Triangle Tour With Seriska & Bharatpur",
+    category: "Golden Triangle Tours",
+    duration: "8 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 8 Days Golden Triangle Tour With Seriska & Bharatpur. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "9-days-golden-triangle-tour-with-jodhpur-and-jaisalmer",
+    title: "9 Days Golden Triangle Tour With Jodhpur & Jaisalmer",
+    category: "Golden Triangle Tours",
+    duration: "9 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/cmzr2zkmd8u5ud2g3i4474wifmcb_1510321235_Jaisalmer-1030x666-1-1024x662.avif",
+    bannerImage: "/assets/images/cmzr2zkmd8u5ud2g3i4474wifmcb_1510321235_Jaisalmer-1030x666-1-1024x662.avif",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 9 Days Golden Triangle Tour With Jodhpur & Jaisalmer. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "8-days-golden-triangle-tour-with-udaipur-and-chittorgarh",
+    title: "8 Days Golden Triangle Tour With Udaipur & Chittorgarh",
+    category: "Golden Triangle Tours",
+    duration: "8 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 8 Days Golden Triangle Tour With Udaipur & Chittorgarh. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "12-days-golden-triangle-tour-with-khajuraho-and-varansi",
+    title: "12 Days Golden Triangle Tour With Khajuraho & Varansi",
+    category: "Golden Triangle Tours",
+    duration: "12 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/5-day-tour-of-delhi-agra-gwalior-ochhaa-and-khajuraho-2828911-1024x683.webp",
+    bannerImage: "/assets/images/5-day-tour-of-delhi-agra-gwalior-ochhaa-and-khajuraho-2828911-1024x683.webp",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 12 Days Golden Triangle Tour With Khajuraho & Varansi. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "golden-triangle-with-rajasthan-and-khajuraho-tour",
+    title: "Golden Triangle With Rajasthan & Khajuraho Tour",
+    category: "Golden Triangle Tours",
+    duration: "14 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Golden Triangle With Rajasthan & Khajuraho Tour. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "9-days-golden-triangle-tour-with-ranthambore-and-bharatpur",
+    title: "9 Days Golden Triangle Tour With Ranthambore & Bharatpur",
+    category: "Golden Triangle Tours",
+    duration: "9 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 9 Days Golden Triangle Tour With Ranthambore & Bharatpur. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "10-days-golden-triangle-tour-with-gwalior-orchha-and-khajuraho",
+    title: "10 Days Golden Triangle Tour With Gwalior, Orchha & Khajuraho",
+    category: "Golden Triangle Tours",
+    duration: "10 Days",
+    route: "Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 10 Days Golden Triangle Tour With Gwalior, Orchha & Khajuraho. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "rajputana-retreat",
+    title: "RAJPUTANA RETREAT",
+    category: "Rajasthan Tour Packages",
+    duration: "9 Nights / 10 Days",
+    route: "Delhi \u2013 Agra \u2013 Jaipur \u2013 Jodhpur \u2013 Udaipur \u2013 Pushkar - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/amer-fort-jaipur-1.jpg",
+    bannerImage: "/assets/images/amer-fort-jaipur-1.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the RAJPUTANA RETREAT. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Agra \u2013 Jaipur \u2013 Jodhpur \u2013 Udaipur \u2013 Pushkar - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "forts-palaces-tour",
+    title: "FORTS & PALACES TOUR",
+    category: "Rajasthan Tour Packages",
+    duration: "13 Nights / 14 Days",
+    route: "Delhi \u2013 Mandawa \u2013 Bikaner \u2013 Jaisalmer \u2013 Sam Sand Dunes - Jodhpur \u2013 Ranakpur \u2013 Udaipur \u2013 Pushkar \u2013 Jaipur \u2013 Abhaneri \u2013 Fatehpur Sikri \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the FORTS & PALACES TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Mandawa \u2013 Bikaner \u2013 Jaisalmer \u2013 Sam Sand Dunes - Jodhpur \u2013 Ranakpur \u2013 Udaipur \u2013 Pushkar \u2013 Jaipur \u2013 Abhaneri \u2013 Fatehpur Sikri \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "rajasthan-royal-tour",
+    title: "Rajasthan Royal Tour",
+    category: "Rajasthan Tour Packages",
+    duration: "16 Nights / 17 Days",
+    route: "Delhi \u2013 Mandawa \u2013 Bikaner \u2013 Jaisalmer \u2013 Sam Sand Dunes - Jodhpur \u2013 Udaipur \u2013 Bundi \u2013 Pushkar \u2013 Jaipur \u2013 Ranthambhore \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Rajasthan Royal Tour. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Mandawa \u2013 Bikaner \u2013 Jaisalmer \u2013 Sam Sand Dunes - Jodhpur \u2013 Udaipur \u2013 Bundi \u2013 Pushkar \u2013 Jaipur \u2013 Ranthambhore \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "7-days-rajasthan-tour",
+    title: "7 Days Rajasthan Tour",
+    category: "Rajasthan Tour Packages",
+    duration: "7 Days",
+    route: "Jaipur \u2013 Pushkar \u2013 Jodhpur \u2013 Mount Abu - Udaipur",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Royal-Palaces-of-Rajasthan-img-1024x684.jpg",
+    bannerImage: "/assets/images/Royal-Palaces-of-Rajasthan-img-1024x684.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 7 Days Rajasthan Tour. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Pushkar \u2013 Jodhpur \u2013 Mount Abu - Udaipur", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "royal-journey-of-india",
+    title: "ROYAL JOURNEY OF INDIA",
+    category: "Rajasthan Tour Packages",
+    duration: "20 Nights / 21 Days",
+    route: "Delhi \u2013 Agra \u2013 Jaipur \u2013 Pushkar \u2013 Ranthambhore \u2013 Kota \u2013 Bundi \u2013 Chittorgarh \u2013 Udaipur \u2013 Kumbhalgarh \u2013 Jodhpur \u2013 Jaisalmer \u2013 Bikaner \u2013 Mandawa - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the ROYAL JOURNEY OF INDIA. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Agra \u2013 Jaipur \u2013 Pushkar \u2013 Ranthambhore \u2013 Kota \u2013 Bundi \u2013 Chittorgarh \u2013 Udaipur \u2013 Kumbhalgarh \u2013 Jodhpur \u2013 Jaisalmer \u2013 Bikaner \u2013 Mandawa - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "rajasthan-tribal-tour",
+    title: "RAJASTHAN TRIBAL TOUR",
+    category: "Rajasthan Tour Packages",
+    duration: "20 Nights / 21 Days",
+    route: "Delhi \u2013 Samode \u2013 Nawalgarh \u2013 Khimsar \u2013 Jaisalmer \u2013 Pokhran \u2013 Jodhpur \u2013 Rohet \u2013 Ranakpur \u2013 Devigarh \u2013 Udaipur \u2013 Dungarpur \u2013 Bijapur \u2013 Kota \u2013 Bundi \u2013 Jaipur \u2013 Bhanarej \u2013 Karauli \u2013 Bharatpur - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the RAJASTHAN TRIBAL TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Samode \u2013 Nawalgarh \u2013 Khimsar \u2013 Jaisalmer \u2013 Pokhran \u2013 Jodhpur \u2013 Rohet \u2013 Ranakpur \u2013 Devigarh \u2013 Udaipur \u2013 Dungarpur \u2013 Bijapur \u2013 Kota \u2013 Bundi \u2013 Jaipur \u2013 Bhanarej \u2013 Karauli \u2013 Bharatpur - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "rajasthan-desert-tour",
+    title: "RAJASTHAN DESERT TOUR",
+    category: "Rajasthan Tour Packages",
+    duration: "12 Nights / 13 Days",
+    route: "Delhi \u2013 Mandawa \u2013 Bikaner \u2013 Jaisalmer \u2013 Bada Bagh \u2013 Baishakhi \u2013 Roopsi \u2013 Ludrawa \u2013 Jaisalmer \u2013 Amar Sagar \u2013 Moolsagar \u2013 Kuldhara \u2013 Sam Sand Dunes \u2013 Kanoi \u2013 Jaisalmer \u2013 Osian \u2013 Jodhpur \u2013 Jaipur \u2013 Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the RAJASTHAN DESERT TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Mandawa \u2013 Bikaner \u2013 Jaisalmer \u2013 Bada Bagh \u2013 Baishakhi \u2013 Roopsi \u2013 Ludrawa \u2013 Jaisalmer \u2013 Amar Sagar \u2013 Moolsagar \u2013 Kuldhara \u2013 Sam Sand Dunes \u2013 Kanoi \u2013 Jaisalmer \u2013 Osian \u2013 Jodhpur \u2013 Jaipur \u2013 Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "maharaja-retreat-tour",
+    title: "MAHARAJA RETREAT TOUR",
+    category: "Rajasthan Tour Packages",
+    duration: "9 Nights / 10 Days",
+    route: "Delhi \u2013 Agra \u2013 Jaipur \u2013 Samode \u2013 Mandawa - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the MAHARAJA RETREAT TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Agra \u2013 Jaipur \u2013 Samode \u2013 Mandawa - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "rajasthan-heritage-tour",
+    title: "RAJASTHAN HERITAGE TOUR",
+    category: "Rajasthan Tour Packages",
+    duration: "17 Nights / 18 Days",
+    route: "Delhi \u2013 Samode \u2013 Mandawa \u2013 Bikaner \u2013 Jaisalmer \u2013 Sam Sand Dunes - Rohet \u2013 Jodhpur \u2013 Kumbhalgarh \u2013 Udaipur \u2013 Bassi \u2013 Pachewar \u2013 Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the RAJASTHAN HERITAGE TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Samode \u2013 Mandawa \u2013 Bikaner \u2013 Jaisalmer \u2013 Sam Sand Dunes - Rohet \u2013 Jodhpur \u2013 Kumbhalgarh \u2013 Udaipur \u2013 Bassi \u2013 Pachewar \u2013 Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "offbeat-rajasthan-tour",
+    title: "OFFBEAT RAJASTHAN TOUR",
+    category: "Rajasthan Tour Packages",
+    duration: "17 Nights / 18 Days",
+    route: "Delhi \u2013 Neemrana \u2013 Mandawa \u2013 Bikaner \u2013 Deshnok \u2013 Khimsar \u2013 Jaisalmer \u2013 Sam Sand Dunes - Jodhpur \u2013 Ranakpur \u2013 Udaipur \u2013 Dungarpur \u2013 Chittorgarh \u2013 Bijapur \u2013 Roopangarh \u2013 Jaipur \u2013 Abhaneri \u2013 Fatehpur Sikri \u2013 Agra \u2013 Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the OFFBEAT RAJASTHAN TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Neemrana \u2013 Mandawa \u2013 Bikaner \u2013 Deshnok \u2013 Khimsar \u2013 Jaisalmer \u2013 Sam Sand Dunes - Jodhpur \u2013 Ranakpur \u2013 Udaipur \u2013 Dungarpur \u2013 Chittorgarh \u2013 Bijapur \u2013 Roopangarh \u2013 Jaipur \u2013 Abhaneri \u2013 Fatehpur Sikri \u2013 Agra \u2013 Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "jewels-of-rajasthan-tour",
+    title: "JEWELS OF RAJASTHAN TOUR",
+    category: "Rajasthan Tour Packages",
+    duration: "5 Nights / 6 Days",
+    route: "Jaipur \u2013 Jodhpur - Udaipur",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the JEWELS OF RAJASTHAN TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Jodhpur - Udaipur", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "castle-tour-of-rajasthan",
+    title: "CASTLE TOUR OF RAJASTHAN",
+    category: "Rajasthan Tour Packages",
+    duration: "17 Nights / 18 Days",
+    route: "Delhi \u2013 Samode \u2013 Mandawa \u2013 Bikaner \u2013 Jaisalmer \u2013 Sam Sand Dunes - Rohet \u2013 Jodhpur \u2013 Kumbhalgarh \u2013 Udaipur \u2013 Bijapur \u2013 Pushkar \u2013 Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the CASTLE TOUR OF RAJASTHAN. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Samode \u2013 Mandawa \u2013 Bikaner \u2013 Jaisalmer \u2013 Sam Sand Dunes - Rohet \u2013 Jodhpur \u2013 Kumbhalgarh \u2013 Udaipur \u2013 Bijapur \u2013 Pushkar \u2013 Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "rajasthan-with-beach-tour",
+    title: "RAJASTHAN WITH BEACH TOUR",
+    category: "Rajasthan Tour Packages",
+    duration: "16 Nights / 17 Days",
+    route: "Delhi \u2013 Agra \u2013 Jaipur \u2013 Ranthambhore \u2013 Udaipur \u2013 Goa - Mumbai",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the RAJASTHAN WITH BEACH TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Agra \u2013 Jaipur \u2013 Ranthambhore \u2013 Udaipur \u2013 Goa - Mumbai", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "sejour-de-grand-luxe-tour",
+    title: "SEJOUR DE GRAND LUXE TOUR",
+    category: "Rajasthan Tour Packages",
+    duration: "10 Nights / 11 Days",
+    route: "Delhi \u2013 Agra \u2013 Ranthambhore \u2013 Jaipur \u2013 Udaipur - Mumbai",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the SEJOUR DE GRAND LUXE TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Agra \u2013 Ranthambhore \u2013 Jaipur \u2013 Udaipur - Mumbai", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "14-days-rajasthan-offbeat-tour",
+    title: "14 DAYS RAJASTHAN OFFBEAT TOUR",
+    category: "Rajasthan Tour Packages",
+    duration: "14 Days",
+    route: "Delhi \u2013 Mandawa \u2013 Khimsar \u2013 Nimaj \u2013 Ranakpur \u2013 Dungarpur \u2013 Chittorgarg \u2013 Bundi \u2013 Ranthambhore \u2013 Tehla - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 14 DAYS RAJASTHAN OFFBEAT TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Mandawa \u2013 Khimsar \u2013 Nimaj \u2013 Ranakpur \u2013 Dungarpur \u2013 Chittorgarg \u2013 Bundi \u2013 Ranthambhore \u2013 Tehla - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "17-days-offbeat-rajasthan-tour",
+    title: "17 DAYS OFFBEAT RAJASTHAN TOUR",
+    category: "Rajasthan Tour Packages",
+    duration: "17 Days",
+    route: "Delhi \u2013 Pushkar \u2013 Jojawar \u2013 Udaipur \u2013 Jodhpur \u2013 Osian \u2013 Jaisalmer \u2013 Sam Sand Dunes \u2013 Bikaner \u2013 Mandawa \u2013 Jaipur - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 17 DAYS OFFBEAT RAJASTHAN TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Pushkar \u2013 Jojawar \u2013 Udaipur \u2013 Jodhpur \u2013 Osian \u2013 Jaisalmer \u2013 Sam Sand Dunes \u2013 Bikaner \u2013 Mandawa \u2013 Jaipur - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "rajput-rajasthan-heritage-tour",
+    title: "RAJPUT RAJASTHAN HERITAGE TOUR",
+    category: "Rajasthan Tour Packages",
+    duration: "16 Nights / 17 Days",
+    route: "Delhi \u2013 Samode \u2013 Mandawa \u2013 Bikaner \u2013 Jaisalmer \u2013 Jodhpur \u2013 Ganerao \u2013 Ranakpur \u2013 Udaipur \u2013 Deogarh \u2013 Jaipur \u2013 Kanota \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the RAJPUT RAJASTHAN HERITAGE TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Samode \u2013 Mandawa \u2013 Bikaner \u2013 Jaisalmer \u2013 Jodhpur \u2013 Ganerao \u2013 Ranakpur \u2013 Udaipur \u2013 Deogarh \u2013 Jaipur \u2013 Kanota \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "6-days-magnificent-rajasthan-tour",
+    title: "6 DAYS MAGNIFICENT RAJASTHAN TOUR",
+    category: "Rajasthan Tour Packages",
+    duration: "6 Days",
+    route: "Jodhpur \u2013 Jaisalmer \u2013 Bikaner - Jaipur",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 6 DAYS MAGNIFICENT RAJASTHAN TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jodhpur \u2013 Jaisalmer \u2013 Bikaner - Jaipur", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jodhpur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "rajasthan-heritage-culture-tour",
+    title: "RAJASTHAN HERITAGE & CULTURE TOUR",
+    category: "Rajasthan Tour Packages",
+    duration: "14 Nights / 15 Days",
+    route: "Delhi \u2013 Mandawa \u2013 Bikaner \u2013 Jaisalmer \u2013 Sam Sand Dunes - Jodhpur \u2013 Udaipur \u2013 Pushkar \u2013 Jaipur \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Rajasthan-1.webp",
+    bannerImage: "/assets/images/Rajasthan-1.webp",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the RAJASTHAN HERITAGE & CULTURE TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Mandawa \u2013 Bikaner \u2013 Jaisalmer \u2013 Sam Sand Dunes - Jodhpur \u2013 Udaipur \u2013 Pushkar \u2013 Jaipur \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "archaeological-tour-of-rajasthan",
+    title: "ARCHAEOLOGICAL TOUR OF RAJASTHAN",
+    category: "Rajasthan Tour Packages",
+    duration: "23 Nights / 24 Days",
+    route: "Delhi \u2013 Jaipur \u2013 Samode \u2013 Nawalgarh \u2013 Bikaner \u2013 Gajner \u2013 Jaisalmer \u2013 Sam Sand Dunes - Osian \u2013 Khimsar \u2013 Manwar \u2013 Rohet \u2013 Jodhpur \u2013 Mount Abu \u2013 Udaipur \u2013 Dungarpur \u2013 Deogarh \u2013 Ajmer \u2013 Pushkar \u2013 Pachewar \u2013 Ranthambhore \u2013 Agra - Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Travel-Shopping-Restaurants-1024x576.webp",
+    bannerImage: "/assets/images/Jaipur-Travel-Shopping-Restaurants-1024x576.webp",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the ARCHAEOLOGICAL TOUR OF RAJASTHAN. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Jaipur \u2013 Samode \u2013 Nawalgarh \u2013 Bikaner \u2013 Gajner \u2013 Jaisalmer \u2013 Sam Sand Dunes - Osian \u2013 Khimsar \u2013 Manwar \u2013 Rohet \u2013 Jodhpur \u2013 Mount Abu \u2013 Udaipur \u2013 Dungarpur \u2013 Deogarh \u2013 Ajmer \u2013 Pushkar \u2013 Pachewar \u2013 Ranthambhore \u2013 Agra - Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "same-day-taj-mahal-by-express-train-from-delhi",
+    title: "Same Day Taj Mahal by Express Train from Delhi",
+    category: "Same Day Tours",
+    duration: "Full Day (12 Hours)",
+    route: "Delhi (Gatimaan Express) \u2013 Taj Mahal \u2013 Agra Fort \u2013 Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Same Day Taj Mahal by Express Train from Delhi. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi (Gatimaan Express) \u2013 Taj Mahal \u2013 Agra Fort \u2013 Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi (Gatimaan Express)",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "same-day-jaipur-tour-from-delhi-by-car",
+    title: "Same Day Jaipur Tour from Delhi by Car",
+    category: "Same Day Tours",
+    duration: "Full Day (14 Hours)",
+    route: "Delhi \u2013 Amber Fort \u2013 City Palace \u2013 Hawa Mahal \u2013 Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Golden-Triangle-Tour-img-1024x684.jpg",
+    bannerImage: "/assets/images/Golden-Triangle-Tour-img-1024x684.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Same Day Jaipur Tour from Delhi by Car. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Amber Fort \u2013 City Palace \u2013 Hawa Mahal \u2013 Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "same-day-neemrana-tour-from-delhi",
+    title: "Same Day Neemrana Tour from Delhi",
+    category: "Same Day Tours",
+    duration: "Full Day (8 Hours)",
+    route: "Delhi \u2013 Neemrana Fort Palace \u2013 Stepwell \u2013 Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Facade_Premises__Neemrana_Fort_Palace__palace_hotel_in_Rajasthan_14_4_d55b91-1024x576.avif",
+    bannerImage: "/assets/images/Facade_Premises__Neemrana_Fort_Palace__palace_hotel_in_Rajasthan_14_4_d55b91-1024x576.avif",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Same Day Neemrana Tour from Delhi. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Neemrana Fort Palace \u2013 Stepwell \u2013 Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "same-day-sambhar-tour-from-jaipur",
+    title: "Same Day Sambhar Tour from Jaipur",
+    category: "Same Day Tours",
+    duration: "Full Day (8 Hours)",
+    route: "Jaipur \u2013 Sambhar Salt Lake \u2013 Shakambhari Mata Temple",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Pushkar-Tour-img-1024x684.jpg",
+    bannerImage: "/assets/images/Pushkar-Tour-img-1024x684.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Same Day Sambhar Tour from Jaipur. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Sambhar Salt Lake \u2013 Shakambhari Mata Temple", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "same-day-samode-tour-from-jaipur",
+    title: "Same Day Samode Tour from Jaipur",
+    category: "Same Day Tours",
+    duration: "Full Day (6 Hours)",
+    route: "Jaipur \u2013 Samode Palace & Haveli \u2013 Samode Village",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Same Day Samode Tour from Jaipur. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Samode Palace & Haveli \u2013 Samode Village", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "same-day-sariska-tour-from-jaipur",
+    title: "Same Day Sariska Tour from Jaipur",
+    category: "Same Day Tours",
+    duration: "Full Day (9 Hours)",
+    route: "Jaipur \u2013 Sariska Tiger Reserve \u2013 Siliserh Lake",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/sariska-tiger-reserve-img-1024x684.png",
+    bannerImage: "/assets/images/sariska-tiger-reserve-img-1024x684.png",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Same Day Sariska Tour from Jaipur. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Sariska Tiger Reserve \u2013 Siliserh Lake", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "same-day-abhaneri-bhangarh-tour-from-jaipur",
+    title: "Same Day Abhaneri & Bhangarh Tour from Jaipur",
+    category: "Same Day Tours",
+    duration: "Full Day (9 Hours)",
+    route: "Jaipur \u2013 Chand Baori Stepwell \u2013 Bhangarh Haunted Fort",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Travel-Shopping-Restaurants-1024x576.webp",
+    bannerImage: "/assets/images/Jaipur-Travel-Shopping-Restaurants-1024x576.webp",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Same Day Abhaneri & Bhangarh Tour from Jaipur. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Chand Baori Stepwell \u2013 Bhangarh Haunted Fort", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "same-day-bundi-tour-from-jaipur",
+    title: "Same Day Bundi Tour from Jaipur",
+    category: "Same Day Tours",
+    duration: "Full Day (10 Hours)",
+    route: "Jaipur \u2013 Taragarh Fort \u2013 Bundi Palace \u2013 Stepwells",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Mewar-Tour-img-1024x684.jpg",
+    bannerImage: "/assets/images/Mewar-Tour-img-1024x684.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Same Day Bundi Tour from Jaipur. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Taragarh Fort \u2013 Bundi Palace \u2013 Stepwells", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "same-day-osian-desert-tour-from-jodhpur",
+    title: "Same Day Osian Desert Tour from Jodhpur",
+    category: "Same Day Tours",
+    duration: "Half Day (5 Hours)",
+    route: "Jodhpur \u2013 Osian Sun Temple \u2013 Camel Safari at Dunes",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Romantic-Jaisalmer1-1024x683.jpeg",
+    bannerImage: "/assets/images/Romantic-Jaisalmer1-1024x683.jpeg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Same Day Osian Desert Tour from Jodhpur. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jodhpur \u2013 Osian Sun Temple \u2013 Camel Safari at Dunes", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jodhpur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "same-day-bishnoi-village-safari-from-jodhpur",
+    title: "Same Day Bishnoi Village Safari from Jodhpur",
+    category: "Same Day Tours",
+    duration: "Half Day (4 Hours)",
+    route: "Jodhpur \u2013 Guda Bishnoi Lake \u2013 Pottery Village \u2013 Wildlife",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Rajasthan-Wildlife-Tour-img-1024x684.jpg",
+    bannerImage: "/assets/images/Rajasthan-Wildlife-Tour-img-1024x684.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Same Day Bishnoi Village Safari from Jodhpur. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jodhpur \u2013 Guda Bishnoi Lake \u2013 Pottery Village \u2013 Wildlife", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jodhpur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "same-day-ranakpur-kumbhalgarh-tour-from-udaipur",
+    title: "Same Day Ranakpur & Kumbhalgarh Tour from Udaipur",
+    category: "Same Day Tours",
+    duration: "Full Day (9 Hours)",
+    route: "Udaipur \u2013 Ranakpur Jain Temple \u2013 Kumbhalgarh Fort",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Udaipur-Tour-img-1024x684.jpg",
+    bannerImage: "/assets/images/Udaipur-Tour-img-1024x684.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Same Day Ranakpur & Kumbhalgarh Tour from Udaipur. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Udaipur \u2013 Ranakpur Jain Temple \u2013 Kumbhalgarh Fort", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Udaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "same-day-chittorgarh-fort-tour-from-udaipur",
+    title: "Same Day Chittorgarh Fort Tour from Udaipur",
+    category: "Same Day Tours",
+    duration: "Full Day (8 Hours)",
+    route: "Udaipur \u2013 Chittorgarh Fort \u2013 Vijay Stambh \u2013 Padmini Palace",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Mewar-Tour-img-1024x684.jpg",
+    bannerImage: "/assets/images/Mewar-Tour-img-1024x684.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Same Day Chittorgarh Fort Tour from Udaipur. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Udaipur \u2013 Chittorgarh Fort \u2013 Vijay Stambh \u2013 Padmini Palace", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Udaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "kashmir-honeymoon-tour",
+    title: "Kashmir Honeymoon Tour",
+    category: "Honeymoon Tour Packages",
+    duration: "6 Days / 5 Nights",
+    route: "Srinagar \u2013 Gulmarg \u2013 Pahalgam",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Kashmir-Family-Gulmarg.jpg",
+    bannerImage: "/assets/images/Kashmir-Family-Gulmarg.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Kashmir Honeymoon Tour. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Srinagar \u2013 Gulmarg \u2013 Pahalgam", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Srinagar",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "munnar-honeymoon-tour",
+    title: "MUNNAR HONEYMOON TOUR",
+    category: "Honeymoon Tour Packages",
+    duration: "4 Days / 3 Nights",
+    route: "Munnar Tea Hills \u2013 Kochi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/kerala-honeymoon-1024x533.jpg",
+    bannerImage: "/assets/images/kerala-honeymoon-1024x533.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the MUNNAR HONEYMOON TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Munnar Tea Hills \u2013 Kochi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Munnar Tea Hills",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "himachal-honeymoon-tour",
+    title: "HIMACHAL HONEYMOON TOUR",
+    category: "Honeymoon Tour Packages",
+    duration: "6 Days / 5 Nights",
+    route: "Shimla \u2013 Kullu \u2013 Manali",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/1699516712_712785-dalhousie-khajjiar-chamba-tour-package-slider-image.webp",
+    bannerImage: "/assets/images/1699516712_712785-dalhousie-khajjiar-chamba-tour-package-slider-image.webp",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the HIMACHAL HONEYMOON TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Shimla \u2013 Kullu \u2013 Manali", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Shimla",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "kullu-manali-honeymoon-tour",
+    title: "KULLU MANALI HONEYMOON TOUR",
+    category: "Honeymoon Tour Packages",
+    duration: "5 Days / 4 Nights",
+    route: "Chandigarh \u2013 Kullu \u2013 Manali \u2013 Rohtang",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/1699516712_712785-dalhousie-khajjiar-chamba-tour-package-slider-image.webp",
+    bannerImage: "/assets/images/1699516712_712785-dalhousie-khajjiar-chamba-tour-package-slider-image.webp",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the KULLU MANALI HONEYMOON TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Chandigarh \u2013 Kullu \u2013 Manali \u2013 Rohtang", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Chandigarh",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "exotic-jaipur-honeymoon-tour",
+    title: "EXOTIC JAIPUR HONEYMOON TOUR",
+    category: "Honeymoon Tour Packages",
+    duration: "3 Days / 2 Nights",
+    route: "Jaipur Heritage Forts & Palaces",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Travel-Shopping-Restaurants-1024x576.webp",
+    bannerImage: "/assets/images/Jaipur-Travel-Shopping-Restaurants-1024x576.webp",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the EXOTIC JAIPUR HONEYMOON TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur Heritage Forts & Palaces", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur Heritage Forts & Palaces",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "romantic-kerala-honeymoon-tour",
+    title: "ROMANTIC KERALA HONEYMOON TOUR",
+    category: "Honeymoon Tour Packages",
+    duration: "7 Days / 6 Nights",
+    route: "Cochin \u2013 Munnar \u2013 Thekkady \u2013 Alleppey",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/kerala-group-tour-img-1024x684.png",
+    bannerImage: "/assets/images/kerala-group-tour-img-1024x684.png",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the ROMANTIC KERALA HONEYMOON TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Cochin \u2013 Munnar \u2013 Thekkady \u2013 Alleppey", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Cochin",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "north-east-india-honeymoon-tour",
+    title: "NORTH EAST INDIA HONEYMOON TOUR",
+    category: "Honeymoon Tour Packages",
+    duration: "7 Days / 6 Nights",
+    route: "Gangtok \u2013 Darjeeling \u2013 Mirik",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/north-india-img-1024x684.png",
+    bannerImage: "/assets/images/north-india-img-1024x684.png",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the NORTH EAST INDIA HONEYMOON TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Gangtok \u2013 Darjeeling \u2013 Mirik", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Gangtok",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "splendid-kerala-honeymoon-tour",
+    title: "SPLENDID KERALA HONEYMOON TOUR",
+    category: "Honeymoon Tour Packages",
+    duration: "6 Days / 5 Nights",
+    route: "Cochin \u2013 Munnar \u2013 Alleppey Houseboat",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/kerla.jpg",
+    bannerImage: "/assets/images/kerla.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the SPLENDID KERALA HONEYMOON TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Cochin \u2013 Munnar \u2013 Alleppey Houseboat", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Cochin",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "mussoorie-rishikesh-honeymoon-tour",
+    title: "MUSSOORIE RISHIKESH HONEYMOON TOUR",
+    category: "Honeymoon Tour Packages",
+    duration: "5 Days / 4 Nights",
+    route: "Dehradun \u2013 Mussoorie \u2013 Rishikesh",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/one-day-delhi-to-haridwar-rishikesh-sightseeing-tour-package-private-cab-header-1024x683.jpg",
+    bannerImage: "/assets/images/one-day-delhi-to-haridwar-rishikesh-sightseeing-tour-package-private-cab-header-1024x683.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the MUSSOORIE RISHIKESH HONEYMOON TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Dehradun \u2013 Mussoorie \u2013 Rishikesh", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Dehradun",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "romantic-rajasthan-honeymoon-tour",
+    title: "ROMANTIC RAJASTHAN HONEYMOON TOUR",
+    category: "Honeymoon Tour Packages",
+    duration: "8 Days / 7 Nights",
+    route: "Jaipur \u2013 Jodhpur \u2013 Udaipur Palaces",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Facade_Premises__Neemrana_Fort_Palace__palace_hotel_in_Rajasthan_14_4_d55b91-1024x576.avif",
+    bannerImage: "/assets/images/Facade_Premises__Neemrana_Fort_Palace__palace_hotel_in_Rajasthan_14_4_d55b91-1024x576.avif",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the ROMANTIC RAJASTHAN HONEYMOON TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Jodhpur \u2013 Udaipur Palaces", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "3-days-delhi-agra-group-tour",
+    title: "3 DAYS DELHI-AGRA GROUP TOUR",
+    category: "Group Tour Packages",
+    duration: "3 Days",
+    route: "Delhi & Agra",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/5-day-tour-of-delhi-agra-gwalior-ochhaa-and-khajuraho-2828911-1024x683.webp",
+    bannerImage: "/assets/images/5-day-tour-of-delhi-agra-gwalior-ochhaa-and-khajuraho-2828911-1024x683.webp",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the 3 DAYS DELHI-AGRA GROUP TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi & Agra", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi & Agra",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "golden-triangle-with-udaipur-group-tour",
+    title: "GOLDEN TRIANGLE WITH UDAIPUR GROUP TOUR",
+    category: "Group Tour Packages",
+    duration: "8 Days",
+    route: "Delhi \u2013 Agra \u2013 Jaipur \u2013 Udaipur",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Pichola-Lake-Udaipur-Rajasthan.jpeg",
+    bannerImage: "/assets/images/Pichola-Lake-Udaipur-Rajasthan.jpeg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the GOLDEN TRIANGLE WITH UDAIPUR GROUP TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Agra \u2013 Jaipur \u2013 Udaipur", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "jewels-of-rajasthan-group-tour",
+    title: "JEWELS OF RAJASTHAN GROUP TOUR",
+    category: "Group Tour Packages",
+    duration: "9 Days",
+    route: "Jaipur \u2013 Udaipur \u2013 Jodhpur \u2013 Jaisalmer",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/cmzr2zkmd8u5ud2g3i4474wifmcb_1510321235_Jaisalmer-1030x666-1-1024x662.avif",
+    bannerImage: "/assets/images/cmzr2zkmd8u5ud2g3i4474wifmcb_1510321235_Jaisalmer-1030x666-1-1024x662.avif",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the JEWELS OF RAJASTHAN GROUP TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaipur \u2013 Udaipur \u2013 Jodhpur \u2013 Jaisalmer", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaipur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "exotic-kerala-group-tour",
+    title: "EXOTIC KERALA GROUP TOUR",
+    category: "Group Tour Packages",
+    duration: "9 Days",
+    route: "Cochin \u2013 Munnar \u2013 Periyar \u2013 Alleppey \u2013 Kovalam \u2013 Trivandrum",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/kerala-honeymoon-1024x533.jpg",
+    bannerImage: "/assets/images/kerala-honeymoon-1024x533.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the EXOTIC KERALA GROUP TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Cochin \u2013 Munnar \u2013 Periyar \u2013 Alleppey \u2013 Kovalam \u2013 Trivandrum", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Cochin",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "best-of-north-india-group-tour",
+    title: "BEST OF NORTH INDIA GROUP TOUR",
+    category: "Group Tour Packages",
+    duration: "12 Days",
+    route: "Delhi \u2013 Shimla \u2013 Manali \u2013 Dharamshala \u2013 Dalhousie \u2013 Amritsar",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/650e2-delhi-1.webp",
+    bannerImage: "/assets/images/650e2-delhi-1.webp",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the BEST OF NORTH INDIA GROUP TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Shimla \u2013 Manali \u2013 Dharamshala \u2013 Dalhousie \u2013 Amritsar", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "royal-rajasthan-group-tour",
+    title: "ROYAL RAJASTHAN GROUP TOUR",
+    category: "Group Tour Packages",
+    duration: "13 Days",
+    route: "Delhi \u2013 Mandawa \u2013 Bikaner \u2013 Jaisalmer \u2013 Jodhpur \u2013 Udaipur \u2013 Jaipur \u2013 Agra",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/MANDAWA.jpg",
+    bannerImage: "/assets/images/MANDAWA.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the ROYAL RAJASTHAN GROUP TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Mandawa \u2013 Bikaner \u2013 Jaisalmer \u2013 Jodhpur \u2013 Udaipur \u2013 Jaipur \u2013 Agra", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "blissful-south-india-group-tour",
+    title: "BLISSFUL SOUTH INDIA GROUP TOUR",
+    category: "Group Tour Packages",
+    duration: "13 Days",
+    route: "Bangalore \u2013 Mysore \u2013 Coorg \u2013 Chikmaglur \u2013 Hampi \u2013 Goa",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Goa-Honeymoon-Tour-img-1024x684.jpg",
+    bannerImage: "/assets/images/Goa-Honeymoon-Tour-img-1024x684.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the BLISSFUL SOUTH INDIA GROUP TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Bangalore \u2013 Mysore \u2013 Coorg \u2013 Chikmaglur \u2013 Hampi \u2013 Goa", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Bangalore",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "short-escape-of-corbett",
+    title: "SHORT ESCAPE OF CORBETT",
+    category: "Wildlife Tours",
+    duration: "3 Days / 2 Nights",
+    route: "Delhi \u2013 Jim Corbett National Park \u2013 Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/nainital-corbett-mussoorie-image.gif",
+    bannerImage: "/assets/images/nainital-corbett-mussoorie-image.gif",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the SHORT ESCAPE OF CORBETT. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Jim Corbett National Park \u2013 Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "short-escape-of-periyar",
+    title: "SHORT ESCAPE OF PERIYAR",
+    category: "Wildlife Tours",
+    duration: "3 Days / 2 Nights",
+    route: "Cochin \u2013 Periyar National Park \u2013 Cochin",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/periyar-1024x768.webp",
+    bannerImage: "/assets/images/periyar-1024x768.webp",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the SHORT ESCAPE OF PERIYAR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Cochin \u2013 Periyar National Park \u2013 Cochin", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Cochin",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "bird-paradise-with-taj",
+    title: "BIRD PARADISE WITH TAJ",
+    category: "Wildlife Tours",
+    duration: "4 Days / 3 Nights",
+    route: "Delhi \u2013 Agra (Taj Mahal) \u2013 Bharatpur Bird Sanctuary",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Mosque-Frame-Taj-Mahal-819x1024-1.jpg",
+    bannerImage: "/assets/images/Mosque-Frame-Taj-Mahal-819x1024-1.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the BIRD PARADISE WITH TAJ. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Agra (Taj Mahal) \u2013 Bharatpur Bird Sanctuary", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "bird-paradise-tour",
+    title: "BIRD PARADISE TOUR",
+    category: "Wildlife Tours",
+    duration: "6 Days / 5 Nights",
+    route: "Delhi \u2013 Bharatpur (Keoladeo) \u2013 Chambal Sanctuary",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/image-16.png",
+    bannerImage: "/assets/images/image-16.png",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the BIRD PARADISE TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Bharatpur (Keoladeo) \u2013 Chambal Sanctuary", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "wildlife-in-gujrat",
+    title: "WILDLIFE IN GUJRAT",
+    category: "Wildlife Tours",
+    duration: "6 Days / 5 Nights",
+    route: "Ahmedabad \u2013 Gir National Park \u2013 Velavadar \u2013 Little Rann of Kutch",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Wildlife-of-South-India-1024x684.png",
+    bannerImage: "/assets/images/Wildlife-of-South-India-1024x684.png",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the WILDLIFE IN GUJRAT. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Ahmedabad \u2013 Gir National Park \u2013 Velavadar \u2013 Little Rann of Kutch", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Ahmedabad",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "ranthambore-corbett-wildlife-tour",
+    title: "Ranthambore & Corbett Wildlife Tour",
+    category: "Wildlife Tours",
+    duration: "7 Days / 6 Nights",
+    route: "Delhi \u2013 Ranthambore Tiger Reserve \u2013 Jim Corbett \u2013 Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/jaipur-ranthambore-weekend-tou1.jpg",
+    bannerImage: "/assets/images/jaipur-ranthambore-weekend-tou1.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Ranthambore & Corbett Wildlife Tour. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Ranthambore Tiger Reserve \u2013 Jim Corbett \u2013 Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "tiger-tour-with-mumbai",
+    title: "TIGER TOUR WITH MUMBAI",
+    category: "Wildlife Tours",
+    duration: "8 Days / 7 Nights",
+    route: "Mumbai \u2013 Tadoba Andhari Tiger Reserve \u2013 Pench \u2013 Mumbai",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Sariska-Tiger-Reserve-1280x720-1-1024x576.png",
+    bannerImage: "/assets/images/Sariska-Tiger-Reserve-1280x720-1-1024x576.png",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the TIGER TOUR WITH MUMBAI. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Mumbai \u2013 Tadoba Andhari Tiger Reserve \u2013 Pench \u2013 Mumbai", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Mumbai",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "north-east-india-wildlife-tour",
+    title: "NORTH EAST INDIA WILDLIFE TOUR",
+    category: "Wildlife Tours",
+    duration: "8 Days / 7 Nights",
+    route: "Guwahati \u2013 Kaziranga National Park (Rhino Safari) \u2013 Manas",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Rajasthan-Wildlife-Tour-img-1024x684.jpg",
+    bannerImage: "/assets/images/Rajasthan-Wildlife-Tour-img-1024x684.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the NORTH EAST INDIA WILDLIFE TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Guwahati \u2013 Kaziranga National Park (Rhino Safari) \u2013 Manas", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Guwahati",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "land-of-the-tiger-tour",
+    title: "LAND OF THE TIGER TOUR",
+    category: "Wildlife Tours",
+    duration: "9 Days / 8 Nights",
+    route: "Delhi \u2013 Bandhavgarh \u2013 Kanha National Park \u2013 Jabalpur",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/sariska-tiger-reserve-img-1024x684.png",
+    bannerImage: "/assets/images/sariska-tiger-reserve-img-1024x684.png",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the LAND OF THE TIGER TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Bandhavgarh \u2013 Kanha National Park \u2013 Jabalpur", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "east-india-wildlife-tour",
+    title: "EAST INDIA WILDLIFE TOUR",
+    category: "Wildlife Tours",
+    duration: "7 Days / 6 Nights",
+    route: "Kolkata \u2013 Sundarbans Mangrove Safari \u2013 Kaziranga",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/image-46-1024x512.png",
+    bannerImage: "/assets/images/image-46-1024x512.png",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the EAST INDIA WILDLIFE TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Kolkata \u2013 Sundarbans Mangrove Safari \u2013 Kaziranga", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Kolkata",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "himachal-bird-watching-tour",
+    title: "HIMACHAL BIRD WATCHING TOUR",
+    category: "Wildlife Tours",
+    duration: "7 Days / 6 Nights",
+    route: "Chandigarh \u2013 Great Himalayan National Park \u2013 Tirthan Valley",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/image-17.png",
+    bannerImage: "/assets/images/image-17.png",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the HIMACHAL BIRD WATCHING TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Chandigarh \u2013 Great Himalayan National Park \u2013 Tirthan Valley", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Chandigarh",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "treasures-of-indian-wildlife",
+    title: "TREASURES OF INDIAN WILDLIFE",
+    category: "Wildlife Tours",
+    duration: "10 Days / 9 Nights",
+    route: "Delhi \u2013 Ranthambore \u2013 Bharatpur \u2013 Corbett \u2013 Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/682340a10a78c-girnationalpark-3-1-1024x538.jpg",
+    bannerImage: "/assets/images/682340a10a78c-girnationalpark-3-1-1024x538.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the TREASURES OF INDIAN WILDLIFE. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Ranthambore \u2013 Bharatpur \u2013 Corbett \u2013 Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "wildlife-of-incredible-india-with-tiger",
+    title: "Wildlife of Incredible India with Tiger",
+    category: "Wildlife Tours",
+    duration: "12 Days / 11 Nights",
+    route: "Delhi \u2013 Khajuraho \u2013 Bandhavgarh \u2013 Kanha \u2013 Pench \u2013 Delhi",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/image-1024x640.png",
+    bannerImage: "/assets/images/image-1024x640.png",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Wildlife of Incredible India with Tiger. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Khajuraho \u2013 Bandhavgarh \u2013 Kanha \u2013 Pench \u2013 Delhi", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "lure-of-the-jungle-tour",
+    title: "LURE OF THE JUNGLE TOUR",
+    category: "Wildlife Tours",
+    duration: "8 Days / 7 Nights",
+    route: "Delhi \u2013 Corbett \u2013 Nainital \u2013 Ranikhet Wildlife Trails",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Feature-How-to-Plan-a-Trip-to-Corbett-1024x577.jpg",
+    bannerImage: "/assets/images/Feature-How-to-Plan-a-Trip-to-Corbett-1024x577.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the LURE OF THE JUNGLE TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Delhi \u2013 Corbett \u2013 Nainital \u2013 Ranikhet Wildlife Trails", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Delhi",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "central-india-wildlife-tour",
+    title: "CENTRAL INDIA WILDLIFE TOUR",
+    category: "Wildlife Tours",
+    duration: "9 Days / 8 Nights",
+    route: "Jabalpur \u2013 Bandhavgarh \u2013 Kanha \u2013 Pench Safari \u2013 Nagpur",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/image-20.png",
+    bannerImage: "/assets/images/image-20.png",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the CENTRAL INDIA WILDLIFE TOUR. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jabalpur \u2013 Bandhavgarh \u2013 Kanha \u2013 Pench Safari \u2013 Nagpur", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jabalpur",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "blissful-jaisalmer-shopping-tour",
+    title: "Blissful Jaisalmer Shopping Tour",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 4 Hour",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/jaipur-shop.jpg",
+    bannerImage: "/assets/images/jaipur-shop.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Blissful Jaisalmer Shopping Tour. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 4 Hour", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "fascinating-day-tour-of-golden-city-jaisalmer",
+    title: "Fascinating Day Tour of Golden City Jaisalmer",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 6 Hour",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Fascinating Day Tour of Golden City Jaisalmer. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 6 Hour", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "half-day-incredible-jaisalmer-city-tour",
+    title: "Half Day Incredible Jaisalmer City Tour",
+    category: "Jaisalmer Tour Packages",
+    duration: "Half Day",
+    route: "Jaisalmer \u2013 3 Hour",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Half Day Incredible Jaisalmer City Tour. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 3 Hour", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "fantastic-jaisalmer-trip-with-overnight-desert-experience",
+    title: "Fantastic Jaisalmer Trip with Overnight Desert Experience",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 2 Night 3 Days",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Fantastic Jaisalmer Trip with Overnight Desert Experience. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 2 Night 3 Days", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "instagram-reels-and-photography-tour-of-jaisalmer-with-desert-camping-trip",
+    title: "Instagram Reels & Photography Tour of Jaisalmer with Desert Camping Trip",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 2 Night 3 Days",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Instagram Reels & Photography Tour of Jaisalmer with Desert Camping Trip. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 2 Night 3 Days", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "pre-wedding-location-shoot-in-jaisalmer-with-thar-desert",
+    title: "Pre-Wedding Location Shoot in Jaisalmer with Thar Desert",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 3 Night 4 Days",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Pre-Wedding Location Shoot in Jaisalmer with Thar Desert. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 3 Night 4 Days", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "full-day-private-tour-of-golden-city--jaisalmer--with-guide",
+    title: "Full-Day Private Tour of Golden City ( Jaisalmer ) with Guide",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 6 Hour",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Full-Day Private Tour of Golden City ( Jaisalmer ) with Guide. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 6 Hour", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "instagram-reels-and-photography-tour-with-the-best-photography-spots-of-jaisalmer",
+    title: "Instagram Reels & Photography Tour with The Best Photography Spots of Jaisalmer",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 1 Full Day",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/one-day-delhi-to-haridwar-rishikesh-sightseeing-tour-package-private-cab-header-1024x683.jpg",
+    bannerImage: "/assets/images/one-day-delhi-to-haridwar-rishikesh-sightseeing-tour-package-private-cab-header-1024x683.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Instagram Reels & Photography Tour with The Best Photography Spots of Jaisalmer. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 1 Full Day", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "jaisalmer-with-blissful-camel-safari-with-wild-life-of-thar-desert-and-camping",
+    title: "Jaisalmer with Blissful Camel Safari with Wild Life of Thar Desert & Camping",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 3 Nights 4 Days",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Jaisalmer with Blissful Camel Safari with Wild Life of Thar Desert & Camping. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 3 Nights 4 Days", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "purely-private-full-day-tuk-tuk-tour-of-golden-city-jaisalmer",
+    title: "Purely Private Full Day Tuk-Tuk Tour of Golden City Jaisalmer",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 6 Hour",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-TukTuk-Tour-img-1024x684.jpg",
+    bannerImage: "/assets/images/Jaipur-TukTuk-Tour-img-1024x684.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Purely Private Full Day Tuk-Tuk Tour of Golden City Jaisalmer. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 6 Hour", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "travelastic-heritage-walking-tour-of-jaisalmer-with-local-street-food-experience",
+    title: "Travelastic Heritage Walking Tour of Jaisalmer with Local Street Food Experience",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 Between 2 to 3 Hour",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Travelastic Heritage Walking Tour of Jaisalmer with Local Street Food Experience. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 Between 2 to 3 Hour", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "marvin-multi-day-camel-safari",
+    title: "Marvin Multi Day Camel Safari",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 15 to 45 Minutes",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Marvin Multi Day Camel Safari. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 15 to 45 Minutes", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "blissful-camel-safari-with-enchanting-beauty-of-thar-desert",
+    title: "Blissful Camel Safari with Enchanting Beauty of Thar Desert",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 1 Day",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Blissful Camel Safari with Enchanting Beauty of Thar Desert. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 1 Day", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "dazzling-half-day-camel-safari-tour-with-sunset",
+    title: "Dazzling Half Day Camel Safari Tour With Sunset",
+    category: "Jaisalmer Tour Packages",
+    duration: "Half Day",
+    route: "Jaisalmer \u2013 Half Day",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Dazzling Half Day Camel Safari Tour With Sunset. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 Half Day", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "delightful-2-nights-camel-safari-in-the-great-thar-desert",
+    title: "Delightful 2 Nights Camel Safari in The Great Thar Desert",
+    category: "Jaisalmer Tour Packages",
+    duration: "2 Nights",
+    route: "Jaisalmer \u2013 2 Nights 3 Days",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Delightful 2 Nights Camel Safari in The Great Thar Desert. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 2 Nights 3 Days", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "exploriana-2-nights-camel-safari-with-overnight-desert-camping",
+    title: "Exploriana 2 Nights Camel Safari with Overnight Desert Camping",
+    category: "Jaisalmer Tour Packages",
+    duration: "2 Nights",
+    route: "Jaisalmer \u2013 2 Nights / 3 Days",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/image-16.png",
+    bannerImage: "/assets/images/image-16.png",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Exploriana 2 Nights Camel Safari with Overnight Desert Camping. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 2 Nights / 3 Days", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "fernweh-half-day-camel-safari-tour-with-sunrise",
+    title: "Fernweh Half Day Camel Safari Tour with Sunrise",
+    category: "Jaisalmer Tour Packages",
+    duration: "Half Day",
+    route: "Jaisalmer \u2013 Hald Days",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/jaisalmer-camel-safari.jpeg",
+    bannerImage: "/assets/images/jaisalmer-camel-safari.jpeg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Fernweh Half Day Camel Safari Tour with Sunrise. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 Hald Days", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "mesmerizing-camel-safari-with-bliss-of-thar-desert",
+    title: "Mesmerizing Camel Safari with Bliss of Thar Desert",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 1 Night / 2 Days",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/jaisalmer-camel-safari.jpeg",
+    bannerImage: "/assets/images/jaisalmer-camel-safari.jpeg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Mesmerizing Camel Safari with Bliss of Thar Desert. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 1 Night / 2 Days", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "nomadic-non-touristic-overnight-camel-safari-tour-with-beauty-of-thar-desert",
+    title: "Nomadic Non Touristic Overnight Camel Safari Tour with Beauty of Thar Desert",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 1 Night / 2 Days",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Nomadic Non Touristic Overnight Camel Safari Tour with Beauty of Thar Desert. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 1 Night / 2 Days", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "peeps-billions-of-stars-and-moon-experience-with-off-beaten-track-camel-safari",
+    title: "Peep's Billions of Stars & Moon Experience with Off Beaten Track Camel Safari",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 1 Nights / 2 Days",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Peep's Billions of Stars & Moon Experience with Off Beaten Track Camel Safari. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 1 Nights / 2 Days", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "rumi-camel-safari-with-enchanting-beauty-of-thar-desert",
+    title: "Rumi Camel Safari with Enchanting Beauty of Thar Desert",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 1 Nights / 2 Days",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Rumi Camel Safari with Enchanting Beauty of Thar Desert. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 1 Nights / 2 Days", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "wanderlust-camel-safari-with-rumi-caravan-of-thar-desert",
+    title: "Wanderlust Camel Safari with Rumi Caravan of Thar Desert",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 1 Nights / 2 Days",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Wanderlust Camel Safari with Rumi Caravan of Thar Desert. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 1 Nights / 2 Days", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "buoyant-luxurious-camping-in-the-thar-desert",
+    title: "Buoyant Luxurious Camping In The Thar Desert",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 1 Night / 2 Days",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Buoyant Luxurious Camping In The Thar Desert. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 1 Night / 2 Days", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "enchanting-desert-camping-tour-with-thriller-adventure",
+    title: "Enchanting Desert Camping Tour with Thriller Adventure",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 1 Night / 2 Days",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Enchanting Desert Camping Tour with Thriller Adventure. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 1 Night / 2 Days", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "frenzy-paradise-desert-camping-tour-in-the-great-thar-desert",
+    title: "Frenzy Paradise Desert Camping Tour in The Great Thar Desert",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 1 Night / 2 Days",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Frenzy Paradise Desert Camping Tour in The Great Thar Desert. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 1 Night / 2 Days", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "joyful-2-night-desert-camping-and-cultural-show",
+    title: "Joyful 2 Night Desert Camping & Cultural Show",
+    category: "Jaisalmer Tour Packages",
+    duration: "2 Night",
+    route: "Jaisalmer \u2013 2 Nights / 3 Days",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Joyful 2 Night Desert Camping & Cultural Show. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 2 Nights / 3 Days", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "mystical-desert-camping-and-cultural-show-in-the-great-thar-desert",
+    title: "Mystical Desert Camping & Cultural Show in The Great Thar Desert",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 2 Nights / 3 Days",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/north-india-img-1024x684.png",
+    bannerImage: "/assets/images/north-india-img-1024x684.png",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Mystical Desert Camping & Cultural Show in The Great Thar Desert. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 2 Nights / 3 Days", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "serene-trip-of-mesmerizing-sunset-with-evening-cultural-show-and-dinner",
+    title: "Serene Trip of Mesmerizing Sunset with Evening Cultural Show & Dinner",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 1 Days",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Serene Trip of Mesmerizing Sunset with Evening Cultural Show & Dinner. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 1 Days", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "haunted-trail-tour-of-jaisalmer",
+    title: "Haunted Trail Tour of Jaisalmer",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 1 Day",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Haunted Trail Tour of Jaisalmer. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 1 Day", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "temple-trail-tour-of-jaisalmer",
+    title: "Temple Trail Tour of jaisalmer",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 1 Day",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Temple Trail Tour of jaisalmer. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 1 Day", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "jaisalmer-rural-village-and-eco-farm-tour",
+    title: "Jaisalmer Rural Village & Eco Farm Tour",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 1 Day",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Jaisalmer Rural Village & Eco Farm Tour. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 1 Day", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "jaisalmer-rural-village-and-ngo-school-tour",
+    title: "Jaisalmer Rural Village & NGO School Tour",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 1 Day",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Jaisalmer Rural Village & NGO School Tour. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 1 Day", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "adventure-gypsy-tour-of-desert-national-park-with-wild-life",
+    title: "Adventure Gypsy Tour of Desert National Park with Wild Life",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 Between 1 to 2 Hour",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Adventure Gypsy Tour of Desert National Park with Wild Life. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 Between 1 to 2 Hour", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "diwali-in-the-thar-desert",
+    title: "Diwali in the Thar Desert",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 1 Night / 2 Days",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Diwali in the Thar Desert. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 1 Night / 2 Days", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "diwali-in-jaisalmer",
+    title: "Diwali in Jaisalmer",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 1 Night / 2 Days",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Diwali in Jaisalmer. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 1 Night / 2 Days", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "new-year-at-dunes",
+    title: "New Year at Dunes",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 1 Night / 2 Days",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the New Year at Dunes. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 1 Night / 2 Days", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "christmas-at-thar-desert",
+    title: "Christmas at Thar Desert",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 1 Night / 2 Days",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Christmas at Thar Desert. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 1 Night / 2 Days", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "breakfast-at-dunes-with-beautiful-sunrise",
+    title: "Breakfast at Dunes with Beautiful Sunrise",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 3 Hour",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Breakfast at Dunes with Beautiful Sunrise. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 3 Hour", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "hi-tea-on-the-dunes-with-beautiful-sunset",
+    title: "Hi-Tea on The Dunes with Beautiful Sunset",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 1 Hour",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Hi-Tea on The Dunes with Beautiful Sunset. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 1 Hour", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "marvin-romantic-jaisalmer-tour",
+    title: "Marvin Romantic Jaisalmer Tour",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 2 Night 3 Days",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Romantic-Jaisalmer1-1024x683.jpeg",
+    bannerImage: "/assets/images/Romantic-Jaisalmer1-1024x683.jpeg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Marvin Romantic Jaisalmer Tour. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 2 Night 3 Days", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "romantic-candle-light-dinner-at-dunes",
+    title: "Romantic Candle Light Dinner at Dunes",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 2 Hour",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Romantic-Jaisalmer3.jpeg",
+    bannerImage: "/assets/images/Romantic-Jaisalmer3.jpeg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Romantic Candle Light Dinner at Dunes. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 2 Hour", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "jeep-safari-at-thar-desert",
+    title: "Jeep Safari at Thar Desert",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 15 to 45 Minutes",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Jeep Safari at Thar Desert. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 15 to 45 Minutes", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "paramotoring-at-thar-desert",
+    title: "Paramotoring at Thar Desert",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 10 to 30 Minutes",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Paramotoring at Thar Desert. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 10 to 30 Minutes", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "parasailing-at-thar-desert",
+    title: "Parasailing at Thar Desert",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 10 to 20 Minutes",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Parasailing at Thar Desert. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 10 to 20 Minutes", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "quad-biking-at-thar-desert",
+    title: "Quad Biking at Thar Desert",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer \u2013 10 to 20 Minutes",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Quad Biking at Thar Desert. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer \u2013 10 to 20 Minutes", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
+  {
+    id: "toyota-fortuner-safari-at-thar-desert",
+    title: "Toyota Fortuner Safari at Thar Desert",
+    category: "Jaisalmer Tour Packages",
+    duration: "Day Tour",
+    route: "Jaisalmer",
+    startingPrice: "\u20b96,499",
+    originalPrice: "\u20b98,999",
+    rating: 4.9,
+    reviewsCount: 48,
+    image: "/assets/images/Jaipur-Agra-img.jpg",
+    bannerImage: "/assets/images/Jaipur-Agra-img.jpg",
+    overview: "Discover the finest cultural heritage, historic landmarks, and bespoke travel experiences on the Toyota Fortuner Safari at Thar Desert. Perfectly curated by Delightful India Holidays with private air-conditioned vehicle and dedicated tour guide.",
+    highlights: ["Private chauffeur-driven air-conditioned car for seamless travel", "Curated sightseeing itinerary covering Jaisalmer", "Licensed local English-speaking monument guides at major sites", "Comfortable heritage & deluxe hotel stays with daily breakfast", "24x7 local support and round-the-clock emergency assistance"],
+    itinerary: [
+      {
+            "day": 1,
+            "title": "Day 1: Arrival & Sightseeing in Jaisalmer",
+            "description": "Arrive and meet your private chauffeur. Transfer to your hotel and embark on a private guided tour exploring iconic monuments and local bazaars.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 2,
+            "title": "Day 2: Exploration & Heritage Tour",
+            "description": "Enjoy breakfast and visit the primary palaces, forts, and cultural sights. Experience authentic regional dining and vibrant evening markets.",
+            "meals": "Breakfast",
+            "accommodation": "Deluxe Heritage Hotel"
+      },
+      {
+            "day": 3,
+            "title": "Day 3: Sightseeing & Onward Journey",
+            "description": "Final morning sightseeing tour followed by a scenic chauffeured transfer to the airport or railway station for your onward journey.",
+            "meals": "Breakfast"
+      }
+],
+    inclusions: defaultInclusions,
+    exclusions: defaultExclusions,
+    featured: false,
+    bestSeller: false,
+  },
 ];
 
 // ---------------------------------------------------------------------------
