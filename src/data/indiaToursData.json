@@ -1,0 +1,263 @@
+{
+  "hero": {
+    "title": "India Tour Packages",
+    "heroImage": "https://delightfulindiaholidays.com/wp-content/uploads/2024/06/pexels-yogendras31-1542620-scaled.jpg",
+    "localHeroImage": "/assets/images/india-hero.jpg"
+  },
+  "regions": [
+    {
+      "id": "central-india",
+      "name": "Central India",
+      "toursCount": "16 Tours",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/06/Maha-Kumbh-Mela-300x225-1.webp",
+      "localImage": "/assets/images/india-regions/central-india.webp",
+      "anchor": "#central-india"
+    },
+    {
+      "id": "east-india",
+      "name": "East India",
+      "toursCount": "5 Tours",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/Taj-Mahal-With-Khajuraho-img.jpg",
+      "localImage": "/assets/images/india-regions/east-india.jpg",
+      "anchor": "#east-india"
+    },
+    {
+      "id": "north-east",
+      "name": "North East",
+      "toursCount": "38 Tours",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/06/1602143272_guwahati3.avif",
+      "localImage": "/assets/images/india-regions/north-east.avif",
+      "anchor": "#north-east"
+    },
+    {
+      "id": "north-india",
+      "name": "North India Tour",
+      "toursCount": "38 Tours",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/07/Leh-Ladakh-Tour-Package-from-Srinagar.webp",
+      "localImage": "/assets/images/india-regions/north-india.webp",
+      "anchor": "#north-india"
+    },
+    {
+      "id": "south-india",
+      "name": "South India",
+      "toursCount": "65 Tours",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/Goa-Honeymoon-Tour-img.jpg",
+      "localImage": "/assets/images/india-regions/south-india.jpg",
+      "anchor": "#south-india"
+    },
+    {
+      "id": "west-india",
+      "name": "West India",
+      "toursCount": "12 Tours",
+      "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/06/culture-dance-south-india.jpg",
+      "localImage": "/assets/images/india-regions/west-india.jpg",
+      "anchor": "#west-india"
+    }
+  ],
+  "sections": [
+    {
+      "id": "central-india",
+      "title": "Central India Tour Packages",
+      "highlight": "Central India",
+      "packages": [
+        {
+          "id": "maha-kumbh-mela-ujjain",
+          "title": "MAHA KUMBH MELA UJJAIN",
+          "duration": "1 Nights / 2 Days",
+          "route": "Ujjain",
+          "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/06/Maha-Kumbh-Mela-1024x768.jpg",
+          "localImage": "/assets/images/india-tours/maha-kumbh-mela-ujjain.jpg",
+          "link": "/tours/maha-kumbh-mela-ujjain"
+        },
+        {
+          "id": "orchha-khajuraho-tour",
+          "title": "ORCHHA KHAJURAHO TOUR",
+          "duration": "4 Nights / 5 Days",
+          "route": "Jhansi - Orchha – Khajuraho",
+          "image": "https://delightfulindiaholidays.com/wp-content/uploads/2026/01/Taj-Mahal-With-Khajuraho-img-1024x684.jpg",
+          "localImage": "/assets/images/india-tours/orchha-khajuraho-tour.jpg",
+          "link": "/tours/orchha-khajuraho-tour"
+        },
+        {
+          "id": "taj-mahal-with-khajuraho",
+          "title": "TAJ MAHAL WITH KHAJURAHO",
+          "duration": "3 Nights / 4 Days",
+          "route": "Delhi – Agra – Khajuraho",
+          "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/India-for-Beginners-Taj-Mahal-1024x768.jpg",
+          "localImage": "/assets/images/india-tours/taj-mahal-with-khajuraho.jpg",
+          "link": "/tours/taj-mahal-with-khajuraho"
+        }
+      ]
+    },
+    {
+      "id": "east-india",
+      "title": "East India Tour Packages",
+      "highlight": "East India",
+      "packages": [
+        {
+          "id": "short-escape-to-sundarbans",
+          "title": "SHORT ESCAPE TO SUNDARBANS",
+          "duration": "2 Nights / 3 Days",
+          "route": "KOLKATA - SUNDARBANS NATIONAL PARK",
+          "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/delhi-to-agra-1024x504.jpg",
+          "localImage": "/assets/images/india-tours/short-escape-to-sundarbans.jpg",
+          "link": "/tours/short-escape-to-sundarbans"
+        },
+        {
+          "id": "sundarbans-luxury-cruise",
+          "title": "SUNDARBANS LUXURY CRUISE",
+          "duration": "4 Nights / 5 Days",
+          "route": "Kolkata – Namkhana – Sundarbans",
+          "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/fatehpur-sikri-agra-tourism-entry-fee-timings-holidays-reviews-header-1024x512.jpg",
+          "localImage": "/assets/images/india-tours/sundarbans-luxury-cruise.jpg",
+          "link": "/tours/sundarbans-luxury-cruise"
+        },
+        {
+          "id": "6-days-buddhist-tour-of-india",
+          "title": "6 DAYS BUDDHIST TOUR OF INDIA",
+          "duration": "5 Nights / 6 Days",
+          "route": "Bodhgaya – Rajgir – Nalanda – Patna – Vaishali - Kushinagar",
+          "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Ministry-of-Tourism-Govt-of-India-595161_Taj-Mahal-Uttar-Pradesh-Aerial_821631bb23140209ea99c8f810f75634-1024x704.jpg",
+          "localImage": "/assets/images/india-tours/6-days-buddhist-tour-of-india.jpg",
+          "link": "/tours/6-days-buddhist-tour-of-india"
+        }
+      ]
+    },
+    {
+      "id": "north-east",
+      "title": "North East Tour Packages",
+      "highlight": "North East",
+      "packages": [
+        {
+          "id": "exotic-darjeeling-tour",
+          "title": "EXOTIC DARJEELING TOUR",
+          "duration": "3 Nights / 4 Days",
+          "route": "Darjeeling",
+          "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/06/1602143272_guwahati3.avif",
+          "localImage": "/assets/images/india-tours/exotic-darjeeling-tour.avif",
+          "link": "/tours/exotic-darjeeling-tour"
+        },
+        {
+          "id": "delightful-meghalaya-tour",
+          "title": "DELIGHTFUL MEGHALAYA TOUR",
+          "duration": "5 Nights / 6 Days",
+          "route": "Guwahati – Shillong – Cherrapunji",
+          "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/06/1602143272_guwahati3.avif",
+          "localImage": "/assets/images/india-tours/delightful-meghalaya-tour.avif",
+          "link": "/tours/delightful-meghalaya-tour"
+        },
+        {
+          "id": "guwahati-shillong-tour",
+          "title": "GUWAHATI SHILLONG TOUR",
+          "duration": "4 Nights / 5 Days",
+          "route": "Guwahati – Shillong - Cherrapunji",
+          "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Ministry-of-Tourism-Govt-of-India-595161_Taj-Mahal-Uttar-Pradesh-Aerial_821631bb23140209ea99c8f810f75634-1024x704.jpg",
+          "localImage": "/assets/images/india-tours/guwahati-shillong-tour.jpg",
+          "link": "/tours/guwahati-shillong-tour"
+        }
+      ]
+    },
+    {
+      "id": "north-india",
+      "title": "North India Tour Packages",
+      "highlight": "North India",
+      "packages": [
+        {
+          "id": "allahabad-kumbha-mela-tour",
+          "title": "ALLAHABAD KUMBHA MELA TOUR",
+          "duration": "2 Nights / 3 Days",
+          "route": "Allahabad",
+          "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/06/Maha-Kumbh-Mela-1024x768.jpg",
+          "localImage": "/assets/images/india-tours/allahabad-kumbha-mela-tour.jpg",
+          "link": "/tours/allahabad-kumbha-mela-tour"
+        },
+        {
+          "id": "rafting-on-ganga-river",
+          "title": "RAFTING ON GANGA RIVER",
+          "duration": "2 Nights / 3 Days",
+          "route": "Delhi – Rishikesh – Beasghat – Kaudiyala - Rishikesh",
+          "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/one-day-delhi-to-haridwar-rishikesh-sightseeing-tour-package-private-cab-header-1024x683.jpg",
+          "localImage": "/assets/images/india-tours/rafting-on-ganga-river.jpg",
+          "link": "/tours/rafting-on-ganga-river"
+        },
+        {
+          "id": "haridwar-rishikesh-tour",
+          "title": "HARIDWAR RISHIKESH TOUR",
+          "duration": "3 Nights / 4 Days",
+          "route": "Delhi – Haridwar – Rishikesh",
+          "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/19a896cc2afebf00c83d79ff3f9007d0-rishikesh-1024x717.jpg",
+          "localImage": "/assets/images/india-tours/haridwar-rishikesh-tour.jpg",
+          "link": "/tours/haridwar-rishikesh-tour"
+        }
+      ]
+    },
+    {
+      "id": "south-india",
+      "title": "South India Tour Packages",
+      "highlight": "South India",
+      "packages": [
+        {
+          "id": "kovalam-tour",
+          "title": "KOVALAM TOUR",
+          "duration": "2 Nights / 3 Days",
+          "route": "Trivandrum – Kovalam",
+          "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/delhi-to-agra-1024x504.jpg",
+          "localImage": "/assets/images/india-tours/kovalam-tour.jpg",
+          "link": "/tours/kovalam-tour"
+        },
+        {
+          "id": "malabar-dreams",
+          "title": "MALABAR DREAMS",
+          "duration": "2 Nights / 3 Days",
+          "route": "Cochin",
+          "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/fatehpur-sikri-agra-tourism-entry-fee-timings-holidays-reviews-header-1024x512.jpg",
+          "localImage": "/assets/images/india-tours/malabar-dreams.jpg",
+          "link": "/tours/malabar-dreams"
+        },
+        {
+          "id": "mini-escape-to-poovar",
+          "title": "MINI ESCAPE TO POOVAR",
+          "duration": "2 Nights / 3 Days",
+          "route": "Trivandrum - Poovar - Cochin",
+          "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Ministry-of-Tourism-Govt-of-India-595161_Taj-Mahal-Uttar-Pradesh-Aerial_821631bb23140209ea99c8f810f75634-1024x704.jpg",
+          "localImage": "/assets/images/india-tours/mini-escape-to-poovar.jpg",
+          "link": "/tours/mini-escape-to-poovar"
+        }
+      ]
+    },
+    {
+      "id": "west-india",
+      "title": "West India Tour Packages",
+      "highlight": "West India",
+      "packages": [
+        {
+          "id": "splendors-of-gujrat-tour",
+          "title": "SPLENDORS OF GUJRAT TOUR",
+          "duration": "3 Nights / 4 Days",
+          "route": "Ahmedabad – Lothal – Patan – Modhera",
+          "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/delhi-to-agra-1024x504.jpg",
+          "localImage": "/assets/images/india-tours/splendors-of-gujrat-tour.jpg",
+          "link": "/tours/splendors-of-gujrat-tour"
+        },
+        {
+          "id": "maharashtra-jyutirling-tour-with-shirdi",
+          "title": "MAHARASHTRA JYUTIRLING TOUR WITH SHIRDI",
+          "duration": "4 Nights / 5 Days",
+          "route": "Mumbai – Bhimashankar – Shirdi – Shani Shingnapur – Aurangabad – Grishneshwar – Nasik – Trimbakeshwar",
+          "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/08/Gateway-monument-India-entrance-Mumbai-Harbour-coast-1024x683.webp",
+          "localImage": "/assets/images/india-tours/maharashtra-jyutirling-tour-with-shirdi.webp",
+          "link": "/tours/maharashtra-jyutirling-tour-with-shirdi"
+        },
+        {
+          "id": "goa-with-water-sports-tour",
+          "title": "GOA WITH WATER SPORTS TOUR",
+          "duration": "4 Nights / 5 Days",
+          "route": "Goa",
+          "image": "https://delightfulindiaholidays.com/wp-content/uploads/2024/06/Goa-overview-things-to-do-in-goa-1024x683.jpg",
+          "localImage": "/assets/images/india-tours/goa-with-water-sports-tour.jpg",
+          "link": "/tours/goa-with-water-sports-tour"
+        }
+      ]
+    }
+  ]
+}
