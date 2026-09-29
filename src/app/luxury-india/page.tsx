@@ -1,1 +1,1 @@
-export { default } from "../luxury-tour-packages/page";
+export { default, metadata } from "../luxury-tour-packages/page";
