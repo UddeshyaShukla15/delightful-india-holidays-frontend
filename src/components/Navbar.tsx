@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { usePathname } from "next/navigation";
@@ -13,8 +13,20 @@ interface NavbarProps {
 
 export default function Navbar({ onOpenEnquiry }: NavbarProps) {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [mobileToursOpen, setMobileToursOpen] = useState(true);
   const [activeDropdown, setActiveDropdown] = useState<string | null>(null);
+  const toursDropdownRef = useRef<HTMLDivElement>(null);
   const pathname = usePathname();
+
+  useEffect(() => {
+    const handleClickOutside = (event: MouseEvent) => {
+      if (toursDropdownRef.current && !toursDropdownRef.current.contains(event.target as Node)) {
+        setActiveDropdown((prev) => (prev === "tours" ? null : prev));
+      }
+    };
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => document.removeEventListener("mousedown", handleClickOutside);
+  }, []);
 
   const closeMobileMenu = () => {
     setMobileMenuOpen(false);
@@ -156,14 +168,19 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
 
             {/* 3. Tours */}
             <div
+              ref={toursDropdownRef}
               className="relative group"
               onMouseEnter={() => setActiveDropdown("tours")}
               onMouseLeave={() => setActiveDropdown(null)}
             >
-              <Link
-                href="/tours"
-                className={`flex items-center gap-1.5 text-base font-bold py-2 transition-colors ${
-                  pathname === "/tours" ||
+              <button
+                type="button"
+                onClick={(e) => {
+                  e.preventDefault();
+                  setActiveDropdown(activeDropdown === "tours" ? null : "tours");
+                }}
+                className={`flex items-center gap-1.5 text-base font-bold py-2 transition-colors cursor-pointer ${
+                  activeDropdown === "tours" ||
                   pathname === "/golden-triangle-tours" ||
                   pathname === "/rajasthan-tours" ||
                   pathname === "/india-tour-packages"
@@ -172,24 +189,47 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
                 }`}
               >
                 <span>Tours</span>
-                <ChevronDown className="h-4 w-4 transition-transform duration-200 group-hover:rotate-180 text-gray-500 group-hover:text-[#E78031]" />
-              </Link>
-              <div className="absolute top-full left-0 w-60 bg-white shadow-xl rounded-b-xl border border-gray-100 py-1.5 hidden group-hover:block transition-all animate-in fade-in slide-in-from-top-1 z-50">
+                <ChevronDown
+                  className={`h-4 w-4 transition-transform duration-200 text-gray-500 group-hover:text-[#E78031] ${
+                    activeDropdown === "tours" ? "rotate-180 text-[#E78031]" : "group-hover:rotate-180"
+                  }`}
+                />
+              </button>
+              <div
+                className={`absolute top-full left-0 w-60 bg-white shadow-xl rounded-b-xl border border-gray-100 py-1.5 transition-all animate-in fade-in slide-in-from-top-1 z-50 ${
+                  activeDropdown === "tours" ? "block" : "hidden group-hover:block"
+                }`}
+              >
                 <Link
                   href="/golden-triangle-tours"
-                  className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
+                  onClick={() => setActiveDropdown(null)}
+                  className={`block px-4 py-2.5 text-sm font-normal transition-colors ${
+                    pathname === "/golden-triangle-tours"
+                      ? "bg-[#E78031] text-white"
+                      : "text-gray-800 hover:bg-[#E78031] hover:text-white"
+                  }`}
                 >
                   Golden Triangle Tours
                 </Link>
                 <Link
                   href="/rajasthan-tours"
-                  className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
+                  onClick={() => setActiveDropdown(null)}
+                  className={`block px-4 py-2.5 text-sm font-normal transition-colors ${
+                    pathname === "/rajasthan-tours"
+                      ? "bg-[#E78031] text-white"
+                      : "text-gray-800 hover:bg-[#E78031] hover:text-white"
+                  }`}
                 >
                   Rajasthan Tours
                 </Link>
                 <Link
                   href="/india-tour-packages"
-                  className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
+                  onClick={() => setActiveDropdown(null)}
+                  className={`block px-4 py-2.5 text-sm font-normal transition-colors ${
+                    pathname === "/india-tour-packages"
+                      ? "bg-[#E78031] text-white"
+                      : "text-gray-800 hover:bg-[#E78031] hover:text-white"
+                  }`}
                 >
                   India Tours
                 </Link>
@@ -348,36 +388,65 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
               Udaipur Tours
             </Link>
           </div>
-          <Link
-            href="/tours"
-            onClick={closeMobileMenu}
-            className="block rounded-lg px-3 py-2 text-base font-bold text-gray-900 hover:bg-gray-50"
+          <button
+            type="button"
+            onClick={() => setMobileToursOpen(!mobileToursOpen)}
+            className="w-full flex items-center justify-between rounded-lg px-3 py-2 text-base font-bold text-gray-900 hover:bg-gray-50 text-left"
           >
-            Tours
-          </Link>
-          <div className="pl-4 space-y-1">
-            <Link
-              href="/golden-triangle-tours"
-              onClick={closeMobileMenu}
-              className="block rounded-lg px-3 py-1.5 text-sm font-medium text-gray-600 hover:bg-gray-50 hover:text-[#E78031]"
+            <span
+              className={
+                pathname === "/golden-triangle-tours" ||
+                pathname === "/rajasthan-tours" ||
+                pathname === "/india-tour-packages"
+                  ? "text-[#E78031]"
+                  : ""
+              }
             >
-              Golden Triangle Tours
-            </Link>
-            <Link
-              href="/rajasthan-tours"
-              onClick={closeMobileMenu}
-              className="block rounded-lg px-3 py-1.5 text-sm font-medium text-gray-600 hover:bg-gray-50 hover:text-[#E78031]"
-            >
-              Rajasthan Tours
-            </Link>
-            <Link
-              href="/india-tour-packages"
-              onClick={closeMobileMenu}
-              className="block rounded-lg px-3 py-1.5 text-sm font-medium text-gray-600 hover:bg-gray-50 hover:text-[#E78031]"
-            >
-              India Tours
-            </Link>
-          </div>
+              Tours
+            </span>
+            <ChevronDown
+              className={`h-4 w-4 transition-transform duration-200 text-gray-500 ${
+                mobileToursOpen ? "rotate-180 text-[#E78031]" : ""
+              }`}
+            />
+          </button>
+          {mobileToursOpen && (
+            <div className="pl-4 space-y-1">
+              <Link
+                href="/golden-triangle-tours"
+                onClick={closeMobileMenu}
+                className={`block rounded-lg px-3 py-1.5 text-sm font-medium ${
+                  pathname === "/golden-triangle-tours"
+                    ? "text-[#E78031] font-bold"
+                    : "text-gray-600 hover:bg-gray-50 hover:text-[#E78031]"
+                }`}
+              >
+                Golden Triangle Tours
+              </Link>
+              <Link
+                href="/rajasthan-tours"
+                onClick={closeMobileMenu}
+                className={`block rounded-lg px-3 py-1.5 text-sm font-medium ${
+                  pathname === "/rajasthan-tours"
+                    ? "text-[#E78031] font-bold"
+                    : "text-gray-600 hover:bg-gray-50 hover:text-[#E78031]"
+                }`}
+              >
+                Rajasthan Tours
+              </Link>
+              <Link
+                href="/india-tour-packages"
+                onClick={closeMobileMenu}
+                className={`block rounded-lg px-3 py-1.5 text-sm font-medium ${
+                  pathname === "/india-tour-packages"
+                    ? "text-[#E78031] font-bold"
+                    : "text-gray-600 hover:bg-gray-50 hover:text-[#E78031]"
+                }`}
+              >
+                India Tours
+              </Link>
+            </div>
+          )}
           <Link
             href="/luxury-tour-packages"
             onClick={closeMobileMenu}
