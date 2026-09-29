@@ -11,21 +11,21 @@ export default function BlogSection() {
       title: "Shopping in Agra: The Only Guide You Need for Handicrafts, Marble, and Textiles",
       badge: "Travel Guide",
       image: "/assets/images/jaipur-shop-768x367.jpg",
-      link: "/blog",
+      link: "/blogs/shopping-in-agra",
     },
     {
       id: "international-yoga-festival-rishikesh",
       title: "International Yoga Festival Rishikesh 2027: Dates, Venue, Passes & Guide",
       badge: "Rajasthan Festival",
       image: "/assets/images/international-yoga-festival-768x512.webp",
-      link: "/blog",
+      link: "/blogs/international-yoga-festival-rishikesh",
     },
     {
       id: "hemis-festival-ladakh",
       title: "Hemis Festival Ladakh 2026: Dates, History, Celebrations & Travel Guide",
       badge: "Ladakh Festival",
       image: "/assets/images/hemis-festival-768x397.webp",
-      link: "/blog",
+      link: "/blogs/hemis-festival",
     },
   ];
 

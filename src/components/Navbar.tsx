@@ -59,7 +59,7 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
               <Link
                 href="/"
                 className={`flex items-center gap-1.5 text-base font-bold py-2 transition-colors ${
-                  pathname === "/" || pathname === "/about" || pathname === "/how-we-work"
+                  pathname === "/" || pathname === "/about" || pathname === "/how-we-work" || pathname === "/blogs" || pathname === "/blog"
                     ? "text-[#E78031]"
                     : "text-gray-900 hover:text-[#E78031]"
                 }`}
@@ -85,10 +85,14 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
                   How We Work
                 </Link>
                 <Link
-                  href="/#blog"
-                  className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
+                  href="/blogs"
+                  className={`block px-4 py-2.5 text-sm font-normal transition-colors ${
+                    pathname === "/blogs" || pathname === "/blog"
+                      ? "bg-[#E78031] text-white"
+                      : "text-gray-800 hover:bg-[#E78031] hover:text-white"
+                  }`}
                 >
-                  Blog
+                  Blogs
                 </Link>
               </div>
             </div>
@@ -282,11 +286,15 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
               How We Work
             </Link>
             <Link
-              href="/#blog"
+              href="/blogs"
               onClick={closeMobileMenu}
-              className="block rounded-lg px-3 py-1.5 text-sm font-medium text-gray-600 hover:bg-gray-50 hover:text-[#E78031]"
+              className={`block rounded-lg px-3 py-1.5 text-sm font-medium ${
+                pathname === "/blogs" || pathname === "/blog"
+                  ? "text-[#E78031] font-bold"
+                  : "text-gray-600 hover:bg-gray-50 hover:text-[#E78031]"
+              }`}
             >
-              Blog
+              Blogs
             </Link>
           </div>
           <Link
