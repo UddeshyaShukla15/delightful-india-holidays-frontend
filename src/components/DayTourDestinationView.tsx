@@ -1313,8 +1313,201 @@ export default function DayTourDestinationView({ data }: DayTourDestinationViewP
             </div>
           )}
         </div>
+      ) : data.id === "udaipur" ? (
+        /* ======================== UDAIPUR EXACT SECTIONS ======================== */
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12 text-gray-800">
+          {/* Udaipur Tour Packages – Explore the City of Lakes & About Udaipur */}
+          <div>
+            <h2 className="text-3xl sm:text-4xl font-serif text-[#192a3d] font-bold mb-4">
+              Udaipur Tour Packages – Explore the City of Lakes
+            </h2>
+            <h3 className="text-2xl sm:text-3xl font-serif text-[#192a3d] font-bold mb-5">
+              About Udaipur
+            </h3>
+            <div className="space-y-4 text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+              <p>
+                Known as the “City of Lakes,” Udaipur is one of the most beautiful destinations in Rajasthan and a favorite choice for travelers seeking heritage, romance, and luxury. Surrounded by the scenic Aravalli Hills, the city is famous for its magnificent palaces, serene lakes, colorful bazaars, and rich Rajput culture. Whether you are planning a romantic getaway, family vacation, cultural exploration, or luxury holiday, our carefully designed Udaipur Tour Packages offer unforgettable experiences.
+              </p>
+              <p>
+                From a relaxing Udaipur Lake Tour on Lake Pichola to exploring royal palaces and historic temples, Udaipur offers something for every traveler. We provide customized Udaipur Holiday Packages, Udaipur Travel Packages, Udaipur Family Tour Packages, and Udaipur Honeymoon Tour Packages to suit different budgets and travel styles.
+              </p>
+              <p>
+                Choose from a Udaipur Tour Package 2 Days, Udaipur Tour Package 3 Days, or a complete Udaipur Tour Package from Delhi for a memorable Rajasthan holiday. As a trusted Travel Agency in Udaipur and experienced Tour Operator in Udaipur, we also offer Car Hire in Udaipur, Cab Hire in Udaipur, Taxi Hire in Udaipur, and professional guide services.
+              </p>
+            </div>
+          </div>
+
+          {/* Best Attractions in Udaipur */}
+          <div>
+            <h2 className="text-2xl sm:text-3xl font-serif text-[#192a3d] font-bold mb-6">
+              Best Attractions in Udaipur
+            </h2>
+            <div className="space-y-6">
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">City Palace</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  The largest palace complex in Rajasthan, City Palace showcases stunning architecture, royal courtyards, museums, and panoramic views of Lake Pichola.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Lake Pichola</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  A beautiful artificial lake famous for boat rides, sunset views, and iconic landmarks like Jag Mandir and Lake Palace.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Jag Mandir</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  A historic island palace located on Lake Pichola, known for its impressive architecture and tranquil surroundings.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Fateh Sagar Lake</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  One of the most popular Udaipur Tourist Attractions, offering boating experiences and scenic views.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Saheliyon Ki Bari</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  A beautiful garden featuring fountains, marble pavilions, and lotus pools built for royal ladies.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Sajjangarh Monsoon Palace</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  Perched atop a hill, this palace offers breathtaking views of Udaipur city, lakes, and sunsets.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Jagdish Temple</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  A magnificent Hindu temple known for its intricate carvings and spiritual significance.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Bagore Ki Haveli</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  A historic haveli showcasing traditional Rajasthani culture, folk performances, and heritage exhibits.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Eklingji Temple</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  A famous temple complex located near Udaipur and an important pilgrimage site.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-xl font-serif font-bold text-gray-900 mb-2">Shilpgram</h3>
+                <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+                  A rural arts and crafts village where visitors can experience local culture, handicrafts, and traditional performances.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          {/* Popular Things to Do in Udaipur */}
+          <div>
+            <h2 className="text-2xl sm:text-3xl font-serif text-[#192a3d] font-bold mb-6">
+              Popular Things to Do in Udaipur
+            </h2>
+            <ul className="list-disc pl-6 space-y-2.5 text-base sm:text-lg text-gray-800 font-light">
+              <li>Enjoy a scenic Udaipur Sightseeing Tour covering major attractions.</li>
+              <li>Experience a sunset boat ride during your Udaipur Lake Tour.</li>
+              <li>Explore heritage sites through a Walking Tour in Udaipur.</li>
+              <li>Discover local flavors with a guided Food Tour in Udaipur.</li>
+              <li>Take a romantic boat cruise as part of a Udaipur Honeymoon Package.</li>
+              <li>Visit colorful local markets for handicrafts and souvenirs.</li>
+              <li>Enjoy a traditional Rajasthani cultural show at Bagore Ki Haveli.</li>
+              <li>Book a Guided Tour in Udaipur to learn about the city’s royal history.</li>
+              <li>Explore hidden streets with a Udaipur Sightseeing Tour by TukTuk.</li>
+              <li>Hire a local expert through our Guide Hire in Udaipur service.</li>
+              <li>Visit nearby attractions with Private Car Hire in Udaipur.</li>
+              <li>Enjoy convenient transportation through One Way Cab Service in Udaipur and One Way Taxi Service in Udaipur.</li>
+            </ul>
+          </div>
+
+          {/* Best Places to Visit in Udaipur */}
+          <div>
+            <h2 className="text-2xl sm:text-3xl font-serif text-[#192a3d] font-bold mb-4">
+              Best Places to Visit in Udaipur
+            </h2>
+            <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light mb-5">
+              When planning your Udaipur Itinerary, include these must-visit destinations:
+            </p>
+            <ul className="list-disc pl-6 space-y-2 text-base sm:text-lg text-gray-800 font-light mb-5">
+              <li>City Palace</li>
+              <li>Lake Pichola</li>
+              <li>Fateh Sagar Lake</li>
+              <li>Jag Mandir</li>
+              <li>Jagdish Temple</li>
+              <li>Saheliyon Ki Bari</li>
+              <li>Sajjangarh Monsoon Palace</li>
+              <li>Bagore Ki Haveli</li>
+              <li>Shilpgram</li>
+              <li>Eklingji Temple</li>
+              <li>Karni Mata Temple</li>
+              <li>Doodh Talai</li>
+              <li>Vintage Car Museum</li>
+              <li>Rajsamand Lake</li>
+              <li>Nathdwara Temple</li>
+            </ul>
+            <p className="text-base sm:text-lg text-gray-700 leading-relaxed font-light">
+              These attractions make Udaipur one of the most popular destinations for a Udaipur Family Tour, Udaipur Romantic Tour, and Udaipur Luxury Tour Package.
+            </p>
+          </div>
+
+          {/* FAQs Accordion - Matches the user's attached screenshot without language icon */}
+          {data.faqs && data.faqs.length > 0 && (
+            <div className="pt-4 border-t border-gray-200">
+              <h2 className="text-2xl sm:text-3xl font-serif text-[#192a3d] font-bold mb-6">
+                FAQs
+              </h2>
+
+              <div className="space-y-2">
+                {data.faqs.map((faq, idx) => {
+                  const isOpen = openFaqIndex === idx;
+                  return (
+                    <div
+                      key={idx}
+                      className="border border-[#e5e7eb] rounded bg-white overflow-hidden transition-all shadow-none"
+                    >
+                      <button
+                        type="button"
+                        onClick={() => toggleFaq(idx)}
+                        className="w-full px-5 py-3.5 sm:py-4 text-left flex items-center justify-between gap-4 hover:bg-gray-50/70 transition-colors cursor-pointer"
+                        aria-expanded={isOpen}
+                      >
+                        <span className="font-semibold text-gray-900 text-sm sm:text-base leading-snug">
+                          {faq.q}
+                        </span>
+                        <span className="flex-shrink-0 text-xl font-bold text-gray-800 w-5 text-center select-none">
+                          {isOpen ? "−" : "+"}
+                        </span>
+                      </button>
+                      {isOpen && (
+                        <div className="px-5 pb-4 pt-1 text-sm sm:text-base text-gray-700 font-light leading-relaxed border-t border-gray-100 bg-gray-50/30">
+                          {faq.a}
+                        </div>
+                      )}
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+          )}
+        </div>
       ) : (
-        /* Other 2 destinations */
+        /* Fallback for any other destination */
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12 text-gray-800">
           <div>
             <h2 className="text-3xl sm:text-4xl font-serif text-[#192a3d] font-bold mb-6">
