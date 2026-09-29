@@ -59,7 +59,7 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
               <Link
                 href="/"
                 className={`flex items-center gap-1.5 text-base font-bold py-2 transition-colors ${
-                  pathname === "/" ? "text-[#E78031]" : "text-gray-900 hover:text-[#E78031]"
+                  pathname === "/" || pathname === "/about" ? "text-[#E78031]" : "text-gray-900 hover:text-[#E78031]"
                 }`}
               >
                 <span>Home</span>
@@ -68,7 +68,9 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
               <div className="absolute top-full left-0 w-52 bg-white shadow-xl rounded-b-xl border border-gray-100 py-1.5 hidden group-hover:block transition-all animate-in fade-in slide-in-from-top-1 z-50">
                 <Link
                   href="/about"
-                  className="block px-4 py-2.5 text-sm font-normal text-gray-800 hover:bg-[#E78031] hover:text-white transition-colors"
+                  className={`block px-4 py-2.5 text-sm font-normal transition-colors ${
+                    pathname === "/about" ? "bg-[#E78031] text-white" : "text-gray-800 hover:bg-[#E78031] hover:text-white"
+                  }`}
                 >
                   About Us
                 </Link>
@@ -250,10 +252,37 @@ export default function Navbar({ onOpenEnquiry }: NavbarProps) {
           <Link
             href="/"
             onClick={closeMobileMenu}
-            className="block rounded-lg px-3 py-2 text-base font-bold text-gray-900 hover:bg-gray-50"
+            className={`block rounded-lg px-3 py-2 text-base font-bold ${
+              pathname === "/" ? "text-[#E78031]" : "text-gray-900 hover:bg-gray-50"
+            }`}
           >
             Home
           </Link>
+          <div className="pl-4 space-y-1 pb-1">
+            <Link
+              href="/about"
+              onClick={closeMobileMenu}
+              className={`block rounded-lg px-3 py-1.5 text-sm font-medium ${
+                pathname === "/about" ? "text-[#E78031] font-bold" : "text-gray-600 hover:bg-gray-50 hover:text-[#E78031]"
+              }`}
+            >
+              About Us
+            </Link>
+            <Link
+              href="/contact"
+              onClick={closeMobileMenu}
+              className="block rounded-lg px-3 py-1.5 text-sm font-medium text-gray-600 hover:bg-gray-50 hover:text-[#E78031]"
+            >
+              How We Work
+            </Link>
+            <Link
+              href="/#blog"
+              onClick={closeMobileMenu}
+              className="block rounded-lg px-3 py-1.5 text-sm font-medium text-gray-600 hover:bg-gray-50 hover:text-[#E78031]"
+            >
+              Blog
+            </Link>
+          </div>
           <Link
             href="/india-day-tours"
             onClick={closeMobileMenu}
